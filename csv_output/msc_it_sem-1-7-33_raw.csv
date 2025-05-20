@@ -1,0 +1,691 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+7,text,SRKI
+8,text,SRKI
+9,text,SRKI
+10,text,SRKI
+11,text,SRKI
+12,text,SRKI
+13,text,SRKI
+14,text,SRKI
+15,text,SRKI
+16,text,SRKI
+17,text,SRKI
+18,text,SRKI
+19,text,SRKI
+20,text,SRKI
+21,text,SRKI
+22,text,SRKI
+23,text,SRKI
+24,text,SRKI
+25,text,SRKI
+26,text,SRKI
+27,text,SRKI
+1,table,"           Course Code                                                              Unnamed: 0
+          Course Title                                            Fundamentals of Data Science
+                Credit                                                                       4
+     Teaching per Week                                                                   4 Hrs
+     Minimum weeks per      15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                     NaN
+Last Review / Revision                                                                       -
+     Purpose of Course   The purpose of the course is to make students capable of implementing
+                   NaN                        Concepts ,methods and to related to data science
+      Course Objective                            To learn about fundamentals of data science
+                   NaN         To study various case studies of and implementation about data
+                   NaN                                                               science .
+          Pr-requisite Only those Students who have completed any one of the following courses
+                   NaN                               Python Programming /Basics of Data Mining
+       Course Out come After completion of this course, the student will be capable to develop
+                   NaN     models and implement predictive analytics on social media platforms
+        Course Content                  Unit 1 Introduction to Data Science and Data-Analytics
+                   NaN                          1.1 Problems, Data Opportunities and Solutions
+                   NaN          1.2 Data Science, Engineering, and Data-Driven Decision Making
+                   NaN                                      1.3 Data Processing and “Big Data”
+                   NaN                                              1.4 Data-Analytic Thinking
+                   NaN                                        1.5 Data Mining and Data Science
+                   NaN                                1.6 Overview of the data science process
+                   NaN                        1.7 Business Perspective of Data Science Project
+                   NaN                                             Unit 2 Data in Data Science
+                   NaN                                               2.1 Defining Data Science
+                   NaN                                                      2.2 Facets of Data
+                   NaN                                                  2.2.1. Structured data
+                   NaN                                                2.2.2. Unstructured data
+                   NaN                                                 2.2.3. Natural language
+                   NaN                                           2.2.4. Machine-generated data
+                   NaN                                      2.2.5. Graph-based or network data
+                   NaN                                          2.2.6. Audio, image, and video
+                   NaN                                                  2.3 Understanding Data
+                   NaN                                             2.3.1 Types of Data Sources
+                   NaN                                                     2.3.2 Data Sampling
+                   NaN                                            2.3.3 Types of Data Elements
+                   NaN                                               2.3.4 Data quality checks
+                   NaN                                                  Unit 3 Data Extraction
+                   NaN                                              3.1 Working with real data
+                   NaN                                             3.3.1Reading from text file
+                   NaN                                             3.3.2 Reading from CSV file
+                   NaN                                3.3.3 Reading from Excel and Other Files
+                   NaN                                      3.3.4 Third Party Data Integration"
+2,table,"        Unnamed: 0                                                Unit 4 Data Pre-processing
+               NaN        4. 1 Cleansing, integrating, and transforming data, Cleansing data
+               NaN                       4.2 Missing values, outlier detection and treatment
+               NaN                            4.3 Combining data from different data sources
+               NaN                                                    4.4. Transforming data
+               NaN                                                     Unit 5 Data Modelling
+               NaN               5.1 Overview of Descriptive and Predictive Analytics Models
+               NaN                                      5.1.1 Linear and Logistic Regression
+               NaN                                                      5.1.2 Decision Trees
+               NaN                                              5.1.3 Support Vector Machine
+               NaN                                                   Association Rule Mining
+               NaN                                                     5.2. Build the models
+               NaN                                       5.2.1. Model and variable selection
+               NaN                                                    5.2.3. Model execution
+               NaN                                                      5.3 Model Evaluation
+               NaN                                    5.4 Converting model into applications
+               NaN                                          Unit 6 Exploratory Data Analysis
+               NaN                      6.1 Defining Descriptive Statistics for Numeric Data
+               NaN                                            6.2 Analyzing Categorical Data
+               NaN                                                  6.3 Co-relation Analysis
+               NaN                                           6.4 Modifying Data Distribution
+               NaN                                   Unit 7 Data Visualization and Analytics
+               NaN                                       7.1 Application of Visual Analytics
+               NaN                                                  7.2 Understanding graphs
+               NaN                                                           7.2.1 Heat Maps
+               NaN                                                   7.2.2 Time Series Plots
+               NaN                                                           7.2.3 Box Plots
+               NaN                                                      7.2.4 Network Graphs
+               NaN                                                7.2.5 Spatial Data Mapping
+               NaN                                       Unit 8 Application and Case Studies
+               NaN                     8.1 Applications for machine learning in data science
+               NaN                   8.2 Introduction to Predictive Analytics and case study
+               NaN                  8.3 Introduction to Descriptive Analytics and case study
+               NaN                               8.4 Social Network Analytics and case study
+               NaN                          8.5 Introduction to Web Analytics and case study
+Text and Reference 1. Introducing Data Science - Big data, machine learning, and more, using
+        Literature                                                              Python tools
+               NaN       2. Analytics in a Big Data World - Bart Baesens, Wiley Publications
+               NaN   3. Python Data Science FOR Dummies - John Paul Mueller, Luca Massaron -"
+3,table,"          Unnamed: 0                                                                                                                                                                                   Wiley Publication
+                 NaN                                                                                                                                        4. Davy Cielen, Arno D. B. Meysman, and Mohamed Ali, Manning
+                 NaN                                                                                                                                                                                         Publication
+                 NaN                                             5. Data Science for Business, Tom Fawcett, Foster Provost , O’relly\rPublication\r6. Python Data Science Handbook, Jake VanderPlas, O’relly Publication
+                 NaN                                                                                                                                 5. Data Science for Business, Tom Fawcett, Foster Provost , O’relly
+                 NaN                                                                                                                                                                                         Publication
+Teaching Methodology                                                                                                                                              Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,\rquiz, assignment, seminar, internal examination etc.\r30% assessment is based on end semester written examination"
+4,table,"      Course Code                                                                  Unnamed: 0
+     Course Title                                                          Web Programming -1
+           Credit                                                                           4
+Teaching per Week                                                                       4 Hrs
+Minimum weeks per          15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                         NaN
+    Last Review /                                                                         NaN
+         Revision                                                                         NaN
+Purpose of Course         The purpose of the course is to make students capable of developing
+              NaN          professional web applications using latest tools and technologies.
+ Course Objective     To provide an in-depth knowledge of most recent server side programming
+              NaN                                                                 technology.
+     Pr-requisite               Basic understanding of Web, HTTP, HTML, JavaScript, Basic Web
+              NaN                                                               Programming .
+  Course Out come After completion of this course, the student will be capable of developing.
+   Course Content                                    Unit 1 Web technologies - Basic Concepts
+              NaN                                            1.1 Client – Server Architecture
+              NaN                                               1.2 Manage Cross-page posting
+              NaN                                      1.3 Web Page State Management Concepts
+              NaN                                                               1.3.1 Session
+              NaN                                                          1.3.2 Query String
+              NaN                                                                1.3.3 Cookie
+              NaN                                                     Unit 2 MVC Architecture
+              NaN                                           2.1 Introduction to MVC Framework
+              NaN                                                    2.2 Building an MVC page
+              NaN                                                        2.3 Web Page Routing
+              NaN                                             2.4 Controller, Model, and View
+              NaN                                                2.5 Data Access and Modeling
+              NaN                                                   2.6 CRUD operation in MVC
+              NaN                                            2.7 Entity framework – ORM model
+              NaN                                                    Unit 3 Database Concepts
+              NaN                                          3.1 Working with external Database
+              NaN                                                    3.2 Introduction to LINQ
+              NaN                                                       3.3 Lambda Expression
+              NaN                                                        3.4 Query Expression
+              NaN                                                   3.5 Data Access with LINQ
+              NaN                                                  3.5.1 Introduction of LINQ
+              NaN                                                       3.5.2 LINQ to Dataset
+              NaN                                                           3.5.3 LINQ to SQL
+              NaN                                             Unit 4 Web Application Security
+              NaN                                                          4.1 Authentication
+              NaN                                                  4.1.1 Forms Authentication"
+5,table,"Unnamed: 0                                             4.1.2 Windows Authentication
+       NaN                                                        4.2 Authorization
+       NaN                                                  4.3 Role-Based Security
+       NaN                                                        4.4 SQL injection
+       NaN                                              Unit 5: Working with E-mail
+       NaN                                                         5.1 Introduction
+       NaN                                                     5.2 SmtpClient Class
+       NaN                                        5.2.1 SmtpClient Class properties
+       NaN                                                    5.3 MailMessage Class
+       NaN                                                     5.4 Attachment Class
+       NaN                                                     Unit 6: Web Services
+       NaN                                                6.1 Basic of Web Services
+       NaN                                  6.2 Discovering Web Services Using UDDI
+       NaN                                               6.3 Creating a Web Service
+       NaN                                                6.4 Web Service Consumers
+       NaN                          6.5 Web Service using RESTful, Web Service SOAP
+       NaN                                             Unit 7: Working with Web API
+       NaN                                              7.1 Introduction to Web API
+       NaN                                                   7.2 Web API Controller
+       NaN                                                      7.3 Web API Routing
+       NaN                                        7.4 Implementing Http Get Request
+       NaN                                        7.5 Implementing Http Put Request
+       NaN                                       7.6 Implementing Http Post Request
+       NaN                                     7.7 Implementing Http Delete Request
+       NaN                                                Unit 8: CICD using Github
+       NaN                                   8.1 Overview of Continuous integration
+       NaN                                                       8.2 Github Actions
+       NaN                                             8.3 Github Action Components
+       NaN                                                     8.3.1 Workflow files
+       NaN                                         8.3.2 CI with workflow templates
+       NaN                                               8.3.3 Viewing job activity
+References                1. Professional ASP.NET MVC 5 by Jon Galloway, Wrox, 2014
+       NaN                    2. Pro ASP.NET MVC 5 Platform by Adam Freeman, Apress
+       NaN 3. Professional C# 7 and .NET Core 2.0 by Christian Nagel, Wrox / Wiley,
+       NaN                                                                     2018
+       NaN         4. C# 7 and .NET Core Cookbook by Dirk Strauss, O'Reilly / Packt
+       NaN                                                 Publishing Limited, 2017
+       NaN    5. Learning ASP.NET Core 2.0 by Jason De Oliveira and Michel Bruchet,
+       NaN                                               Packt Publishing Ltd, 2017
+       NaN         6. Mastering ASP.NET Core 2.0 by Ricardo Peres, Packt Publishing
+       NaN                                                            Limited, 2017
+       NaN        7. Black Book “Java server programming” J2EE, 1st ed., Dream Tech"
+6,table,"       Unnamed: 0                                                                       Unnamed: 1                              Publishers, 2008. 3. Kathy walrath”
+              NaN                                                                               8.        Complete Reference J2EE by James Keogh mcgraw publication
+              NaN                                                                               9. Professional Java Server Programming by Subrahmanyam Allamaraju,
+              NaN                                                                              NaN                                   Cedric Buest Wiley Publication
+              NaN            10. Core Java, Volume II: Advanced Features by Cay Horstmann and Gary                                                              NaN
+              NaN                                                                              NaN                                      Cornell Pearson Publication
+              NaN               11. Java Persistence with Hibernate by Christian Bauer, Gavin King                                                              NaN
+              NaN              12. Spring in Action 3rd edition , Craig walls, Manning Publication                                                              NaN
+              NaN         13. Hibernate 2nd edition, Jeff Linwood and Dave Minter, Beginning Après                                                              NaN
+              NaN                                                                              NaN                                                      publication
+              NaN               14. Java Server Faces in Action, Kito D. Mann, Manning Publication                                                              NaN
+              NaN          15. BCTM API Tutorial and Reference, Third Edition, Maydene Fisher, Jon                                                              NaN
+              NaN                                                                              NaN                            Ellis, Jonathan Bruce, Addison Wesley
+              NaN                          16. Beginning JSP, JSF andTomcat, Giulio Zambon, Apress                                                              NaN
+         Teaching                           Discussion, Independent Study, Seminars and Assignment                                                              NaN
+      Methodology                                                                              NaN                                                              NaN
+Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,                                                              NaN
+              NaN                             quiz, assignment, seminar, internal examination etc.                                                              NaN
+              NaN                      30% assessment is based on end semester written examination                                                              NaN"
+7,table,"      Course Code                                                                    Unnamed: 0
+     Course Title                                                Advanced Database Technologies
+           Credit                                                                             4
+Teaching per Week                                                                         4 Hrs
+Minimum weeks per            15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                           NaN
+    Last Review /                                                                           NaN
+         Revision                                                                           NaN
+Purpose of Course         The purpose of course is to make students use the four types of NoSQL
+              NaN             Databases (Document-oriented, KeyValue Pairs, Column-oriented and
+              NaN                                                                       Graph).
+ Course Objective         To provide Fundamental knowledge of the detailed architecture, define
+              NaN          objects, load data, query data and performance tune NoSQL databases.
+     Pr-requisite                                     Basic understanding of Database Concepts.
+  Course Out come After completing this course, a learner will be able to identify what type of
+              NaN          NoSQL database to implement based on business requirements, can able
+              NaN                to apply NoSQL data modeling from application specific queries
+   Course Content                                                       Unit 1: Database Basics
+              NaN                                                  1.1 Type of Database Systems
+              NaN                                              1.1.1 Relational Database Design
+              NaN                                                  1.1.2 E-commerce Application
+              NaN                                       1.1.3 Early Database Management Systems
+              NaN                                       1.1.4 Flat File Data Management Systems
+              NaN                       1.1.5 Organization of Flat File Data Management Systems
+              NaN                                         1.1.6 Hierarchical Data Model Systems
+              NaN                                            Unit 2: Variety of NoSQL Databases
+              NaN                                2.1 Data Management with Distributed Databases
+              NaN           2.2 Store Data Persistently, Maintain Data Consistency, Ensure Data
+              NaN                                                                  Availability
+              NaN                     2.3 Balancing Response Times, Consistency, and Durability
+              NaN                  Consistency, Availability, and Partitioning: The CAP Theorem
+              NaN                                                             2.4 ACID and BASE
+              NaN                 2.4.1 ACID: Atomicity, Consistency, Isolation, and Durability
+              NaN            2.4.2 BASE: Basically Available, Soft State, Eventually Consistent
+              NaN                                              Unit 3: Types of NoSQL Databases
+              NaN                                                   3.1 Key-Value Pair Database
+              NaN                                                         3.2 Document Database
+              NaN                                                   3.3 Column Family Databases
+              NaN                                                           3.4 Graph Databases
+              NaN                                                      3.5 Time-series Database
+              NaN                                                               Unit 4: MongoDB
+              NaN                                                   4.1 The Document Data Model
+              NaN                                                 4.2 Documents and Collections"
+8,table,"    Unnamed: 0                                                        4.3 Mongo Shell
+           NaN                                              Unit 5: MongoDB Databases
+           NaN                                    5.1 Working Database – create, drop
+           NaN                            5.2 Working with collections – create, drop
+           NaN             5.3 Working with Document – Adding batch of document, find
+           NaN              document, modify document, find selected fields, removing
+           NaN                                                               document
+           NaN                                                           5.4 Indexing
+           NaN                                                  5.5 Writing to Shards
+           NaN                                           5.6 MongoDB as a File System
+           NaN                                                      Unit 6: Cassandra
+           NaN                                       6.1 The Column-Family Data Model
+           NaN                                               6.2 Databases and Tables
+           NaN                                           6.3 Columns, Types, and Keys
+           NaN                                           6.4 Cassandra’s Architecture
+           NaN                                       Unit 7: Cassandra with Databases
+           NaN                                        7.1 Cypher Query Language (CQL)
+           NaN                                                          7.2 CQL Types
+           NaN                                           7.3 Writing and reading Data
+           NaN        7.3.1 Writing – write path, writing files to disk, transactions
+           NaN 7.3.2 Reading – read path, range queries, ordering, filtering, paging,
+           NaN                                                               deleting
+           NaN                                                          Unit 8: Neo4j
+           NaN     8.1 The Graph Databases – navigational db, relational db, NoSQL db
+           NaN                                              8.2 Neo4j building blocks
+           NaN                                                   8.3 Key value stores
+           NaN                       8.4 Cypher Query Language – Nodes, relationships
+           NaN                                        8.5 Write clause – Set, Delete,
+           NaN                           8.6 Read clause – Match clause, Where clause
+           NaN                                                 8.7 The Neo4j REST API
+Reference Book          1. Designing Data-Intensive Applications By Martin Kleppmann-
+           NaN                                                               O’Reilly
+           NaN                    2. NoSQL for Mere Mortals® By Dan Sullivan-O’Reilly
+           NaN                           3. Pro MongoDBTM Development By Deepak Vohra
+           NaN                                    4. MongoDB in Action By Kyle Banker
+           NaN                      5. Cassandra: The Definitive Guide By Eben Hewitt
+           NaN               6. Nosql Web Development With Apache Cassandra by Deepak
+           NaN                                                                  Vohra
+           NaN                                   7. Learning Neo4j By Rik Van Bruggen
+      Teaching                 Discussion, Independent Study, Seminars and Assignment
+   Methodology                                                                    NaN"
+9,table,"      Course Code                                                                          Unnamed: 0
+     Course Title                                                      Cyber Security and Forensics-1
+           Credit                                                                                   4
+Teaching per Week                                                                               4 Hrs
+Minimum weeks per                  15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                                 NaN
+    Last Review /                                                                                   -
+         Revision                                                                                 NaN
+Purpose of Course          Conceptualize the students with the theoretical concepts of Cyber Security
+ Course Objective         Familiarization with different objectives of cyber security components like
+              NaN identity theft, different hacking techniques used for different purposes. Different
+              NaN                              mobile and cloud security components are also covered.
+     Prerequisite             Basic knowledge of Information security, computer network and operating
+              NaN                                                                            systems.
+  Course Out come                      1. Get familiar with different terminologies of cyber security
+              NaN                            2. Get aware with different techniques of identity theft
+              NaN  3. Gaining detail knowledge to support activities associated with mobile and cloud
+              NaN                                                                           security.
+   Course Content                   Basic terminology associated with cyber security, basics of cyber
+              NaN           security, techniques associated with identity theft, Different techniques
+              NaN                 used by attacker to capture important and confidential information.
+              NaN                 Moreover techniques associated with mobile security and cloud based
+              NaN                   security components are covered along with selected case studies.
+              NaN                                                                  Unit 1.ntroduction
+              NaN                           1.1 Introduction & defining the cyber security challenges
+              NaN                                                                 1.2 Ethical hacking
+              NaN                       1.3 Frauds in IT, Banking, Mobile network, telecommunications
+              NaN                                   1.4 Frauds in Software development and management
+              NaN                                                1.5 Types of Areas in Cyber Security
+              NaN                                                     Unit 2.Basics of cyber security
+              NaN                                                       2.1 Pathway of Cyber Security
+              NaN                                                   2.2 Classification of cyber crime
+              NaN                                    2.3 Provision of IT Act -2000 and it’s amendment
+              NaN                                                       2.4 Careers in cyber security
+              NaN                                                              Unit 3. Identity theft
+              NaN                                                                        3.1 Phishing
+              NaN                                                                      3.1.1 Phishing"
+10,table," Unnamed: 0                                                          5.2.1 Steps for SQL Injection
+        NaN                                        5.2.2 How to prevent from SQL Injection attacks
+        NaN                                           5.2.3 Tools used for SQL server penetration.
+        NaN                                 5.2.4 Buffer overflow - types and minimize the attack.
+        NaN                                                          5.3 Botnets and Zombie armies
+        NaN                                                5.4 Cyber terrorism and organized crime
+        NaN                                             Unit 6. Introduction to Computer forensics
+        NaN                                                                  6.1 Computer forensic
+        NaN                                                     6.2 Computer forensic applications
+        NaN                                                                  6.3 Forensic services
+        NaN                                                       6.4 Types of forensic technology
+        NaN                                      6.5 Benefits of professional forensic methodology
+        NaN                                                  Unit 7.Electronic evidence collection
+        NaN                                             7.1 Alternative methods for accessing data
+        NaN                                                   7.2 Collecting digital evidence data
+        NaN                                      7.3 Digital evidence processing and investigation
+        NaN                                                              7.4 Evidence preservation
+        NaN                                                  Unit 8.Electronic evidence processing
+        NaN                                                             8.1 Evidence data analysis
+        NaN                                                        8.2 Evidence data documentation
+        NaN                                                                  8.3 Database forensic
+        NaN                                                                8.4 Web attack forensic
+        NaN                                                              8.5 Evidence presentation
+   Text and                                 1. Cyber security, Nina Godbole, Sunit Belapure, Wiley
+  Reference   2. Computer Forensics – Computer Crime scene investigation by John R Vacca, Firewall
+ Literature                                                                      media publication
+        NaN  3. Computer forensics and cyber crime – an introduction 3rd edition, Marjie T. Britz,
+        NaN                                                                                Pearson
+        NaN                             4. Build your own security lab, Michael Gregg, Wiley India
+        NaN                                    5. Introduction to computer security by Matt Bishop
+        NaN                               6. Cryptography and network security by William Stalling
+   Teaching                     Discussion, Independent Study, Case study, Seminars and Assignment
+Methodology                                                                                    NaN
+ Evaluation 70% Internal assessment is based on class attendance, participation, class test, quiz,
+     Method                                         assignment, seminar, internal examination etc.
+        NaN                                    30% assessment is based on end semester examination"
+11,table,"      Course Code                                                             Unnamed: 0
+     Course Title                                                        Web Engineering
+           Credit                                                                      4
+Teaching per Week                                                                  4 Hrs
+Minimum weeks per     15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                    NaN
+    Last Review /                                                                     --
+         Revision                                                                    NaN
+Purpose of Course The purpose of the course is to make students capable of understanding
+              NaN              and implementing Web engineering concepts, approaches and
+              NaN                                                         methodologies.
+ Course Objective  To provide a comprehensive knowledge of and Practical Environment for
+              NaN                           Web Engineering methodologies and approaches
+     Pr-requisite                                 Basic Concept of Software Engineering.
+  Course Out come      After completion of this course, the student will be capable of :
+              NaN    a) Identifying Specific requirements pertaining to Web Applications
+              NaN                                                             in context
+              NaN            b) Designing Web Applications following sound principle and
+              NaN                                                                methods
+              NaN            c) Testing Web Applications and managing the changes in it.
+   Course Content                   Unit 1 Web-Based Systems and Web Engineering Process
+              NaN            1.1 The Web & WebApps, Attributes of WebApps and Categories
+              NaN                                 1.2 Web Engineering and WebE Framework
+              NaN                                      1.3 Principles for WebE Framework
+              NaN                                  1.4 The Components of Web Engineering
+              NaN                 1.5 Relationship between Software Engineering and WebE
+              NaN                     1.6 WebE Process & Agile Methodology, WebE Methods
+              NaN                                     1.7 Web Engineering Best Practices
+              NaN                Unit 2 Communication Activity Problem Formulation Tasks
+              NaN                                                Requirement Elicitation
+              NaN                                   2.1 Stakeholders and User categories
+              NaN                        2.2 Tasks before and During Elicitation Session
+              NaN                    2.3 Identifying Content and Functional Requirements
+              NaN                       2.4 Isolating Constraints and Performance Issues
+              NaN                              2.5 Creating Usage Scenarios and usecases
+              NaN                                      2.6 Identifying WebApp Increments
+              NaN                                            2.7 Requirement Negotiation
+              NaN                                   Unit 3 Analysis Modeling for WebApps
+              NaN       3.1 Introduction - Input, Output, Task, Approaches, User Context
+              NaN                                                  3.2 The Content Model
+              NaN       3.2.1 Structural Element, Information Exchange, Content Objects,
+              NaN                                                                Content"
+12,table,"    Unnamed: 0                                            “Dimensions” of Quality,
+           NaN                           Types of Errors within WebApp Environment
+           NaN                                    Testing Strategy & Test Planning
+           NaN                                                 7.3 Content Testing
+           NaN                                          7.4 User Interface Testing
+           NaN                                               7.5 Usability Testing
+           NaN                                           7.6 Compatibility Testing
+           NaN                                         7.7 Component-Level Testing
+           NaN        7.8 Navigation Testing- Test Navigation Syntax and Semantics
+           NaN                                           7.9 Configuration Testing
+           NaN                               7.10 Security and Performance Testing
+           NaN                     7.11 Load Testing and Stress Testing of WebApps
+           NaN                                              7.12 Change Management
+           NaN                                             7.13 Content Management
+           NaN      Unit 8 Current Trends and Future directions in Web Engineering
+           NaN             Current Trend in Web Engineering Tools and Technologies
+           NaN                               8.1 General Issues in Web Engineering
+           NaN  8.2 Implementation Tools and Technologies , Application Frameworks
+           NaN     8.3 Content Management Systems and Version Control Technologies
+           NaN                                        Search Capability in WebApps
+           NaN                              8.4 Development Tools and Technologies
+           NaN                                   8.4.1 Tools for Modeling Activity
+           NaN                                     8.4.2 Tools for Testing WebApps
+           NaN                      8.4.3 Tools for Management of the WebE Process
+           NaN                                               8.5 Future Directions
+           NaN      8.5.1 The Changing Nature of the Web and WebApps - Delivery of
+           NaN                          Web-Based Content and Functionality change
+           NaN                               8.5.2 How to Accommodate the Changes?
+           NaN             8.5.3 Web as a Platform for Application Software and OS
+           NaN                                     8.5.4 Effects of “Semantic Web”
+           NaN                8.5.5 Evolving Web Technologies, Web 2.0 and Web 3.0
+Reference Book  1) Web Engineering: A Practitioner’s Approach – Pressman and Lowe,
+           NaN                                        Tata McGraw-Hill Publication
+           NaN 2) Software Engineering : A Practitioner’s Approach- 6e by Roger S.
+           NaN                           Pressman, , Tata McGraw-Hill publication.
+           NaN                   3) Web Engineering-Rajiv Chopra, PHI publication.
+           NaN      4) Web Site Engineering: Beyond Web Page Design 1st Edition, -
+           NaN            Thomas A. Powell , David L. Jones and Dominique C. Cutts
+           NaN 5) Web Engineering: The Discipline of Systematic Development of Web
+           NaN            Applications by Gerti Kappel (Editor), Birgit Pröll (Co-
+           NaN   Editor), Siegfried Reich Werner Retschitzegger, Wiley Publication
+           NaN     6) Web Engineering: Modelling and Implementing Web Applications
+           NaN    Editors: Rossi, G., Pastor, Ó., Schwabe, D., Olsina, L. (Eds.) –
+           NaN                                                            Springer"
+13,table,"           Unnamed: 0               7) Web Engineering-by Carson Thomas , Larsen and Keller Education,\r8) Engineering Web Applications By Casteleyn, S., Daniel, F., Dolog,\rP.,Matera, M., Springer Publication  7) Web Engineering-by Carson Thomas , Larsen and Keller Education,
+                  NaN                                                                                                                        8) Engineering Web Applications By Casteleyn, S., Daniel, F., Dolog,                                                                 NaN
+                  NaN                                                                                                                                                         P.,Matera, M., Springer Publication                                                                 NaN
+                  NaN                                                                                                                                                                                         NaN                                                                 NaN
+Teaching\rMethodology                                                                                                                          Discussion, Independent Study, Case study, Seminars and Assignment                                                                 NaN
+    Evaluation Method 70% Internal assessment is based on class attendance, participation, class\rtest, quiz, assignment, seminar, internal examination etc.\r30% assessment is based on end semester examination                                                                 NaN"
+14,table,"      Course Code                                                                      Unnamed: 0
+     Course Title                                              Distributed and Parallel Computing
+           Credit                                                                               4
+Teaching per Week                                                                           4 Hrs
+Minimum weeks per              15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                             NaN
+    Last Review /                                                                               -
+         Revision                                                                             NaN
+Purpose of Course                                                                             NaN
+ Course Objective                                                                             NaN
+    Pre-requisite                                                                             NIL
+  Course Out come   At the end of the course, students will be able to understand the concepts of
+              NaN                                              distributed and parallel computing
+   Course Content                                     Unit 1. Introduction to Distributed systems
+              NaN      1.1 Various systems and services - Email and Messaging Services, The World
+              NaN                wide Web, Social Networking Service, News, Remote Login and File
+              NaN                                                   Transfer, Multimedia Transfer
+              NaN       1.2 Distributed Computation Model, Distributed Transaction processing and
+              NaN                                     Ecommerce, Distributed Real-time Processing
+              NaN 1.3 Issues- Naming, Sharing, Availability and Reliability, Replication, Privacy
+              NaN          and Security, Communication, Concurrency and Synchronization, Time and
+              NaN                         Coordination, Fault Tolerance and Recovery, Scalability
+              NaN               Unit 2: Software and Network Architecture for Distributed Systems
+              NaN                                                       2.1 Software Architecture
+              NaN             2.1.1 Cooperating Processes and Process Groups-Group membership and
+              NaN                                                               Message Delivery.
+              NaN                              2.1.2 Client-Server and Peer-to-Peer Communication
+              NaN                               2.1.3 Component Models, Components and Frameworks
+              NaN                                                              2.1.4 Web Services
+              NaN                                                        2.2 Network Architecture
+              NaN                                2.2.1 Functions of layers in OSI Reference Model
+              NaN          2.2.2. Inter connection Networks for Computer Clusters- Time Shared or
+              NaN                       Common Bus, Crossbar Switch, Multistage Networks, Nearest
+              NaN                                                    Neighbour Mesh, Cube Network
+              NaN                                          Unit 3: Managing Distributed Resources
+              NaN             3.1. Resource Naming and Addressing-Name Servers, DNS and Directory
+              NaN                                                                        Services
+              NaN       3.2 Resource Sharing – Sharing primary memory, Distributed Shared memory,
+              NaN                                                     Page based DSM, Logical DSM
+              NaN    3.3 Managing Resource Availability and Reliability- concerns in LAN and WAN,
+              NaN                               Processor and Memory Upgrades and Software Design
+              NaN       3.4 Resource Replication – Replicas as Members of a Group, Reliability of"
+15,table,"       Unnamed: 0            7.2 Data Dependency- Types of Dependencies, Loop and Array Dependence
+              NaN            7.3 Program Transformations- Induction variables, Forward Dependency,
+              NaN                Backword Dependences, Breaking out of a Loop, Loop Spitting, Loop
+              NaN                                                                     interchange.
+              NaN                       7.4 Overview of Shared Memory Programming and Thread Based
+              NaN                                                                   Implementation
+              NaN                                             7.5. Map-Reduce Model of Parallelism
+              NaN                                                    Unit 8: Distributed Computing
+              NaN       8.1 Message Passing Model for synchronous and asynchronous message passing
+              NaN          8.2 PVM-PVM terminology, Architecture of PVM, Programming Model of PVM,
+              NaN                                                           Dynamic Process Groups
+              NaN   8.3 RPC-Parameter Passing and Interface, Locating the Server, RPC Failures and
+              NaN              semantics, Security, Disadvantages of RPC, Java RMI example- Remote
+              NaN        Interface, Server, Client, Running the code, Garbage Collection, Security
+              NaN       8.4 Distributed Computing Environment-DCE Architecture, DCE Configuration,
+              NaN      DCE Directory Services, Distributed File Service, DCE Security Service, DCE
+              NaN                                                                     Time Service
+   Reference Book                                                                              NaN
+              NaN 1. Distributed Systems: Concepts and Design, George Coulouris , Jean Dollimore ,
+              NaN                      Tim Kindberg , Gordon Blair , Pearson, ISBN-10 : 0132143011
+              NaN        2. Distributed Computing: Principles, Algorithms, and Systems, by Ajay D.
+              NaN        Kshemkalyani , Mukesh Singhal, Cambridge University Press, ISBN-13 : 978-
+              NaN                                                                       0521189842
+              NaN         3. Distributed Systems Architecture, Authors: Arno Puder Kay Römer Frank
+              NaN                           Pilhofer ISBN: 9780080454702, Imprint: Morgan Kaufmann
+              NaN    4. Introduction to Parallel Processing, M.Sasikumar, Dinesh Shikhare, P. Ravi
+              NaN                               Prakash, PHI Publication, ISBN-13 : 978-8120350311
+              NaN            5. Fundamentals of Parallel Processing, Harry Jordan, Gita Alaghband,
+              NaN                                                 Pearson,ISBN-13 : 978-0139011580
+         Teaching                           Discussion, Independent Study, Seminars and Assignment
+      Methodology                                                                              NaN
+Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+              NaN                             quiz, assignment, seminar, internal examination etc.
+              NaN                      30% assessment is based on end semester written examination"
+16,table,"           Course Code                                                              Unnamed: 0
+          Course Title                                       Foundations of Advanced Computing
+                Credit                                                                       4
+     Teaching per Week                                                                   4 Hrs
+     Minimum weeks per      15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                     NaN
+Last Review / Revision                                                                       -
+     Purpose of Course                The purpose of the course is to make students capable of
+                   NaN                      fundamentals of statistics, mathematics and python
+                   NaN                                    programming with advanced libraries.
+      Course Objective                       To learn about fundamental of advanced computing
+                   NaN                    To learn python programming with advanced libraries
+          Pr-requisite         Only those Students who have completed any one of the following
+                   NaN                              courses Mathematics / Computer Programming
+       Course Out come         After completion of this course, the student will be capable to
+                   NaN   understand fundamental concepts statistics, probability , regression,
+                   NaN                   mathematics and operations of computing using python.
+        Course Content                                       Unit 1 Introduction to Statistics
+                   NaN                                     1.1 Role of Statistics in Computing
+                   NaN                                               1.2 Grouped Data and Mean
+                   NaN                                             1.3 The median and the mode
+                   NaN                             1.4 Relationship between Mean, Mode, Median
+                   NaN                                   1.5 Data Distribution using Frequency
+                   NaN                1.5 Root mean sqaure, Quartiles, Deciles and Percentiles
+                   NaN                                     1.6 Stranded Deviation and Variance
+                   NaN                           1.7 Software and Measures of Central Tendency
+                   NaN 1.8 Overview of Calculus - Differentiation and Integration, Predictions
+                   NaN                                                      and Cost Functions
+                   NaN                          Unit 2 Co-Relation Theory and Linear Equations
+                   NaN                                                          2.1 Corelation
+                   NaN                                    2.1.1 Relationship between variables
+                   NaN                                               2.2.2 Corelation Analysis
+                   NaN                                                 2.2 Types of Corelation
+                   NaN                  2.3 Co-efficient of Correlation® and itsInterpretation
+                   NaN                                         2.4 Curve Fitting and Equations
+                   NaN                                             2.5 Non Linear Relationship
+                   NaN                                                          2.6 Regression
+                   NaN                                                 2.7 Regression Analysis
+                   NaN                        2.8 Accuracy Measures and Error - RMSE, MSE, MAE
+                   NaN                                               Unit 3 Probability Theory
+                   NaN                             3.1 Probability and Conditional Probability
+                   NaN                                                              3.2 Events
+                   NaN                                           3.3 Probability Distributions
+                   NaN                                                     3.4 Sampling Theory
+                   NaN                                              3.5 Binomial Distributions"
+17,table,"Text and\rReference\rLiterature                                                                                                                                    1.Discrete Mathematics - Sujit Chavan, Nandani Sakhare, HImalaya
+                            NaN                                                                                                                                                                                    Publishing House
+                            NaN                                                                                                                                        2.Computer Oriented Statistical Techniques - Dinesh Gabhane,
+                            NaN                                                                                                                                                         Madhuri S. Banker, HImalaya Publishig House
+                            NaN                                                                                                                                    3.Linear Algebra using Python - Archana Jadhav, Nandini Sakhare,
+                            NaN                                                                                                                                                                            Himalya Publishing House
+                            NaN                                                                                                                                         4.Python Data Science FOR Dummies - John Paul Mueller, Luca
+                            NaN                                                                                                                                                                        Massaron - Wiley Publication
+                            NaN                                                                                                                                         5.Davy Cielen, Arno D. B. Meysman, and Mohamed Ali, Manning
+                            NaN                                                                                                                                                                                         Publication
+                            NaN                                                                                                                                  6.Data Science for Business, Tom Fawcett, Foster Provost , O’relly
+                            NaN                                                                                                                                                                                         Publication
+                            NaN                                                                                                                                            7.Python Data Science Handbook, Jake VanderPlas, O’relly
+                            NaN                                                                                                                                                                                         Publication
+                            NaN                                                                                                                                           8.Core Python Programming, Nageshwar Rao, dreamtech press
+           Teaching Methodology                                                                                                                                              Discussion, Independent Study, Seminars and Assignment
+              Evaluation Method 70% Internal assessment is based on class attendance, participation,\rclass test, quiz, assignment, seminar, internal examination etc.\r30% assessment is based on end semester written examination"
+18,table,"           Course Code                                                                     Unnamed: 0
+          Course Title                                                             Fundamentals of AI
+                Credit                                                                              4
+     Teaching per Week                                                                          4 Hrs
+     Minimum weeks per             15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                            NaN
+Last Review / Revision                                                                              -
+     Purpose of Course          The purpose of the course is to make students capable of implementing
+                   NaN                          concepts , methods and tool related tomachinelearning
+      Course Objective                        To learn about fundamentals of artificial intelligence
+                   NaN                        To learn and implement different types of AI concepts.
+          Prerequisite                                          Basic concepts of Logic and Reasoning
+       Course Out come After completion of this course, the student will be capable to develop models
+                   NaN                   and implement predictive analytics on social media platforms
+        Course Content                                                      Unit 1 Introduction to AI
+                   NaN                                                               1.1 Intelligence
+                   NaN                   1.1.1 Types of Intelligence, Human Vs. Machine Intelligence,
+                   NaN                       1.1.2 Composition of intelligence - Reasoning, Learning,
+                   NaN                           Problem Solving, Perception, Linguistic Intelligence
+                   NaN                                                    1.2 Artificial Intelligence
+                   NaN                                                    1.2.1 Philosophy and goals,
+                   NaN              1.2.2 AI Technique, Task Classification of AI, Applications of AI
+                   NaN                   1.3 AI Agents & Environments -Human agent, robotic agent and
+                   NaN                 software agent, ideal rational agent, structure of intelligent
+                   NaN                 agents, Simple Turing test environment, environment properties
+                   NaN          1.4 AI-Issues : Threat to privacy, threat to human dignity, threat to
+                   NaN                                                                         Safety
+                   NaN                                             Unit 2 : Problem Solving By Search
+                   NaN            2.1 Problem Formulation and State Space Representation of 8-Puzzle,
+                   NaN               8-Queens, missionaries and cannibals problem, Traveling Salesman
+                   NaN                           Problem, Robot Navigation Problem, Water Jug Problem
+                   NaN                                      2.2 Search techniques for Solution Search
+                   NaN               2.2.1. Uninformed search strategies, Informed search strategies,
+                   NaN                                                  2.2.2 Game Playing Algorithms
+                   NaN                                                              Unit 3 : Planning
+                   NaN                3.1 Planning Problem - Air cargo Transport, spare tire problem,
+                   NaN                                                               the blocks world
+                   NaN                     3.2 Planning with state space search, Goal stack planning,
+                   NaN                                                            Plan Space Planning
+                   NaN                                              Unit 4 : Knowledge Representation
+                   NaN                     4.1 Knowledge-Based agents, systems & Machine Intelligence
+                   NaN              4.2 Overview of Logical and Procedural Representation Schemes and"
+19,table,"                                                                  Unnamed: 0  Inference\r4.3 Structured Representation Schemes - Semantic Network,\rDescription Logic, Ontology, Conceptual Graphs\rUnit 5 : Knowledge based Reasoning\r5.1 Procedural Versus Declarative Knowledge\r5.2 Logic Programming\r5.3 Forward and Backward Chaining\r5.4 Reasoning systems for Categories\r5.5 Case base Reasoning\rUnit 6 : Intelligent Agents\r6.1 AI Intelligent Agents\r6.2 Structure of Intelligent Agents\r6.3 Agents and Environment\r6.4 Types of Agents\r6.5 Agent Topology and Agent Architecture\rUnit 7 : Real Life Application Areas of AI\r7.1 Expert Systems - Characteristics, Importance, Applications,\rExamples, Rule based system architecture\r7.2 Artificial Neural Network -\r7.3 Machine Learning- Classification, Regression, Clustering\r7.4 Robotics-Sensors and Effectors, Applications, Robotic Perception,\rMovement Planning\r7.5 Natural Language Processing\rUnit 8 : Advanced AI\r8.1 Conversational AI - Bots and REST APIs\r8.2 Knowledge Mining\r8.3 Autonomous AI\r8.4 Responsible AI                                                                 Unnamed: 1
+                                                             Reference Books                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN . A First Course in Artificial Intelligence by Deepak Khemani, McGrawHill,
+                                                     ISBN :978-1-25-902998-1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+       . Introduction to Artificial Intelligence and Expert System by Dan W.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+                                    Patterson, PHI, ISBN : 978-93-325-5194-7                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+. Artificial Intelligence –A Modern Approach (2nd Edition 2004) by Stuart J.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+        Russell and Peter Norvig, Pearson Education, ISBN: 978-81-775-8367-0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+  . Introduction to Artificial Intelligence by Rajendra Akerkar, PHI, ISBN :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+                                                           978-81-203-2864-8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+    . Artificial Intelligence -Structures and Strategies for Complex Problem                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+            Solving (4th Edition 2004) by George F. Luger, Pearson Education                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+          . Foundation of Artificial Intelligence and Expert Systems by V.S.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+               Janakiraman, K. Sarukesi, P. Gopalakrishnan, Mc Millan (2002)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+         . Artificial Intelligence: The Basics (Paperback) by Kevin Warwick,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+                                                        Publisher: Routledge                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+       . The Essence of Artificial Intelligence (Paperback) by Alison Cawsey                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+                                                    Publisher: Prentice Hall                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+   .“Artificial Intelligence” -By Elaine Rich And Kevin Knight (2nd Edition)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN
+                                                            Tata Mcgraw Hill                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      NaN                                                                        NaN"
+20,table,"Teaching Methodology                           Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on semester end written examination"
+21,table,"               Course Code                                                                                                                                                                                      Unnamed: 0
+              Course Title                                                                                                                                                                                       Practical
+                    Credit                                                                                                                                                                                               8
+         Teaching per Week                                                                                                                                                                                          16 Hrs
+Minimum weeks per Semester                                                                                                                              15 (Including Class work, examination, preparation, holidays etc.)
+         Review / Revision                                                                                                                                                                                               -
+         Purpose of Course                                                The purpose of the course is to make students capable of\rimplementing concepts, methods, tools and techniques learnt in\rcourses of semester 1.
+          Course Objective                                                                        The objective of these course is to enable students to learn practical\rimplementation of DSC-1, DSC-2, SEC-1 and DSE-1.
+              Pr-requisite                                                                                                                                                             As per theory papers of semester -1
+           Course Out come                                                             After completion of this course, the student will be capable of\rperforming practical application of subjects given in semester -1.
+                       NaN                                                                                                                                                                                             NaN
+            Course Content The students will be required to carry out practical on DSC-1, DSC-2,\rSEC-1 and DSE-1 using the methods and tools discussed there in.\rA Journal must be prepared for the practical work done.
+                       NaN                                                                                                                                                                                             NaN
+            Reference Book                                                                                                                                                     As per paper DSC-1, DSC-2, SEC-1 and DSE-1.
+                       NaN                                                                                                                                                                                             NaN
+      Teaching Methodology                                                                                                                                                                                        Lab Work
+         Evaluation Method                    70% Internal assessment is based on Practical attendance, Problem\rSolving, internal examination etc.\r30% assessment is based practical examination at the end of semester."

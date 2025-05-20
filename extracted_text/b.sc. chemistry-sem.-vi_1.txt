@@ -1,0 +1,519 @@
+---- PDF METADATA ----
+Author: Admin
+Creator: Microsoft® Word 2016
+CreationDate: D:20220429142722+05'30'
+ModDate: D:20220429142722+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 11
+
+==== PAGE 1 ====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER -VI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 2 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+Program: B.Sc. (Sem -VI) Type:  Theory  
+Subject: DSC -11-Organic Chemistry -4: Study of Spectral Techniques and Industrial Products  
+Credit: : 04 (T) + 02 (P)  Total learning hours: 60 
+Course description: This course will give an introduction to modern spectroscopic techniques including 
+UV, IR, NMR. It also includes insights of photochemistry, pericyclic reaction and supramolecular 
+chemistry.  
+Student learning outcome:  Student will lear n following :  
+• UV – Visible, IR, NMR Spectroscopy  
+• Supramolecular chemistry, Photo Chemistry  
+• Pericyclic reactions(PCR)  
+• Drug and synthetic dyes  
+• Organic Ploymers  
+ 
+Unit -1    UV - Visible Spectroscopy                                  (04 Hrs)  
+1.1    Introduction  
+1.2    Chromophores and auxochromes  
+1.3    Blue shift and red shift  
+1.4    Graphical representation of spectra of 1,3 -butadiene, benzene and lycopene  
+1.5    Influence of conjugation on UV absorption  
+1.6    Comparison of UV spectra of acetone and methyl vinyl keto ne 
+Unit -2   IR Spectroscopy                                        (08 Hrs)  
+2.1    Introduction  
+2.2    Fundamental and non fundamental molecular vibrations  
+2.3    IR absorption position of O,N and S containing functional group  
+2.4    Effect of H -bonding, conjugation, reso nance, and ring size on IR absorptions  
+2.5    Fingerprint region and its significance  
+2.6    Application in functional group analysis  
+2.7    Stretching frequencies of –OH (free and –H bonded), alkyl – C-H,  C≡C, C=C, C -C,C=O    
+    and C -O groups  
+2.8    Graphical representation of IR spectra of benzoic acid and methyl benzoate  
+Unit -3    NMR Spectroscopy                          (08 Hrs)  
+3.1 Basic principle of proton magnetic resonance  
+3.2 Nuclear magnetic spin quantum number I  
+3.3 Influence of the magnetic field on the spin of  nuclei, spin population  
+3.4 Chemical shift (δ values), uses of TMS as reference  
+3.5 Nuclear shielding and deshielding effects, equivalent and non equivalent protons  
+3.6 Effect of electronegativity of adjacent atoms on chemical shift values  
+3.7 Spin-spin splitting and spin -spin coupling  
+Unit -4    Supramolecular C hemistry                         (05 Hrs)  
+4.1 Introduction  
+
+==== PAGE 3 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+4.2 Cation binding host molecule  
+4.3 Selectivity of host molecules  
+4.4 A few synthetic cation binding host molecule  
+4.5 Some uses of cation binding host compo und 
+4.6 Anion binding host compounds  
+4.7 Neutral molecule trapping host compounds  
+Unit -5   Photo Chemistry                                               (10 Hrs)  
+1.1    Basic principle  
+1.2    Different types of electronic transition in organic molecule  
+1.3    The fate of photoexcited molecule  
+1.4    Laws of photo chemistry  
+1.5    Type of photo chemical reactions  
+1.6    Photo chemistry of carbonyl compounds, alkenes  
+1.7    Photo rearrangements  
+1.8    Valence isomerization  
+1.9     Photolysis of diazo compounds  
+1.10     Photo substitution reaction  
+1.11     Photo chemical smog  
+Unit -6    Pericyclic R eactions  (PCR)                                                                            (05 Hrs)  
+1.1    Molecular orbital theory  
+1.2    Molecular orbitals LCAO method  
+1.3    Bonding and anti bonding orbitals  
+1.4    Electronic configurations of some molecules  
+1.5     Orbital symmetry and the chemical reaction  
+1.6     Electrocyclic reactions  
+1.7     Cycloadition reactions  
+Unit -7  Drug and Synthetic Dyes                                   (10 Hrs)  
+1.1    Introduction and classification of drugs  
+1.2    Synthesis and therapeutic uses of Paracetamol, Ibuprofen, Diclofenac, Chloroquine,   
+   Chloramphenicol, Ranitidine and Sulphanilamide  
+1.3    Classification of dyes, colour and constitution  
+1.4     Mordent and Vat dyes  
+1.5     Chemistry of d yeing  
+1.6     Synthesis and application of  
+1.6.1 Azo Dyes – Methyl Orange and Congo Red  
+1.6.2  Triphenyl Methane Dyes – Malachite Green, Rosaniline and Crystal Violet  
+1.6.3 Phthalein Dyes – Phenolphthalein and Flourescein  
+1.6.4 Natural Dyes – Structure Elucidation and synthesis of Alizarin and Indigotin  
+1.7    Edible Dyes with examples  
+Unit - 8    Organic Polymer                                    (10 Hrs)  
+8.1   Introduction and classification including di -block, Tri -block and amphiphilic     
+  Polymers  
+8.2    Number average molecula r weight, weight average molecular weight  
+
+==== PAGE 4 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+8.3    Degree of polymerization, polydispercity index  
+8.4   Polymerization reactions – Addition and condensation  
+8.5    Mechanism of cationic, anionic and free radical addition polymerization  
+8.6    Ziegler – Natta polymerization of alkenes  
+8.7    Preparation and application of plastics – thermosetting (Phenol – formaldehyde,    
+   polyurethans) and thermosoftening (PVC, Polythene)  
+8.8    Fabrics – Natural and synthetic (Acrylic, Polyamido, Polyester)  
+8.9    Rubbers – Natural an d synthetic (Buna -S, Nhloroprene, Neoprene)  
+8.10 Vulcanization, Polymer additives  
+ 
+Reference Books:  
+1. Spectroscopic Identifications of organic compounds, R.N Silverstein, G.C. Bassler 
+T.C. Morrill, 2000, John Willey & sons  
+2. Organic Chemistry, Seventh Edition, By R.T.Morrison, R.N.Boyd, S.K. Bhattacharjee 
+2010, Pearson  
+3. Organic Chemistry, Volume -1,2, I.L.Finar, 6 th Edn., 2002, , Pearson  
+1. Advance Organic Chemistry, Arun Bahl and B S Bahl, 2012, S.Chand  
+2. Text Book of Organic Chemi stry, P.S. Kalsi, 1999, Macmillan India Limited  
+3. Advance Organic Chemistry, S.Chand , 1987, S. Chand Publication  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 5 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+ 
+Program: B.Sc. (Sem -VI) Type:  Theory  
+Subject:  DSC -12-Inorganic Chemistry -IV 
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This course provides an overview of advance as well as fundamental topics in inorganic chemistry.  
+This course emphasise on various aspects of metal complexes.  
+Course comprises of information about role of inorganic components in biology, water technology, 
+some novel industrial inorganic compounds.  
+Student learning outcome:  
+Upon completion of this course, students will:  
+• Have systematic understanding bioinorgani c chemistry  
+• Have a deep knowledge regarding theoretical principles applied in inorganic qualitative 
+analysis  
+• Have information regarding catalysis using organometallic compounds  
+• Be able to understand various theories related to coordination compounds  
+• Get e xposure to various novel inorganic compounds of importance  
+• Come to know about some fundamentals of inorganic reaction mechanism  
+• Get an idea regarding water impurities, hardness and purification technique  
+ 
+Unit -1 Bioinorganic C hemistry -I                                                                               (08 Hrs)  
+     1.1   Metal ions present in biological systems  
+     1.2   Essential and trace elements in biological systems with reference to Na+, K+,           
+             Ca2+, Fe2+, P, Cu, V, Ni  
+     1.3   Excess and deficiency of some trace metals  
+1.4 Toxicity of metal ions (Hg, Pb, Cd and As)  
+1.5 Pt and Au complexes as drugs (examples only)  
+1.6 Use of chelating agents in medicine  
+ 
+Unit -2 Bioinorganic C hemistry -II                                                                            (08Hrs)  
+2.1   Sodium / K -pump  
+2.2   Introduction to metallo -enzymes, carbonic anhydrase and carboxypeptidase  
+2.3   Iron and its application in bio -systems, Haemoglobin and myoglobi n 
+2.4   Role of cobalamin (vitamin -B12 coenzyme) in living systems  
+2.5   Role of Ca2+ in blood clotting  
+2.6   Nitrogen fixation  
+ 
+Unit -3 Theoretical Principles of Q ualitative Analysis                                             (08 Hrs)  
+3.1   Basic principles involved in analysis of cations and anions  
+3.2   Solubility products, common ion effect  
+3.3   Principles involved in separation of cations into groups and choice of group    
+        reagents  
+3.4   Interfering anions (fluoride, borate, oxalate  and phosphate) and need to remove them  
+        after Group II   
+3.5   Methods of removal  
+3.6   Analysis of insoluble substance  
+
+==== PAGE 6 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+Unit -4 Introduction to inorganic reaction mechanism                                           (12 Hrs)  
+4.1   Introduction to inorganic reaction mechanisms -types of reaction and classification of   
+        substitution reaction  
+4.2   Substitution reaction of square planar complexes  
+4.3   Trans effect and its applications, theories of trans -effect (electrostatic   polarization  
+        and Static π -Bonding Theory)  
+4.4   General mechanism of ligand substitution reactions in octahedral complexes   
+        (D, I, Id, Ia)  
+4.5   Electron transfer reactions: Mechanism of outer and inner sphere electron  
+        transfer re actions  
+4.6   Theories of electron transfer (in general) and Marcus and Hush model (in detail)  
+ 
+Unit -5 Catalysis by organometallic compounds                                                         (08 Hrs)  
+5.1   General principles of catalysis and properties of catalysts  
+5.2   Homogeneous and heterogeneous catalysis (catalytic steps, examples and industrial    
+        applications)  
+5.3   Deactivation and regeneration of catalysts  
+5.4   Catalytic poison, promoter  
+5.5   Study of the following industri al processes and their mechanism:  
+       Alkene hydrogenation (Wilkinson’s Catalyst)  
+       Synthetic gasoline (Fischer Tropsch reaction)  
+       Polymerisation of ethene using Ziegler -Natta catalyst  
+Unit -6 Chemistry of new material                                                                              (07 Hrs)  
+6.1  Conducting polymers : Introduction, definition and examples -polyaniline,  
+        polyacetylene,  Mechanism of conduction, Engineering and biological applications.  
+6.2   Super conductors : Introduction, definition, type1, type 2 and atypical, preparation of     
+        high temperature super conductor, general applications of high temperature super    
+        conductors  
+6.3   Fullerenes : Introduction, definition, preparation and isolation of C60, structure and  
+        chemical reactions (redox reactions, electrophilic aromatic substitution and     
+        bromination) of C60, commercial uses of C6        
+  
+Unit -7 Water technology                                                                                             (04 Hrs)  
+7.1 Types of impurities present in water  
+7.2 Causes for the hardness of water  
+7.3 Permissible levels of ions present in water  
+7.4 Treatment of water for do mestic and Industrial purposes by  
+      Demineralisation of water by Ion exchange and by reverse Osmosis  
+ 
+Unit -8 Industrial material                                                                                           (05 Hrs)  
+8.1    Paints and Varnishes: Constituents of oil and emulsion paints and their role,  
+                                             constituents of varnishes  
+8.2    Fuels: Characteristics, Calorific value and its determination using bomb calorimeter,    
+                  coal- varieties, gaseous fuels -advantages, constituents and their significance,   
+                  production of coal gas and composition of LPG, octane number.  
+8.3    Explosives : Classification, preparation of dynamite and TNT  
+8.4   Propellants: Characteristics, classification and their applications  
+ 
+
+==== PAGE 7 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+Reference books:  
+1. Advanced Inorganic Chemistry, 6th Edition F. A. Cotton, G. Wilkinson , C. A. Murillo 
+and M. Bochmann, John Wiley & Sons  
+2. Concise Inorganic Chemistry, 5th Edition J. D. Lee, 2001, Blackwell Science,  
+3. Inorganic Chemistry, 4th Edition J. E. Huhee, E. A. Keiter and R. I. Keiter, , 2000,  
+Pearson Education Asia  
+4. Inorganic Chemistry, ELBS 2nd Edition D. F. Shriver, P. W. Atkins and C. H. 
+Langford, 2002 , Oxford Univ. Press  
+5. Environmental Chemistry A. K. De, 1999, Wiley Eastern Ltd.,  
+6. Modern Inorganic Chemistry W. L. Jolly, McGraw Hill Co.  
+7. Principles of Inorganic Chemistry B. R. Pur i and L. R. Sharma, Jauhar S. P, 1998  
+S. N. Chand & Co.,  
+8. Inorganic Chemistry, 3rd Edition (I SE) A G Sharpe,  1989 , Addison Wesley  
+9. Basic Inorganic Chemistry, 3rd Edition F. A. Cotton, G. Wilkinson , P. L. Gaus, 1995 , 
+John Wiley & Sons  
+10. Essential Chemistry, I nternational Edition R. Chang, , 1996 , McGraw Hill Co  
+11.  University Chemistry, 4th Edition (ISE) B. H. Mahan & R. J. Myers, , 1989 , Addison 
+Wesley  
+12.  Essential Trends in Inorganic Chemistry C. M. P. Mingos,  , 1998 , Oxford Univ Press  
+13. Chemistry, 3rd Edition P. A tkins &L. Jones, , 1997 , W. H. Freeman & Company  
+14.  Modern Chemistry, 4th Edition D. W. Oxicby, H. P. Gills & N. H. Nachtrieb,  , 1998 
+Saunders College Publishing  
+15.  Fundamental Concepts of applied Chemistry, Jayashree Ghosh, S Chand Publications  
+16.  Industrial Ch emistry, B. K. Sharma, Goel Publishing House  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 8 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+ 
+ 
+Program: B.Sc. (Sem -VI) Type:  Theory  
+Subject:   SEC -4-Essential Skills of Computers  
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This course introduce the fundamentals of computing devices and reinforce computer vocabulary, 
+particularly with respect to personal use of computer hardware and software, the Internet. Provide 
+hands -on use of Office applications Word, Excel and PowerPoint. Introduce the database concept 
+with SQL  in Access  
+Student learning outcome:  
+Upon completion of this course, students will able to:  
+• Understand concepts of computer component  
+• Manage the documents, presentation and gain practical exposure on spreadsheet using office 
+tool. 
+• Create and manage database using database tool.  
+• Use SQL statements to store, modify and retrieve data from tables  
+• gain skills & knowledge to browse and get updated worldwide information  
+ 
+Unit -1   Introduction of Computers                                                                             (06Hrs)  
+1.1   Evolution of computers , Classification of Computers and components of computer  
+1.2   Fundamentals of Computers  
+1.2.1  Software  
+1.2.2  Hardware  
+1.2.3  Data and User  
+   1.3   Essential Computer Hardware  
+1.3.1  Processing device  
+1.3.2  Memory device -RAM & ROM  
+1.3.3  Input and Output devices  
+1.3.4  Storage device -Optical & Magnetic  
+     1.4. Operating System  
+Unit -2   Operate t he Computer System                                                                        (04Hrs) 
+      2.1. Start Menu  
+                2.1.1.  Programs Documents Setting  
+2.1.2.  Taskbar toolbar 2.1.3. Find and replace utility  
+2.1.4.  Help menu  
+2.1.5.  Shut Down, Restart  
+       2.2    Manage Computer  
+2.2.1    Files & Folders  
+2.2.2    Configuring Printers  
+2.2.3    Installing Programs  
+2.2.4    Display setting  
+ 
+
+==== PAGE 9 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+ Unit -3 Document Writer                                                                                               (10Hrs) 
+      3.1. Components of Word Writer  
+3.1.1     Creating Document Typing Text  
+3.1.2     Saving and Closing Opening an Existing  
+3.1.3      Password Protectio n 
+3.1.4      Printing & Previewing Documents  
+3.1.5     Switch between Multiple Documents  
+3.1.6    Save to PDF  
+3.2.    Familiar Formatting Tools  
+3.2.1.  Working with Text boxes & frame  
+3.2.2.  Working with Pictures &Objects  
+3.2.3.  Inserting Place Comments  
+3.2.4.  Working with Tables  
+3.2.5.  Spell Check utility  
+3.2.6.  Use of hyperlink  
+3.3.     Other features  
+3.3.1.  Document templates  
+3.3.2.  Insert and edit images  
+3.3.3.  Add custom charts and manage charts  
+3.3.4.  Add and manage table  
+3.3.5.  View multiple documents  
+3.3.6.  Mail merge  
+ Unit -4 WPS Presentation                                                                                              (10Hrs) 
+4.1.   Introduction of presentation , toolbar and files  
+4.2.   Familiar Formatting Tools  
+4.2.1.  WordArt text effects  
+4.2.2.  Built-in slide styles  
+4.2.3.  Use of templates.  
+4.3.    Advanced Animation  
+4.3.1.  Multimedia: using audio and video ‐Audio and video formats ‐Inserting 
+audio and video objects  
+4.3.2.  Animations ‐Set and customize animation effects ‐Set text animations ‐
+Animate the elements of a chart  
+4.4.    Extended Desktop  
+4.4.1 . Organizing and publis hing a presentation  
+4.4.2.  Custom slide shows ‐Managing transitions  
+4.4.3.  Graphic objects formatt ing ‐Editing of graphic objects , Visual communication:   
+           using graphics and images  
+4.4.4.  Insert shapes, SmartArts , Charts and Diagrams  
+4.4.5 . Other tools: equations  
+4.5.Use of Hypertext links  
+4.5.1.  Action buttons  
+4.5.2.  Import slides from other presentations  
+4.5.3.  Export slides as graphics object  
+
+==== PAGE 10 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+        
+Unit -5 WPS Spreadsheet                                                                                               (10Hrs) 
+5.1. Introduction  to workbook ,worksheet and manage worksheet  
+5.2. Introduction to toolbars, add and view toolbar  
+5.3. Formulas toolbar  
+5.4. Built in functions, types of functions  
+5.5. Table Formatting ,  Pivot Tables  
+5.6. Insert Built -in Charts & customize charts  
+5.7. View Multiple Documents  
+        
+Unit -6 Database Management System                                                                         (04Hrs) 
+6.1.    Database system applications.  
+6.2.    Purpose of Database system.  
+6.3.    View of Data -Data abstraction, Instance and schema, Data model.  
+6.4.    Database language -DDL, DML  
+6.5.    Database Architecture -Two tier Architecture, Three tier Architecture . 
+ 
+Unit -7 Practical Approach f or Database                                                                     (10Hrs) 
+   7.1.    Introduction to tables , data types and field properties  
+7.2.    Create a table and add fields ,Guidelines for naming fields, controls, and objects  
+7.3.    Set the field size ,  Combine fields using the Calculated data type  
+7.4.    Add or change a table’s primary key  
+7.5.    Create and use an index to improve performance  
+7.6.     SQL Queries: CREATE, INSERT, UPDATE, DELETE and SELECT with   
+           WHERE clause, ORDER BY etc. 
+ 
+Reference Books:  Unit -8    Awareness o f Internet                                                                                               (06Hrs)  
+8.1.    Introduction of Internet  and  browser  
+8.2.    Surfing Internet  
+8.3.    Using of Search engine browser  
+8.4.    Mail Utility    
+1. Fundamentals of Computers”  Rajaraman V and Adabala N., 2014, Prentice Hall India Learning   
+Private Limited  
+2. “Fundamentals of computers”,  E Balagurusamy, 2009, McGraw Hill Education  
+3. WPS Office - Free Office Suite for Word,PDF,Excel , WPS SOFTWARE PTE. LTD.[Available 
+on google play store]  
+4. MS Office in a Nutshell, Sanjay Saxena, 2009, VikasPublishing House  
+5. Wps office 2016 writer eBook , by Lalit Mali, Kindle Edition  
+6. The Internet Book, Douglas E. Comer, 2006, Pearson  
+7. Advanced Microsoft Access: Learn Techniques of Ms Access for Database Management 
+Systems by Blerton Abazi, 2017, CreateSpace Independent Publishing Platform   
+ 
+
+==== PAGE 11 ====
+SARVAJANIK UNIVERSITY: B.Sc. CHEMISTRY  
+ 
+ 
+Chemistry Lab -Semester -VI 
+ 
+1. Organic Preparation (Two Step):  
+1) Preparation of p -bromoaniline from acetanilide.  
+2) Preparation of p -nitroaniline from acetanilide.  
+3) Preparation of methyl orange/methyl red by diazotization and coupling  
+2. Organic Separation of binary mixture (Minimum five):  
+1) A+P 
+2) A+B  
+3) P+B 
+4) B+N  
+5) N+N  
+3. Create a differ ent subject pages and use of index with hyperlink and references on 
+that pages.  
+4. Create a different subject pages and use of index with hyperlink and references on 
+that pages.  
+5. Use of spreadsheet which use of utility of fill, format and use of built -in funct ions 
+6. Make a various chart with any specify table . 
+ 
+Reference Books:  
+ 
+1. Vogel, A.I. Quantitative Organic Analysis, Part 3, ,2012, Pearson  
+2. Practical Organic Chemistry, Mann, F.G. & Saunders, B.C., 2009, Pearson Education  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

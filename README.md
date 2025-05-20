@@ -5,6 +5,8 @@ This tool provides multiple scrapers for the Shree Ramkrishna Institute website 
 1. Syllabus Page Scraper: Extracts syllabus PDF links from the syllabus page
 2. Full Website Scraper: Crawls the entire website and extracts all pages, images, and PDFs
 3. PDF Downloader: Specialized tool for downloading PDFs that bypasses access restrictions
+4. PDF to DOCX Converter: Converts PDFs to DOCX format and organizes them by program
+5. DOCX Data Extractor: Extracts structured data from DOCX files for model training
 
 ## Features
 
@@ -35,6 +37,49 @@ This tool provides multiple scrapers for the Shree Ramkrishna Institute website 
 - Can take input from CSV or JSON files
 - Handles session validation and referrer checking
 - Detailed logging of download attempts
+
+### PDF to DOCX Conversion
+
+The scraped PDF files can be converted to DOCX format for better data extraction and organization.
+
+```
+python pdf_to_docx_converter.py
+```
+
+This script will:
+1. Read all PDFs from the output/pdfs directory
+2. Convert each PDF to DOCX format
+3. Automatically identify the program and semester from the filename
+4. Organize the DOCX files into subdirectories by program
+5. Create a combined DOCX file for each program
+6. Generate a summary report of the conversion
+
+The conversion process creates:
+- Individual DOCX files in `output/docx/{program}/` directories
+- Combined program syllabi in `output/combined_docx/`
+- A conversion summary in `output/combined_docx/conversion_summary.csv`
+
+### Data Extraction for Model Training
+
+After converting PDFs to DOCX, you can extract structured data for AI model training:
+
+```
+python docx_data_extractor.py
+```
+
+This script will:
+1. Process all DOCX files in the organized directories
+2. Extract structured information such as course objectives, outcomes, textbooks, etc.
+3. Generate question-answer pairs for training a question-answering model
+4. Create a JSON file with the structured syllabus data
+5. Create a JSONL file with the question-answer pairs
+
+The extraction process creates:
+- `output/training_data/structured_syllabus_data.json`: Structured data extracted from all syllabi
+- `output/training_data/syllabus_qa_pairs.jsonl`: Q&A pairs for model training
+- `output/training_data/extraction_summary.csv`: Summary of the extraction process
+
+The structured data and Q&A pairs can be used to train custom AI models that understand the curriculum structure and can answer questions about the courses.
 
 ## Requirements
 

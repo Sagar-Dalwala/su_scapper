@@ -1,0 +1,617 @@
+---- PDF METADATA ----
+Author: HP
+Creator: Microsoft® Word 2016
+CreationDate: D:20220427051457+05'30'
+ModDate: D:20220427051457+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 12
+
+==== PAGE 1 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+1 
+                                 
+ 
+Unit 1  Rearrangement                                                                              (08Hours)                
+1.1 Rearrangement to electron deficient carbon:Pinacol -pinacolone, Wagner -Meerwein,   
+Benzillic acid, Wolf (Arndt -Eisterts synthesis)  Rupe and Demjanov  
+1.2 Rearrangement to electron deficient Nitrogen:  Hofmann,  Curtius, Schimdt,  
+Lossen and Beckmann  
+1.3 Rearrangement to electron deficient Oxygen:  Baeyer Villiger  
+1.4 Rearrangement to electron rich carbon:  Favorskii, Witting , Neber, Steven’s and  
+       Somm elet Houser  
+1.5 Aromatic rearrangements:  Fries, Clasisen and Benzidine free radical  
+ 
+Unit 2  Methods of Determining Mechanisms and Isotope Effects   (08Hours)                
+2.1 Introduction  
+2.2 Methods of determining mechanism  
+2.2.1 Determination of the p roducts formed  
+2.2.2Study of intermediate formed  
+2.2.3 Study of catalyst  
+2.2.4 Stereochemical Evidence  
+2.2.5 Kinetic Evidence  
+2.2.6 Isotope Labelling  
+2.3 Isotopic Effects   
+ 
+Unit 3  Reactions, Mechanism and Applications of the Name Reactions:   (10 Hours)  
+3.1 Baeyer -villiger oxidation  
+3.2 Dakin reaction  
+3.3 Baker -venkataraman reaction  
+3.4 Reformatsky reaction  
+3.5 Robinson annulations  Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semester: II   
+Subject:  DSC -III- Organic Synthesis & Mechanism  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:   This course paper is about organic reaction mechanisms , which  are extremely 
+useful in predicting the products and improving the reaction efficiency. Rearrangement, Methods of 
+determining mechanism , Oxidation, Reduction, Chirality and Aromaticity.  
+Student learning outcome:  
+ At the end of the course students will be able to  learn ...about  
+• Rearrangement reaction to electron deficient carbon, nitrogen, oxygen and electro n rich 
+carbon atom.  
+• Name reaction, its mechanism and application.  
+• Aromaticity in benzenoid and non -benzenoid compounds.  
+• Kinetic and non -kinetic methods used for determination of reaction mechanism.  
+• Chirality in an organic compound,  
+• Draw stereoisomers in the 3 -dimensional conventions &  determining absolute configuration.  
+• Oxidation and reduction with different reagents . 
+ 
+
+==== PAGE 2 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+2 
+ 3.6 Cannizzaro reaction  
+3.7 Dieckmann reaction,  
+3.8 Perkin Reaction,  
+3.9 Stobbe condensation  
+3.10 Bischler  Napieralski reaction  
+3.11Witting rearrangement  
+  
+Unit 4  Oxidation                                                                  (08Hours)                                                          
+4.1 Oxidation of alcohol: Chromic acid, Chromium  (VI)oxide, pyridine complexes, 
+manganese (IV)oxide and silver carbonate  
+4.2 Oxidation to carbon - carbon double bonds: diols, epoxides, enantio selective epoxidation 
+of allylic alcohols, Synthetic reaction of epoxides and ozonolysis.  
+4.3 Oxidation of keton es; conversion into unsaturated ketones, oxidation of ketols  
+4.4 Oxidative degradation of acids, aromatic rings of phenols, Oxidation of amines  
+4.5 Oxidation with ruthenium tetroxide, Oxidation with thallium(III)nitrate,  
+4.6 Oppenauer oxidation  
+  
+Unit 5  Reduction                                                                                                     (06Hours)                
+5.1 Catalytic hydrogenation, selectivity of reaction of functional groups,   
+5.2 Stereochemistry mechanism,  
+5.3 Homogene ous hydrogenation,  
+5.4 Reduction by dissolving metals: reduction with metal and acid reduction of carbonyl   
+      compounds  
+5.5 Reduction with Metal in liquid ammonia (Birch reduction)  
+5.6 Reductive fission of alcohols and halides  
+5.7 Reduction by hydride transfer reagents:  
+5.8 Other methods : Wolf Kishner reduction, desulphurization of  thioacetals  
+ 
+Unit 6  Hammett Equation its Modification and Applications    (08Hours)                
+6.1 Linear free energy relationship  
+6.2 Hammett equation  
+6.3 Derivation of Hammett equation  
+6.4 Physical meaning of σ and ρ  
+6.5 Significance and modification of ρ  
+6.6 Applications of Hammett plots  
+6.7 Deviation from linearity   
+6.8 Thermodynamic implication of Hammett equation  
+ 
+Unit 7  Aromaticity                                                                                                      (06Hours)                
+7.1 Aromaticity and Huckel’s rule  
+7.2 Aromaticity in benzenoid and non -benzenoid compounds  
+7.3 Annulenes, fullerenes   
+7.4 Alternant and non -alternant hydrocarbons energy level of molecular orbitals  
+7.5 Anti aromaticity, homo aromaticity, non -aromatic compounds  
+ 
+
+==== PAGE 3 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+3 
+  
+ 
+Unit 8  Concept of Chirality          (06Hours)                
+8.1 Recognition of symmetry elements and chiral structures                                               
+8.2 Stereo isomerism, determining absolute configuration  
+8.3 Optical activity and optical purity  
+8.4 Resolution  
+8.5 Chiral crown ethers and cyclodextr ins 
+8.6 Conformation of carbocycles up to cyclodecane.  
+ 
+References:  
+1. Mechanism and structure in organic chemistry , E.S. Gould, Holt, Rinehart and Winston.  
+2. Advanced organic chemistry , J. March.  
+3. Physical organic chemistry , J. Hine.  
+4. Advanced orga nic chemistry Part A -Carey F. A. and Sundberg R. J. (Plenum Press).  
+5. Organic Chemistry , Clayden, Greeves, Warren and Wothers [Oxford Press].  
+6. Designing organic synthesis,  S. Warren, Willey  
+7 Some modern methods of organic synthesis, W. Carrathers, Cam bridege Univ. Press  
+8. Modern synthetic reaction, H.O. House, W. A. Benjamin.  
+9 Advanced organic reactions, reactions, mechanisms and structure, J. March, Wiley.  
+10. Principles of organic synthesis, R.O.C. Norman and J. M. Coxon, Blackie Academic and 
+Professional.  
+11. Advanced organic chemistry part -B, F, A. Carrey and R. J. Sundberg, Plenum  
+12 Organic reaction and their mechanisms, P. S. Kalsi, New Age International Publishers.  
+13. Protective groups in organic synthesis, T. W. Greene and P. G. M. Wuts , IInd Edition, 
+John Wiley and Sons 1991.  
+14. Organic synthesis: the disconnection approach, Sturant Warren, John Wiley and Sons.  
+15. Mechanism and structure in organic chemistry , E.S. Gould, Holt, Rinehart and Winston.  
+18 Advanced organic chemistry Part A , Carey F. A. and Sundberg R. J. (Plenum Press).  
+19. Organic Chemistry , Clayden, Greeves, Warren and Wothers [Oxford Press].  
+ 
+
+==== PAGE 4 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+4 
+       
+Program:  M.Sc. Organic Chemistry  Type : Theory  
+Semester:  II  
+Subject:  DSC - IV-CHEMISTRY OF NATURAL PRODUCTS  
+Credit : 04(T) + 02 (P)        Total learning hours:  60 
+Course description:  
+The course  will cover the diversity of  natural products  and their roles in biological systems, 
+the chemistry  and biosynthesis of the major  natural product classes  and the synthesis of 
+important  natural products . 
+The study -unit will expose students to the field of natural product chemistry with emphasis on 
+different classes of natural products including carbohydrates, proteins, terpenes and lipids. During 
+the study -unit, the discussion will focus on the occurrence, structure and chemical synthesis the 
+natural products. The study -unit will, in addition, give an understanding of the use of natural 
+products as starting materials in organic reactions .  
+Student learning outcome:  
+ At the end of the course students will be able to...  
+Learn the different types of alkaloids, glycosides & terpenes etc and their chemistry and medicinal 
+importance   
+• Explain the importance of natural compounds as lead molecules for new dr ug discovery  
+• Explain vitamins Chemistry and Physiological significance of Vitamin  
+• Elaborate general methods of structural elucidation of compounds of natural origin.  
+• Learn advanced methods of structural elucidation of compounds of natural origin.  
+• Understan d isolation, purification and characterization of simple chemical constituents from 
+the natural sources                
+ 
+ 
+ 
+ 
+ 
+Unit 1  Natural Pigments & Alkaloids                                                                     (06Hrs)   
+1.1  Natural Pigments and Porphyrins Derivatives  
+1.1.1  Porphyrins: General Structure, Synthesis and Spectral properties  
+1.1.2  Structural determination of Haemoglobin, Chlorophyll  
+1.1.3  Synthesis of crypto pyrrole, Phyto pyrrole, Opso pyrrole and their carboxylic ac id derivatives  
+1.2  Alkaloids  
+1.2.1  Classification and nomenclature of alkaloids  
+1.2.2  Structure elucidation of Morphine, Reserpine and their physiological properties    
+ 
+Unit 2  Steroids and Sex Hormone                                                                          (06Hrs)  
+2.1       Steroids  
+  2.1.1    Sterols, Spectral properties of steroids, stereo chemistry of the steroids  
+2.1.2 Structure determination of Cholesterols and ergosterol  
+2.1.3  Bile acids and structure of bile acids and structural elucidation  
+2.1.4  Synthesis of Cholanic acids (α, β)  
+2.2   Sex hormones  
+2.2.1  Classification of hormones  
+2.2.2  Structure and Synthesis of Androgens, Oestrogens and Gestrogen  
+2.2.3   Biochemical role of adrenocortical hormone,  
+2.2.4  Partial Synthesis of C ortisone  
+ 
+
+==== PAGE 5 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+5 
+ Unit 3   Terpenoids & Carotenoids                                                                     (10Hrs)                                             
+3.1       Terpenoids  
+3.1.1 Classification, nomenclature, occurrence, isolation  
+3.1.2 General methods of structure determination  
+3.1.3 Isoprene rule  
+3.1.4 Structural determination of Citral, Zingiberen  
+3.2       Carotenoids  
+     3.2.1    Introduction, geometrical isomerism  
+     3.2.2    Structure determination and synthesis of β -carotene and Vit -A 
+ 
+Unit 4  Amino -acids, P eptides and Proteins:                                                         (10Hrs)  
+4.1  Amino acids  
+4.1.1  Introduction and classification  
+4.1.2  General synthetic methods  
+4.1.3  Chemical and enzymatic hydrolysis of proteins to peptides, amino acid  
+4.2  Peptides  
+4.2.1  Introduction  
+4.2.2  General principle of polypeptide synthesis  
+4.2.3  Synthesis of peptides on solid support  
+4.3  Protein  
+4.3.1  Introduction, characteristics, classification  
+4.3.2  Secondary structure of proteins,  
+forces responsible for holding of secondary structures, α -helix, β -sheets  
+4.3.3  Tertiary structure of protein -folding and domain structure  
+4.3.4  Quaternary structure  
+4.3.5  Chemistry of oxytocin  
+ 
+Unit 5   Vitamins                                                                                                         (10 Hrs)  
+5.1  Introduction and structure determination of:  
+5.1.1  Vitamin -A 
+5.1.2  Vitamins B1& B2  
+5.1.3  Vitamin -H 
+5.1.4  Vitamins of K -group  
+     5.2  Biological functions of vitamin B1, B2, B6, folic acid, B12,  
+C, D1, E (α -tocopherol), K1, K2, H (β - biotin).  
+     5.3  Synthesis of  
+5.3.1  Vitamin B1 including synthesis of pyrimidine and thiazole moieties  
+5.3.2  Vitamin B2 from 3, 4 -dimethylaniline and D (-)ribose  
+5.3.3  Vitamin B6 from: 1) Ethoxy acetylacetone and cyano acetamide  
+      2) Ethyl ester of N - formyl -DL-alanine (Harris synthesis)  
+5.3.4  Vitamin E (α -tocopherol) from trimethylquinol and phytyl bromide  
+5.3.5  Vitamin K1 from 2 -methyl -1, 4-naphthaquinone and phytol.  
+ 
+ 
+
+==== PAGE 6 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+6 
+ Unit 6   Nucleic Acids                                                                                                  (04Hrs)  
+6.1 Purine and pyrimidine bases of nucleic acids, base pairing via H -bonding  
+6.2  Structure of ribonucleic acids (RNA) and deoxyribonucleic acids (DNA)  
+6.3  Double helix model of DNA  
+6.4  Chemical and enzymatic hydrolysis of nucleic acids  
+6.5  The chemical basis for heredity, and overview of replication of DNA,  
+transcription, functions of nucleotides  
+6.6  Chemical synthesis of DNA  
+ 
+Unit 7   Carbohydrates                                                                                             (06Hrs)  
+7.1        Introduction to naturally occurring sugars  
+7.2        Structure elucidation of lactose and D -Glucosamines  
+7.3        Structural features and applications of inositol, starch, cellulose, Chitin and heparin  
+ 
+Unit 8 Enzymes and Enzyme Models:                                                                 (08Hrs)  
+   8.1  Introduction  
+   8.2  Chemical and biological catalysis  
+   8.3  Mechanism of enzyme action: Transition state theory  
+   8.4  Catalytic power, specificity and regulation  
+   8.5  Nomenclature and classification  
+   8.6  Extraction and purification  
+   8.7  Fischer’s lock and key and Koshland’s induced fit hypothesis  
+   8.8  Enzyme kinetics, Michaelis –Menten and Lineweaver Burk plots  
+   8.9  Reversible and irreversible inhibition  
+   8.10  Enzymes in organic synthesis  
+8.11  Synthetic enzymes  
+References:  
+1. Chemi stry of Natural  Products  by Krishnaswamy N. R., Universities Press  
+2. Organic  Chemistry,  Natural  Products  -Vol. I by O.P. Agarwal, Krishna Prakashan Media (P) Ltd  
+3. Organic  Chemistry,  Natural  Products  -Vol. 2: by O.P. Agarwal Krishna Prakashan  Media (P) Ltd  
+4. Organic  Chemistry  of   Natural  Products  -Vol. I Revised 4th Edition by Chatwal Gurdeep R. 
+Himalaya Publishing House  
+5. Organic  Chemistry  of Natural  Products  Vol. 2: Revised 4th Edition by Chatwal Gurdeep R. 
+Himalaya Publishing House  
+6.  Stereochem istry and the Chemistry  Natural  Products,  5th Edition  by FINAR Pearson Education 
+India  
+7. Chemistry  of Natural  Products,  Vol. 1 by Ashutosh Kar CBS  
+8. Natural  Products:  Chemistry  and Applications  by Sujata V. Bhat, B. A. Nagasampagi, S. 
+Meenakshi, Narosa Publi shing House  
+9. Chemistry  of Natural  Products:  Amino  Acids,  Peptides  Proteins  and Enzymes  by V. K. Ahluwalia, 
+Lalita S. Kumar, Sanjiv Kumar, ANE Books  
+10. Natural  Products:  Chemistry,  Biochemistry  and Pharmacology  by Goutam Brahmachari  
+11. Total  Synthesis  of Natural  Products:  At the Frontiers  of Organic  Chemistry  by Springer  
+ 
+
+==== PAGE 7 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+7 
+          
+ 
+ Unit 1  Visible Spectroscopy          (06 Hours ) 
+ 
+1.1   Characteristics of electromagnetic spectrum  
+1.2   Origin of spectra and electronics transitions  
+1.3   Laws of absorption of radiation - Lambert & Beer’s law and its deviation  
+1.4   The architecture of a spectrophotometer  
+1.5       Calibration curve and standard addition method - multi component analysis  
+1.6       Applications of UV -visible spectroscopy  
+ 
+Unit 2   Atomic Absorption Spectrometry                (08 Hours ) 
+ 
+2.1       The history & principle of atomic absorption spectro scopy  
+2.2       AAS – Instrumentation  
+2.2.1    Radiation sources: line & continuum  
+2.2.2    Atomization techniques: FAAS & GFAAS  
+2.2.3    Wavelength selector: monochromator   
+2.2.4    Detector s: PMT  
+2.2.5    Single & double beam AAS  
+      2.3 Applications of atomic absorption spectrometry   
+ 
+   
+Unit 3   Optical Emission Spectrometry      (08 Hours ) 
+3.1       Introduction and principle  
+3.2       Atomic spectroscopic sources  
+3.3       Inductively coupled plasma - the discharge  Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semestre: II   
+Subject :   SEC -II- Instrumentation and Analytical Techniques  
+Credit:  Th (04) + Pr  (02)       Total learning hours: 60 
+Course description:  This Course Paper proposes to teach about Principle, Instrumentation and 
+Applications of various spectroscopy and chromatographic techniques ,  advanced instrumentation 
+techniques, chemical sensors and biosensors.   
+Student learning outcome:  
+ At the end of the course students will be able to... Learn  
+• The History, origin, laws, principles, theories, instrumental set up, its’ working mechanism, 
+various components and it’s working pattern, procedure of analysis and applications in the 
+various fi eld of analysis about:  
+• Visible Spectroscopy  
+• Atomic Absorption Spectrometry  
+• Optical Emission Spectrometry   
+• Advanced Instrumentation Techniques  
+• Gas Chromatography  
+• High Performance Liquid Chromatography  
+• Ion Exchange and Ion Exclusion Chromatography  
+• Chemical Sensors and Biosensors   
+
+==== PAGE 8 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+8 
+ 3.4       ICP-OES Instrumentation  
+3.4.1    Nebulizers  
+3.4.2    Spray Chambers  
+3.4.3    Sample introduction systems  
+3.4.4    Optics and the spectrometer  
+3.4.5 Emission detectors  
+3.5 Applications of ICP -OES  
+ 
+          Unit 4  Advanced Instrumenta tion Techniques     (06 Hours ) 
+ 
+    Principle, Instrumental set up  & Applications  of 
+ 4.1     Non dispersive IR  (gas analyzer ) 
+4.2      Modern elemental analyzer            
+4.3      Total organic carbon  analyzer     
+ 4.4       Mossbauer Spectroscopy  
+ 4.5       Turbidimetry  
+ 4.6       Naphelome try 
+ 
+Unit 5  Gas Chromatography                                                 (08 Hours)  
+ 
+5.1 Introduction of chromatography and principle of separation   
+5.2 Classification -GSC and GLC & its applications    
+5.3 Components of instruments: carrier gas,  
+sample injection system, stationary and mobile phase    
+5.4 Columns - packed column and  
+capillary column - WCOT, SCOT, PLOT    
+5.5 Detectors - FID, TCD, ECD, ASD   
+5.6 Principle and applications of GC -HS, GC-MS 
+  
+Unit 6  High Performance Liquid Chromatography  (08 Hours ) 
+ 
+6.1 Introduction, principle and types of HPLC   
+6.2 Components of instruments: pumps  
+high pressure, pneumatic, syringe, reciprocating, hydraulic   
+6.3 Sample injection system   
+6.4 Column   
+6.5 Detector: ultra violet light absorption, refractive index,  
+evaporative light scattering   
+6.6 Selective applications in separation and estimations   
+6.7 Principle and applications of LC -MS 
+ 
+ 
+ 
+  
+Unit 7  Ion Exchange and Ion Exclusion Chromatography  (08 Hours )   
+7.1 Ion exchangers – types, characteristics and properties   
+7.2 Ion exchange equilibrium and factors affecting it   
+7.3 Instrumental set up of IEC - columns and detector   
+
+==== PAGE 9 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+9 
+ 7.4 Principle, procedure and applications of IEC   
+7.5 Principle, working procedure and applications of Ion Exclusion 
+Chromatography :   
+7.5.1  
+7.5.2  
+7.5.3  Gel Permeation Chromatography  
+Ion Exclusion Technique  
+Inorganic Molecular Sieves  
+  
+Unit 8.  Chemical Sensors and Biosensors  (08 Hours ) 
+8.1 Definition and classification of sensors, Signal and noise   
+8.2 Efficiency of sensors, sensitivity and limit of detection   
+8.3 Principle and applications of   
+8.3.1  Electrochemical sensors   
+8.3.1.1  Coulometry & Potentiometry   
+8.3.1.2  Conductimetry & Amperometry   
+8.3.1.3  Polarography & Voltammetry   
+8.3.2  Solid state electrode & Mass sensitive sensors   
+8.3.3  Optical sensors & Thermal sensors   
+8.3.4  Biosensors & Biocatalytic biosensors   
+   
+References  
+1. Engineering Chemistry, P.C. Jain & Monica Jain, 17th Edition, Reprint 2011,  
+Dhanpatrai   Publishing Company (P) Ltd . 
+2. Handbook of  Analytical Instrument, R.S. Khandpur ,2nd Edition, Reprint 2009,  
+Tata McGraw Hill Publishers . 
+3. Instrumental Methods of Chemical Analysis  (Analytical Chemistry), H. Kaur,  
+8th Edition, 2012, Pragati Prakashan . 
+4. Basic Concepts of Analytical Chemistry, S.M. Khopkar, 3rd Edition, Reprint 2009,     
+New Age International (P) Limited, Publishers.  
+5. Analytical Instrumentation Handbook, Ewing’s, Edited by Jack Cazes,  
+3rd Edition, 2005, Marcel Dekker Publisher.  
+6. Instrumental Methods of Analysis, H.  H. Willard, L.  L. Meritt, J.A. Dean and  
+ F.A. Settle, 7th Edition,1986, CBS Publishers .  
+7. Instrumental methods of analysis, B.K. Sharma, 24th Edition, 2005,  
+Goel Publishing House . 
+8. Instrumental Analysis, D.A. Skoog, D.M. West, F.J. Holler and S.R. Crouch,  
+11th Edition, Reprint 2012, Cengage Learning.  
+9.   BIOS -Instant Notes -Analytical Chemistry, D. Kealey, P.J. Haines, 2002,  
+Viva    Books (P) Ltd.  
+           10.   Analytical Instrumentation, Bela G. Liptak, 1st Edition,1994, 1st Indian Reprint,      
+         2012, Chilton Book Company.  
+ 
+ 
+ 
+
+==== PAGE 10 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+10 
+ Unit 1: Forensic Chemistry and its Scope       (16 hrs)  
+1.1 Analysis of beverages:  
+Alcohol and Non - alcoholic, country made liquor, illicit liquor  
+1.2 Drugs of abuse: Introduction, Classification, Narcotic drugs &  
+Psychotropic substances, drugs of abuse in sports.  
+1.3 Brief Introduction to Drugs and cosmetic act, Excise Act, NDPS Act  
+1.4 Analysis of Gold and Other metals in cheating cases.  
+Unit 2: Examination of Petroleum Products       (14 hrs)  
+2.1 Distillation & Fractionation, various fraction and their commercial uses.  
+2.2 Standard methods of analysis of petroleum products for adulteration  
+2.3 Trap cases: purpose, examination of chemicals used in trap case  
+2.4 Cement: Composition, types and Forensic analysis, Mortar & Concrete  
+Unit 3:  Fires            (13 hrs)  
+3.1        Nature and Chemistry of fire, Classification  
+3.2        Igniters of fires, Phases of fires, Main types of fires  
+3.3  Examination of scene of fi res 
+3.4 Arson: Relevant IPC sections, Motives, Analysis of Accelerants  
+Unit 4: Explosives           (14 hrs)  
+4.1 Classification, Comparison & characterization of explosives  
+4.2 Military & Commercial explosives  
+4.3 Qualitative determination: Detection of Exp losophores (anions),  
+Detection of Black powder, Nitrocellulose and Dynamite,  
+4.4 Quantitative determination  
+Unit 5: Forensic Toxicology         (14 hrs)  
+5.1  Introduction, concept and Significance  
+5.2 Poisons: Definition, Classification of poisons  
+5.3 Types of poisoning sign and symptoms of poisoning  
+5.4 Mode of action, factors modifying the action of poisons  
+5.5 Toxicological exhibits in fatal and survival cases  
+5.6 Preservation Treatment in cases of poisoning  
+5.7 Analysis report  
+ 
+Unit 6: Extraction, Isolation and Clean -up procedures      (15 hrs)  
+6.1  Non-volatile organic poison  Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semester: II   
+Subject:   DSE-II- Forensic Chemistry & Toxicology  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:  This course paper intends to deal about the  Forensic  Toxicology , the branch 
+of science that applies the principles and knowledge of toxicology to issues and problems in the 
+field of law. To achieve this, techniques of analytical chemistry are combined with principles of 
+toxicology to address issues related to the toxic effects of substances on humans that are germane to 
+judicial procee dings. Analytical chemistry deals with the techniques and methods for determining 
+the identity and relative amounts of unknown components in a sample of matter.   
+Student learning outcome:  
+ At the end of the course students will be able to  learn ... 
+• Forensic chemistry and its scope,  
+• Examination of petroleum products, fires, explosives,  
+• Types of forensic toxicology, analysis, extraction, isolation and clean up procedures,  
+• Forensic examinati on of metallic poison and various organic -toxic compounds.  
+
+==== PAGE 11 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+11 
+ 6.2  Stas-otto, Dovbriey Nickolls (Ammonium sulphate) method, acid digest and 
+Valov(Tungstate) methods, Solid phase micro extraction techniques, Solvent extraction 
+methods  
+6.3 Volatile Poisons: Industrial solvent acid and basic Distillation  
+6.4 Toxic Cations: Dry Ashing and Wet digestion process  
+6.5 Toxic Anions: Dialysis method total alcoholic extract  
+Unit 7: General Study and Analysis        (13 hrs)  
+7.1 Barbiturates, methaqual one, Hydro morphine, Methadone, Meprobamate,  
+Mescaline, Amphetamines, LDS, Heroin, Cannabinoids, Phinothiazines  
+7.2 Insecticides: Types, General methods for their analysis  
+7.3 Alkaloids: Definition, classification, Isolation and General characterization.  
+7.4 Analysis of Ethyl Alcohol in blood and urine, illicit liquor, Methanol, Acetone,  
+Chloroform, Phenol  
+7.5 Snake venoms and Poisons, Irrespirable gases  
+7.6 Vegetable poisons, Opium, Abrus, Cynanogenetic glycosides, Dhatura, Marking nuts, 
+Nux-vomica, Olean der and Aconite  
+7.7 Forensic Pharmacological studies:  
+Absorption, Distribution, Metabolism, Pathways of drug metabolism  
+Unit 8:  Forensic Examination of Metallic Poisons       (14 hrs)  
+8.1 Absorption, Distribution, Metabolism, Pathways of metallic poison metabolism:  
+Arsenic, Mercury, Lead, Bismuth, Copper, Aluminium, Iron, Barium, Zinc.  
+References:  
+1. Vogel’s Textbook of Quantitative Chemical Analysis,  Maudham Bassett et.al; 6th 
+Edition, 2004,  Longman Essex . 
+2. Organic Chemistry Vol. II , I. L. Finar,  Pearson Education , Singapore . 
+3. Organic Chemistry, R.T. Morrison, R.N. Boyd; 6th Edition., 2003, Prentice Hall, New 
+Delhi . 
+4. Vogel Textbook of Practical Organic Chemistry, Brean S. Furniss et. al; 1998, 
+Addison Wesley Longman, Edinburg . 
+5. Medicinal Chemis try, A. Burger, Vol. II, 1970, Wiley Interscience, NY . 
+6. D. A. Skoog, D.M. West, F.J. Holler; Analytical Chemistry – An Introduction, 7th 
+Edition, 2000, Saunders College Pub. Philadelphia, USA .  
+7. Working Procedure Manual – Chemistry, Explosives and Narcotics,  2000, BPR&D 
+Pub.  
+8. Official and standardized Methods of Analysis , C.A. Watson,  1994, Royal Society of 
+Chemistry, UK . 
+9. Modi’s Medical Jurisprudence & Toxicology, 1988, M. M. Trirathi Press Ltd. 
+Allahab ad. 
+10. Forensic Science Hand Book, Vol I, II and III, Safers tein, R ., 1982, Pretince Hall, NI.  
+11.  Analytical Methods in Human Toxicology, Part II , Curry, 1986.  
+12.  Poison Detection in Human Organs  Curry, A.S., 1976 . 
+13.  Forensic Science, Handbook, Vol. I, II & III, Saferstien,  Prentice Hall Inc , USA . 
+14. Encyclopedia of Forensic Sciences Vol. I, II and III, J. A. Siegel, P.J Saukko, 2000, 
+Acad. Press . 
+ 
+ 
+
+==== PAGE 12 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry  
+SECOND SEMESTER  
+ 
+12 
+  
+ 
+Laboratory Practical  
+1. Estimation of mixture (Acid + Amide)  
+2. Estimation of mixture (Acid + Ester ) 
+3. Determination of Phenol in water sample by Spectrophotometer.  
+4. Determination of COD in water sample by Spectrophotometer.  
+5. Estimation of Sugar in natural sample by Spectrophotometer.  
+6. Identification of salts (cation /anion) by simple colour test and group analysis.  
+7. Identification of metals by simple c olour test and group analysis/ 
+spectrophotometer.  
+8. Identification of different vegetable poison by colour  test/chromatography etc.  
+9. Identification of insecticides and pesticides by TLC/ colour test.  
+10. Separation of Amino Acids using Thin Layer Chromatography.  
+11. Estimation of Vitamin C by Iodometric Titration  
+12. Preparation of Lineweaver Burk Plot for Amylaze Enzyme.  
+13. Qualitative Analysis of Carbohydrates.  
+ 
+ Reference s: 
+1. Standard Methods for Examination of Water & Wastewater , Andrew D. Eaton, 
+Lenore S. Clesceri, Eugene  W. Rice, Arnold Greenberg, 23rd Edition, 2017, published 
+by APHA, AWWA, WEF.  
+2. Official Methods of Analysis , Dr. William Harwitz, Dr. George W Latimer,  
+18th Edition, 2005, published by Association of Officiating Analytical Chemists 
+(AOAC).  
+3. Analytical Techniques in Agriculture, Biotechnology and Environmental Engineerin; 
+A. Nag; 1st Edition, 2006, Prentice Hall of India.  
+4. Laboratory Manual in Biochemistry – J. Jayaraman, 2011, New Age Publication.  
+5. Analytical  Chemistry, H. Kaur,  1st Edition, 201 3, Pragati Prakashan .  
+ 

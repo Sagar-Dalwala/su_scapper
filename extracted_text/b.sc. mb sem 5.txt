@@ -1,0 +1,492 @@
+---- PDF METADATA ----
+Author: PCD
+CreationDate: D:20220426151848+09'48'
+Creator: WPS Writer
+ModDate: D:20220426151848+09'48'
+SourceModified: D:20220426151848+09'48'
+Trapped: /False
+---- END METADATA ----
+
+Total Pages: 17
+
+==== PAGE 1 ====
+FacultyofScience
+SHREERAMKRISHNAINSTITUTEOFCOMPUTEREDUCATION
+ANDAPPLIEDSCIENCES,SURAT
+B.Sc.Microbiology
+Syllabus
+(Effectivefrom2021)
+M.T.BCollegeCampus,B/hP.T.ScienceCollege,Opp.Chowpati,
+Athwalines,Surat-395001Gujarat,India
+Contact:7228018498,728018499.Email:info@srki.ac.in
+
+==== PAGE 2 ====
+A.AboutB.Sc.MicrobiologyProgramme
+TheDepartmentofMicrobiologyofSRKIatSarvajanikUniversityrunsafulltimethree-
+yearprogramofsixsemesters,leadingtoawardofBachelorofScience(B.Sc.)degreein
+Microbiology.Thecurriculumisdesignedtotrainthestudentsinbasicandadvancedareasof
+Microbiology,keepinginmindthelatestadvancesinthefield.Particularemphasisislaidon
+thepracticalaspectsofthefield.Studentsaretaughthowtoplanexperiments,performthem
+carefully,analyzethedataaccurately,andpresenttheresultsboth,qualitativelyand
+quantitatively.ThestudentsareofferedbasicandadvancedlevelcoursesinMicrobial
+Diversity,MicrobialPhysiology,Virology,Immunology,Enzymology,Environmental
+Microbiology,Molecularbiology,RecombinantDNAtechnology,IndustrialMicrobiology,
+FoodMicrobiologyetc.Duringtheprogrammestudentswerealsoexposingtoindustrialand
+relevantfieldvisit.
+B.ProgrammeObjective
+TheobjectiveoftheB.Sc.Microbiologyistoequipthestudentstogainfundamental
+knowledgeandanalyticalskillsatanadvancedlevelinthefieldofmicrobiology.
+Theprogramemphasizestoapplyknowledgeacquiredaboutprokaryoticand
+eukaryoticcellularprocesses,interactionofmicroorganismsamongthemselves,with
+physicalandchemicalagentsandhigherorderorganismsinenvironmentand
+biologicalsystemstovariousconditions.
+Thelaboratorytraininginadditiontotheoryisincludedsothatthestudentswill
+acquiretheskillstoqualifyforthepositionsinindustry,clinicallaboratoryorfor
+furthereducationinaMasterprogram.
+C.Eligibility
+Thecandidatemusthavepassed10+2oranequivalentexaminationwithBiologyas
+oneofthesubjects.ORVocationalcourseinHomeScienceORDiplomain
+Pharmacy.ORThecandidatewhohaspassedequivalentexamfromothersubjectsor
+boardsneedtoavaileligibilitycertificateforthisprogrammefromtheBoardof
+Equivalence(BoE)oftheSarvajanikUniversity.B.Sc.Microbiology
+No. Contents
+AAboutB.Sc.MicrobiologyProgramme
+BProgrammeObjective
+CEligibility
+DCourseStructure
+EEvaluationScheme
+FSyllabus
+
+==== PAGE 3 ====
+D.B.Sc.MicrobiologyCourseStructure
+Sem Course
+TypeCourse
+CodePaperTitle Hour/WeekCredit
+Th Pr
+1 Core
+courseDSC-1 Introductiontomicrobiology&Microscopy 4 4 4+2
+DSC-2 Cellstructure&Anatomy 4 4 4+2
+Elective DSE-1 Biochemistry&Enzymology 2 - 2
+TDE-1 TransdisciplinaryElective 2 - 2
+PAECC PAECC-1 ProfessionalCommunication 2 - 2
+LifeSkills LifeSkills-1LifeSkills/NCC/NSS 2 - 2
+2 Core
+courseDSC-3 Nutrition&Growthofmicroorganisms 4 4 4+2
+DSC-4 MicrobialDiversity 4 4 4+2
+Elective DSE-2 MicrobialEcology 4 - 4
+TDE-2 TransdisciplinaryElective 2 - 2
+PAECC PAECC-2 EnvironmentalScience(UGC) 2 - 2
+LifeSkills LifeSkills-2LifeSkills/NCC/NSS 2 - 2
+3 Core
+courseDSC-5 Controlofmicroorganisms 4 4 4+2
+DSC-6 MicrobialTaxonomy 4 4 4+2
+SEC SEC-1 AppliedEnvironmentalMicrobiology 4 4 4+2
+Elective DSE-3 Food&DairyMicrobiology 2 - 2
+TDE-3 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-3LifeSkills/NCC/NSS 2 - 2
+4 Core
+courseDSC-7 EnvironmentalBiotechnology 4 4 4+2
+DSC-8 MicrobialPhysiology&metabolism 4 4 4+2
+SEC SEC-2 Biofertilizers,Biopesticides&Mushroom
+cultivation4 4 4+2
+Elective DSE-4 Nanosciences&Nanotechnology 2 - 2
+TDE-4 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-4LifeSkills/NCC/NSS 2 - 2
+5 Core
+CourseDSC-9 MolecularBiology 4 4 4+2
+DSC-10 FundamentalsofImmunology 4 4 4+2
+SEC SEC-3 Instrumentation&Techniques 4 4 4+2
+Elective DSE-5 Haematology&Bloodbanking 2 - 2
+TDE-5 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-5LifeSkills/NCC/NSS 2 - 2
+6 Core
+CourseDSC-11 MicrobialTechnology 4 4 4+2
+DSC-12 Health&Epidemiology 4 4 4+2
+SEC SEC-4 Essentialskillsincomputing 4 4 4+2
+Elective DSE-6 RecombinantDNATechnology 2 - 2
+TDE-6 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-6LifeSkills/NCC/NSS 2 - 2
+TotalCredit 136
+Note:DSC–DisciplineSpecificCore,DSE–DisciplineSpecificElective,PAECC–ProfessionalAbility
+EnhancementCompulsoryCourse,SEC-SkillEnhancementCourse,TDE-TransdisciplinaryElective
+
+==== PAGE 4 ====
+E.EvaluationScheme
+B.Sc.Microbiology
+Evaluation Criteria Theory Practical
+Sem–I&IISem–IIItoVI
+InternalContinuous&
+Comprehensive
+Evaluation(CCE)40 30 40
+Attendance 10 10 10
+Assignment 20 --
+InternalPracticalTest
+andViva-Voce-- 30 50
+ExternalExternalEvaluation 30 30 50
+Total100 100 150
+
+==== PAGE 5 ====
+Nameoffaculty:Science Department:Biotechnology
+Program:B.Sc.MicrobiologySem5 Type:DSE-9
+Subject:MolecularBiology
+Credit:04+02 Totallearninghours:60
+CourseDescription:
+Inculcatestrongfundamentalsonbasicandadvancedmolecularbiologyconcepts.Thisisa
+vitalcourseforthegraduatestudentswhichprovidesenhancedknowledgeonreplication,
+transcriptionandtranslationwiththeirregulatoryaspectsandalsoincludescontent
+impartingknowledgeaboutproteinmaturationandposttranslationalmodifications.
+StudentLearningOutcome:Aftercompletionofthiscoursethestudentswillbeableto
+understandthecentraldogmaofmolecularbiology.Furtherthesyllabuswillmainly
+elaboratethefollowingpoints
+●Coverstheconceptofgeneticcodesandtheirfeatures.Itexplainsmoreaboutthe
+transcriptionoccurringinBacteria,EukaryotesandArchaea.
+●Emphasizesonsynthesisofproteins,howaretheseproteinsmodeledtogivea
+correctform.Italsoexplainsfurtheraboutproteinmaturationandhowthese
+proteinsaretargetedtotheirdestinationonsecretion.
+●HighlightsaboutthelevelsofregulationinvolvedinRNAandproteinsynthesis.It
+givesinformationonprocesseslikesplicingandRNAediting.Itexplainsaboutthe
+roleofubiquitylationandchaperonmediatedproteinfolding
+●Providesinformationaboutregulationofgenesinvirusesadditionally.Ittalksmore
+aboutglobalregulatorysystems.
+Unit-1:DNAreplication (Duration:07Hrs)
+1.1GeneralfeaturesofDNAreplication
+1.2Replicationinprokaryotes
+1.3Replicationineukaryotes
+1.4Terminationofreplication
+1.5Regulationofreplication
+Unit-2:DNAmutationsandrepair (Duration:08Hrs)
+2.1Chemicalbasisofmutations
+2.2SpontaneousandInducedmutations
+
+==== PAGE 6 ====
+2.3Effectofmutations
+2.4DetectionandIsolationofmutants
+2.5DNArepair
+Unit–3Molecularrecombinationandgenetransfer-I
+(Duration:07Hrs)
+3.1Introductiontorecombinationandrecombinationineukaryotes
+3.2Horizontalgenetransferinprokaryotes
+3.3Recombinationatmolecularlevel
+3.4Transposableelements
+3.5Bacterialplasmids
+Unit–4Molecularrecombinationandgenetransfer-II
+(Duration:07Hrs)
+4.1BacterialConjugation
+4.2BacterialTransformation
+4.3Transduction
+4.4Developmentofantibioticresistanceinbacteria
+4.5Mappingthegenome
+Unit–5:Transcriptionandgeneticcode (Duration:08Hrs)
+5.1TranscriptioninBacteria
+5.2TranscriptioninEukaryotes
+5.3TranscriptioninArchaea
+5.4EstablishmentofGeneticCode
+5.5CharacteristicsofGeneticCode
+Unit–6:Translation (Duration:08Hrs)
+6.1tRNAandaminoacidactivation
+6.2RibosomeStructure
+6.3InitiationofProteinSynthesis
+6.4ElongationandTerminationofProteinSynthesis
+
+==== PAGE 7 ====
+6.5Proteinmaturationandsecretion
+Unit–7:Regulationofgeneexpression-I (Duration:08Hrs)
+7.1LevelsofRegulation
+7.2RegulationofTranscriptioninitiation
+7.3RegulationofTranscriptionelongation
+7.4RegulationofTranslation
+Unit-8:Regulationofgeneexpression-II (Duration:07Hrs)
+8.1Post-translationalRegulation
+8.2Globalregulatorysystems
+8.3RegulationofgeneexpressioninEukaryaandArchaea
+8.4GeneregulationinBacteriophageλ
+ReferenceBooks:
+Willey,J.M.,Sherwood,L.M.andWoolverton,C.J.(2008).Prescott,Harleyand
+Klein’sMicrobiology,7thEdition,McGrawHillInternationalEdition.
+Pal,J.K.andGhaskadbi,S.S.(2009).FundamentalsofMolecularBiology,Oxford
+UniversityPress.
+ListofPracticals
+1.Extractionofbacterialplasmidbyalkalinelysismethod
+2.ExtractionandPurificationofbacterialDNAusingspincolumn.
+3.Restrictiondigestionofplasmidvector.
+*************
+
+==== PAGE 8 ====
+Nameoffaculty:Science Department:Biotechnology
+Program:B.Sc.Sem5 Type:DSC-10:
+Subject:FundamentalsofImmunology
+Credit:04+02 Totallearninghours:60
+Coursedescription:
+Thepaperimpartsthefundamentalaspectsoftheprotectivedefencesystem
+mountedbythehostagainsttheforeignthreat/invadingharmfulagents.It
+encompassesvariouscomponentsandapproachesemployedbythehost
+defencesystemtoprovideprotectivestate–immunityagainstsuchinvading
+harmfulagents-pathogens.Itdiscussestheapplicationsthataredevisedusing
+thesecomponentsandapproachesincludingdiagnosis,treatments,therapy,
+prophylaxisetc.andalsoelucidatetheabnormalities/diseases/disorders
+arisingonaccountofimmunemalfunctioning.
+Studentlearningoutcome:
+Oncompletionofcoursestudentswillbeableto:
+●Understandtheimmunesystem,itscomponentsandtheiractionto
+providetheprotectivestatetothehostsystem.
+●Explainthesignificanceoffunctioningofinnateandadaptiveimmune
+systemsineradicatingpathogensorharmfulagents.
+●Explainhowtheprotectiveimmunesystemoncedevelopedinthehost
+lastsforlifetimeandactivelyworksinremovingtheantigenefficiently
+ateverymomentofattack.
+●Describeinteractionsoftheimmunecomponents(Ag-Ab/cell)ininvitro
+andinvivoconditions.
+●Applytheseinteractionsfordiagnostic,prognosticpurposesi.e.as
+diagnostictechniques,vaccines,treatmentsandcontrolofdiseasesand
+disorders.
+●Learnaboutthevariousconditionsahostmaygetexposedtoifthehost
+immunesystemdoesnotworkinaregulatedcontrolledmannerby
+studyingimmunerelateddiseasesanddisorders.
+Unit-1:IntroductionToImmunologyAndImmuneSystem:(Duration:06Hrs)
+1.1. HistoricalPerspectiveOfImmunology
+1.2. TypesOfImmuneSystem
+1.3. CellsOfImmuneSystem
+1.4. OrgansAndTissuesOfImmuneSystem
+
+==== PAGE 9 ====
+Unit-2:InnateImmunity (Duration:08Hrs)
+2.1Anatomic/PhysicalBarriers
+2.2ChemicalBarriers:(Cytokines,AntimicrobialPeptides,ComplementSystem,
+AcutePhaseProteins)
+2.3InflammatoryBarrier
+2.4PhagocyticBarrier(NLR,TLR,PRRs)
+Unit-3:SpecificImmunity (Duration:08Hrs)
+3.1FeaturesofAdaptiveImmunity
+3.2MHCComplex,CDSAndRecognitionofForeignness
+3.3T-cellBiology(TCRs,TCellActivation,TypesofTCells)
+3.4B-cellBiology(BCRs,BCellActivation)
+Unit-4:AntigensandAntigenProcessing (Duration:06Hrs)
+4.1ImmunogenicityV/SAntigenicity
+4.2FactorsInfluencingImmunogenicity
+4.3EpitopesandHaptens
+4.4AntigenProcessingandPresentation(CytosolicPathway,EndocyticPathway)
+Unit-5:Antibodies (Duration:09Hrs)
+5.1ImmunoglobulinStructure
+5.2ClassesofImmunoglobulin
+5.3AntibodyMediatedEffectorFunctions
+5.4AntibodyDiversity
+5.5ClonalSelection
+Unit-6:MonoclonalAntibodiesandAntigen-antibodyReactions
+(Duration:08Hrs)
+6.1MonoclonalAntibodies:(Production-HybridomaTechnology,Applicationsof
+MonoclonalAntibodies)
+6.2Precipitation
+6.3Agglutination
+6.4ELISA
+6.5RIA
+
+==== PAGE 10 ====
+6.6Immunofluorescence
+6.7Immunochromatography
+Unit-7:HypersensitivityandAutoimmuneDiseases (Duration:08Hrs)
+7.1Hypersensitivities
+7.2Autoimmunity(IDDM,TransplantationRejection)
+7.3ImmunodeficiencyDiseases(GeneralFeaturesofImmunodeficiency,Primary
+Immunodeficiency-SCID,SecondaryImmunodeficiency-HIVandAIDS)
+Unit-8:Vaccines: (Duration:07Hrs)
+8.1.ActiveV/SPassiveImmunization
+8.2.DesigningVaccines
+8.3.AttenuatedVaccines
+8.4.KilledVaccines
+8.5.SubunitVaccines
+8.6.RecombinantVectorVaccines
+8.7.DNAVaccines
+ReferencesBooks
+JanisKuby,Kindst,GatsbyAndOsborne,KubyImmunology–,6thEdition,W.H.
+FreemanPublications.ISBN-13-978-0716767640
+AshimChakravarty,ImmunologyAndImmunotechnology-OxfordUniversityPress,
+ISBN-13:978-0-19-567688-4
+JohnP.Harley,DonaldA.Klein,Microbiology-LansingPrescott,10thEdition,
+McgrawHillPublication.ISBN-13-978-1259281594
+KeithWilsonandJohnWalker,PrinciplesandTechniquesofBiochemistryand
+MolecularBiology,7thEdition,CambridgeUniversityPress.ISBN-978-0521178747
+A.KAbbas,A.Lichtman,S.Pillai,CellularandMolecularImmunology-,
+InternationalEdition,ISBN:978-1-4160-3122-2InternationalEditionISBN:978-0-
+8089-2358-9
+
+==== PAGE 11 ====
+ListofPractical
+1.ToperformDifferentialcountofbloodcells.
+2.TodetectHIVandHepatitisthroughELISA.
+3.TodiagnoseSalmonellainfectionthroughWidaltest.
+4.ToperformandanalysetheantigenquantitativelythroughMancini’stest.
+*************
+
+==== PAGE 12 ====
+Nameoffaculty:Science Department:Chemistry
+Program:B.Sc.MicrobiologySem5 Type:SEC-3
+Subject:InstrumentationandTechniques
+Credit:04+02 Totallearninghours:60
+Coursedescription:
+Thiscourseisconcernedwiththetheoryandpracticeofinstrumentalmethodsfortheseparation,
+identificationandquantitativeanalysis.
+Studentlearningoutcome:
+Uponcompletionofthiscourse,studentswill:
+Integrateafundamentalunderstandingoftheunderliningprinciples.
+Usekeyinstrumentaltechniquesforseparationandanalysis.
+Distinguishbetweenqualitativeandquantitativemeasurementsandbeabletoeffectively
+compareandcriticallyselectmethodsforanalyses.
+Unit-1:Introductiontoinstrumentalmethods (Duration:4Hrs)
+1.1Classificationofanalyticalmethods
+1.2Typesofinstrumentaltechniques
+1.3Basicfunctionsofinstrumentation
+1.4Instrumentsforanalysis
+1.5Factorsaffectingthechoiceoftechnique
+Unit-2:Potentiometry (Duration:08Hrs)
+2.1Generalprinciple
+2.2Referenceelectrode:Calomelelectrodeandsilver/silverchloride
+electrode
+2.3Membraneindicatorelectrode
+2.3.1Typesofmembrane
+2.3.2GlasselectrodeforpHmeasurement
+2.3.3Otherionselectiveelectrodes
+2.4Bio-catalyticmembraneelectrode
+Unit-3:Opticalmethodsofanalysis (Duration:10Hrs)
+3.1Originofspectra,interactionofradiationwithmatter,Beer-Lambert’s
+law
+3.2UV-VisibleSpectrometry:Basicprinciple,instrumentation(singleand
+doublebeaminstrument),application
+3.3InfraredSpectrometry:Basicprinciple,instrumentation(singleand
+
+==== PAGE 13 ====
+doublebeaminstrument),samplingtechnique,application
+3.4Atomicabsorptionspectrometry:Basicprinciplesofinstrumentation,
+choiceofflameandburnerdesigns,techniquesofatomizationand
+sampleintroduction
+Unit-4:Thermo-analyticalinstruments (Duration:06Hrs)
+4.1Theoryofthermogravimetry(TG)
+4.2Basicprincipleofinstrumentation
+4.3TechniquesforquantitativeestimationofCaandMgfrommixture
+4.4Applicationsandlimitations
+Unit-5:Chromatography:I (Duration:09Hrs)
+5.1Classification
+5.2Principleandefficiencyofthetechnique
+5.3PaperChromatography:Principles,procedures,developmentsof
+chromatogram-ascending,descendingandradial,applications
+5.4ThinlayerChromatography(TLC):Advantages,principles,adsorbents
+andsolventspreparationofplatesdevelopmentofthechromatogram,
+spotdetection,applications
+Unit-6:Chromatography:II (Duration:10Hrs)
+6.1Gaschromatography:Principles,stationaryandmobilephases,
+column,detectors(TCD,ECD,FID),applicationandlimitation
+6.2HPLC:Basicprinciple,instrumentation,detectors,application
+6.3Ionexchangechromatography
+6.4Gelfiltrationchromatography
+Unit-7:Electrophoresis (Duration:07Hrs)
+7.1Introduction
+7.2Typesofelectrophoresis
+7.3Principle
+7.4Application
+Unit-8:Radiochemicalinstruments (Duration:06Hrs)
+8.1Fundamentalsofradiochemicalmethods
+8.2Measurementofalphaparticles
+
+==== PAGE 14 ====
+8.3Measurementofbetaparticles
+8.4Measurementofgammaradiation
+8.5Isotopedilutionmethod:Principleandapplication
+ReferenceBooks:
+BasicConceptsofAnalyticalChemistrybyS.M.Khopkar
+ElementaryorganicspectroscopybyY.R.Sharma
+InstrumentalMethodsofAnalysisbyWillard,H.H
+PrinciplesofInstrumentalAnalysisbySkoog,HollerF.J.StanleyR.Crouch
+QuantitativeanalyticalchemistrybyJamesS.FritzGeorgeH.Schenk
+InstrumentalmethodsofChemicalanalysisbyGurdeepR.Chatwal
+InstrumentalMethodsofAnalysisbyWillard,Merritt,Dean,Settle
+ListofPracticals
+1.DeterminationofpHofsoil/aerateddrinks/fruitjuices/shampoos/soaps
+2.VerificationofLambert-Beer'slawanddeterminationofconcentrationofacoloured
+species(CuSO4/KMnO4/K2Cr2O7/Thiocyanatoiron(III))
+3.Separationandidentificationofthemonosaccharidespresentinthegivenmixture
+(glucose&fructose)bypaperchromatography
+4.Separationofgreenleafpigments/o-andp-nitrophenol/SudanyellowandSudanRed
+usingTLC
+5.Analysisofpre-recordedIRspectroscopicdataoforganiccompounds.
+*************
+
+==== PAGE 15 ====
+Unit-1:IntroductiontoHaematology (Duration:04Hrs)
+1.1CompositionofBlood
+1.2CollectionofBloodinLaboratory
+1.3Anticoagulants
+Unit-2:HaematologicalAnalysis (Duration:05Hrs)
+2.1EstimationofHaemolglobin(Cyanmethaemoglobinmethod)
+2.2TotalCountofWBCsandRBCs
+2.3DeterminationofErythrocyteSedimentationRate(ESR)
+2.4DifferentialcountofLeucocytes
+Unit-3:HaematologicalDisordersandHemostasis (Duration:05Hrs)
+3.1Anaemia
+3.2IntroductiontoHaemostasisandCoagulation
+3.3LaboratoryInvestigationsofBleedingDisorders
+3.3.1BleedingtimeDetermination:IvymethodNameoffaculty:Sciences Department:Microbiology
+Program:B.Sc.MicrobiologySem5 Type:DSE-5
+Subject:HaematologyandBloodBanking
+Credit:02 Totallearninghours:30
+Coursedescription:
+ThisisanadvancedcourseinHematologyandBloodBankingforB.Scstudents.Thiscourse
+isdesignedtohighlighttheimportantprinciplesandconceptsofhaematologicalandblood
+bankingandtherebyemphasisingontheoreticalaswellpracticalknowledgeinpreparation,
+handlingandtestingofvariousdiagnosticcriteriarelatedtoit.
+Studentlearningoutcome:
+Studentswillbebenefitedbyunderstandingthebasicconceptsofvarious
+routesofbloodcollection,mechanismofbloodcoagulationandvarioustypes
+ofanticoagulantusedinvitro
+StudentswillbeconceptualizedabouttheHaemoglobin,varioustypesof
+anemia,andclinicaldiagnosisrelatedtobloodcoagulation.
+StudentswillacquiretheunderstandingaboutbloodbankingbylearningABO
+andRhtyping,variouscompatibilitytestsandsignificanceinblood
+transfusion
+
+==== PAGE 16 ====
+3.3.2WholeBloodClottingtime:LeeWhitemethod
+Unit-4:Immunohaematology (Duration:04Hrs)
+4.1PrinciplesofImmunohaematology
+4.2BloodGroupGenetics
+4.3ABOBloodandRhGroupSystem
+Unit-5:IntroductiontoBloodBanking (Duration:02Hrs)
+5.1ClinicalsignificanceofBloodtransfusion
+5.2CollectionandprocessingofBloodfortransfusion
+5.3StorageofBlood
+Unit-6:BloodcomponentsandCompatibilitytests (Duration:04Hrs)
+6.1PreparationandUseofBloodcomponents
+6.2Compatibilitytesting
+6.3MajorandMinorCrossmathching
+Unit-7:BloodtransfusionandOtherCompatibilitytests (Duration:03Hrs)
+7.1AntihumanGlobulinTest
+7.2HemolyticDiseaseofNewborn(HDN)
+Unit-8:TransfusionReactionsandcomplications (Duration:03Hrs)
+8.1Transfusiontherapy
+8.2Apheresis/hemapheresis
+8.3AutomationisHaematology
+ReferenceBooks:
+BarbaraABrown(1988),Haematology:PrinciplesandProcedures,Lea&Febiger.(ISBN:
+9780812111255)
+GeoffDanielsetal,(2013),EssentialGuidetoBloodGroups,ThirdEdition,John
+Wiley&Sons,Ltd.,(ISBN:9781118688922)
+MukharjeeK.L.(1988),MedicalLaboratoryTechnology,VolI,TataMcGrawHill
+Publishing.(ISBN:0-07-463260-4)
+
+==== PAGE 17 ====
+OcheiJ.andKolhatkarA.(2000),MedicalLaboratoryScience–TheoryandPractice,
+TataMcGrawHillPublishing.(ISBN:0-07-463223)
+SRMehdi,(2013),EssentialsofBloodBanking,2ndEdition,JaypeeBrothers
+Medicalpublishers(p)ltd:(ISBN:978-93-80704-52-4)
+FurtherReading:
+ DeniseMHermening(2005),ModernBloodBankingandTransfusion
+Practices,6thEdi.,LibraryofCongressCataloging-in-PublicationData.(ISBN:
+9780803626829)
+ PrafulGodkarandDarshanGodkar(2014),TextbookofMedicalLaboratory
+Technology(Setof2Volumes),BhalaniPublishingHouse.(ISBN:
+9789381496190)
+ListofPracticals
+1.EstimationofHaemoglobin
+2.TotalcountofRBCs
+3.TotalcountofWBCs
+4.DifferentialcountofLeucocytes
+5.ABOandRhtyping(SlideMethod)
+***********

@@ -1,0 +1,982 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426101849Z
+---- END METADATA ----
+
+Total Pages: 23
+
+==== PAGE 1 ====
+SRKI
+MasterofScienceInformationTechnology
+34
+FacultyofScience
+ShreeRamkrishnaInstituteofComputerEducation&
+AppliedSciences,Surat
+M.Sc.InformationTechnology
+SEMESTER-2
+
+==== PAGE 2 ====
+SRKI
+MasterofScienceInformationTechnology
+35
+DSC-3MobileApplicationDevelopment–1
+CourseCode
+CourseTitle MobileApplicationDevelopment–1
+Credit 4
+TeachingperWeek 4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Tointroducethemostdemandingandroidopensource
+technology
+CourseObjective 1.Tomakestudentsunderstandadvancedconceptsofmobileapp
+technology.
+2.Tomakestudentsunderstandvariousinbuiltfeaturesofandroid.
+3.Tomakestudentsunderstandtheandroiddesignessentials.
+4.Tomakestudentsunderstandandroiduserinterfacedesignbasics.
+Prerequisite Pre-requisiteFundamentalsofwebtechnologiesandfundamentals
+relatedtomobileOS.
+CourseOutcome StudentswillhaveknowledgeaboutandroidwhichiswidelyusedMobile
+OSandopensourcetechnologyanditsconcepts.Variousfeaturesof
+androidlikeApplicationDesignEssentials,UserInterfaceDesign
+Essentials,UseofCommonAndroidAPIs,datastorageusingSQLiteand
+FirebaseanddeployingAndroidapplication.
+CourseContent Unit1:Introductiontoandroidandit’stoolchain
+1.1ArchitectureOfAndroidOS
+1.2AndroidDevelopmentTools
+1.2.1.AndroidSDKandSDKManager
+1.2.2.TheAndroidVirtualDevice,Emulator
+1.2.3.DalvikDebugMonitorService(DDMS)
+1.2.4.AndroidDebugBridge(ADB)
+Unit2:Android-KeyComponents
+2.1ComponentsOfAndroidApplication-Activities,Services,
+BroadcastReceivers,ContentProviders
+2.2DirectoryStructureofAndroidApplication
+2.2.1.AndroidManifest.xml
+2.2.2.Layouts&DrawableResources
+2.2.3ActivityJavafile
+2.2.4Gradle
+Unit3:LayoutandAdvancedUIDesign
+3.1.Layoutsanditsattributes-Linear,Relative,Constraint
+3.2.Scrollview
+3.3.Webview
+3.4.Seekbar,Ratingbar
+3.5.Recyclerview
+3.6.AlertDialog
+Unit4:NavigatingacrossApplication
+
+==== PAGE 3 ====
+SRKI
+MasterofScienceInformationTechnology
+36
+4.1.IntentandIntentFilters
+4.2.Menus-context,pop-up,options
+4.3.Tablayout
+4.4.NavigationDrawer
+4.5.Linkify
+Unit-5:UsingSharedpreferences
+5.1PurposeofSharedPreferences
+5.2SharedPreferenceModes
+5.3WritingtosharedPreferences
+5.4Methodsofeditorclass
+5.5ReadingfromSharedPreference
+Unit-6:PreservingandSavingdatainLocalDatabase
+6.1IntroductiontoSQLite
+6.2SqliteOpenHelperClass
+6.3SQliteMethods-ExecSQL,Rawquery,Insert,Update,Delete
+Unit7:HandlingDatawithFirebase
+7.1IntroductiontoFirebase
+7.2Firebase-EnvironmentalSetup
+7.3WritingDatatotheFirebase
+7.4Readingdata
+Unit8:WorkingwithotherResources
+8.1GeocodingandreverseGeocoding
+8.2Audio,VideoandUsingtheCamera
+8.2.1.PlayingandrecordingAudioandVideo
+8.2.2.WorkingwiththeCamera
+8.3PushNotification
+ReferenceBookss 1.ProfessionalAndroid4ApplicationDevelopmentRetoMeier,WROX
+Publication-2015
+2.AndroidforProgrammers-AnAppDrivenApproach,Deitel,Deitel,
+DeitelandMorgano,PearsonPublication-2012
+3.AndroidProgrammingUnleashed,Harwani,PearsonPublication-2013
+4.ProfessionalAndroidProgramming-withMONOMcClure,
+Blevins,Croft,DickandHardy,WileyIndia-2012
+5.Androidapplicationdevelopmentforjavaprogrammer,JamesC
+Sheusi,CenageLearning-2013
+6.AndroidEssentials,ChrisHaseman,ApressPublication,2009
+7.BeginningAndroid,MarkLMurphy,WileyIndiaPvtLtd,2009
+ProAndroid,SayedYHashimiandSatyaKomatineni,WileyIndiaPvt
+Ltd,APress-2009
+TeachingMethodology ThecourseiscomposedofLectures,assignmentsandagroupproject.
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,
+classtest,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 4 ====
+SRKI
+MasterofScienceInformationTechnology
+37
+DSC-4WebProgramming-2
+CourseCode
+CourseTitle WebProgramming-2
+Credit 4
+TeachingperWeek 4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse ToprovidecomprehensiveknowledgeaboutJavaScript-based
+frameworkbuiltonGoogleChrome'sJavaScriptV8Engine
+CourseObjective ToprovideknowledgeonhowtodevelopI/Ointensivewebapplications
+likevideostreamingsites,single-pageapplications,andotherweb
+applicationsusingNode.jsframework
+Prerequisite BasicunderstandingofJavaScript,HTML,CSSandAJAX
+CourseOutcome Aftercompletingthecoursethestudentwillgain:
+UnderstandingofNode.jsEnvironment
+KnowledgeofNodeModules
+Technicalknow-howsofFullStackNode.jsbaseddevelopment
+ApplicationofNode.jswebdevelopmentofreallifeapplication
+CourseContent Unit1:IntroductionNode.js
+1.1FeaturesandApplications
+11.1InstallingNode,NodeHostingEnvironments
+1.1.2NodeBuildingBlocks-GlobalandProcessobjects,
+buffers,TypedarraysandStrings,Streams,Callbacks
+andAsynchronous,EventHandling-EventQueue,
+EventEmitter,EventLoopandTimers,Nested
+Callback
+1.2ExceptionHandling.
+1.3REPLTerminal
+Unit2:NodeModulesandNodePackageManager(NPM)
+2.1OverviewofNodeModuleSystem
+2.2OverviewofNodePackageManager
+2.3OverviewofNodeVersionManager
+2.4CreatingandPublishingNodeModules
+2.5NodeModules-Async,CommanderandUnderscore,
+OAuth
+2.6OverviewofOtherUtilityModules
+Unit3:NodewiththeLocalSystemandtheWeb
+3.1StreamsandPipes
+3.2NodeandtheFileSystem-Thefs.Statsclass,TheFile
+SystemWatcher,FileReadandWrite,Directoryaccess
+andMaintenance,FileStreams
+3.3ResourceAccesswithPath
+
+==== PAGE 5 ====
+SRKI
+MasterofScienceInformationTechnology
+38
+Unit4:NodeandWebApplication
+4.1TheHTTPModule:ServerandClientusingAPACHEto
+proxyaNodeApplicationQueryStringParsingandDNS
+Resolution
+4.2RoutinginNodeJS
+4.3RoutingandCallbackfunction
+Unit5:NodeJSandMongoDB
+5.1NoSQLDatabaseMongoDB
+5.2MongoDBObjects
+5.3WorkingwithMongoDB-writingdata,querying,Indexes,
+MapReduce
+Unit6:Full-StackNodedevelopment
+6.1TheExpressApplicationFramework
+6.2ExpressSupportiveModules-Body-parser,Method
+Override
+6.3TemplateEnginesinNodeJS
+6.4IntegratingNodeJSandMongoDB
+6.5NODE.JSRESTfulAPI
+Unit7:EventManagementinNodeJS
+7.1EventClass
+7.2EventEmitterandMethods
+7.3EventListnerandEventHandlerinNodeJS
+7.4AsynchronusEventManagement
+Unit8:NodeinNewEnvironment
+8.1NextGenerationNodeJSFramework-Koa
+8.2WorkingofKoa
+8.3NodeJSandIoT
+8.4NodeandAdruino
+8.5NodeandRaspberryPi
+ReferenceBooks LearningNodeMovingtotheserversideShelleyPowers
+O’RellySPDPublication
+2.BulidingNodeApplicationswithMongoDBandBackbone
+MikeWilsonO’RellySPDPublication
+3.GEO,CouchDB&NodeJSMickThompsonO’RellySPD
+Publication
+4.WebDevelopmentwithNodeandExpress,EthanBrown,
+O’RellyPublication
+5.Node.jsinAction,AlexYoung,BradleyMeck,Mike
+Cantelon,TimOxley,MarcHarter,T.J.Holowaychuk,
+NathanRajlich
+TeachingMethodology Thecourseiscomposedofreadings,assignmentsandaclassproject.
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,
+classtest,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 6 ====
+SRKI
+MasterofScienceInformationTechnology
+39
+SEC-2AdvancedCloudProgramming
+CourseCode
+CourseTitle AdvancedCloudComputing
+Credit 4
+TeachingperWeek 4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofcourseistoestablishfoundationofmicro
+servicearchitecturetechnologiesandcloudcomputing
+CourseObjective TodevelopanddeployMicroservicesforcloud
+TounderstandAmazoncloudservices,Googlecloudservicesand
+Azurecloudservices
+ToimplementmicroserviceswithDevOps
+TofollowtheDevOpspracticesforsoftwaredevelopment
+Pr-requisite Fundamentalknowledgeofsoftwareengineering,programming,
+networking,internetandtypesofInformation
+CourseOutcome Aftercompletionofthecourse,astudentshouldbeableto:
+AchievecontainerizationusingDocker
+DeveloptheMicroservicesforcloudanddeploythemoncloud.
+ThoroughlybuildtheapplicationsintheDevOpsway.
+CourseContent Unit1FundamentalsofCloudComputing
+1.1EvolutionofCloudComputing
+1.2Cloudcharacteristicsandchallenges
+1.3CloudComputingEssentials
+1.4CloudComputingArchitecturalFramework
+1.5CloudDeploymentModels
+Unit2VirtualizationandContainerization
+2.1VirtualizationinCloudComputing
+2.2ParallelizationinCloudComputing
+2.3IntroductiontoContainerization
+2.3.1ConceptofContainerization
+2.3.2NeedofContainerization
+2.3.3ContainerizationandVirtualization
+Unit3CloudServiceModels&CloudBasedSystems
+3.1InfrastructureasaService(IaaS)
+3.1.1Servervirtualization
+3.1.2Storagevirtualization
+3.1.3Networkvirtualization
+3.2PlatformasaService(PaaS)
+3.2.1Azure
+3.2.2GooleAppEng
+3.2.3Hadoop
+3.2.4SalesForce
+3.3SoftwareasaService(SaaS)
+
+==== PAGE 7 ====
+SRKI
+MasterofScienceInformationTechnology
+40
+3.3.1Cloudservices
+3.3.2Webportal
+3.3.3WebOS
+Unit4:CloudInfrastructureandArchitectures
+4.1CloudComputingStack-Composability,Infrastructure,Platforms,
+VirtualApplications,CommunicationProtocols,Applications
+4.2CloudBasedStorage
+4.2.1ProvisioningCloudStorage-UnmanagedandManagedcloud
+storage,creatingcloudstoragesystems,virtualstoragecontainers
+4.3ServiceLevelAgreement
+4.4CloudSecurityConcepts
+4.5InterCloudCommunication
+Unit5EvolutionofMicroServicesArchitecture(MSA)
+5.1Currentarchitecturalstyles
+5.1.1Monolithicarchitecture
+5.1.2Serviceorientedarchitecture
+5.1.3Microservicearchitecture
+5.2Decomposition
+5.2.1Decomposebybusinesscapability
+5.2.2Decomposebysubdomain
+5.2.3Self-containedService
+5.2.3Serviceperteam
+Unit6MSA–DataandTransactionAspects
+6.1Datamanagement
+6.1.1DatabaseperService
+6.1.2Shareddatabase
+6.1.3Saga
+6.1.4APIComposition
+6.1.5CQRS
+6.1.6Domainevent
+6.1.7Eventsourcing
+6.2Transactionalmessaging
+6.2.1Transactionaloutbox
+6.2.2Transactionlogtailing
+6.2.3Pollingpublisher
+6.3FaultToleranceusingCircuitBreakerPattern
+Unit7MicroServiceswithDevOps
+7.1EmbracingDevOpsinMSA
+7.2EcologyofMSA
+7.3MicroServers
+7.4RestAPI
+7.5PackagingMicroServicesApplications
+7.6ContainerizationwithDocker
+7.7DockerClientCommands
+7.8DataCachingforMicroServices
+7.9ContainerOrchestrationandLoadBalancing
+
+==== PAGE 8 ====
+SRKI
+MasterofScienceInformationTechnology
+41
+7.10SecurityPropagationacrossMicroServices
+Unit8RealizingMSAbasedApplication
+8.1MicroProfilebasedApplicationforMSA
+8.2ServiceDiscoveryAPI
+8.3DeployingMSAbasedApplicationsoncloud.
+ReferenceBook 1.ProNewcomer&Lomow,“UnderstandingSOAwithWeb
+Services”,PearsonEducation,2007
+2.Bieberstein,Bose,Fiammante,JonesandShah“Service-Oriented
+Architecture(SOA)Compass”,PearsonEducation,2010
+3.ThomasErl,“Service-OrientedArchitecture:Concepts,Technology,
+andDesign”,PearsonEducation,2005.
+4.ThomasErl,“SOA:PrinciplesofServiceDesign“,Pearson
+Education,2009
+5.PulierandTaylor,“UnderstandingEnterpriseSOA”,DreamTech,
+2008
+6.MichaelHAvey,“SOAcookbook”,SPD,2008
+7.CloudComputing:PrinciplesandParadigms-R.Buyyaetal-Wiley
+2010
+8.CloudComputingBible-Sosinsky-Wiley-India,2011
+9.CloudComputingSecondEditionDr.KumarSaurabh-Wiley-India,
+2012
+10.BuildingMicroservicesPaperbackbySamNewman,SPDPress,2017
+11.MicroservicesforJavaEEArchitects:AddendumforTheJavaEE
+Architect'sHandbookbyDerekC.Ashmore,2017
+12.KubernetesMicroserviceswithDockerbyDeepakVohra,Apress
+Publication,2018
+13.DockerQuickStartGuide:LearnDockerlikeaboss,andfinallyown
+yourapplicationsbyEarlWaud,PACKTpublications,2018
+14.ApacheZooKeeperEssentialsbySauravHaloi,PACKTpublications,
+2015
+15.HazelcastACompleteGuide-2019EditionbyGerardusBlokdyk
+publication:5STARCooks,2019
+16.MicroservicesPatterns:WithexamplesinJavabyChrisRichardson,
+Publisher:ManningPublications,2018
+17.MicroservicesandContainers1stEditionbyParminderSingh,Kocher
+Publisher-Addison-WesleyProfessional,2018
+18.Hands-OnMicroserviceswithKubernetes:Build,deploy,andmanage
+scalablemicroservicesonKubernetes,byGigiSayfan,Packt
+Publications
+TeachingMethodology ThecourseiscomposedofLectures,assignmentsandagroupproject.
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,
+classtest,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 9 ====
+SRKI
+MasterofScienceInformationTechnology
+42
+DSC-2-1:CyberSecurityandForensics-2
+CourseCode
+CourseTitle CyberSecurityandComputerForensics-2
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/
+Revision-
+PurposeofCourseConceptualizethestudentswiththeconceptsofcomputerforensicsmethodology
+CourseObjectiveFamiliarizationwithdifferentobjectivesassociatedwithdifferentforensic
+techniques.Differentstagesofforensicinvestigationprocesslifecyclecanfocus
+onbroadideaoftheforensicprocess.
+Prerequisite BasicknowledgeofCybersecurity,Informationsecurity,computernetwork,
+operatingsystemsandhardwaremechanismofITperipherals.
+CourseOutcome1.Getfamiliarwithdifferentstagesofforensiclifecycle.
+2.Getawareaboutdifferentmethodologiesofforensicinvestigationprocess.
+3.Getequippedwithdifferentforensicinvestingtool.
+CouseDescriptionBasicterminologyassociatedwithforensicinvestigationprocess,types
+offorensictechnology,datarecovery,evidencecollectionanddata
+seizure,duplicationandpreservationofdigitalevidence,computerimage
+verificationandauthentication,reconstructingpasteventtocollect
+evidence.Moreoverforensicinvestigationprocessofcomputer,network,
+email,android,i-phone,printer,scanner,pdaetc.iscoveredassubject
+content.
+CourseContentUnit1:MobileapplicationSecurity
+1.1Issuesinmobiledevices
+1.2Securingmobileappdevelopment
+1.3Bluetooth&SMSsecurity
+1.4Android,IOS,WindowsMobilesecurity
+1.5EnterprisesecurityonmobileOS
+1.6MobileMalware’s
+1.7Mobileresourceprivacyconcern
+Unit2:Cloudstoragesecurity
+2.1Securityplanning
+2.2Securityboundaries
+2.3KeypointstoCSAModel
+2.4Understandingdatasecurity
+2.5Workingofbrokeredcloudstorageaccesssystem
+2.6Managingcloudoperations
+
+==== PAGE 10 ====
+SRKI
+MasterofScienceInformationTechnology
+43
+Unit3:Practical’s&CaseStudies
+3.1Variouscommands:ping,tracert,ipconfig,netstat,netstat,arp,nbtstat,
+hostname,tracert,nslookup,route,pathping
+3.2Usingvmware
+3.3Configuringandusingfirewall
+3.4SQLInjectionexamples
+3.5DOSAttackexamples
+Unit4:Forensicinvestigationtools
+1.1.E-discovery
+1.2.EDRMModels
+1.3.Autopsy
+1.4.Encrypteddiskdetector
+1.5.Networkminer
+1.6.Ramcapture
+1.7.Splunk
+1.8.FAW
+1.9.Xplico
+Unit5:Windowsforensic
+5.1Volatileandnonvolatiledatacollection
+5.2Registryanalysis
+5.3Browseranalysis
+5.4Filesystemandmetadataanalysis
+5.5Eventloganalysis
+5.6Crashdumpanalysis
+Unit6:Networkforensic
+6.1Understandingprotocolswithwireshark
+6.2Packetcaptureusingwiresharkandtcpdump
+6.3Packetfiltering
+6.4Investigatingnetworktraffic
+6.5Networkcomponentanalysis
+6.6Routerforensic
+6.7Networkloganalysis
+Unit7:Wirelessnetworkforensic
+7.1Forensicanalysisofhandhelddevices
+
+==== PAGE 11 ====
+SRKI
+MasterofScienceInformationTechnology
+44
+7.2Proliferationanddiversityofhandhelddevices
+7.3PersonalsecurityandRFID
+7.4GPSJamming
+7.5Capturingwirelesstraffic
+7.6Wearabledeviceforensic
+Unit8:Cloudforensics
+8.1Introductiontocloudforensic
+8.2ChallengesfacedbyCSPduetointernationallawenforcement
+8.3Cloudstorageforensicframework
+8.4GoogledriveandDropboxanalysis
+8.5Casestudy
+Reference
+Bookss1.ComputerforensicbyJohnR.Vacca,Firewallmedia,
+2.Computerforensic,Ninagodbole,sunitbelapure,wiley
+3.Wirelesscrimeandforensicinvestigation,Gregorykipper,Auerbach
+publication(TallorandFrancisgroup)
+4.Computerforensicandcybercrime3rdedition,byMarjieBritz,Pearson
+5.ComputerforensicinvestigationnetworkintrusionandcybercrimeEC
+Council,coursetechnology
+Teaching
+MethodologyThecourseiscomposedofLectures,assignmentsandagroupproject.
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 12 ====
+SRKI
+MasterofScienceInformationTechnology
+45
+DSC-2-2:UI/UXdevelopment
+CourseCode
+CourseTitle UI/UXDevelopment
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/
+Revision-
+PurposeofCourseThiscourseismakerelevant&upto-dateinthedigitalworldwiththe
+deepunderstandingofUX.Learntocreatepersuasiveuserexperience&
+getanedgeovertheothers.Itisdesign-centricapproachtouserinterface
+anduserexperiencedesign,andofferspractical,skill-basedinstruction
+centeredaroundavisualcommunicationsperspective.
+CourseObjectiveUIdesignisaboutthelookandfeelofthewebsiteorapplication.
+UXdesignimprovestheoverallexperienceoftheuserswhenthey
+interactwiththewebsiteorapplication.
+Prerequisite BasicKnowledgeofsoftwaredesigning&prototypingisrequired.
+CourseOutcomeOnsuccessfulcompletionofthissubject,astudentwillbeableto:
+Describeaspectsofuserinteractionandcognitionastheyrelateto
+UI/UX.
+ExplaintheroleandimportanceofStandards,Technologies,and
+GuidelinesintheUXprocessandUIprocess.
+Selectandapplyappropriatemethodsforanalysingadesign
+Selectandapplytherelevantdescriptivestatisticaltestsassociated
+withUX.
+Analyseproblemsassociatedwithdifferentdesignsandsuggests
+solutionsfortheirresolution.
+CourseDescription:TheUI/UXDesignbringsadesign-centricapproachtouserinterfaceand
+userexperiencedesign,andofferspractical,skill-basedinstruction
+centeredaroundavisualcommunicationsperspective,ratherthanonone
+focusedonmarketingorprogrammingalone.Inthissequenceofcourses,
+summarizeanddemonstratedifferentstagesoftheUI/UXdevelopment
+process,fromuserresearchtodefiningaproject’sstrategy,scope,and
+informationarchitecture,todevelopingsitemapsandwireframes.Students
+willlearnconventionsinUXdesignandapplythemtocreateeffectiveand
+compellingscreen-basedexperiencesforwebsitesorapps.
+
+==== PAGE 13 ====
+SRKI
+MasterofScienceInformationTechnology
+46
+CourseContentUnit1:UI/UXOverview
+1.1IntroductiontoUI/UX
+1.2Goodvs.BadUX
+1.3UXVs.UI
+Unit2:DesignThinking
+2.1Introductiontouserexperiencedesignprocess
+2.2Carryingoutuserresearchandreportfindings
+2.3Mappinguserjourneyandexperiencemaps
+2.4Creatinginformationarchitectureusingcardsorting
+Unit3:DesignSprint
+3.1DefineDesignSprint
+3.2PhasesofDesignSprint
+3.3RequirementtorunaDesignSprint
+3.4TeamDesignSprint
+Unit4:UserResearch
+4.1UXresearchsub-sets
+4.2Howtoidentifystakeholders
+4.2DefiningStakeholders
+4.3Howtoidentifyuserneeds
+4.4PrinciplesofUXresearch
+4.5InnovationManagement
+4.6CultureandDesign
+4.7SustainableDesign
+4.8AppliedErgonomics[HumanfactorprinciplesinUX]
+4.9ResearchwithEmpathyinmind
+Unit5:UIDesignFundamentals
+5.1UIprinciples&process
+5.2Typographyandimportanceofcontentdesign
+5.3Accessibility
+5.4Iconography
+5.5Graphics
+5.6designingwithdevelopmentinmind
+Unit6:UserTesting
+6.1.Usabilitytestingremotely&inperson
+6.2.Stepstoperformusabilitytesting
+6.3.A/Btesting
+6.4.lookingintoanalytics
+Unit7:UserManualDesigning
+7.1Userpersona’s[Structuringcontent]
+7.2UserJourneymaps
+
+==== PAGE 14 ====
+SRKI
+MasterofScienceInformationTechnology
+47
+7.3MakingaDecision
+7.3UserStories
+7.44-stepSketch
+7.5Low&Highfidelitywireframe
+7.6Usertesting
+Unit8:Wireframing&RapidPrototyping
+8.1Notion&FigmaSetup
+8.2Figmabasics
+8.3Figmaprototype
+8.4FigmaLayoutandGrayscale
+8.5TextColor,Font,icon&graphics
+8.6UIComponents
+8.7ResponsiveDesign
+8.8Testing&RefactoringDesign
+8.9Creatinganimpressiveportfolio
+ReferenceBookss1.UIisCommunicationByEverettNMcKay
+2.SimpleandUsableWeb,Mobile,andInteractionDesignByGiles
+Colborne
+3.DesigningInterfaces,ByJeniferTidwell,O’Reillypublication
+4.AboutFace:TheEssentialsofInteractionDesign,ByAlanCooper,
+RobertReimann,DavidCronin,ChristopherNoessel
+5.TheUXBook,ByRexHartsonandPardhaPyla
+6.SmashingUXDesign,ByJesmondAllenandJamesChudley
+Teaching
+MethodologyThecourseiscomposedofLectures,assignmentsandagroupproject.
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,
+classtest,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 15 ====
+SRKI
+MasterofScienceInformationTechnology
+48
+DSC-2-3:Researchincomputing
+CourseCode
+CourseTitle ResearchinComputing
+Credit 4
+TeachingperWeek 4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidays
+etc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableof
+implementing
+concepts,methodsandtoolrelatedtomachinelearning
+CourseObjective Tolearnaboutfundamentalsofresearchincomputerscience.
+Tolearnaboutresearchwork,researchwritingandemerging
+researchareasofcomputerscience.
+Prerequisite BasicsofComputerScience,MathematicsandStatistics
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapableto
+developmodelsandimplementpredictiveanalyticsonsocial
+mediaplatforms
+CourseContent Unit1:IntroductiontoResearch
+1.1Research:awayofthinking
+1.2TypesofResearch
+1.3ResearchProblem
+1.4Conductingaresearchstudy
+Unit2:LiteratureReviewandHypotheses
+2.1Howtoreviewtheliterature
+2.1.1SearchingLiterature
+2.1.2ReviewingLiterature
+2.1.3WritingaboutReviewedLiterature
+2.2Definitionofhypothesis
+2.3TypesandcharacteristicofHypothesis
+Unit3:ResearchMethodsandDataCollection
+3.1SurveyResearch
+3.2ObservationMethods
+3.3Methodsofdatacollection
+3.4ConceptofSampling
+3.5TypesofSampling
+3.6DeterminationofSampleSize
+Unit4:DataAnalysisandPresentation
+4.1Datagathering,validation,andanalysis
+4.2Userstudies,surveys,andsurveytools
+4.3StatisticalModelling
+4.4MathematicalModeling
+4.5Performancemetrics
+4.6Simulation
+
+==== PAGE 16 ====
+SRKI
+MasterofScienceInformationTechnology
+49
+4.7Presentationandtools
+Unit5:ProposingandPerformingResearch
+5.1Typesofpapers(survey,position,research,etc.)
+5.2Problemidentification
+5.3Literaturereviewandcitation
+5.4Identifyingsubjects
+5.5Selectingappropriatemethodology
+5.6Assessmentandvalidation
+Unit6:ConductofResearch
+6.1Ethics
+6.2Plagiarism
+6.3Intellectualproperty
+6.4Technicalwriting,formats
+Unit7:ResearchDomainsinComputing
+7.1ArtificialIntelligence
+7.2DataMiningandDataScience
+7.3MachineLearningandDeepLearning
+7.4ComputationalLinguistic
+7.5ImageProcessing
+Unit8:MultidisciplinaryResearch
+8.1InternetofThingsinMedical,AgriculturalandIndustrial
+Domains
+8.2ComputationalBiology:ComputationalGenomics,
+ComputationalProteomics,Bioinformatics
+8.3Education:Accreditation,Assessment,Pedagogy,
+EducationalTools
+8.4MolecularComputing:AlgorithmicSelf-Assembly,
+ChemicalReactionNetworks,DNAStrandDisplacement,
+DNASequenceDesign,ThermodynamicComputing
+8.5NetworkScience-ComplexNetworks,SocialNetworks
+8.6QuantumComputing:QuantumComplexityTheory,
+Post-QuantumCryptography,QuantumErrorCorrecting
+Codes
+ReferenceBookss 1.ResearchMethodology:MethodsandTechniques,C.R.
+Kothari,NewAgePublication
+2.QualitativeResearch:AGuidetoDesignandImplementation,
+4thEditionSharanB.Merriam,ElizabethJ.Tisdell,Jossey-
+BassPublication
+3.RESEARCHMETHODOLOGY2ndEdition,R.
+PANNEERSELVAM,PHILearning
+4.AGuideforNewRefereesinTheoreticalComputerScience,
+byIanParberry.
+5.Aprimeronmathematicalwriting,byStevenL.Kleiman
+6.AnEvolutionofComputerScience
+Research,https://www.cs.rpi.edu/research/pdf/12-03.pdf.
+7.AssociationofComputingMachineryComputingandPublic
+PolicyPage(includingCodeofEthics)
+8.Hintsongoodmathematicalwriting,byDavidGoss
+
+==== PAGE 17 ====
+SRKI
+MasterofScienceInformationTechnology
+50
+9.HowtodoResearchintheMITAILab,ed.DavidChapman
+10.HowtoPresentaPaperinTheoreticalComputerScience,by
+IanParberry.
+11.HowtowriteathesisinanExperimentalareaofComputer
+SciencebyDougComer.
+12.J.Zobel,WritingForComputerScience,NewYork:Springer-
+Verlag,1997.
+TeachingMethodology Thecourseiscomposedofreadings,assignmentsandaclasswork.
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,
+participation,classtest,quiz,assignment,seminar,internal
+examinationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 18 ====
+SRKI
+MasterofScienceInformationTechnology
+51
+DSC-2-4:MachineLearning
+CourseCode
+CourseTitle MachineLearning
+Credit 4
+TeachingperWeek 4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableofimplementing
+concepts,methodsandtoolrelatedtomachinelearning
+CourseObjective Tolearnaboutfundamentalsofmachinelearning.
+TolearnandimplementdifferenttypesofMLalgorithms.
+ToimplementandevaluatevariouscasestudiesofMachineLearning.
+Prerequisite BasicsofPythonProgrammingandBasicsofDataMining
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletodevelop
+modelsandimplementpredictiveanalyticsonsocialmediaplatforms
+CourseContent Unit1:IntroductiontoMachineLearning
+1.1TypesofLearning
+1.2MachineLearning
+1.3TypesofProbleminML
+1.4MachineLearningApplications
+1.5NewChallengesforML
+Unit2:AssociationLearning
+2.1ConceptofAssociationRule
+2.2Market-BasketAnalysis
+2.3SupportandConfidence
+2.4Algorithms
+2.4.1Apriori
+2.4.2FP-Growth
+Unit3:SupervisedLearning-Regression
+3.1LinearRegression
+3.2PolynomialRegression
+3.3LogisticRegression
+3.4EvaluationMetricsforRegression
+Unit4:SupervisedLearning-Classification
+4.1Classification:ExamplesandApplicationsNB,SVM.KNN
+Classifiers
+4.2DecisionTrees:C4.5,ID3,RandomForest
+4.3EnsembleClassifiers
+4.5EvaluationMetricsforClassification
+Unit5:ArtificialNeuralNetworks
+
+==== PAGE 19 ====
+SRKI
+MasterofScienceInformationTechnology
+52
+5.1NeuronsandbiologicalmotivationandDefiningANN
+5.2LayersandMultilayerPerceptron,weights,bias,
+ActivationFunction,Lossfunction,Epochs
+5.3Linearthresholdunits.Perceptrons:representational
+limitationandgradientdescenttraining.
+5.4TypesofNeuralNetwork-FeedForwardNeural
+Network,BackpropagationNeuralNetworkError
+calculationinANN
+5.5LearninginANNandLearningRate
+Unit6:UnsupervisedLearning
+6.1Learningfromunclassifieddata.Clustering.
+6.2HierarchicalAglomerativeClustering,k-means
+partitionalclustering.
+6.3Expectationmaximization(EM)forsoftclustering.
+Semi-supervisedlearningwithEMusinglabeledand
+unlableddata.
+6.4SelfOrganizingMaps
+6.5HiddenMarkovModels
+Unit7:ModelValidation
+7.1MLTechniquesoverview
+7.2ValidationTechniques(Cross-Validations)
+7.3FeatureReduction/Dimensionalityreduction
+7.4Principalcomponentsanalysis(Eigenvalues,Eigenvectors,
+Orthogonality)
+1.5Generalization,Overfitting,andUnderfitting,RelationofModel
+ComplexitytoDatasetSize
+Unit8:AdvancedMachineLearningConcepts
+8.1ReinforcementLearning
+8.2TransferLearning,
+8.3FederatedLearning
+ReferenceBookss 1.AIanMachineLearning,VinodChandraSS,Anans
+HareendranS.PHIPublication
+2.MachineLearningwithPython,AbhishekVijayvargia,BPB
+Publication
+3.MachineLearningHand-OnforDevelopersandTechnical
+Professionals,JasonBell,WileyPublication
+4.MachineLearningforBeginners:LearntoBuildMachine
+LearningSystemsUsingPython,HarshBhasin,BPB
+Publication
+5.MachineLearning-TomM.Mitchell,McgrewHill
+Publication
+TeachingMethodology Thecourseiscomposedofreadings,assignmentsandaclassproject.
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,
+classtest,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 20 ====
+SRKI
+MasterofScienceInformationTechnology
+53
+DSC-2-5:AdvancedPythonProgramming
+CourseCode
+CourseTitle AdvancedPythonProgramming
+Credit 4
+TeachingperWeek 4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableof
+fundamentalsofstatistics,mathematicsandpython
+programmingwithadvancedlibraries.
+CourseObjective Tolearnaboutfundamentalofadvancedcomputing
+Tolearnpythonprogrammingwithadvancedlibraries
+Prerequisite BasicsofMathematicsandComputerProgramming
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapableto
+understandfundamentalconceptsstatistics,probability,regression,
+mathematicsandoperationsofcomputingusingpython.
+CourseContent Unit1:FastArrayOperationswithNumpy
+1.1Creating,Accessing,broadcastingarrays
+1.2Mathematicaloperations
+1.3Calculatingthenorm
+1.4Reachingoptimalperformancewithnumexpr
+Unit2:PandasandAdvancedDatabaseOperations
+2.1Pandasfundamentals
+2.2IndexingSeriesandDataFrameobjects
+2.3Database-styleoperationswithPandas:Mappingand
+Grouping
+2.4Aggregationsandtransforms
+2.5Joining
+2.6GraphPlots
+Unit3:MatplotLibforDataVisualization
+3.1InstallationandSetup
+3.2BasicPlots
+3.3PlotingMutipleGraphsandSubplots
+3.4EmbeddingTextandExpressions
+3.5Savingthefigureindifferentformats
+Unit4:SeabornforDataVisualization
+4.1ImportingDatasetsandLibraries
+4.2Pie,bar,Scatter,HeatmapsinSeaborn
+4.3StyleingChartsusingSeaborn
+4.4SearbornMultipanelandFacetPlots
+Unit5:SciKitLearnandPredictionModels
+5.1BinaryandMulticlassClassification
+5.2PerformanceMeasures
+
+==== PAGE 21 ====
+SRKI
+MasterofScienceInformationTechnology
+54
+5.3NaiveBaysImplementation
+5.4TrainingandTestingSVMModels
+5.5TrainingandTestingDecisionTreeModels
+5.6EnsembleLearningandRandomForestModels
+5.7LinearandLogisticRegressionImplementation
+Unit6:TensorflowandDeepLearning
+6.1TensorDataStructure
+6.2TensorboardVisualization
+6.3TensorflowLinearRegression
+6.4SinglelayerPerceptronusingTensorflow
+Unit7:FlaskandWebApplicationBasics
+7.1FlaskFundamentals
+7.2WebApplicationandPageCreation
+7.3RoutinginFlask
+7.4HTTPMethodsinFlask
+7.5TemplatesandStaticFiles
+Unit8:DeployingapplicationusingFlaskandHeroku
+8.1CreatingthePythonFlaskExampleApplication
+8.2DeployingtheApplicationtoHeroku
+8.3UsingHerokuPipelinestoImplementaDeploymentWorkflow
+8.4ManagingEnvironment
+ReferenceBookss 1)DiscreteMathematics-SujitChavan,NandaniSakhare,HImalaya
+PublishingHouse
+2)ComputerOrientedStatisticalTechniques-DineshGabhane,
+MadhuriS.Banker,HImalayaPublishigHouse
+3)LinearAlgebrausingPython-ArchanaJadhav,NandiniSakhare,
+HimalyaPublishingHouse
+4)PythonDataScienceFORDummies-JohnPaulMueller,Luca
+Massaron-WileyPublication
+5)MatplotLibCookBook3.0ByAlexandreDevertPacktPublishing
+https://github.com/PacktPublishing/Matplotlib-3.0-
+Cookbook/tree/master/Chapter08
+6)HandsOnMachineLearningwithScikitLearnandTensorFlowO
+rellyPublicationAurelienGeronhttps://github.com/yanshengjia/ml-
+road/blob/master/resources/Hands%20On%20Machine%20Learning
+%20with%20Scikit%20Learn%20and%20TensorFlow.pdf
+7)DataScienceforBusiness,TomFawcett,FosterProvost,O’relly
+Publication
+8)PythonDataScienceHandbook,JakeVanderPlas,O’relly
+Publication
+9)CorePythonProgramming,NageshwarRao,dreamtechpress
+10)FlaskWebDevelopmentMiguelGrinberg,O’rellyPublication
+TeachingMethodologycourseiscomposedofreadings,assignmentsandaclassproject.
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,
+classtest,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 22 ====
+SRKI
+MasterofScienceInformationTechnology
+55
+205-Practical
+CourseCode 205
+CourseTitle Practical
+Credit 8
+TeachingperWeek 16Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+Review/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableof
+implementingconcepts,methods,toolsandtechniqueslearntin
+coursesofsemester1.
+CourseObjective Theobjectiveofthesecourseistoenablestudentstolearnpractical
+implementationofDSC-3,DSC-4,SEC-2andDSE-2.
+Pr-requisite Aspertheorypapersofsemester-2
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapableof
+performingpracticalapplicationofsubjectsgiveninsemester-2.
+CourseContent ThestudentswillberequiredtocarryoutpracticalonDSC-3,DSC-4,
+SEC-2andDSE-2usingthemethodsandtoolsdiscussedtherein.
+AJournalmustbepreparedforthepracticalworkdone.
+ReferenceBook AsperpaperDSC-3,DSC-4,SEC-2andDSE-2.
+TeachingMethodology LabWork
+EvaluationMethod 70%InternalassessmentisbasedonPracticalattendance,Problem
+Solving,internalexaminationetc.
+30%assessmentisbasedpracticalexaminationattheendofsemester.
+
+==== PAGE 23 ====
+SRKI
+MasterofScienceInformationTechnology
+56
+Semester3
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPracticalMarksDurationMarks
+DSC-5:InternetofThings4 4 30 70100
+DSC-6:GameDevelopment4 4 30 70 100
+SEC-3Elective-1 4 4 30 70 100
+DSE-3Elective-2 4 4 30 70100
+Practical 16 8 14060200
+16 24 600
+NOTE:Followingsubjectsarelistedaselectivesubjectsofsemester.
+ELECTIVESUBJECTS
+SEC-31.AdvancedJavaScriptFramework
+2.DataVisualization
+3.BlockchainTechnology
+4.ComputationalLinguistic
+5.SocialMediaMiningandAnalytics
+DSE-31.MobileApplicationDevelopment-2
+2.Bigdata&Analytics
+3.ArtificialNeuralNetworkandDeepLearning
+4.CyberLawandPractices
+Semester4
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPracticalDurationMarks
+401 DSC-7:Project/Dissertation 20 150350 500
+402 DSE-4Seminar
+Presentation/Reviewof
+publishedresearchpaper4 30 70 100
+Total= 24 600

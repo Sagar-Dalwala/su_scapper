@@ -1,0 +1,64 @@
+2025-05-20 13:50:23,411 - ERROR - Source directory not found: pdfs
+2025-05-20 13:50:37,993 - INFO - Found 62 DOCX files to move
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. chemistry sem.-iii_1.docx -> output\pdf_to_docx\b.sc. chemistry sem.-iii_1.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. chemistry sem.-ii_1.docx -> output\pdf_to_docx\b.sc. chemistry sem.-ii_1.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. chemistry-sem.-iv_1.docx -> output\pdf_to_docx\b.sc. chemistry-sem.-iv_1.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. chemistry-sem.-vi_1.docx -> output\pdf_to_docx\b.sc. chemistry-sem.-vi_1.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. chemistry-sem.-v_1.docx -> output\pdf_to_docx\b.sc. chemistry-sem.-v_1.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. mb sem 2.docx -> output\pdf_to_docx\b.sc. mb sem 2.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. mb sem 3.docx -> output\pdf_to_docx\b.sc. mb sem 3.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. mb sem 4.docx -> output\pdf_to_docx\b.sc. mb sem 4.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. mb sem 5.docx -> output\pdf_to_docx\b.sc. mb sem 5.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\b.sc. mb sem 6.docx -> output\pdf_to_docx\b.sc. mb sem 6.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\bsc_cs_sem-5.docx -> output\pdf_to_docx\bsc_cs_sem-5.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\bsc_cs_sem-6.docx -> output\pdf_to_docx\bsc_cs_sem-6.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\bsc_it_sem-5.docx -> output\pdf_to_docx\bsc_it_sem-5.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\bsc_it_sem-6.docx -> output\pdf_to_docx\bsc_it_sem-6.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\bt-ch-mb-sem1-merged.docx -> output\pdf_to_docx\bt-ch-mb-sem1-merged.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\M-sc- Clinical Embryology Semester -1.docx -> output\pdf_to_docx\M-sc- Clinical Embryology Semester -1.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\M-Sc- Clinical embryology Semester 2.docx -> output\pdf_to_docx\M-Sc- Clinical embryology Semester 2.docx
+2025-05-20 13:50:37,993 - INFO - Moved: output\pdfs\m.sc. biotech sem-2.docx -> output\pdf_to_docx\m.sc. biotech sem-2.docx
+2025-05-20 13:50:38,009 - INFO - Moved: output\pdfs\m.sc. biotech sem-3.docx -> output\pdf_to_docx\m.sc. biotech sem-3.docx
+2025-05-20 13:50:38,009 - INFO - Moved: output\pdfs\m.sc. biotech sem-4.docx -> output\pdf_to_docx\m.sc. biotech sem-4.docx
+2025-05-20 13:50:38,010 - INFO - Moved: output\pdfs\m.sc. biotechnology sem-1.docx -> output\pdf_to_docx\m.sc. biotechnology sem-1.docx
+2025-05-20 13:50:38,011 - INFO - Moved: output\pdfs\m.sc. genetics sem-2.docx -> output\pdf_to_docx\m.sc. genetics sem-2.docx
+2025-05-20 13:50:38,011 - INFO - Moved: output\pdfs\m.sc. genetics sem-3.docx -> output\pdf_to_docx\m.sc. genetics sem-3.docx
+2025-05-20 13:50:38,012 - INFO - Moved: output\pdfs\m.sc. genetics sem-4.docx -> output\pdf_to_docx\m.sc. genetics sem-4.docx
+2025-05-20 13:50:38,012 - INFO - Moved: output\pdfs\m.sc. mb sem 1.docx -> output\pdf_to_docx\m.sc. mb sem 1.docx
+2025-05-20 13:50:38,013 - INFO - Moved: output\pdfs\m.sc. mb sem 2.docx -> output\pdf_to_docx\m.sc. mb sem 2.docx
+2025-05-20 13:50:38,013 - INFO - Moved: output\pdfs\m.sc. mb sem 3.docx -> output\pdf_to_docx\m.sc. mb sem 3.docx
+2025-05-20 13:50:38,014 - INFO - Moved: output\pdfs\m.sc. mb sem 4.docx -> output\pdf_to_docx\m.sc. mb sem 4.docx
+2025-05-20 13:50:38,014 - INFO - Moved: output\pdfs\m.sc. medical bt sem-1.docx -> output\pdf_to_docx\m.sc. medical bt sem-1.docx
+2025-05-20 13:50:38,015 - INFO - Moved: output\pdfs\m.sc. medical bt sem-2.docx -> output\pdf_to_docx\m.sc. medical bt sem-2.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\m.sc. medical bt sem-3.docx -> output\pdf_to_docx\m.sc. medical bt sem-3.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\m.sc. medical bt sem-4.docx -> output\pdf_to_docx\m.sc. medical bt sem-4.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\m.sc. organic chemistry semester - iii_1.docx -> output\pdf_to_docx\m.sc. organic chemistry semester - iii_1.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\m.sc. organic chemistry semester - ii_1.docx -> output\pdf_to_docx\m.sc. organic chemistry semester - ii_1.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\m.sc. organic chemistry semester - iv_1.docx -> output\pdf_to_docx\m.sc. organic chemistry semester - iv_1.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\m.sc. organic chemistry semester - i_1.docx -> output\pdf_to_docx\m.sc. organic chemistry semester - i_1.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\m.sc.genetics sem-1.docx -> output\pdf_to_docx\m.sc.genetics sem-1.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_ac_sem-1-1-4.docx -> output\pdf_to_docx\msc_ac_sem-1-1-4.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_ac_sem-1-5-30.docx -> output\pdf_to_docx\msc_ac_sem-1-5-30.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_ac_sem-2.docx -> output\pdf_to_docx\msc_ac_sem-2.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_ac_sem-3.docx -> output\pdf_to_docx\msc_ac_sem-3.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_ac_sem-4.docx -> output\pdf_to_docx\msc_ac_sem-4.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_it_sem-1-1-6.docx -> output\pdf_to_docx\msc_it_sem-1-1-6.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_it_sem-1-7-33.docx -> output\pdf_to_docx\msc_it_sem-1-7-33.docx
+2025-05-20 13:50:38,016 - INFO - Moved: output\pdfs\msc_it_sem-2.docx -> output\pdf_to_docx\msc_it_sem-2.docx
+2025-05-20 13:50:38,027 - INFO - Moved: output\pdfs\msc_it_sem-3_1.docx -> output\pdf_to_docx\msc_it_sem-3_1.docx
+2025-05-20 13:50:38,027 - INFO - Moved: output\pdfs\msc_it_sem-4.docx -> output\pdf_to_docx\msc_it_sem-4.docx
+2025-05-20 13:50:38,028 - INFO - Moved: output\pdfs\msc_wmt_sem-1-1-6.docx -> output\pdf_to_docx\msc_wmt_sem-1-1-6.docx
+2025-05-20 13:50:38,028 - INFO - Moved: output\pdfs\msc_wmt_sem-1-7-33.docx -> output\pdf_to_docx\msc_wmt_sem-1-7-33.docx
+2025-05-20 13:50:38,029 - INFO - Moved: output\pdfs\msc_wmt_sem-2.docx -> output\pdf_to_docx\msc_wmt_sem-2.docx
+2025-05-20 13:50:38,030 - INFO - Moved: output\pdfs\msc_wmt_sem-3.docx -> output\pdf_to_docx\msc_wmt_sem-3.docx
+2025-05-20 13:50:38,030 - INFO - Moved: output\pdfs\msc_wmt_sem-4.docx -> output\pdf_to_docx\msc_wmt_sem-4.docx
+2025-05-20 13:50:38,031 - INFO - Moved: output\pdfs\NEP_BSc_CS_Sem1_Syllabus_CS_2024-25-1-16.docx -> output\pdf_to_docx\NEP_BSc_CS_Sem1_Syllabus_CS_2024-25-1-16.docx
+2025-05-20 13:50:38,031 - INFO - Moved: output\pdfs\NEP_BSc_CS_Sem2_Syllabus_CS_2024-25-17-29.docx -> output\pdf_to_docx\NEP_BSc_CS_Sem2_Syllabus_CS_2024-25-17-29.docx
+2025-05-20 13:50:38,032 - INFO - Moved: output\pdfs\NEP_Bsc_CS_Sem3_Syllabus_CS_2024-25.docx -> output\pdf_to_docx\NEP_Bsc_CS_Sem3_Syllabus_CS_2024-25.docx
+2025-05-20 13:50:38,033 - INFO - Moved: output\pdfs\NEP_Bsc_CS_Sem4_Syllabus_CS_2024-25.docx -> output\pdf_to_docx\NEP_Bsc_CS_Sem4_Syllabus_CS_2024-25.docx
+2025-05-20 13:50:38,033 - INFO - Moved: output\pdfs\NEP_BSc_IT_Sem1_Syllabus_IT_2024-25.docx -> output\pdf_to_docx\NEP_BSc_IT_Sem1_Syllabus_IT_2024-25.docx
+2025-05-20 13:50:38,034 - INFO - Moved: output\pdfs\NEP_BSc_IT_Sem2_Syllabus_IT_2024-25.docx -> output\pdf_to_docx\NEP_BSc_IT_Sem2_Syllabus_IT_2024-25.docx
+2025-05-20 13:50:38,035 - INFO - Moved: output\pdfs\NEP_Bsc_IT_Sem3_Syllabus_IT_2024-25.docx -> output\pdf_to_docx\NEP_Bsc_IT_Sem3_Syllabus_IT_2024-25.docx
+2025-05-20 13:50:38,035 - INFO - Moved: output\pdfs\NEP_Bsc_IT_Sem4_Syllabus_IT_2024-25.docx -> output\pdf_to_docx\NEP_Bsc_IT_Sem4_Syllabus_IT_2024-25.docx
+2025-05-20 13:50:38,035 - INFO - Moved: output\pdfs\pgdmlt sem-1 syllabus_1.docx -> output\pdf_to_docx\pgdmlt sem-1 syllabus_1.docx
+2025-05-20 13:50:38,035 - INFO - Moved: output\pdfs\pgdmltsem-2 syllabus_1.docx -> output\pdf_to_docx\pgdmltsem-2 syllabus_1.docx

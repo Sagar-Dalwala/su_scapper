@@ -1,0 +1,385 @@
+---- PDF METADATA ----
+Author: PCD
+CreationDate: D:20220426153613+10'06'
+Creator: WPS Writer
+ModDate: D:20220426153613+10'06'
+SourceModified: D:20220426153613+10'06'
+Trapped: /False
+---- END METADATA ----
+
+Total Pages: 13
+
+==== PAGE 1 ====
+FacultyofScience
+SHREERAMKRISHNAINSTITUTEOFCOMPUTEREDUCATION
+ANDAPPLIEDSCIENCES,SURAT
+B.Sc.Microbiology
+Syllabus
+(Effectivefrom2021)
+M.T.BCollegeCampus,B/hP.T.ScienceCollege,Opp.Chowpati,
+Athwalines,Surat-395001Gujarat,India
+Contact:7228018498,728018499.Email:info@srki.ac.in
+
+==== PAGE 2 ====
+A.AboutB.Sc.MicrobiologyProgramme
+TheDepartmentofMicrobiologyofSRKIatSarvajanikUniversityrunsafulltimethree-
+yearprogramofsixsemesters,leadingtoawardofBachelorofScience(B.Sc.)degreein
+Microbiology.Thecurriculumisdesignedtotrainthestudentsinbasicandadvancedareasof
+Microbiology,keepinginmindthelatestadvancesinthefield.Particularemphasisislaidon
+thepracticalaspectsofthefield.Studentsaretaughthowtoplanexperiments,performthem
+carefully,analyzethedataaccurately,andpresenttheresultsboth,qualitativelyand
+quantitatively.ThestudentsareofferedbasicandadvancedlevelcoursesinMicrobial
+Diversity,MicrobialPhysiology,Virology,Immunology,Enzymology,Environmental
+Microbiology,Molecularbiology,RecombinantDNAtechnology,IndustrialMicrobiology,
+FoodMicrobiologyetc.Duringtheprogrammestudentswerealsoexposingtoindustrialand
+relevantfieldvisit.
+B.ProgrammeObjective
+TheobjectiveoftheB.Sc.Microbiologyistoequipthestudentstogainfundamental
+knowledgeandanalyticalskillsatanadvancedlevelinthefieldofmicrobiology.
+Theprogramemphasizestoapplyknowledgeacquiredaboutprokaryoticand
+eukaryoticcellularprocesses,interactionofmicroorganismsamongthemselves,with
+physicalandchemicalagentsandhigherorderorganismsinenvironmentand
+biologicalsystemstovariousconditions.
+Thelaboratorytraininginadditiontotheoryisincludedsothatthestudentswill
+acquiretheskillstoqualifyforthepositionsinindustry,clinicallaboratoryorfor
+furthereducationinaMasterprogram.
+C.Eligibility
+Thecandidatemusthavepassed10+2oranequivalentexaminationwithBiologyas
+oneofthesubjects.ORVocationalcourseinHomeScienceORDiplomain
+Pharmacy.ORThecandidatewhohaspassedequivalentexamfromothersubjectsor
+boardsneedtoavaileligibilitycertificateforthisprogrammefromtheBoardof
+Equivalence(BoE)oftheSarvajanikUniversity.B.Sc.Microbiology
+No. Contents
+AAboutB.Sc.MicrobiologyProgramme
+BProgrammeObjective
+CEligibility
+DCourseStructure
+EEvaluationScheme
+FSyllabus
+
+==== PAGE 3 ====
+D.B.Sc.MicrobiologyCourseStructure
+Sem Course
+TypeCourse
+CodePaperTitle Hour/WeekCredit
+Th Pr
+1 Core
+courseDSC-1 Introductiontomicrobiology&Microscopy 4 4 4+2
+DSC-2 Cellstructure&Anatomy 4 4 4+2
+Elective DSE-1 Biochemistry&Enzymology 2 - 2
+TDE-1 TransdisciplinaryElective 2 - 2
+PAECC PAECC-1 ProfessionalCommunication 2 - 2
+LifeSkills LifeSkills-1LifeSkills/NCC/NSS 2 - 2
+2 Core
+courseDSC-3 Nutrition&Growthofmicroorganisms 4 4 4+2
+DSC-4 MicrobialDiversity 4 4 4+2
+Elective DSE-2 MicrobialEcology 4 - 4
+TDE-2 TransdisciplinaryElective 2 - 2
+PAECC PAECC-2 EnvironmentalScience(UGC) 2 - 2
+LifeSkills LifeSkills-2LifeSkills/NCC/NSS 2 - 2
+3 Core
+courseDSC-5 Controlofmicroorganisms 4 4 4+2
+DSC-6 MicrobialTaxonomy 4 4 4+2
+SEC SEC-1 AppliedEnvironmentalMicrobiology 4 4 4+2
+Elective DSE-3 Food&DairyMicrobiology 2 - 2
+TDE-3 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-3LifeSkills/NCC/NSS 2 - 2
+4 Core
+courseDSC-7 EnvironmentalBiotechnology 4 4 4+2
+DSC-8 MicrobialPhysiology&metabolism 4 4 4+2
+SEC SEC-2 Biofertilizers,Biopesticides&Mushroom
+cultivation4 4 4+2
+Elective DSE-4 Nanosciences&Nanotechnology 2 - 2
+TDE-4 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-4LifeSkills/NCC/NSS 2 - 2
+5 Core
+CourseDSC-9 MolecularBiology 4 4 4+2
+DSC-10 FundamentalsofImmunology 4 4 4+2
+SEC SEC-3 Instrumentation&Techniques 4 4 4+2
+Elective DSE-5 Haematology&Bloodbanking 2 - 2
+TDE-5 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-5LifeSkills/NCC/NSS 2 - 2
+6 Core
+CourseDSC-11 MicrobialTechnology 4 4 4+2
+DSC-12 Health&Epidemiology 4 4 4+2
+SEC SEC-4 Essentialskillsincomputing 4 4 4+2
+Elective DSE-6 RecombinantDNATechnology 2 - 2
+TDE-6 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-6LifeSkills/NCC/NSS 2 - 2
+TotalCredit 136
+Note:DSC–DisciplineSpecificCore,DSE–DisciplineSpecificElective,PAECC–ProfessionalAbility
+EnhancementCompulsoryCourse,SEC-SkillEnhancementCourse,TDE-TransdisciplinaryElective
+
+==== PAGE 4 ====
+E.EvaluationScheme
+B.Sc.Microbiology
+Evaluation Criteria Theory Practical
+Sem–I&IISem–IIItoVI
+InternalContinuous&
+Comprehensive
+Evaluation(CCE)40 30 40
+Attendance 10 10 10
+Assignment 20 --
+InternalPracticalTest
+andViva-Voce-- 30 50
+ExternalExternalEvaluation 30 30 50
+Total100 100 150
+
+==== PAGE 5 ====
+F.Syllabus
+Unit-1:FundamentalprinciplesofBacterialGrowth (Duration:10Hrs)
+1.1BacterialCellCycle
+1.2BinaryFission
+1.3PeptidoglycanBiosynthesis
+1.4Therateofpopulationgrowth
+1.5Thepopulationgrowthcurve
+1.6Continuousculture
+Unit-2:Nutritionalrequirementsofmicroorganisms (Duration:07Hrs)
+2.1MacroelementsandMicroelementsrequiredbymicroorganisms
+2.2Chemicalanalysisofmicrobialcytoplasm
+2.3SourcesofEssentialNutrients
+2.4Nutritionaltypesofmicroorganisms
+Unit-3:Transportofnutrients (Duration:10Hrs)
+3.1ThemovementofmoleculesNameoffaculty:Science Department:Microbiology
+Program:B.ScMicrobiologySem2 Type:DSC-3
+Subject:NutritionandGrowthofMicroorganisms
+Credit:04 Totallearninghours:60
+Coursedescription:Thissubjectprovidesknowledgeaboutthenutritionalrequirements
+ofmicroorganismsandhowthosenutrientsaretransportedinsidethecell.Additionally,it
+alsoinculcatestheinformationaboutthegrowthpatternandmeasurementof
+microorganisms,mediausedforvariouspurposesalongwiththeiringredientsalongwith
+themethodsandfactorstobeconsideredforculturingmicrobesinthelaboratory
+conditions.
+Studentlearningoutcome:Thiscoursemakesthestudentthoroughwiththeprinciples
+forgrowingmicroorganisms.Aftercompletionofthiscourse,theycanhaveknowledge
+of:
+Nutrientsarerequiredbydifferenttypesofmicroorganism.
+Principlesofmicrobialgrowth
+Howtopreparemediaandgrowmicrobesinthelaboratory.
+Measurementofmicrobialpopulation.
+
+==== PAGE 6 ====
+3.2Adaptationstoosmoticvariationsintheenvironment
+3.3MechanismofNutrientTransport:Passive,FacilitatedDiffusion,Active
+Transport,GroupTranslocation&IronUptake
+Unit-4:MediaforMicrobialCultivation (Duration:08Hrs)
+4.1MediaIngredients
+4.2PreparationofMedia
+4.3ClassificationandTypesofMedia:Physical,ChemicalandFunctional
+4.4Mediafordifferentpurpose
+Unit-5:CultivationofBacteria&Pureculturetechniques (Duration:06Hrs)
+5.1Definitions
+5.2TechniquesofIsolation,InoculationandIncubationofBacteria:StreakPlate,
+SpreadPlate,PourPlateandEnrichment
+5.3CultivationofAerobesandAnaerobes
+5.4Microbialgrowthonsolidmedia
+Unit-6:GrowthofFungiandProtozoa (Duration:06Hrs)
+6.1FungalNutrition
+6.2FungalIdentificationandCultivation
+6.3BiologyofProtozoa
+6.3.1NutritionandHabitatRange
+6.3.2LifeCyclesandReproduction
+Unit-7:Environmentalfactorsaffectinggrowthofmicroorganisms(Duration:07Hrs)
+7.1Temperature
+7.2OxygenConcentration
+7.3pH
+7.4SoluteandWaterActivity
+7.5Pressure&Radiations
+7.6Microbialgrowthinnaturalenvironments:OligotrophicEnvironments,
+Biofilms,Cell-cellcommunicationwithinmicrobialpopulations,Interdomain
+communication.
+Unit-8:MeasurementofMicrobialPopulation (Duration:06Hrs)
+8.1DirectMethodsRequiringIncubation
+8.2DirectMethodsNotRequiringIncubation
+
+==== PAGE 7 ====
+8.3IndirectMethodsofMicrobialPopulationMeasurement
+ReferenceBooks:
+AtlasR.M.(2004).HandbookofMicrobiologicalMedia.CRCPress.(ISBN:0-8493-
+1818-1).
+BaumanR.W.(2012).MicrobiologywithDiseasesbyBodySystems3rdEd.Pearson.
+ISBN:(978-0-321-73267-5)
+CowanK.M.andSmithH.(2018).Microbiology-ASystemsApproach5thEd.Mc
+GrawHillEducation(ISSN:978-1-259-70661-5).
+H.A.Modi.HandbookofElementaryMicrobiologyVol.1.AktaPrakashan.
+MadiganM.etal.,(2015)BrockBiologyofMicroorganisms14thEd.Pearson
+EducationLtd.(ISBN978-0-321-89739-8).
+WilleyJ,SherwoodIandWoolverton(2014).Prescott’sMicrobiology9thEd.Mc
+GrawHillEducation(ISBN:978-0-07-340240-6).
+FurtherReading:
+Pelczar,ChanandKrieg(2001).Microbiology-ConceptsandApplications5thEd.
+TataMcGrawHillPublishingCompanyLtd.(ISBN-13:978-0-07-462320-6).
+SalleA.J.(1984)FundamentalPrinciplesofBacteriology,7thEd.TataMcGrawHill
+PublishingCompanyLtd.(ISBN:0-07-099-562-1).
+ListofPracticals
+1PreparationofNutrientbrothandNutrientAgarslantsandplates.
+2IsolationTechniques:StreakPlate,SpreadPlateandPourPlatemethods.
+3Demonstrationofselectiveanddifferentialmedia:MacConkeyAgar,EMBAgar.
+4EnumerationofbacteriabyHeterotrophicplatecountmethod(HPC)
+5Effectoftemperatureongrowthofmicroorganisms
+6EffectofpHofthemediumongrowthofmicroorganisms
+7Effectofosmoticpressureongrowthofmicroorganisms
+8Demonstrationofmeasurementofmicroorganismsbymicrometry.
+************
+
+==== PAGE 8 ====
+Unit-1:IntroductiontoMicrobialWorld (Duration:08Hrs)
+1.1MembersoftheMicrobialWorld
+1.2MicrobialEvolution
+1.3ProkaryoticVersusEukaryoticMicroorganism
+Unit-2:DiversityofBacteria (Duration:08Hrs)
+2.1Cyanobacteria
+2.2MicroorganismsinPhyllosphere,RhizosphereandRhizoplane
+2.3Nitrogen-FixingBacteria,Agrobacterium
+2.4Extremophiles.
+Unit-3:Mycology (Duration:08Hrs)
+3.1Fungi:Structure,DistributionandImportance
+3.2FungalReproduction
+3.3Endomycorrhizae
+3.4Ectomycorrhizae
+3.5ArbuscularNameoffaculty:Science Department:Microbiology
+Program:B.Sc.MicrobiologySem2 Type:DSC-4
+Subject:MicrobialDiversity
+Credit:04 Totallearninghours:60
+Coursedescription:
+Thiscourseoffersmajorsinformationaboutremarkableenvironmentalandmetabolicdiversityof
+prokaryotic,eukaryoticmicroorganismsandsomeviruses.Majortopicscoveringinclude
+informationaboutmicrobialworld,diversityofbacteria,mycology,phycology,virology,
+protistologyandsomemulticellularparasites.Asvariousmicrobesthrivethroughoutthe
+biosphere,thispaperwilldefinethelimitsoflifeandcreatingconditionscontributingforthebetter
+survivalofotherlivingformsinuniverse.
+Studentlearningoutcome:
+Studentswillexpandknowledgeabouteventsofevolutionanddiversegroupofmicrobes
+Completeawarenessaboutmajorgroupoforganismincludingbacteria,fungi,algae,
+protozoa,viruses,andsomeparasites.
+Expandedknowledgewillbegainwithrespecttomicrobialcellstructureandreproduction
+systems.
+
+==== PAGE 9 ====
+Unit-4:Phycology (Duration:08Hrs)
+4.1IntroductiontoPhycology
+4.2Characteristicsofalgae
+4.3Algae:similaritiesandDiversities
+4.4Occurrenceanddistributionofalgae
+4.5Reproductioninalgae
+Unit-5:FundamentalsofVirology (Duration:08Hrs)
+5.1VirionStructure
+5.2ViralMultiplication
+5.3TypesofViralInfections
+5.4ViroidsandSatellites
+5.5Prions
+Unit-6:EssentialsofVirology (Duration:08Hrs)
+6.1Cultivationofviruses
+6.2Bacteriophage:T4andLambda
+6.3ArchaealViruses
+6.4TobaccoMosaicVirus
+6.5Poliovirus
+Unit-7:Protistology (Duration:08Hrs)
+7.1Overviewofprotist
+7.2ProtistMorphology
+7.3EncystmentandExcystment
+7.4ProtistReproductivecellstructure
+7.5ImportanceofProtist
+Unit-8:MulticellularParasites (Duration:04Hrs)
+8.1Mosquitoes
+8.2Fleas
+8.3Lice
+8.4Tick
+8.5Mites
+
+==== PAGE 10 ====
+ReferenceBooks:
+JacquelynGBlackMicrobiology8thEdition(2013).JohnWiley&Sons
+SingaporePte.Ltd(ISBN:978-0-470-64621-2)
+JamesTStaley,RobertPGunsalus,StephenLory,JeromeJPerry.Microbial
+Life2ndEdition(2007)SinauerAssociiates,IncAllrightreserved.(ISBN:
+978-0-87893-685-4)
+JoanneM.Willey,LindaM.Sherwood,ChristopherJ.WoolvertonPrescotts
+Microbiology.McGrawHill.9thEdition(2014).(ISBN978-0-07-340240-6)
+Microbiology:AHumanPerspectiveNestersEightEdition(2015).Published
+byMcGrawHillEducation(ISBN978-0-07352259-3)
+O.PSharma:AlgaeDiversityofMicrobesandCryptogams.(2011):TataMc
+GrawHillEducationPrivateLimitedNewDelhi.(ISBN-13:978-0-07-
+068194-1)
+FurtherReading:
+AnanthanarayanandPanikarTextbookofMicrobiology.7thedition
+(2005).OrientLongmanPrivateLimited.(ISBN8125028080)
+HAModi.HandbookofElementaryMicrobiology.1stedition.(2019).Shanti
+Prakashan.(ISBN97893501010)
+ListofPracticals
+1)Typesofstainandpreparationofstainingsolution
+2)Demonstrationofbacteriallysisbybacteriophage.
+3)Preparationofbacteriologicalandmycologicalculturalmedia&Studyof
+economicallyimportantfungi.(Aspergillus,Penicillium,Mucor,Rhizopus,
+Curvularia,Helminthosporium,Cunninghaemella,Fusarium,Alternaria)
+4)CultivationofanaerobicbacteriausingThioglycollatemedium
+5)Disposaloflaboratorywasteandcultures
+6)Gramstaining&Acidfaststaining
+7)Specialstaining:Cellwall,MetachromaticGranules,Flagella,Capsule,Endospore.
+************
+
+==== PAGE 11 ====
+Unit:1Scopeandoverviewofmicrobialecology
+1.1Thescopeofmicrobialecology
+1.2Historicaloverview
+1.3Relationofmicrobialecologywithenvironmentalscience
+1.4Sourcesofinformation
+Unit:2MicrobialEvolutionandBiodiversity
+2.1Chemicalevolution
+2.2Cellularevolution
+2.3BacterialandArchaelBiodiversity
+2.4Eukaryalbiodiversity
+Unit:3PhysicalEnvironmentofmicroorganisms
+3.1Microenvironmentandniche
+3.2Biofilmsandmicrobialmats
+3.3Microorganismsandecosystems
+3.4Microorganismmovementbetweenecosystems
+Unit:4Biogeochemicalcycling
+4.1Carboncycle
+4.2NitrogencycleNameoffaculty:Science Department:Environmental
+Science
+Program:B.Sc.Sem2 Type:DSE-2
+Subject:MicrobialEcology
+Credit:04 Totallearninghours:60
+Studentlearningoutcome:
+Havingbasicknowledgeofmicrobialecologyanditsfundamentalconcepts.
+Understandingdynamicsandinteractionsofmicrobialcommunities.
+Understandingofmicrobialassociationwithhigherplants.
+
+==== PAGE 12 ====
+4.3Phosphoruscycle
+4.4Sulfurcycle
+Unit:5Microbialinteractions:Mutualism
+5.1Microorganism-insectmutualism
+5.2Zooxanthellae
+5.3Sulfide-basedmutualisms
+5.4Methane-basedmutualisms
+5.5Rumenecosystem
+Unit:6OtherMicrobialinteractions
+6.1Cooperation
+6.2Coemmensalism
+6.3Predation
+6.4Parasitism
+6.5AmensalismandCompetition
+Unit:7Microorganismassociationwithvascularplants
+7.1Phyllosphere,rhizosphereandrhizoplanemicroorganisms
+7.2Mycorrhizae
+7.3Symbioticnitrogenfixation:Rhizobia
+7.4Symbioticnitrogenfixation:Actinorhizaandstem-nodulatingbacteria
+Unit:8Otherassociationswithplants
+8.1Fungalandbacterialendophytes
+8.2Agrobacterium
+8.3Otherplantpathogens
+8.4Tri-partiteandTetra-partiteassociations
+ReferencesBooks:
+AtlasRM,BarthaR.Microbialecology:fundamentalsandapplications.The
+Benjamim.CummingsPubl.,MenloPark.1987.978-8131713846
+
+==== PAGE 13 ====
+WilleyJ,SherwoodL,WoolvertonCJ.Prescott’smicrobiology.McGraw-Hill,New
+York,NY.2013.978-0071313674
+ListofPracticals:
+1.DemonstrationofpresenceofbacteroidsinrootnodulesandisolationofRhizobium
+fromit.
+2.Isolationofplantpathogenicfungifromsugarcaneredrot.
+Studyoflichensusingpermanentslides.

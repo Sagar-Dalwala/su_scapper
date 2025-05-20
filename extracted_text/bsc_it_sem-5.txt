@@ -1,0 +1,923 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426101059Z
+---- END METADATA ----
+
+Total Pages: 18
+
+==== PAGE 1 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Faculty of Science  
+ 
+Shree Ramk rishna  Institute of Computer Education & 
+Applied Sciences, Surat  
+ 
+B.Sc. Information Technolog y 
+ 
+SEMESTER - 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 2 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+56 
+ 
+ 
+ 
+Program Structure  Semester 5 
+ Course 
+Code  Title  Teaching Hrs. per  
+Week Course  
+Credits  University  
+Examination  Internal  
+Marks  Total  
+Marks  
+Theory  Practical   Duration  Marks    
+ Life Skills/ NCC/NSS  2  2     
+BIT501 DSC -9 Mobile Application 
+Development  4  4  30 70 100 
+BIT502 DSC -10 Operating Systems  4  4  30 70 100 
+BIT503 SEC 3 -Introduction to Bigdata  
+and IOT  4  4  30 70 100 
+BIT504 DSE -5 Digital Marketing & 
+SEO  2  2  30 70 100 
+DSE -5 Cloud Computing  
+DSE -5 Enterprise Resource 
+Planning  
+ 
+ Transdisciplinary Open 
+Electives  2  2   100 100 
+ 
+BIT505  Practical -5  12 6  50 100 150 
+ 
+     24    650 
+ 
+ 
+ 
+ Semester -6 
+ Course  
+Code  Title  Teaching Hrs. per 
+week  Course 
+Credits  University 
+Examination  Internal 
+Marks  Total 
+Marks  
+Theory  Practical   Duration  Marks    
+ Life Skills/ NCC/ NSS  2  2     
+BIT601   DSC 11, 12 , SEC -4  
+Project / Internship   24 18  15
+0 300 450 
+ 
+BIT602   DSE -6 Seminar : Emerging 
+trends, technologies and tools 
+in Computer Science & IT   2 2  30 70 100 
+ 
+ Transdisciplinary Open 
+Electives  2  2   100 100 
+ 
+    24    650 
+ 
+
+==== PAGE 3 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+57 
+ 
+ 
+DSC -9: Mobile Application Development  
+Course Code  DSC -9 
+Course Title  Mobile Application Development  
+Credit  4 
+Teaching per Week  4 Hrs  
+Minimum weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / Revision  - 
+Purpose of Course  To introduce the most demanding and developing mobile app  
+technology. Fundamentals of android open source technology  
+Course Objective   To make students understand fundamentals of mobile app technology.  
+ To make students understand various inbuilt features of android.  
+ To make students understand the android design essentials.  
+ 4. To make students understand android user interface design basics .  
+Pr-requisite  Fundamentals of web technologies and fundamentals related to mobile 
+OS. 
+Course Out come  Students will have knowledge about android which is widely used Mobile 
+OS and open source technology and its concepts. Various features of 
+android like Application Design Essentials, User Interface Design 
+Essentials, Use of Common Android APIs, data storag e using SQLite and 
+deploying Android application.  
+Course Content  Unit -1 :Introduction to Android  
+1.1 Android - Architecture  
+1.2 Android Application Components  
+1.3 Android Application Directory Structure  
+ 
+Unit -2 : Android Application Design Essentials  
+2.1 Understanding the IDE –  Emulator/ AVD, logcat,Gradle, SDK  
+2.2. Android Activity Lifecylce  
+2.3 Application Context and Activity Context  
+2.4 Android Manifest File and its common settings  
+2.5 Intent and Intent Filter  
+ 
+Unit -3 : Android User Interface Desi gn Essentials  
+3.1 UI elements – EditText, TextView, Button, RadioButton, 
+CheckBox, listview  
+3.2 Designing User Interfaces with Layouts  
+3.2.1 Relative Layouts  
+3.2.2 Linear Layouts  
+3.2.3 Constraint Layouts  
+ 
+Unit -4 : Advanced Designing Interface  
+     4.1 WebV iew 
+4.2 SearchView  
+     4.3 Spinner  
+4.4, Recyclerview  
+ 
+Unit -5 : Menus and Dialog Box  
+     5.1 Menus – Context menu, Pop -up menu, Option menu  
+     5.2 Toast Message and Alert Dialog box  
+
+==== PAGE 4 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+58 
+ 
+     
+Unit -6 : Using Sharedprefernces  
+     6.1 Purpose of Shred Preferences  
+     6.2 Shared Preference Modes  
+     6.3 Writing to shared Preferences  
+     6.4 Methods of editor class  
+     6.5 Reading from Shared Preference  
+ 
+Unit -7 : Preserving and Saving data in Local Database  
+     7.1 Introduction to SQLite  
+     7.2 SqliteOpenHelp er Class  
+     7.3 SQlite Methods - ExecSQL, Rawquery, Insert, Update, Delete  
+ 
+Unit 8: SqlServer connection with android app  
+     8.1 Connecting to the MS Sql Server  
+     8.2 Storing and Retrieving data in MS Sql Server  
+ 
+Text and Reference 
+Literature  
+ 1.   Professional Android 4 Application Development Reto Meier, 
+WROX Publication -2015  
+2. Professional Android 4 Application Development Reto Meier, 
+WROX Publication -2015  
+3. Android for Programmers -An App Driven Approach, Deitel, 
+Deitel,  
+ Deitel and Morgano, Pearson Publication -2012  
+4. Android Programming Unleashed, Harwani, Pearson Publication -
+2013  
+5. Professional Android Programming -with MONO McClure,  
+ Blevins, Croft, Dick and Hardy, Wiley India -2012  
+6. Android application development for java programmer, James C 
+Sheusi,  
+Cenage Learning -2013  
+7. Android Essentials, Chris Haseman, Apress Publication, 2009  
+8. Beginning Android, Mark L Murphy, Wiley India Pvt Ltd, 2009  
+9. Pro Android, Sayed Y Hashimi and Satya Komatineni, Wiley India 
+PvtLtd, APress -2009  
+ 
+Teaching Methodology  The course is composed of Lectures , assignments and a group  project.  
+ 
+Evaluation Method  70% Internal assessment is based on class attendance, participation, 
+class test, quiz, assignment, seminar, internal examination etc.  
+30% assessment is based on end semester written examination  
+
+==== PAGE 5 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+59 
+ 
+DSC -10: Operating System s 
+Course Code  DSC -10 
+Course Title  Operating Systems  
+Credit  4 
+Teaching per Week  4 Hrs  
+Minimum weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / 
+Revision  - 
+Purpose of Course  Conceptualize the students with the theoretical concepts of Operating System  
+Course Objective  Familiarization with different objectives of operating system components like 
+process management and inter -process communication; Experiments on process 
+scheduling and other operating system tasks through simulation/implementation 
+under a simulated environment  
+Pr-requisite  Fundamentals of Computer Organization and Operating System  
+Course Out come   Describe the various  components of Operating Systems.  
+ Case study of Unix operating systems to analyze the different services provided 
+by UNIX Operating System  
+ Design and implement various system calls and concurrent processes requiring 
+synchronization.  
+Course Content  Unit - 1: Operating System Concepts  
+1.1. Operating system fundamental and its types  
+1.2. Components of operating system  
+1.3. BIOS, Booting process and kernel  
+1.4. Functions of operating systems  
+1.5. Interrupt and System call, Data bus and Address bus  
+ 
+Unit - 2: I/O Device and Fil e Management  
+2.1  I/O Devices, Device controllers and drivers, DMA, Programmed I/O, 
+Interrupt    driven I/O, I/O using DMA  
+2.2 Disk space Management  
+2.3 Allocation and Disk Arm Scheduling Methods (FCFS, SSTF, SCAN, C -
+SCAN)  
+2.4 Drivers for different devices.  
+ 
+Unit - 3: Files structure  
+3.1 File storage mechanism, File allocation table, Directory and File structure, 
+Attributes, Types, Access, Operations, Protection, and sharing and remote 
+access.  
+3.2 File system management and optimization - Disk space management, 
+backup, consistency, Performance, Defragmentation  
+ 
+Unit - 4: Memory Management  
+2.1 Address space, Contiguous and non contiguous allocation, Managing free 
+space  
+
+==== PAGE 6 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+60 
+ 
+2.2 Virtual memory - Paging, Page size,  Page table, Page fault, Demand 
+Paging, Page replacement algorithms (FIFO, LRU, 2nd Chance NRU 
+Optimal), Shared page  
+2.3 Segmentation - Implementation of pure segmentation, segmentation with 
+paging.  
+ 
+Unit - 5: Process Management  
+5.1 Process, Process states, PCB, Process scheduling  
+5.2 Scheduling Algorithms  
+5.3 Study of Round -robin, FCFS, SJF, SRTF and priority algorithms  
+5.4 Overview of deadlock  
+5.5 Deadlock avoidance, prevention and recovery  
+5.6 Overview of Inter process communication  
+5.7 Deadlocks - Overview of Deadlock Avoidance, Prevention and Recovery  
+ 
+Unit - 6: Security and Protection in operating systems  
+6.1 Main features of security and protection  
+6.2 Different security concerns  
+6.3 Ways available in OS to protect the the system  
+6.4 Inbuilt security features of  operating system.  
+6.5 Group policy  
+ 
+Unit - 7: Introduction to Unix operating system  
+7.1 Introduction: History of Unix, features  
+7.2 Unix system architecture and kernel  
+7.3 Unix  command format, Unix internal and external commands, Directory 
+commands, File related commands, Disk related commands, general 
+utilities.  
+ 
+Unit - 8: File, Process and memory managemen t in Unix operating systems  
+8.1 Unix File System: Boot inode, super and data  block, in -core structure, 
+Directories, conversion of pathname to inode, inode to a new file, Disk 
+block allocation.  
+8.2 Process Management in unix: Process state and data structures of a Process, 
+User vs, kernel node, context of a Process, background process es, Process 
+scheduling commands, Process terminating and examining commands.  
+8.3 Storage Management in unix : Formatting, making file system, checking disk 
+space, mountable file system, disk partitioning, file compression. Special 
+Tools and Utilities: Filters, Stream editor SED and AWK, Unix system calls 
+and library functions, Processes, signals and Interrupts, storage and 
+compression facilities.  
+8.4 Basic shell Programming concepts.  
+
+==== PAGE 7 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+61 
+ 
+ 
+  Text and 
+Reference 
+Literature  
+ 1. Silberschatz, Korth, Sudarshan ,Database System Concepts,  McGraw -Hill 
+computer science series  
+2. C J Date, An introduction to Database Systems, Addition -Wesley  
+3. Nilesh shah, Database System using Oracle, PHI.  
+4. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database Systems, 
+Addison -Wesley  
+5. Hector Gracia -Molina, Jeffrey D. Ullman, and Jennifer Widom, Database 
+System Implementation, Pearson.  
+6. Ivan Bayross, SQL, PL/SQL, BPB Publications  
+7. Scott Urman, Oracle9i PL/SQL programming, McGraw -Hill  
+ 
+Teaching 
+Methodology  The course is composed of Lectures , assignments and a group  project.  
+ 
+Evaluation Method  70% Internal assessment is based on class attendance, participation, class test, 
+quiz, assignment, seminar, internal examination etc.  
+30% assessment is based on end semester written examination  
+
+==== PAGE 8 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+62 
+ 
+SEC-5 : Introduction to Bigdata and IoT  
+Course Code  SEC-5 
+Course Title   Introduction to Bigdata  and IoT  
+Credit  4 
+Teaching per Week  4 Hrs  
+Minimum weeks per Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / Revision  - 
+Purpose of Course  To provide comprehensive knowledge about data science and big data  
+Course Objective  To provide the student sufficient knowledge about fundamental concepts 
+of big data, data analysis and processing.  
+Pr-requisite  Knowledge about database system and processing concepts  
+Course Out come   After having completed the course the student will gain:  
+ Understanding of BIG DATA Fundamentals and Principals  
+ Knowledge of Big Data Analysis Process  
+ Technical know -hows about big data processing  
+ Learning of Big Data Technology stack  
+Course Content  Unit 1 Basic Concepts of Big Data   
+1.1 Concepts and Terminology -Datasets, Data Analysis  
+1.2 Type of Data Analytics - Descriptive, Diagnostic, Predictive, Perspective  
+1.2 Big Data Characteristics - Volume, Velocity, Variety, Veracity, Value  
+1.3 Different Types of Data - Structured, Semi -Structured, Unstructured,    
+      Metadata  
+1.4 Big Data Application and Case Studies  
+1.5 Big Data vs Traditional Data Mining  
+1.6 Big Data Concerns –  
+      1.6.1 Data Procurement  
+      1.6.2 Data Privacy  
+      1.6.3 Data Security  
+      1.6.4 Data Provenance  
+ 
+Unit 2 Big Data Development process   
+2.1 Big Data Analytics Lifecyle  
+       2.1.1 Business Case Evaluation  
+       2.1.2 Data Identification  
+       2.1.3 Data Acquisition & Filtering  
+       2.1.4 Data Extraction  
+       2.1.5 Da ta Validation & Cleansing  
+       2.1.6 Data Aggregation & Representation  
+       2.1.7 Data Analysis  
+       2.1.8 Data Visualization - Features of Data Visualization tools for Big    
+                Data   
+              2.1.9 Utilization of Analysis Results  
+         2.2 Case Study of Big Data - traffic monitoring such big systems  
+ 
+Unit 3 Big Data Analysis Techniques  
+       3.1 Quantitative Analysis  
+       3.2 Quantitative Analysis  
+
+==== PAGE 9 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+63 
+ 
+       3.3 Statistical Analysis - A/B Testing, Simple and multiple  
+             Corelation , Linear Regression  
+       3.4 Machine Learning - Supervised and Unsupervised  
+       3.5 Semantic Analysis – NLP,  Text Analysis, Sentiment Analysis  
+      3.6 Visual Analysis – HeatMaps, Time Series Plots, Network Graphs,  
+            Spatial Data Mapping  
+ 
+Unit 4 The Bigdata Technologies  
+       4.1 Bigdata and Distrubted Computing Challenges  
+4.2 Hadoop  Fundamentals  
+       4.2.1 Features of Hadoop  
+       4.2.2 Advantages of Hadoop  
+        4.2.3 Versions  
+4.3 Overview of Hadoop Ecosystem  
+4.4 Hadoop versus SQL, RDBMS  
+4.5 Cloud based Hadoop Solutions  
+ 
+Unit 5 Introduction to The Internet of Things  
+5.1 The Internet of Things Conceptual Overview  
+5.2 Components of IoT  
+5.3  Characteristics of IoT  
+5.4  Challenges in realizing IoT applications  
+5.5  Big Data Anaytics  as Complementary Technology of IoT  
+ 
+Unit 6 Embedded Computing Basics  
+       6.1 Embedded system components  
+       6.2 Flavours of Microcontroller : 8 -bit microcontroller: 8051, 32 bit   
+     microcontroller: ARM  
+       6.3 System on chips concept  
+       6.4 Embedded system applications  
+ 
+Unit 7 Overview of Arduino  
+7.1 Introduction to Arduino  
+7.2 Flavours of Arduino  
+7.3 Components of Arduino board  
+7.4 Arduino Power supply, Breadboard  
+ 
+Unit 8 Programming with Arduino  
+        8.1 Installing Arduino  Desktop IDE  
+        8.2 Installing Board drivers, configuring board type, sketch  
+8.3 Hardware interfacing & programming  
+              8.3.1. LED on/off using timer  
+              8.3.2. Working with sensors  
+              8.3.3. Arduino Traf fic Light Contro ller 
+                         
+ 
+Reference books:  1. Big Data Fundamentals : Concepts, Drivers & Techniques ,by Thomas Erl, 
+Wajid Khattak, Paul Buhler Publisher :Pearson  
+2. Big data and Analytics , Seema Acharya, Subhashini Chellappan, Wiley  
+3. Big Data : Principal and Practice of scalable real time data systems by  Nathan 
+Marz, James Warren Publisher : Dreamtech Press  
+4. Hadoop The Definitive Guide by Tom White Publisher : O’relliy  
+
+==== PAGE 10 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+64 
+ 
+ 
+ 5. BIG DATA by Viktor Mayor Schonberger and Kenneth Cukier     
+Publisher : John Murray  
+6. INTERNET OF THINGS by Sandeep Vishwakarma, Kiran Gurbani,  Nitesh 
+Shukla Publisher : Himalaya Publishing House  
+7. IoT & Applications I.A. Dhotre Technical Publication  
+8. Designing the Internet of Things Adrian McEwen and Cassimally Wiley  
+9. The Internet of Things Connection objects to web Edited by Hakima   
+    Chauchi Wiley  
+10. Introduction to Embedded System -By Shibu K V , McGrawHill  
+11. Getting Started with Internet of Things –By Cuno Pfister, O’Reilly  
+12. Learning Internet of Th ings-By Peter Waher , Packt Publication  
+13. Internet of Things : A Hands on Approach – By Arshdip Bahga and Vijay 
+Madisetti  
+14. "The Internet of Things: Enabling Technologies, Platforms, and Use Cases", 
+by Pethuru Raj and Anupama C. Raman (CRC Press)  
+ 
+Teaching Methodology  The course is composed of Lectures , assignments and a group  project.  
+ 
+Evaluation Method  70% Internal assessment is based on class attendance, participation, class test, 
+quiz, assignment, seminar, internal examination etc.  
+30% assessment is based on end semester written examination  
+
+==== PAGE 11 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+65 
+ 
+DSE -5: Digital Marketing & SEO  
+ 
+Course Code  DSE -5 
+Course Title  Digital Marketing & SEO  
+Credit  2 
+Teaching per Week  2 Hrs 
+Minimum weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / Revision  - 
+Purpose of Course  To provide comprehensive knowledge about theory behind Search 
+Engine Optimization and search engine working . 
+Course Objective  To provide the student sufficient knowledge to learn steps, need ,execute 
+and evaluate the Search Engine Optimization initiatives and prepare them 
+for Digital Marketing.  
+Pr-requisite  Fundamental Knowledge about Web Development, Searching 
+Technologies and Metadata . 
+Course Out come  After completion of this course, the student will gain comprehensive 
+knowledge of Search engines and their working and various search engine 
+optimization techniques and will be ready to work in the field of Digital 
+Marketing  
+Course Content   
+Unit 1 Search Engine and Ecommerce  
+1.1 Mission of Search Engine  
+1.2 Human Goals of Searching, Determining searcher intent.  
+1.3 Challenges for Marketer and search engine  
+1.3.1 People search,  
+1.3.2 Search engine drive ecommerce on web  
+1.4 Eye  Tracking: - User Scans Results pages, Click Tracking  
+ 
+Unit 2 Search Engine Basic, SEO objectives  
+2.1 SEO Objectives  
+2.2 Anatomy of a Search Engine  
+2.2.1 Query interface  
+2.2.2 Crawlers, spiders, and robots  
+2.2.3 Databases  
+ 
+Unit 3:  Site Development Process  
+ 
+3.1.  Identifying Site Development Process  
+3.1.1 Defining Site information Architecture  
+3.1.2 Auditing current site and Identify SEO problem  
+3.1.3 Identifying Current Server Statistics Software  
+3.1.4 Determine Top Competitor  
+3.2 Theory of Keyword Search  
+3.2.1 Keyword Research Tools  
+3.2.2 Leveraging of Long Tail of Keyword Demand  
+3.2.3.Keyword Demand : - Seasonality, Trending, Seasonal  
+Fluctuation  
+
+==== PAGE 12 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+66 
+ 
+Unit 4  Tracking the Result and Measuring Success  
+4.1 Measuring Success of SEO Process  
+4.2 Measuring Search Traff ic 
+4.3 SEO Tools - Google Webmaster Tools and Google Analytics  
+ 
+Unit 5: Google Webmaster and analytics tools  
+5.1. Google Webmaster Tools - Webmaster Tools Setup, Dashboard, 
+The “Site configuration” Section, The “Your site on the web” Section, 
+The Diagnosti cs Section  
+5.2. Google Analytics - Installation and Setup, Navigating Google 
+Analytics, Dashboard, Traffic Sources, Content, Goals, Google 
+Analytics Shortcomings  
+ 
+Unit 6  Digital Marketing Fundamentals  
+6.1 Marketing v/s Sales, Inbound v/s Outbound marketing  
+     6.2 Content marketing, Strategic flow for marketing activities  
+Understanding Leads  
+6.3 Facebook Marketing Fundamentals  
+6.3.1 Profiles and Pages, Business Categories  
+6.3.2 Creating Facebook Pages, Page Info and Settings , Facebook  
+Page Custom URL, Invi te Page Likes  
+6.3.3 Facebook Events, Facebook Insights Reports  
+6.4 Affiliate marketing  
+ 
+Unit 7 YouTube Marketing  
+7.1 Video Flow  
+7.2 Google Pages for YouTube Channel  
+7.3 Verify Channel and Linking Custom Channel URL  
+7.4 Uploading Videos, Uploading Defaults  Creator Library, Live  
+Broadcasting and Practical Examples  
+ 
+Unit 8: Email Marketing  
+8.1.  Email Marketing,  
+8.2. Content writing,Email Software and Tools  
+ 
+ 
+Reference books:  1. The Art of SEO : Mastering Search Engine Optimization by Eric 
+Enge, Stephan  Spencer, Rand Fishkin, Jessie C Stricchiola O‟RE ILLY 
+Publication 2nd edition  
+2. The Art of SEO : Mastering Search Engine Optimization by Eric 
+Enge,Stephan Spencer, Rand Fishkin, Jessie C Stricchiola O‟REILLY 
+Publication 3nd  edition  
+3. SEO Search Engine Optimization Bible by Jerri L Ledford 2nd Edition 
+Wiley ,India  
+4. SEO Warrior : Essential Techniques for Increasing Web Visibility by 
+John I  Jerkovic O‟ReillyPublictation  
+5. Search Engine Optimization For Dummies by Peter Kent John Wiley 
+and Son  5th Edition  
+6. Digital Marketing -by Seema Gupta . McGrawHill, Second Edition  
+7. The Art of Digital Marketing: The Definitive Guide to Creating 
+Strategic, Targeted,and Measurable Online Campaigns by Ian Dodson 
+, Wiley Publication  
+8. Digital Marketing For Dummies by  Russ Henneberry, Ryan Deiss, For  
+
+==== PAGE 13 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+67 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Dummies Publication  
+Teaching Methodology  The course is composed of Lectures , assignments and a group  project.  
+Evaluation Method  70% Internal assessment is based on class attendance, participation, 
+class test, quiz, assignment, seminar, internal examination etc.  
+ 30% assessment is based on end semester written examination  
+
+==== PAGE 14 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+68 
+ 
+DSE -5: Enterprise Resource Planning   (Elective)  
+Course Code  DSE -5 
+Course Title  Enterprise Resource Planning  
+Credit  2 
+Teaching per Week  2 Hrs 
+Minimum weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / Revision  - 
+Purpose of Course  Purpose of the management information system is to increase the value 
+and profits of the business. To make effective decisions within a shorter 
+period of time with timely and appropriate information manage by 
+managers.  
+Course Objective   To learn the basic concepts of ERP.  
+ To learn different technologies used in ERP.  
+ To learn the concepts of ERP Manufacturing Perspective and ERP 
+Modules.  
+ To learn what are the benefits of ERP  
+ To study and understand the ERP life cycle.  
+ To learn the diff erent tools used in ERP.  
+Pr-requisite  Concept of Information System  
+Course Out come   Understand the basic concepts of ERP.  
+ Identify different technologies used in ERP.  
+ Understand and apply the concepts of ERP Manufacturing 
+Perspective and ERP Modules.  
+ Discuss the benefits of ERP  
+ Understand and implement the ERP life cycle.  
+ Apply different tools used in ERP.  
+Course Description:  The course gives students an idea about Enterprise Data Management and 
+ERP. ERP life cycle and various case study gives the understanding about 
+ERP. Also brief idea about E -business provides the knowledge about 
+business design.  
+Course Content  Unit 1: An Overview of Enterp rise resource planning  
+1.1 Enterprise – An Overview Integrated Management Information,  
+1.2 Business Modeling,  
+1.3 Integrated Data Model  
+1.4 ERP Life Cycle  
+ 
+Unit 2:  ERP Technologies  
+    2.1 Business Processing Reengineering(BPR),  
+    2.2 Data Warehousing, Data Mining, On -line Analytical   
+          Processing(OLAP),  
+    2.5 MIS - Management Information System,  
+    2.6 DSS - Decision Support System,  
+    2.7 EIS - Executive Information System  
+ 
+Unit 3 : ERP Modules  
+    3.1 Supply Chain Management (SCM),  
+
+==== PAGE 15 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+69 
+ 
+    3.2 Customer Relationship Management(CRM),  
+    3.3 Plant Maintenance,  
+    3.4 Quality Management,  
+    3.5 Materials Management.   
+Unit 4:   ERP Manufacturing Perspective  
+   4.1 MRP - Material Requirement Planning,  
+   4.2 BOM - Bill Of Material,  
+   4.3 MRP - Manufacturing Resource Planning,  
+   4.4 DRP – Distributed Requirement Planning,  
+   4.5 PDM - Product Data Management. Finance,  
+ 
+Unit 5: EPR Security  
+    5.1 Managing ERP Securities:  
+       5.1.1 Types of ERP security Issues,  
+       5.1.2 System Access security,  
+       5.1.3 Data Security and related technology for managing data security  
+ 
+Unit 6:  Extended ERP and security issues  
+6.1 Enterprise application Integration (EAI),  
+6.2 Open source ERP,  
+6.3 Cloud ERP  
+ 
+Unit 7:  E -Commerce to EBusiness  
+7.1 E-Business structural transformation, Flexible Business Design,   
+           Customer Experience  
+     7.2 Enterprise resource planning the E -business Backbone Enterprise  
+     architecture, planning  
+7.2 E- Governance, Developing the E -Business Design  
+Unit 8:  Cases of ERP for Enterprises  
+8.1 Cases of ERP  
+8.2 Oracle ERP Implementation at Maruti Suzuki.  
+8.3 Need of ER P for Small and Medium size enterprises  
+ 
+Reference books:  1. V.K. Garg & N.K. Venkatakrishnan, Enterprise Resource Planning: 
+concepts & practices, by ; PHI.  
+2. Supply Chain Management Theories & Practices: R. P. Mohanty, S. G. 
+Deshmukh, – Dreamtech Press.  
+3. Enterprise wide resource planning: Theory & practice: by Rahul 
+Altekar, PHI  
+4. Customer Relationship Management, Concepts and cases, Second 
+Edition.  
+5. Enterprise Resource Planning - Alexis Leon, Tata McGraw Hill.  
+6. Enterprise Resource Planning – Diversified by Alexis Leon, TMH.  
+7. Enterprise Resource Planning - Ravi Shankar & S. Jaiswal , Galgotia.  
+Teaching Methodology  The course is composed of Lectures , assignments and a group  project.  
+Evaluation Method  70% Internal assessment is based on class attendance, participation, 
+class test, quiz, assignment, seminar, internal examination etc.  
+ 30% assessment is based on end semester written examination  
+
+==== PAGE 16 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+70 
+ 
+DSE  5: Cloud Computing  (Elective)  
+Course Code  DSE  5 
+Course Title  Cloud Computing  
+Credit  2 
+Teaching per Week  2 Hrs  
+Minimum weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / Revision   
+Purpose of Course  The course gives students an idea about Cloud Computing fundamentals 
+and Cloud Based Systems.  
+Course  Objective  To provide comprehensive knowledge of cloud computing and aspects 
+related to it.  
+Pre-requisite  Basic understanding of operating system and computer network  
+Course Out come  After completion of this course, the student will gain comprehensive 
+knowledge of Cloud based systems and aspects related to it  
+Course Content  Unit 1 Introduction to Cloud Computing       
+1.1 Overview, Roots of Cloud Computing,  
+1.2 Layers and Types of Cloud,  
+1.3 Benefits and Disadvantages of Cloud Computing,  
+1.4 Cloud Infrastructure Management,  
+1.5 Challenges and Risks  
+ 
+Unit 2 Cloud Fundamentals   
+    2.1 Cloud characteristics -On Demand Service  
+    2.2 Ubiquitous Network Access,  
+    2.3 Location Independent Resource Pooling, Rapid Elasticity.  
+    2.4 Cloud Types -Public, Private, Hyb rid, Community, Shared 
+Private, Dedicated Private  
+ 
+Unit 3 Cloud Computing Essentials   
+     3.1 Cloud Computing Architectural Framework  
+     3.2 Cloud Deployment Models  
+     3.3 Virtualization in Cloud Computing  
+     3.4 Parallelization in Cloud Computing  
+     3.5 Security for Cloud Computing  
+ 
+Unit 4 Cloud Service Models    
+  4.1 Exploring the Cloud Computing Stack,  
+  4.2 Infrastructure as a Service  
+  4.3 Server virtualization  
+  4.4 Storage virtualization  
+  4.5 Net work virtualization  
+  4.6 Platform as a Service (PaaS)  
+    4.6.1 Azure  
+    4.6.2 Goole AppEng  
+    4.6.3 Hadoop  
+
+==== PAGE 17 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+71 
+ 
+    4.6.4 SalesForce  
+  4.7 Software as a Service (SaaS) -Characteristics, Open SaaS and SOA  
+    4.7.1 Cloud services  
+    4.7.2 Web portal  
+    4.7.3. Web OS  
+ 
+Unit 5 Other Cloud Service Models    
+  5.1 Identity as a Service(IDaaS)  
+  5.2 Network Identity Service Classes  
+  5.3 IDaaS Interoperability -user authentication, Authorization MarkUp   
+       Languages  
+ 5.4 Compliance as a Service(Caa S)  
+ 
+Unit 6 Abstraction and Virtualization     
+   6.1 Introduction to Virtualization Technologies,  
+   6.2 Load Balancing and Virtualization,  
+   6.3 Understanding Hyper visors,  
+ 6.4 Types of Virtualization  
+ 6.5 Virtualization of CPU, Memory, I/O Devices  
+ 6.6 Virtual Clusters and Resource management  
+ 
+Unit 7  Cloud Resource Management     
+  7.1 Inter Cloud Resource Management,  
+  7.2 Resource Provisioning and Platform Deployment, Global 
+Exchange of  Cloud Resources.  
+  7.3 Administrating the Clouds, Cloud Management Products, 
+Emerging Cloud Management Standards  
+ 
+Unit 8 Cloud Security     
+  8.1 Security Overview, Cloud Security Challenges and Risks,  
+  8.2 Software -as-a- Service Security,  
+  8.3 Cloud computing security architecture: Architectural 
+Considerations, General Issues Securing the Cloud, Securing Data  
+ 
+Reference Book  1.Cloud Computing: Principles and Paradigms - R. Buyya et al - Wiley 
+2010  
+2.Cloud Computing : Principles Systems and Application - L Gillam et al 
+- Springer 2010  
+3.Cloud Computing Bible - Sosinsky - Wiley - India, 2011  
+4.Cloud Computing Second Edition Dr. Kumar Saurabh - Wiley - India, 
+2012  
+5.Cloud Computing - Insight into New Era Infrastructure - Dr Kumar 
+Saurabh - Wiley India 2012  
+Teaching Methodology  Discussio n, Independent Study, Seminars and Assignment  
+Evaluation Method  70% Internal assessment is based on class attendance, participation, class 
+test, quiz, assignment, seminar, internal examination etc.  
+30% assessment is based on end semester written examinati on 
+
+==== PAGE 18 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+72 
+ 
+Practical -5 
+ 
+Course Code   
+Course Title  Practical -5 
+Credit  12 
+Teaching per 
+Week  12 Hours  
+Minimum weeks 
+per Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / 
+Revision  --- 
+Purpose of 
+Course  The purpose of course is to make students aware with practical implementation 
+of concept learnt in theory subjects.  
+Course Objective  To provide Fundamental knowledge of practi cal implementation based on DSC -
+9,DSC -10 and SEC -3 
+Pre-requisite  --- 
+Course Out come  Student should be able to demonstrate skills mentioned in DSC -9,DSC -10 and 
+SEC-3 practically.   
+Teaching 
+Methodology  demonstration  of laboratory work and Practical assignments  are provide  
+Evaluation 
+Method  70% Internal assessment is based on class attendance, participation, class test, 
+quiz, assignment, seminar, internal examination etc.  
+30% assessment is based on semester end written examination  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

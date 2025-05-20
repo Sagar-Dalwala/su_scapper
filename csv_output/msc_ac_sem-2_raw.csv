@@ -1,0 +1,657 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+7,text,SRKI
+8,text,SRKI
+9,text,SRKI
+10,text,SRKI
+11,text,SRKI
+12,text,SRKI
+13,text,SRKI
+14,text,SRKI
+15,text,SRKI
+16,text,SRKI
+17,text,SRKI
+18,text,SRKI
+19,text,SRKI
+20,text,SRKI
+21,text,SRKI
+22,text,SRKI
+23,text,SRKI
+24,text,SRKI
+1,table," NOTE: Following subjects are listed as elective subjects of semester.\rELECTIVE SUBJECTS\r1Cyber Security and Forensics-2\r2UI/UX development\r3Advanced Cloud Programming\r4Research in computing\r5Web Programming - 2 (NodeJS)                     Unnamed: 0
+                                                                                                                                                                                                                                 1 Cyber Security and Forensics-2
+                                                                                                                                                                                                                                 2              UI/UX development
+                                                                                                                                                                                                                                 3     Advanced Cloud Programming
+                                                                                                                                                                                                                                 4          Research in computing
+                                                                                                                                                                                                                                 5   Web Programming - 2 (NodeJS)"
+2,table,"                                                                                                                                                                                                                       Semester 2                                Unnamed: 0              Unnamed: 1      Unnamed: 2              Unnamed: 3      Unnamed: 4   Unnamed: 5  Unnamed: 6  Unnamed: 7
+                                                                                                                                                                                                                     Course\rCode                                     Title Teaching Hrs.\rper week Course\rCredits University\rExamination Internal\rMarks Total\rMarks         NaN         NaN
+                                                                                                                                                                                                                              NaN                                       NaN                  Theory       Practical                     NaN        Duration        Marks         NaN         NaN
+                                                                                                                                                                                                                              NaN DSC-3 Mobile Application\rDevelopment - 1                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                              NaN                    DSC-4 Machine Learning                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                              NaN        SEC-2 Advanced Python\rProgramming                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                              NaN                                  Elective                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                              NaN                                 Practical                     NaN               8                       8             NaN          140        60.0       200.0
+                                                                                                                                                                                                                              NaN                                       NaN                      16             NaN                      24             NaN          NaN         NaN       600.0
+NOTE: Following subjects are listed as elective subjects of semester.\rELECTIVE SUBJECTS\r1Cyber Security and Forensics-2\r2UI/UX development\r3Advanced Cloud Programming\r4Research in computing\r5Web Programming - 2 (NodeJS)                                       NaN                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                                1            Cyber Security and Forensics-2                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                                2                         UI/UX development                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                                3                Advanced Cloud Programming                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                                4                     Research in computing                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                                5              Web Programming - 2 (NodeJS)                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN"
+3,table,"               Course Code                                                                     Unnamed: 0
+              Course Title                                             Mobile Application Development - 1
+                    Credit                                                                              4
+         Teaching per Week                                                                          4 Hrs
+Minimum weeks per Semester             15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                              -
+         Purpose of Course                 To introduce the most demanding android open source technology
+          Course Objective     1. To make students understand advanced concepts of mobile app technology.
+                       NaN            2. To make students understand various inbuilt features of android.
+                       NaN                  3. To make students understand the android design essentials.
+                       NaN          4. To make students understand android user interface design basics .
+             Pre-requisite     Pre-requisite Fundamentals of web technologies and fundamentals related to
+                       NaN                                                                     mobile OS.
+           Course Out come  Students will have knowledge about android which is widely used Mobile OS and
+                       NaN      open source technology and its concepts. Various features of android like
+                       NaN Application Design Essentials, User Interface Design Essentials, Use of Common
+                       NaN     Android APIs, data storage using SQLite and Firebase and deploying Android
+                       NaN                                                                   application.
+            Course Content                             Unit 1 Introduction to android and it’s tool chain
+                       NaN                                                 1.1 Architecture Of Android OS
+                       NaN                                                  1.2 Android Development Tools
+                       NaN                                             1.2.1. Android SDK and SDK Manager
+                       NaN                                    1.2.2. The Android Virtual Device, Emulator
+                       NaN                                     1.2.3. Dalvik Debug Monitor Service (DDMS)
+                       NaN                                              1.2.4. Android Debug Bridge (ADB)
+                       NaN                                                Unit 2 Android - Key Components
+                       NaN                  2.1 Components Of Android Application - Activities, Services,
+                       NaN                                        Broadcast, Receivers, Content Providers
+                       NaN                                 2.2 Directory Structure of Android Application
+                       NaN                                                     2.2.1. AndroidManifest.xml
+                       NaN                                            2.2.2. Layouts & Drawable Resources
+                       NaN                                                       2.2.3 Activity Java file
+                       NaN                                                                   2.2.4 Gradle
+                       NaN                                           Unit 3 Layout and Advanced UI Design
+                       NaN                  3.1 Layouts and its attributes - Linear, Relative, Constraint
+                       NaN                                                                 3.2 Scrollview
+                       NaN                                                                    3.3 Webview
+                       NaN                                                        3.4 Seekbar, Rating bar
+                       NaN                                                               3.5 Recyclerview
+                       NaN                                                               3.6 Alert Dialog
+                       NaN                                           Unit 4 Navigating across Application
+                       NaN                                                  4.1 Intent and Intent Filters
+                       NaN                                           4.2 Menus - context, pop-up, options"
+4,table,"                    Unnamed: 0 4.3 Tab layout\r4.4 Navigation Drawer\r4.5 Linkify\rUnit 5 Using Shared preferences\r5.1 Purpose of Shared Preferences\r5.2 Shared Preference Modes\r5.3 Writing to shared Preferences\r5.4 Methods of editor class\r5.5 Reading from Shared Preference\rUnit 6 Preserving and Saving data in Local Database\r6.1 Introduction to SQLite\r6.2 SqliteOpenHelper Class\r6.3 SQlite Methods - ExecSQL, Rawquery, Insert, Update, Delete\rUnit 7 Handling Data with Firebase\r7.1 Introduction to Firebase\r7.2 Firebase - Environmental Setup\r7.3 Writing Data to the Firebase\r7.4 Reading data\rUnit 8 Working with other Resources\r8.1 Geocoding and reverse Geocoding\r8.2 Audio, Video and Using the Camera\r8.2.1. Playing and recording Audio and Video\r8.2.2. Working with the Camera                                                        Unnamed: 1
+Text and Reference\rLiterature                                                                                         1.Professional Android 4 Application Development Reto Meier, WROX\rPublication-2015\r2.Android for Programmers-An App Driven Approach, Deitel, Deitel,\rDeitel and Morgano, Pearson Publication-2012\r3.Android Programming Unleashed, Harwani, Pearson Publication-2013\r4.Professional Android Programming-with MONO McClure,\rBlevins, Croft, Dick and Hardy, Wiley India-2012\r5.Android application development for java programmer, James C Sheusi,\rCenage Learning-2013\r6.Android Essentials, Chris Haseman, Apress Publication, 2009\r7.Beginning Android, Mark L Murphy, Wiley India Pvt Ltd, 2009\r8.Pro Android, Sayed Y Hashimi and Satya Komatineni, Wiley India Pvt\rLtd, APress-2009 1.Professional Android 4 Application Development Reto Meier, WROX
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Publication-2015                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             2.Android for Programmers-An App Driven Approach, Deitel, Deitel,                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Deitel and Morgano, Pearson Publication-2012                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            3.Android Programming Unleashed, Harwani, Pearson Publication-2013                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         4.Professional Android Programming-with MONO McClure,                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Blevins, Croft, Dick and Hardy, Wiley India-2012                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        5.Android application development for java programmer, James C Sheusi,                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Cenage Learning-2013                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 6.Android Essentials, Chris Haseman, Apress Publication, 2009                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 7.Beginning Android, Mark L Murphy, Wiley India Pvt Ltd, 2009                                                               NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          8.Pro Android, Sayed Y Hashimi and Satya Komatineni, Wiley India Pvt                                                               NaN
+          Teaching Methodology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        Discussion, Independent Study, Seminars and Assignment                                                               NaN
+             Evaluation Method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           70% Internal assessment is based on class attendance, participation, class test,\rquiz, assignment, seminar, internal examination etc.\r30% assessment is based on end semester written examination                                                               NaN"
+5,table,"               Course Code                                                                         DCS -4
+              Course Title                                                               Machine Learning
+                    Credit                                                                              4
+         Teaching per Week                                                                          4 Hrs
+Minimum weeks per Semester             15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                              -
+         Purpose of Course          The purpose of the course is to make students capable of implementing
+                       NaN                          concepts , methods and tool related tomachinelearning
+          Course Objective                              To learn about fundamentals of machine learning.
+                       NaN                      To learn and implement different types of ML algorithms.
+                       NaN           To implement and evaluate various case studies of Machine Learning.
+             Pre-requisite                                   Concepts and Knowledge of Python Programming
+           Course Out come After completion of this course, the student will be capable to develop models
+                       NaN                   and implement predictive analytics on social media platforms
+            Course Content                                       Unit 1 Introduction to Machine Learning:
+                       NaN                                                          1.1 Types of Learning
+                       NaN                                                           1.2 Machine Learning
+                       NaN                                                     1.3 Types of Problem in ML
+                       NaN                                              1.4 Machine Learning Applications
+                       NaN                                                      1.5 New Challenges for ML
+                       NaN                                                   Unit 2 Association Learning:
+                       NaN                                                2.1 Concept of Association Rule
+                       NaN                                                     2.2 Market-Basket Analysis
+                       NaN                                                     2.3 Support and Confidence
+                       NaN                                                                 2.4 Algorithms
+                       NaN                                                                  2.4.1 Apriori
+                       NaN                                                                2.4.2 FP-Growth
+                       NaN                                        Unit 3 Supervised Learning - Regression
+                       NaN                                                          3.1 Linear Regression
+                       NaN                                                      3.2 Polynomial Regression
+                       NaN                                                        3.3 Logistic Regression
+                       NaN                                          3.4 Evaluation Metrics for Regression
+                       NaN                                    Unit 4 Supervised Learning - Classification
+                       NaN                                 4.1 Classification : Examples and Applications
+                       NaN                                                       NB, SVM. KNN Classifiers
+                       NaN                                  4.2 Decision Trees : C4.5, ID3, Random Forest
+                       NaN                                                       4.3 Ensemble Classifiers
+                       NaN                                      4.5 Evaluation Metrics for Classification"
+6,table,"          Unnamed: 0                                                Unit 5 Artificial Neural Networks
+                 NaN                           5.1 Neurons and biological motivation and Defining ANN
+                 NaN                             5.2 Layers and Multilayer Perceptron, weights, bias,
+                 NaN                                       Activation Function, Loss function, Epochs
+                 NaN                        5.3 Linear threshold units. Perceptrons: representational
+                 NaN                                        limitation and gradient descent training.
+                 NaN                                        5.4 Types of Neural Network- Feed Forward
+                 NaN                                  Neural Network, Backpropagation Neural Network,
+                 NaN                                                         Error calculation in ANN
+                 NaN                                            5.5 Learning in ANN and Learning Rate
+                 NaN                                                     Unit 6 Unsupervised Learning
+                 NaN                                 6.1 Learning from unclassified data. Clustering.
+                 NaN                                6.2 Hierarchical Aglomerative Clustering, k-means
+                 NaN                                                          partitional clustering.
+                 NaN                           6.3 Expectation maximization (EM) for soft clustering.
+                 NaN                               Semi-supervised learning with EM using labeled and
+                 NaN                                                                   unlabled data.
+                 NaN                                                         6.4 Self Organizing Maps
+                 NaN                                                         6.5 Hidden Markov Models
+                 NaN                                                          Unit 7 Model Validation
+                 NaN                                                       7.1 ML Techniques overview
+                 NaN                                    7.2 Validation Techniques (Cross-Validations)
+                 NaN                                   7.3 Feature Reduction/Dimensionality reduction
+                 NaN                  7.4 Principal components analysis (Eigen values, Eigen vectors,
+                 NaN                                                                   Orthogonality)
+                 NaN                               7.5 Generalization, Overfitting, and Underfitting,
+                 NaN                                     Relation of Model Complexity to Dataset Size
+                 NaN                                        Unit 8 Advanced Machine Learning Concepts
+                 NaN                                                       8.1 Reinforcement Learning
+                 NaN                                                           8.2 Transfer Learning,
+                 NaN                                                           8.3 Federated Learning
+  Text and Reference                 1. AI an Machine Learning, Vinod Chandra SS, Anans Hareendran S.
+          Literature                                                                  PHI Publication
+                 NaN                       2. Machine Learning with Python, Abhishek Vijayvargia, BPB
+                 NaN                                                                      Publication
+                 NaN                         3. Machine Learning Hand-On for Developers and Technical
+                 NaN                                     Professionals, Jason Bell, Wiley Publication
+                 NaN                        4. Machine Learning for Beginners: Learn to Build Machine
+                 NaN                    Learning Systems Using Python , Harsh Bhasin, BPB Publication
+                 NaN                     5.Machine Learning - Tom M. Mitchell, McgrewHill Publication
+Teaching Methodology                           Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+7,table,"               Course Code                                                                 Unnamed: 0
+              Course Title                                                Advanced Python Programming
+                    Credit                                                                          4
+         Teaching per Week                                                                      4 Hrs
+Minimum weeks per Semester         15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                          -
+         Purpose of Course                   The purpose of the course is to make students capable of
+                       NaN                advanced python programming with advanced libraries of data
+                       NaN                           modelling, data visualization and deep learning.
+          Course Objective                 To learn about fundamental of advanced python programming
+                       NaN                       To learn python programming with advanced libraries
+             Pre-requisite                                                                        NIL
+           Course Out come After completion of this course, the student will be capable to understand
+                       NaN fundamental concepts statistics, probability , regression, mathematics and
+                       NaN                             advanced operations of computing using python.
+            Course Content                                    Unit 1 Fast Array Operations with Numpy
+                       NaN                               1.1 Creating, Accessing, broadcasting arrays
+                       NaN                                                1.2 Mathematical operations
+                       NaN                                                   1.3 Calculating the norm
+                       NaN                              1.4 Reaching optimal performance with numexpr
+                       NaN                             Unit 2 Pandas and Advanced Database Operations
+                       NaN                                                    2.1 Pandas fundamentals
+                       NaN                                  2.2 Indexing Series and DataFrame objects
+                       NaN            2.3 Database-style operations with Pandas :Mapping and Grouping
+                       NaN                                            2.4 Aggregations and transforms
+                       NaN                                                                2.5 Joining
+                       NaN                                                            2.6 Graph Plots
+                       NaN                                   Unit 3 MatplotLib for Data Visualization
+                       NaN                                                 3.1 Installation and Setup
+                       NaN                                                            3.2 Basic Plots
+                       NaN                                    3.3 Ploting Mutiple Graphs and Subplots
+                       NaN                                         3.4 Embedding Text and Expressions
+                       NaN                                 3.5 Saving the figure in different formats
+                       NaN                                      Unit 4 Seaborn for Data Visualization
+                       NaN                                       4.1 Importing Datasets and Libraries
+                       NaN                                 4.2 Pie, bar, Scatter, Heatmaps in Seaborn
+                       NaN                                          4.3 Styleing Charts using Seaborn
+                       NaN                                    4.4 Searborn Multipanel and Facet Plots
+                       NaN                                   Unit 5 SciKitLearn and Prediction Models
+                       NaN                                   5.1 Binary and Multiclass Classification
+                       NaN                                                   5.2 Performance Measures
+                       NaN                                              5.3 Naive Bays Implementation
+                       NaN                                         5.4 Training and Testing SVMModels"
+8,table,"                                                              Unnamed: 0                                                                                                                                          5.5 Training and Testing Decision Tree Models\r5.6 Ensemble Learning and Random Forest Models\r5.7 Linear and Logistic Regression Implementation\rUnit 6 Tensorflow and Deep Learning\r6.1 Tensor Data Structure\r6.2 Tensorboard Visualization\r6.3 Tensorflow Linear Regression\r6.4 Single layer Perceptron using Tensorflow\rUnit 7 Flask and Web Application Basics\r7.1 Flask Fundamentals\r7.2 Web Application and Page Creation\r7.3 Routing in Flask\r7.4 HTTP Methods in Flask\r7.5 Templates and Static Files\r7.5 Deploying ML/DL Projects on Flask\rUnit 8 Deploying application using Flask and Heroku\r8.1 Creating the Python Flask Example Application\r8.2 Deploying the Application to Heroku\r8.3 Using Heroku Pipelines to Implement a Deployment Workflow\r8.4 Managing Environment                                                       Unnamed: 1
+                                          Text and Reference\rLiterature 1.Discrete Mathematics - Sujit Chavan, Nandani Sakhare, HImalaya\rPublishing House\r2.Computer Oriented Statistical Techniques - Dinesh Gabhane, Madhuri S.\rBanker, HImalaya Publishig House\r3.Linear Algebra using Python - Archana Jadhav, Nandini Sakhare, Himalya\rPublishing House\r4.Python Data Science FOR Dummies - John Paul Mueller, Luca Massaron -\rWiley Publication\r5.MatplotLib Cook Book 3.0 By Alexandre Devert Packt Publishing\rhttps://github.com/PacktPublishing/Matplotlib-3.0-\rCookbook/tree/master/Chapter08\r6.Hands On Machine Learning with Scikit Learn and TensorFlow O relly\rPublication Aurelien Geron https://github.com/yanshengjia/ml-\rroad/blob/master/resources/Hands%20On%20Machine%20Learning%20w\rith%20Scikit%20Learn%20and%20TensorFlow.pdf\r7.Data Science for Business, Tom Fawcett, Foster Provost , O’relly\rPublication\r8.Python Data Science Handbook, Jake VanderPlas, O’relly Publication 1.Discrete Mathematics - Sujit Chavan, Nandani Sakhare, HImalaya
+                                                        Publishing House                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+ 2.Computer Oriented Statistical Techniques - Dinesh Gabhane, Madhuri S.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+                                        Banker, HImalaya Publishig House                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+3.Linear Algebra using Python - Archana Jadhav, Nandini Sakhare, Himalya                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+                                                        Publishing House                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+  4.Python Data Science FOR Dummies - John Paul Mueller, Luca Massaron -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+                                                       Wiley Publication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+         5.MatplotLib Cook Book 3.0 By Alexandre Devert Packt Publishing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+                      https://github.com/PacktPublishing/Matplotlib-3.0-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+                                          Cookbook/tree/master/Chapter08                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+    6.Hands On Machine Learning with Scikit Learn and TensorFlow O relly                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+           Publication Aurelien Geron https://github.com/yanshengjia/ml-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+          road/blob/master/resources/Hands%20On%20Machine%20Learning%20w                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+                             ith%20Scikit%20Learn%20and%20TensorFlow.pdf                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+      7.Data Science for Business, Tom Fawcett, Foster Provost , O’relly                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+                                                             Publication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN
+    8.Python Data Science Handbook, Jake VanderPlas, O’relly Publication                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                NaN                                                              NaN"
+9,table,"          Unnamed: 0                 9. Core Python Programming, Nageshwar Rao, dreamtech press
+                 NaN             10. Flask Web Development Miguel Grinberg, O’relly Publication
+Teaching Methodology                     Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class
+                 NaN                 test, quiz, assignment, seminar, internal examination etc.
+                 NaN                30% assessment is based on end semester written examination"
+10,table,"      Course Code                                                                                   Unnamed: 0
+     Course Title                                                      Cyber Security and Computer Forensics-2
+           Credit                                                                                            4
+Teaching per Week                                                                                        4 Hrs
+Minimum weeks per                           15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                                          NaN
+    Last Review /                                                                                            -
+         Revision                                                                                          NaN
+Purpose of Course               Conceptualize the students with the concepts of computer forensics methodology
+ Course Objective     Familiarization with different objectives associated with different forensic techniques.
+              NaN Different stages of forensic investigation process life cycle can focus on broad idea of the
+              NaN                                                                            forensic process.
+     Prerequisite         Basic knowledge of Cyber security, Information security, computer network, operating
+              NaN                                            systems and hardware mechanism of IT peripherals.
+  Course Out come                                1. Get familiar with different stages of forensic life cycle.
+              NaN                2. Get aware about different methodologies of forensic investigation process.
+              NaN                                      3. Get equipped with different forensic investing tool.
+Couse Description                   Basic terminology associated with forensic investigation process, types of
+              NaN                    forensic technology, data recovery, evidence collection and data seizure,
+              NaN                duplication and preservation of digital evidence, computer image verification
+              NaN                  and authentication, reconstructing past event to collect evidence. Moreover
+              NaN               forensic investigation process of computer, network, e mail, android, i-phone,
+              NaN                                    printer, scanner, pda etc. is covered as subject content.
+   Course Content                                                           Unit 1 Mobile application Security
+              NaN                                                                1.1. Issues in mobile devices
+              NaN                                                          1.2.Securing mobile app development
+              NaN                                                                 1.3.Bluetooth & SMS security
+              NaN                                                   1.4.Android, IOS , Windows Mobile security
+              NaN                                                         1.5.Enterprise security on mobile OS
+              NaN                                                                         1.6.Mobile Malware’s
+              NaN                                                          1.7.Mobile resource privacy concern
+              NaN                                                                Unit 2 Cloud storage security
+              NaN                                                                        2.1 Security planning
+              NaN                                                                      2.2 Security boundaries
+              NaN                                                                  2.3 Key points to CSA Model
+              NaN                                                              2.5 Understanding data security
+              NaN                                          2.6 Working of brokered cloud storage access system
+              NaN                                                                2.7 Managing cloud operations
+              NaN                                                                                    2.8 Cloud
+              NaN                                                            Unit 3 Practical’s & Case Studies
+              NaN               3.1 Various commands: ping, tracert, ipconfig, netstat, netstat, arp, nbtstat,"
+11,table,"       Unnamed: 0                                                            7.6 Wearable device forensic
+              NaN                                                                  Unit 8 Cloud forensics
+              NaN                                                      8.1 Introduction to cloud forensic
+              NaN                        8.2 Challenges faced by CSP due to international law enforcement
+              NaN                                                    8.3 Cloud storage forensic framework
+              NaN                                                  8.4 Google drive and Drop box analysis
+              NaN                                                                          8.5 Case study
+         Text and                                  1. Computer forensic by John R. Vacca, Firewall media,
+        Reference                               2. Computer forensic, Nina godbole, sunit belapure, wiley
+            books      3. Wireless crime and forensic investigation, Gregory kipper, Auerbach publication
+              NaN                                                              (Tallor and Francis group)
+              NaN              4. Computer forensic and cyber crime 3rd edition, by Marjie Britz, Pearson
+              NaN 5. Computer forensic investigation network intrusion and cyber crime EC Council, course
+              NaN                                                                              technology
+         Teaching                    The course is composed of Lectures, assignments and a group project.
+      Methodology                                                                                     NaN
+Evaluation Method  70% Internal assessment is based on class attendance, participation, class test, quiz,
+              NaN                                          assignment, seminar, internal examination etc.
+              NaN                             30% assessment is based on end semester written examination"
+12,table,"                                                                                     Course Code
+                                                                  Course Title UI/UX Development
+                                                                                        Credit 4
+                                                                         Teaching per Week 4 Hrs
+                                                                            Minimum weeks per 12
+                                                                                        Semester
+                                                                        Last Review / Revision -
+  Purpose of Course This course is make relevant & up to-date in the digital world with the deep
+                   understanding of UX. Learn to create persuasive user experience & get an edge
+                       over the others. It is design-centric approach to user interface and user
+                experience design, and offers practical, skill-based instruction centered around
+                                                            a visual communications perspective.
+         Course Objective UI design is about the look and feel of the website or application. UX
+                          design improves the overall experience of the users when they interact
+                                                                with the website or application.
+                  Pre-requisite Basic Knowledge of software designing & prototyping is required.
+            Course Out come On successful completion of this subject, a student will be able to:
+                           Describe aspects of user interaction and cognition as they relate to
+                                                                                          UI/UX.
+                                Explain the role and importance of Standards, Technologies, and
+                                                    Guidelines in the UX process and UI process.
+                                    Select and apply appropriate methods for analysing a design
+                    Select and apply the relevant descriptive statistical tests associated with
+                                                                                            UX .
+                                Analyse problems associated with different designs and suggests
+                                                                 solutions for their resolution.
+Course Description: The UI/UX Design brings a design-centric approach to user interface and user
+              experience design, and offers practical, skill-based instruction centered around a
+                   visual communications perspective, rather than on one focused on marketing or
+                       programming alone. In this sequence of courses, summarize and demonstrate
+                        different stages of the UI/UX development process, from user research to
+               defining a project’s strategy, scope, and information architecture, to developing
+                 sitemaps and wireframes. Students will learn conventions in UX design and apply
+                them to create effective and compelling screen-based experiences for websites or
+                                                                                           apps.
+                                                            Course Content Unit 1 UI/UX Overview
+                                                                       1.1 Introduction to UI/UX
+                                                                             1.2 Good vs. Bad UX
+                                                                                   1.3 UX Vs. UI
+                                                                          Unit 2 Design Thinking
+                                              2.1 Introduction to user experience design process
+                                              2.2 Carrying out user research and report findings
+                                                    2.3 Mapping user journey and experience maps"
+13,table,"                                                                               Unnamed: 0                                                                       Unnamed: 1                                                    8.7 Responsive Design
+                                                                                      NaN                                                                              NaN                                         8.8 Testing & Refactoring Design
+                                                                                      NaN                                                                              NaN                                     8.9 Creating an impressive portfolio
+                                                                          Reference Books                                                                               1.                                   UI is Communication By Everett N McKay
+                                                                                      NaN                                                                               2.  Simple and Usable Web, Mobile, and Interaction Design By Giles Colborne
+                                                                                      NaN                                                                               3.          Designing Interfaces , By Jenifer Tidwell, O’Reilly publication
+                                                                                      NaN                                                                               4. About Face: The Essentials of Interaction Design ,By Alan Cooper, Robert
+                                                                                      NaN                                                                              NaN                               Reimann, David Cronin, Christopher Noessel
+                                                                                      NaN                                                                               5.                             The UX Book , By Rex Hartson and Pardha Pyla
+                                                                                      NaN                                                                               6.                   Smashing UX Design ,By Jesmond Allen and James Chudley
+Teaching Methodology The course is composed of Lectures, assignments and a group project.                                                                              NaN                                                                      NaN
+                                                                        Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,                                                                      NaN
+                                                                                      NaN                             quiz, assignment, seminar, internal examination etc.                                                                      NaN
+                                                                                      NaN                      30% assessment is based on end semester written examination                                                                      NaN"
+14,table,"               Course Code                                                              Unnamed: 0                                                           Unnamed: 1
+              Course Title                                                                     NaN                                             Advanced Cloud Computing
+                    Credit                                                                     NaN                                                                    4
+         Teaching per Week                                                                     NaN                                                                4 Hrs
+Minimum weeks per Semester                                                                     NaN   15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                     NaN                                                                    -
+         Purpose of Course                                                                     NaN    The purpose of course is to establish foundation of micro service
+                       NaN                                                                     NaN                        architecture technologies and cloud computing
+          Course Objective                                                                                               To develop and deploy Microservices for cloud
+                       NaN                                                                        To understand Amazon cloud services, Google cloud services and Azure
+                       NaN                                                                     NaN                                                       cloud services
+                       NaN                                                                                                     To implement micro services with DevOps
+                       NaN                                                                                     To follow the DevOps practices for software development
+             Pre-requisite Fundamental knowledge of software engineering, programming, networking,                                                                  NaN
+                       NaN                                       internet and types of Information                                                                  NaN
+           Course Out come            After completion of the course, a student should be able to:                                                                  NaN
+                       NaN                                                                                                       Achieve containerization using Docker
+                       NaN                                                                               Develop the Microservices for cloud and deploy them on cloud.
+                       NaN                                                                                        Thoroughly build the applications in the DevOps way.
+            Course Content                                  Unit 1 Fundamentals of Cloud Computing                                                                  NaN
+                       NaN                                                                     NaN                                     1.1 Evolution of Cloud Computing
+                       NaN                                                                     NaN                             1.2 Cloud characteristics and challenges
+                       NaN                                                                     NaN                                       1.3 Cloud Computing Essentials
+                       NaN                                                                     NaN                          1.4 Cloud Computing Architectural Framework
+                       NaN                                                                     NaN                                          1.5 Cloud Deployment Models
+                       NaN                              Unit 2 Virtualization and Containerization                                                                  NaN
+                       NaN                                                                     NaN                                2.1 Virtualization in Cloud Computing
+                       NaN                                                                     NaN                               2.2 Parallelization in Cloud Computing
+                       NaN                                                                     NaN                                 2.3 Introduction to Containerization
+                       NaN                                                                     NaN                                    2.3.1 Concept of Containerization
+                       NaN                                                                     NaN                                       2.3.2 Need of Containerization
+                       NaN                                                                     NaN                            2.3.3 Containerization and Virtualization
+                       NaN                       Unit 3 Cloud Service Models & Cloud Based Systems                                                                  NaN
+                       NaN                                                                     NaN                                3.1 Infrastructure as a Service(IaaS)
+                       NaN                                                                     NaN                                          3.1.1 Server virtualization
+                       NaN                                                                     NaN                                         3.1.2 Storage virtualization
+                       NaN                                                                     NaN                                         3.1.3 Network virtualization
+                       NaN                                                                     NaN                                      3.2 Platform as a Service(PaaS)
+                       NaN                                                                     NaN                                                          3.2.1 Azure
+                       NaN                                                                     NaN                                                    3.2.2 GooleAppEng
+                       NaN                                                                     NaN                                                         3.2.3 Hadoop
+                       NaN                                                                     NaN                                                     3.2.4 SalesForce
+                       NaN                                                                     NaN                                     3.3 Software as a Service (SaaS)"
+15,table,"          Unnamed: 0                                           Unit 8 Realizing MSA based Application
+                 NaN                                      8.1 Micro Profile based Application for MSA
+                 NaN                                                        8.2 Service Discovery API
+                 NaN                                   8.3 Deploying MSA based Applications on cloud.
+      Reference Book                             1. Pro Newcomer & Lomow, “Understanding SOA with Web
+                 NaN                                               Services”, Pearson Education, 2007
+                 NaN                   2. Bieberstein,Bose,Fiammante,Jones and Shah “Service-Oriented
+                 NaN                              Architecture(SOA) Compass”, Pearson Education, 2010
+                 NaN             3. Thomas Erl, “Service-Oriented Architecture: Concepts, Technology,
+                 NaN                                            and Design”, Pearson Education, 2005.
+                 NaN                      4. Thomas Erl, “SOA: Principles of Service Design “,Pearson
+                 NaN                                                                  Education, 2009
+                 NaN                 5. Pulier and Taylor, “Understanding Enterprise SOA”, DreamTech,
+                 NaN                                                                             2008
+                 NaN                                      6. Michael HAvey, “SOA cookbook”, SPD, 2008
+                 NaN              7. Cloud Computing: Principles and Paradigms - R. Buyya et al-Wiley
+                 NaN                                                                             2010
+                 NaN                         8. Cloud Computing Bible - Sosinsky - Wiley - India,2011
+                 NaN             9. Cloud Computing Second Edition Dr. Kumar Saurabh - Wiley - India,
+                 NaN                                                                             2012
+                 NaN               10. Building Microservices Paperbackby Sam Newman, SPD Press, 2017
+                 NaN               11. Microservices for Java EE Architects: Addendum for The Java EE
+                 NaN                                   Architect's Handbook by Derek C. Ashmore, 2017
+                 NaN                  12. Kubernetes Microservices with Docker by Deepak Vohra,Apress
+                 NaN                                                                Publication, 2018
+                 NaN          13. Docker Quick Start Guide: Learn Docker like a boss, and finally own
+                 NaN                         your applications by Earl Waud, PACKT publications, 2018
+                 NaN             14. Apache ZooKeeper Essentials by Saurav Haloi, PACKT publications,
+                 NaN                                                                             2015
+                 NaN                15. Hazelcast A Complete Guide - 2019 Edition by Gerardus Blokdyk
+                 NaN                                                    publication: 5STARCooks, 2019
+                 NaN           16. Microservices Patterns: With examples in Java by Chris Richardson,
+                 NaN                                            Publisher: Manning Publications, 2018
+                 NaN          17. Microservices and Containers 1st Edition by Parminder Singh, Kocher
+                 NaN                                    Publisher - Addison-Wesley Professional, 2018
+                 NaN            18. Hands-On Microservices with Kubernetes: Build, deploy, and manage
+                 NaN                       scalable microservices on Kubernetes, by Gigi Sayfan,Packt
+                 NaN                                                                     Publications
+Teaching Methodology             The course is composed of Lectures, assignments and a group project.
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+16,table,"               Course Code                                                            Unnamed: 0
+              Course Title                                                 Research in Computing
+                    Credit                                                                     4
+         Teaching per Week                                                                 4 Hrs
+Minimum weeks per Semester    15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                     -
+         Purpose of Course The purpose of the course is to make students capable of implementing
+                       NaN      concepts , methods and tool related to research work in thefield
+                       NaN                                                  of computer science.
+          Course Objective         To learn about fundamentals of research in computer science.
+                       NaN          To learn about research work, research writing and emerging
+                       NaN                                   research areas of computer science.
+             Pre-requisite            Understanding of general Computer Science, Mathematics and
+                       NaN                                                            Statistics
+           Course Out come       After completion of this course, the student will be capable to
+                       NaN     understand research methods, emerging research areas and research
+                       NaN                                                        paper writing.
+            Course Content                                       Unit 1 Introduction to Research
+                       NaN                                      1.1 Research : a way of thinking
+                       NaN                                                 1.2 Types of Research
+                       NaN                                                  1.3 Research Problem
+                       NaN                                       1.4 Conducting a research study
+                       NaN                               Unit 2 Literature Review and Hypotheses
+                       NaN                                      2.1 How to review the literature
+                       NaN                                            2.1.1 Searching Literature
+                       NaN                                            2.1.2 Reviewing Literature
+                       NaN                               2.1.3 Writing about Reviewed Literature
+                       NaN                                          2.2 Definition of hypothesis
+                       NaN                            2.3 Types and characteristic of Hypothesis
+                       NaN                           Unit 3 Research Methods and Data Collection
+                       NaN                                                   3.1 Survey Research
+                       NaN                                               3.2 Observation Methods
+                       NaN                                        3.3 Methods of data collection
+                       NaN                                               3.4 Concept of Sampling
+                       NaN                                                 3.5 Types of Sampling
+                       NaN                                      3.6 Determination of Sample Size
+                       NaN                                 Unit 4 Data Analysis and Presentation
+                       NaN                          4.1 Data gathering, validation, and analysis
+                       NaN                           4.2 User studies, surveys, and survey tools
+                       NaN                                             4.3 Statistical Modelling
+                       NaN                                             4.4 Mathematical Modeling
+                       NaN                                               4.5 Performance metrics
+                       NaN                                                        4.6 Simulation
+                       NaN                                            4.7 Presentation and tools"
+17,table,"        Unnamed: 0                            Unit 5 Proposing and Performing Research
+               NaN              5.1 Types of papers (survey, position, research, etc.)
+               NaN                                          5.2 Problem identification
+               NaN                                  5.3 Literature review and citation
+               NaN                                            5.4 Identifying subjects
+               NaN                               5.5 Selecting appropriate methodology
+               NaN                                       5.6 Assessment and validation
+               NaN                                          Unit 6 Conduct of Research
+               NaN                                                          6.1 Ethics
+               NaN                                                      6.2 Plagiarism
+               NaN                                           6.3 Intellectual property
+               NaN                                      6.4 Technical writing, formats
+               NaN                                Unit 7 Research Domains in Computing
+               NaN                                         7.1 Artificial Intelligence
+               NaN                                    7.2 Data Mining and Data Science
+               NaN                              7.3 Machine Learning and Deep Learning
+               NaN                                        7.4 Computational Linguistic
+               NaN                                                7.5 Image Processing
+               NaN                                   Unit 8 Multidisciplinary Research
+               NaN      8.1 Internet of Things in Medical, Agricultural and Industrial
+               NaN                                                             Domains
+               NaN                 8.2 Computational Biology : Computational Genomics,
+               NaN                            Computational Proteomics, Bioinformatics
+               NaN                8.3 Education : Accreditation, Assessment, Pedagogy,
+               NaN                                                   Educational Tools
+               NaN                8.4 Molecular Computing : Algorithmic Self-Assembly,
+               NaN                Chemical Reaction Networks, DNA Strand Displacement,
+               NaN                        DNA Sequence Design, Thermodynamic Computing
+               NaN             8.5 Network Science - Complex Networks, Social Networks
+               NaN                   8.6 Quantum Computing: Quantum Complexity Theory,
+               NaN                 Post-Quantum Cryptography, Quantum Error Correcting
+               NaN                                                               Codes
+Text and Reference 1. Research Methodology : Methods and Techniques, C.R. Kothari, New
+        Literature                                                     Age Publication
+               NaN  2. Qualitative Research: A Guide to Design and Implementation, 4th
+               NaN        Edition Sharan B. Merriam, Elizabeth J. Tisdell, Jossey-Bass
+               NaN                                                         Publication
+               NaN                             3. RESEARCH METHODOLOGY 2nd Edition, R.
+               NaN                                         PANNEERSELVAM, PHI Learning
+               NaN 4. A Guide for New Referees in Theoretical Computer Science, by Ian
+               NaN                                                           Parberry.
+               NaN           5. A primer on mathematical writing, by Steven L. Kleiman
+               NaN                                 6. An Evolution of Computer Science
+               NaN            Research, https://www.cs.rpi.edu/research/pdf/12-03.pdf.
+               NaN   7. Association of Computing Machinery Computing and Public Policy
+               NaN                                     Page (including Code of Ethics)
+               NaN                8. Hints on good mathematical writing, by David Goss"
+18,table,"          Unnamed: 0            9. How to do Research in the MIT AI Lab, ed. David Chapman
+                 NaN    10. How to Present a Paper in Theoretical Computer Science, by Ian
+                 NaN                                                             Parberry.
+                 NaN 11. How to write a thesis in an Experimental area of Computer Science
+                 NaN                                                        by Doug Comer.
+                 NaN       12. J. Zobel, Writing For Computer Science, New York: Springer-
+                 NaN                                                         Verlag, 1997.
+Teaching Methodology     The course is composed of readings, assignments and a class work.
+   Evaluation Method  70% Internal assessment is based on class attendance, participation,
+                 NaN      class test, quiz, assignment, seminar, internal examination etc.
+                 NaN           30% assessment is based on end semester written examination"
+19,table,"               Course Code                                                             Unnamed: 0
+              Course Title                                           Elective Web Programming - 2
+                    Credit                                                                      4
+         Teaching per Week                                                                  4 Hrs
+Minimum weeks per Semester     15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                      -
+         Purpose of Course              To provide comprehensive knowledge about JavaScript-based
+                       NaN                framework built on Google Chrome's JavaScript V8 Engine
+          Course Objective              To provide knowledge on how to develop I/O intensive web
+                       NaN applications like video streaming sites, single-page applications, and
+                       NaN                         other web applications using Node.js framework
+             Pre-requisite                  Basic understanding of JavaScript, HTML, CSS and AJAX
+            Course Outcome               After having completed the course the student will gain:
+                       NaN                                1. Understanding of Node.js Environment
+                       NaN         2. Knowledge of Node Modules Technical know-hows of Full Stack
+                       NaN                                              Node.js based development
+                       NaN     3. Application of Node.js web development of real life application
+            Course Content                                            Unit 1 Introduction Node.js
+                       NaN                                          1.1 Features and Applications
+                       NaN                       1 1.1 Installing Node, Node Hosting Environments
+                       NaN                1.1.2 Node Building Blocks- Global and Process objects,
+                       NaN                            buffers, Typed arrays and Strings, Streams,
+                       NaN                      Callbacks and Asynchronous, Event Handling- Event
+                       NaN                           Queue, Event Emitter, Event Loop and Timers,
+                       NaN                                                        Nested Callback
+                       NaN                                                1.2 Exception Handling.
+                       NaN                                                      1.3 REPL Terminal
+                       NaN                     Unit 2 Node Modules and Node Package Manager (NPM)
+                       NaN                                     2.1 Overview of Node Module System
+                       NaN                                   2.2 Overview of Node Package Manager
+                       NaN                                   2.3 Overview of Node Version Manager
+                       NaN                               2.4 Creating and Publishing Node Modules
+                       NaN                2.5 Node Modules-Async, Commander and Underscore, OAuth
+                       NaN                                  2.6 Overview of Other Utility Modules
+                       NaN                          Unit 3 Node with the Local System and the Web
+                       NaN                                                  3.1 Streams and Pipes
+                       NaN             3.2 Node and the File System- The fs.Stats class, The File
+                       NaN                  System Watcher, File Read and Write, Directory access
+                       NaN                                          and Maintenance, File Streams
+                       NaN                                          3.3 Resource Access with Path
+                       NaN                                        Unit 4 Node and Web Application
+                       NaN                 4.1 The HTTP Module: Server and Client using APACHE to
+                       NaN                  proxy a Node Application Query String Parsing and DNS
+                       NaN                                                             Resolution"
+20,table,"          Unnamed: 0                                                            4.2 Routing in NodeJS
+                 NaN                                                4.3 Routing and Callback function
+                 NaN                                                        Unit 5 NodeJS and MongoDB
+                 NaN                                                       5.1 NoSQL Database MongoDB
+                 NaN                                                              5.2 MongoDB Objects
+                 NaN                        5.3 Working with MongoDB-writing data, querying, Indexes,
+                 NaN                                                                        MapReduce
+                 NaN                                               Unit 6 Full-Stack Node development
+                 NaN                                            6.1 The Express Application Framework
+                 NaN                      6.2 Express Supportive Modules,Body-parser, Method Override
+                 NaN                                                   6.3 Template Engines in NodeJS
+                 NaN                                               6.4 Integrating NodeJS and MongoDB
+                 NaN                                                         6.5 Nodes JS RESTful API
+                 NaN                                                Unit 7 Event Management in NodeJS
+                 NaN                                                                  7.1 Event Class
+                 NaN                                                     7.2 EventEmitter and Methods
+                 NaN                                      7.3 EventListner and EventHandler in NodeJS
+                 NaN                                                 7.4 Asynchronus Event Management
+                 NaN                                                   Unit 8 Node in New Environment
+                 NaN                                       8.1 Next Generation NodeJS Framework - Koa
+                 NaN                                                               8.2 Working of Koa
+                 NaN                                                               8.3 NodeJS and IoT
+                 NaN                                                             8.4 Node and Adruino
+                 NaN                                                        8.5 Node and Raspberry Pi
+  Text and Reference                1. Learning Node Moving to the server side Shelley Powers O’Relly
+          Literature                                                                      Publication
+                 NaN                     2. Buliding Node Applications with MongoDB and Backbone Mike
+                 NaN                                                   Wilson O’Relly SPD Publication
+                 NaN                               3. GEO, CouchDB & NodeJS Mick Thompson O’Relly SPD
+                 NaN                                                                      Publication
+                 NaN                          4. Web Development with Node and Express, Ethan Brown ,
+                 NaN                                                              O’Relly Publication
+                 NaN       5. Node.js in Action, Alex Young, Bradley Meck, Mike Cantelon, Tim Oxley ,
+                 NaN                                    Marc Harter, T.J. Holowaychuk, Nathan Rajlich
+Teaching Methodology                           Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+21,table,"               Course Code                                                                                                                                                                                       Unnamed: 0
+              Course Title                                                                                                                                                                                        Practical
+                    Credit                                                                                                                                                                                                8
+         Teaching per Week                                                                                                                                                                                           16 Hrs
+Minimum weeks per Semester                                                                                                                               15 (Including Class work, examination, preparation, holidays etc.)
+         Review / Revision                                                                                                                                                                                                -
+         Purpose of Course                                                 The purpose of the course is to make students capable of\rimplementing concepts, methods, tools and techniques learnt in\rcourses of semester 2.
+          Course Objective                                                                         The objective of these course is to enable students to learn practical\rimplementation of DSC-3, DSC-4, SEC-2 and DSE-2.
+              Pr-requisite                                                                                                                                                             As per theory papers of semester -2.
+           Course Out come                                                              After completion of this course, the student will be capable of\rperforming practical application of subjects given in semester -2.
+                       NaN                                                                                                                                                                                              NaN
+            Course Content The students will be required to carry out practical on DSC-3, DSC-4,\rSEC-2 and DSE-2. using the methods and tools discussed there in.\rA Journal must be prepared for the practical work done.
+                       NaN                                                                                                                                                                                              NaN
+            Reference Book                                                                                                                                                     .As per paper DSC-3, DSC-4, SEC-2 and DSE-2.
+                       NaN                                                                                                                                                                                              NaN
+      Teaching Methodology                                                                                                                                                                                         Lab Work
+         Evaluation Method                     70% Internal assessment is based on Practical attendance, Problem\rSolving, internal examination etc.\r30% assessment is based practical examination at the end of semester."

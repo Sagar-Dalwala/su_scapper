@@ -1,0 +1,492 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20240808060150Z
+---- END METADATA ----
+
+Total Pages: 13
+
+==== PAGE 1 ====
+  
+  
+Faculty of Science  
+Shree Ramkrishna Institute of Computer Education & 
+Applied Sciences, Surat  
+ 
+B.Sc. Computer Sc ience  
+SEMESTER - 2
+
+
+==== PAGE 2 ====
+  
+ Object Oriented Programming  Methodology  
+ 
+Course 
+Code   
+Course Title  Major : Object Oriented Programming  Methodology  
+Credit  3 (Theory) + 1 (Practical)  
+Teaching 
+per Week  3hrs (Theory) + 2hrs (Practical)  
+Minimum 
+weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review 
+/ Revision  --- 
+ 
+Purpose of 
+Course  To develop the understanding of object -oriented programming concepts through 
+programming using java as the computer programming language.  
+ 
+ 
+Course 
+Objective  ● To learn inheritance, polymorphism, abstraction and encapsulation  
+● To understand the utility of package  
+● To learn exception handling   
+Pre-
+requisite  Programming basics  
+ 
+Course Out 
+come  At the end of the course, student is expected to have understanding about the 
+concepts of object -oriented programming, inheritance, polymorphism, interfaces 
+and packages  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course 
+Content  Unit 1 Introduction to Object oriented programming in java                    [8 hrs] 
+1.1  Object oriented programming  
+1.2  Structured vs object -oriented programming  
+1.3  Object oriented programming languages  
+1.4  Overview of object -oriented programming features – data hiding,  
+  abstraction, encapsulation, inheritance, polymorphism  
+1.5  Classes and objects  
+1.6  Class attributes/variables and methods  
+1.7  Calling class methods  
+1.8  Calling user defined class methods without parameters  
+1.9  Calling user defined class methods with primitive datatype parameters  
+         1.10 Calling user defined class methods with object as parameters  
+       1.11 Access modifiers and its usage for data hiding  
+ 
+Unit 2 Object - construction, accessibility and clean -up                                [7 hrs]   
+         2.1 Constructor and its types  
+               2.1.1 Default constructor  
+
+==== PAGE 3 ====
+  
+                2.1.2 Parameterized constructor  
+               2.1.3 Copy constructor  
+         2.2 Garbage collection in java  
+         2.3 new() and finalize() methods  
+         2.4 static keyword – static variables and methods  
+         2.5 this keyword  
+         2.6 Array of objects  
+ 
+Unit 3 Exception handling in java                                                                 [6 hrs]  
+3.1 Need of exception handling  
+3.2 Types of exceptions  
+3.3 Try… catch block  
+3.4 Finally clause  
+3.5 Throw clause  
+       3.6 Throws clause  
+ 
+Unit 4 Inheritance                                                                                           [ 7 hrs] 
+4.1 Importance of inheritance in object -oriented programming  
+4.2 Types of inheritance  
+4.2.1 Single  
+4.2.2 Multilevel  
+4.2.3 Hierarchical  
+                 4.2.4     Multiple (using interface)  
+                 4.2.5     Hybrid  
+4.3 Use of super keyword  
+4.4 Order of calling constructors  
+ 
+Unit 5 Polymorphism                                                                                    [4  hrs] 
+5.1 Method overloading  
+5.2 Method overriding and dynamic binding  
+        5.3  Using  Final keyword to prevent overriding and inheritance  
+ 
+Unit 6 Encapsulation and packages in java                                                [ 7 hrs] 
+6.1 Significance of Encapsulation  
+6.2 What is a package?  
+6.3 Importance of package  
+6.4 Creating and accessing package in java  
+6.5 Adding classes to package  
+6.6 Inbuilt packages – Java.util, Java.lang, Java.io  
+Practical  List of practical will be prepared at the beginning of each semester  
+Text and 
+Reference 
+Literature  
+ 6. The Complete Reference Java2 Herbert Schildt TMH, New Delhi  
+7. Mastering JAVA2 John Zukowski BPB  
+8. 3. Teach Yourself Java2 platform in 21 days Lamey & Cadenhead Teach  
+Media  
+9. Java in Nut shell - O’Relly Publication  
+10. Java Language Reference - O’Relly Publication  
+Teaching 
+Methodolog y Discussion, Independent Study, Seminars and Assignment, Internal Project Development  
+Practical Assignments  80% (Approximately weekly)  
+
+==== PAGE 4 ====
+  
+  
+Evaluation 
+Method  50% Internal assessment is based on class attendance, participation, class test, quiz, 
+assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Database Management System s-II 
+Course Code   
+Course Title    Major: Database Management System s-II 
+Credit  3 (Theory) + 1 (Practical)  
+Teaching per  
+Week  3hrs (Theory) + 2hrs (Practical)   
+Minimum weeks  
+ per Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / 
+Revision  --- 
+Purpose of  
+ Course  This course imparts the knowledge of Procedural SQL  
+
+==== PAGE 5 ====
+  
+ Course Objective  To give exposure of  
+● SQL Joins and SubQueries,  
+● PL/SQL for handling data,  
+● Transaction Management concepts  
+Pr-requisite  Understanding of basic Database concepts, DDL, and DML  
+Course Out come  Students will be able to  
+● Efficiently use PL/SQL for handling data  
+● Create and invoke user defined procedures, functions and triggers  
+Course Content  Unit 1 SQL Query Functions                                                              [6 hrs]            
+1.1. Numeric, String and Date functions  
+1.2. Aggregate Functions  
+1.3. Sorting and Grouping the data  
+ 
+Unit 2 Data from multiple tables                                                        [5 hrs]                                                 
+ 2.1. Joins: Inner, Outer, Self  
+ 2.2  Sub -queries  
+      
+Unit 3  Procedural SQL  and Exception Handling                           [8 hrs]                    
+ 3.1. PL/SQL Block Structure  
+     3.1.1. Using Variables, Constants and Data Type  
+     3.1.2. Control Statements :IF…THEN statement, Loop,  
+                FOR...Loop, While Loop  
+        3.2. User -Defined RECORD and TABLE data types.  
+    3.3. Exceptions  
+                3.3.1.  User defined Exceptions and Pre -defined Exceptions  
+                3.3.2.  Handling Exceptions  
+                3.3.3.  Raising Exceptions  
+  3.4. Working with Views  
+ 
+Unit 4 Cursors and functions                                                            [6 hrs]        
+      4.1. Concept of Cursors and types of Cursors  
+      4.2. Functions  
+              4.2.1. Built -in functions  
+              4.2.2. User defined functions  
+ 
+Unit 5  Stored Procedures and Triggers                                             [7 hrs]                               
+           5.1 Stored Procedure with parameters  
+      5.2 Triggers  
+            5.2.1 Triggers and its benefits  
+            5.2.2  Types  of Triggers: Before and After Triggers  
+ 
+Unit 6 Transaction Management and Packages                                  [5 hrs]        
+      6.1 Transaction and System Concepts  
+      6.2. Desirable Properties of Transactions  
+      6.3 Commit, Savepoint, Rollback  
+      
+Practical  List of practical will be prepared at the beginning of each semester  
+Text and 1. Silberschatz, Korth, Sudarshan ,Database System Concepts,  McGraw -Hill computer 
+
+==== PAGE 6 ====
+  
+  
+ 
+ 
+ 
+ 
+  Reference 
+Literature  
+ science series  
+2. C J Date, An introduction to Database Systems, Addition -Wesley  
+3. Nilesh Shah, Database System using Oracle, PHI.  
+4. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database Systems, 
+Addison -Wesley  
+5. Hector Gracia -Molina, Jeffrey D. Ullman, and Jennifer Widom, Database System 
+Implementation, Pearson.  
+6. Ivan Bayross, SQL, PL/SQL, BPB Publications  
+7. Scott Urman, Oracle9i PL/SQL programming, McGraw -Hill    
+Practical  List of practical will be prepared at the beginning of each semester  
+Teaching 
+Methodology  Discussion, Independent Study, Seminars and Assignment, Internal Project 
+Development  
+Practical Assignments  80% (Approximately weekly)  
+Evaluation 
+Method  50% Internal assessment is based on class attendance, participation, class test, quiz, 
+assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+
+==== PAGE 7 ====
+  
+  
+Emerging Technologies in Computing  
+Course 
+Code    
+Course 
+Title  Minor: Emerging Technologies in Computing  
+Credit  4(Theory)  
+Teaching 
+per Week  4 Hrs  
+Minimum 
+weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last 
+Review / 
+Revision  - 
+Purpose of 
+Course  The aim of this course is to introduce to the students about the emerging 
+technologies and upcoming areas of computer science and information 
+technology. Students will become  
+familiar with special branches of the field which are future specialization 
+areas of their learning.  
+Course 
+Objective  To Gain understanding about special branches of the IT field.  
+To Gain knowledge AI, Data Science, Information and Cyber Security and 
+Web Mobile technologies.  
+To Understand application areas and future prospects of same branches.  
+Pr-requisite  NIL 
+Course Out 
+come  At the end of the course, student is expected to have understanding about 
+the introductory ideas of AI, Data Science, Information and Cyber 
+Security, Web Mobile technologies, Cloud Computing and IoT.  
+as fields of IT.  
+
+==== PAGE 8 ====
+  
+ Course 
+Content  Unit 1 Artificial Intelligence                                                        [8 hrs]                              
+1.1 Intelligence, Types, Human vs. Machine Intelligence  
+1.2 Introduction to Artificial Intelligence, Definitions  
+1.3 Reasoning, Learning, Problem Solving, Perception, Linguistic 
+Intelligence  
+1.4 Application Areas of AI  
+1.5 Introduction to Machine Learning and Neural Networks  
+1.6 Robotics, Conversational AI - Bots, Responsible AI  
+1.7 Autonomous AI and Robotics  
+  
+Unit 2 Data Science                                                                       [7 hrs]                                                      
+2.1 Data and Databases as Opportunities  
+2.2 Types of Data, Sources of Data and Big Data  
+2.3 Insights from Data  
+2.4 What is Data Science  
+2.5 Idea of Data Science Process  
+2.6 What is Data Analytics, Type of Analytics  
+2.7 Application Areas and Future Prospects  
+  
+Unit 3 Web Application Development                                             [8 hrs]              
+3.1 Computer Program, Computer Application and Software  
+3.2. Type of Computer Application and softwares  
+   3.2.1 Windows and Web Application Development  
+    3.2.2 Working of Web, 2,3 and N -Tier Application, Client Server,   
+              Distributed and Cloud Computing  
+3.4 Client Side Scripting Languages  
+3.5 Server Side Technologies  
+3.6 Opportunities, Application Areas and Job Profiles  
+  
+Unit 4 Mobile Application Development                                        [7 hrs]              
+4.1 Web and Mobile Applications, Differentiation  
+4.2 Mobile Application Fundamentals - Cross platform development,  
+      Responsive Web Programming, Overview Mobile Development  
+      Architecture  
+4.3 Mobile Application Technologies - Android, Flutter, IOS, Xamrine, 
+React  
+      Native, Dart  
+4.4 Compatible Databases -sqlite, firebase, nosql databases Smart 
+Device  
+      Computing  
+4.5 Application Areas and Job Profiles  
+ 
+Unit 5 Information Security                                                              [8 hrs]         
+5.1 Information in Computer Networks, Software and Devices  
+5.2 Data Security mindset  
+5.3 Data confidentiality and availability, Privacy, Authentication and  
+   Authorization  
+5.4 Network Security Concepts - Common threats, E -Mail security,  
+   Authentication, Firewalls, Cryptography  
+5.5 Common well known security approaches  
+
+==== PAGE 9 ====
+  
+ 5.6 Application Areas and Job Profiles  
+  
+Unit 6 Cyber Security                                                                      [7 hrs]           
+6.1 Introduction & defining the Cyber Security  
+6.2 Frauds in IT, Banking, Mobile network, telecommunications  
+6.3 Cyber Crime and Frauds  
+6.4 Ethical and unethical hacking, Application Areas of Cyber Security  
+6.5 Careers in Cyber Security  
+ 
+Unit 7 Cloud Computing  
+7.1 Introduction to Cloud  
+7.2 Defining a cloud, Characteristics and benefits  
+7.3 Virtualization, Service -oriented computing  
+7.4  Types of Cloud  
+7.5  Computing platforms and technologies AWS, Google App Engine,  
+       Salseforce  
+ 
+Unit 8 Internet of Things  
+  8.1 Overview of IoT  
+  8.2 IoT Categories - Consumer IoT, Industrial IoT, Infrastructure IoT  
+  8.3 IoT Applications - Industrial Automation  
+  8.4 IoT Devices - Arduino, Raspberry Pi  
+  8.5 Challenges of IoT  
+
+==== PAGE 10 ====
+  
+ Practical   - 
+Text and 
+Reference 
+Literature  
+  1.       Emerging Technologies in Computing -Theory, Practice, and Advances  
+2.       Pramod Kumar , Anuradha Tomar,  R. Sharmila  
+3.       Emerging Technologies in Computing - 
+4.       Introduction to Artificial Intelligence by Rajendra Akerkar, PHI, ISBN : 
+978- 81-203- 2864 -8 
+5.       Introducing Data Science - Big data, machine learning, and more, using 
+Python tools  
+6.       A Complete Overview On: Web -development Ayush Mauryavanshi 
+(Author)  
+7.       Developing inclusive Mobile Apps - Building Apps for IOS and 
+Android by Rob Whitaker, Apress  
+8.       Cyber security, Nina Godbole, Sunit Belapure, Wiley  
+9.       Introduction to computer security by Matt Bishop  
+10.    Cryptography and network security by William Stalling  
+Teaching 
+Methodolog
+y Discussion, Independent Study, Seminars and Assignment  
+Evaluation 
+Method  50% Internal assessment is based on class attendance, participation, class test, 
+quiz, assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+ 
+  
+
+==== PAGE 11 ====
+  
+  
+Web Designing - II 
+Course 
+Code   
+Course Title  SEC: Web Designing – II 
+Credit  1(Theory) + 1(Practical)  
+Teaching 
+per Week  1 Hrs (Theory) + 2 Hrs (Practical)  
+Minimum 
+weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review 
+/ Revision  - 
+Purpose of 
+Course   The purpose of the course is to make students capable of developing web   
+ applications interface using latest designing frameworks, UI/UX tools and  
+ technologies.  
+Course 
+Objective  To provide knowledge of web design concepts and most recent UI/UX 
+tools  
+  
+Pr-requisite  NIL 
+Course Out 
+come  After completion of this course, the students will be capable of developing 
+effective and interactive front end for web applications  
+
+==== PAGE 12 ====
+  
+ Course 
+Content  Unit 1: Introduction to Design Framework                                    [8 hrs]                           
+1.1 Bootstrap Basics, Need, Advantages and Disadvantages  
+1.2 Bootstrap Grid System Structure  
+1.3 Bootstrap Basic Classes – Tables, Forms, Buttons, Images,  
+ Helper classes, Responsive Utilities, Bootstrap Layout 
+Components - 
+ Dropdowns, Button Groups, Dropdown Button Pagination, Alerts           
+1.4 Overview of Bootstrap design framework  
+Unit 2: Fundamentals of JQuery                                                [8 hrs]                              
+2.1 Introduction to JQuery, features  
+2.2 JQuery Structure  
+2.3 JQuery Attributes, Traversing, DOM methods, Events  
+2.4 JQuery Utilities  
+2.5 JQuery with CSS  
+2.6 Overview of JQuery UI widgets  
+ 
+Unit 3:  Introduction to UI/UX                                                  [8 hrs]                     
+3.1 Basic Concept of UI and UX.  
+3.2 Difference between UI and UX  
+3.3 Need for UI/UX  
+3.4 Roles and Responsibilities of UX  
+3.5 Good vs Bad UX  
+3.6 UI Design Fundamentals - Layouts, Typography, Colour  
+3.7 Wireframing and Prototyping  
+  
+Unit 4: Figma Essentials                                                               [8 hrs]                              
+4.1 Set up your account, teams, projects, and files  
+4.2 Basic Tools:  Frames, Grid, Shape Tools and Alignment  
+4.3 Working with Text, Colour and Styles  
+4.4 Setting up Components  
+4.5 Working with Images: Importing and Customizing Images  
+Practical  List of practical will be prepared at the beginning of each semester  
+Text and 
+Reference 
+Literature  
+  1.      jQuery, jQuery UI and jQuery Mobile, Adriaan de Jonge, Pearson  
+2.      Jquery and Jquery UI, Jay Balchand, Pearson  
+3.      Jquery in Action, Dreamtech Press  
+4.      Jumpstart Bootstrap, Syed Fazle Rahman , SPD  
+5.      Extending Bootstrap, Christoffer Niska, Packt Publishing  
+6.      Learning Web Development with React and Bootstrap by Harmeet Singh  
+7.      UI is communication By Everett N McKay  
+8.      The UX Book , By Rex Hartson and Pardha Pyla  
+9.      Designing and Prototyping Interfaces with Figma – Fabio Staiano  
+ 
+Online resource:  
+1.    https://designcode.io/figma -handbook  
+2.       https://www.figma.com/  
+
+==== PAGE 13 ====
+  
+ Teaching 
+Methodolog
+y Discussion, Independent Study, Seminars and Assignment, Internal Project 
+Development  
+Practical Assignments 80%  (Approximately weekly)  
+Evaluation 
+Method  50% Internal assessment is based on class attendance, participation, class test, 
+quiz, assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+ 

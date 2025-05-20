@@ -1,0 +1,1010 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+7,text,SRKI
+8,text,SRKI
+9,text,SRKI
+10,text,SRKI
+11,text,SRKI
+12,text,SRKI
+13,text,SRKI
+14,text,SRKI
+15,text,SRKI
+16,text,SRKI
+17,text,SRKI
+18,text,SRKI
+19,text,SRKI
+20,text,SRKI
+21,text,SRKI
+22,text,SRKI
+23,text,SRKI
+24,text,SRKI
+25,text,SRKI
+26,text,SRKI
+27,text,SRKI
+28,text,SRKI
+29,text,SRKI
+1,table,"                                                                                                                                                                                                                                                                                                                                                        Semester 3                                                                                                                                                          Unnamed: 0              Unnamed: 1      Unnamed: 2              Unnamed: 3      Unnamed: 4   Unnamed: 5  Unnamed: 6  Unnamed: 7
+                                                                                                                                                                                                                                                                                                                                                      Course\rCode                                                                                                                                                               Title Teaching Hrs.\rper week Course\rCredits University\rExamination Internal\rMarks Total\rMarks         NaN         NaN
+                                                                                                                                                                                                                                                                                                                                                               NaN                                                                                                                                                                 NaN                  Theory       Practical                     NaN        Duration        Marks         NaN         NaN
+                                                                                                                                                                                                                                                                                                                                                               NaN                                                                                                                                           DSC-5 : Bigdata Analytics                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                                                                                                                                                               NaN                                                                                                                DSC-6 : Artificial Neural\rNetwork and Deep Learning                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                                                                                                                                                               NaN                                                                                                                                                    SEC-3 Elective-1                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                                                                                                                                                               NaN                                                                                                                                                    DSE-3 Elective-2                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                                                                                                                                                               NaN                                                                                                                                                           Practical                     NaN               8                       8             NaN          140        60.0       200.0
+                                                                                                                                                                                                                                                                                                                                                               NaN                                                                                                                                                                 NaN                      16             NaN                      24             NaN          NaN         NaN       600.0
+NOTE: Following subjects are listed as elective subjects of semester.\rELECTIVE SUBJECTS\r1. Mobile Application Development - 2\rSEC- 32.Cyber Law and Practices\r3.Internet of Things\r1.Advanced JavaScript Framework\r2.Data Visualization\rDSE - 33.Blockchain Technology\r4.Computational Linguistic\r5.Social Media Mining and Analytics\r6.Game Development                                                                                                                                                                 NaN                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                                                                                                                                                            SEC- 3                                                                              1. Mobile Application Development - 2\r2.Cyber Law and Practices\r3.Internet of Things                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                                                                                                                                                           DSE - 3 1.Advanced JavaScript Framework\r2.Data Visualization\r3.Blockchain Technology\r4.Computational Linguistic\r5.Social Media Mining and Analytics\r6.Game Development                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN"
+2,table,"NOTE: Following subjects are listed as elective subjects of semester.\rELECTIVE SUBJECTS\r1. Mobile Application Development - 2\rSEC- 32.Cyber Law and Practices\r3.Internet of Things\r1.Advanced JavaScript Framework\r2.Data Visualization\rDSE - 33.Blockchain Technology\r4.Computational Linguistic\r5.Social Media Mining and Analytics\r6.Game Development                                                                                                                                                          Unnamed: 0
+                                                                                                                                                                                                                                                                                                                                                            SEC- 3                                                                              1. Mobile Application Development - 2\r2.Cyber Law and Practices\r3.Internet of Things
+                                                                                                                                                                                                                                                                                                                                                           DSE - 3 1.Advanced JavaScript Framework\r2.Data Visualization\r3.Blockchain Technology\r4.Computational Linguistic\r5.Social Media Mining and Analytics\r6.Game Development"
+3,table,"               Course Code                                                                     Unnamed: 0
+              Course Title                                                             Big Data Analytics
+                    Credit                                                                              4
+         Teaching per Week                                                                          4 Hrs
+Minimum weeks per Semester             15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                              -
+         Purpose of Course                       The purpose of the course is to make students capable of
+                       NaN                     understanding and implementation of big data technologies.
+          Course Objective                             To learn about fundamental of big data analytics.
+                       NaN          To learn python programming with advanced libraries for implementing
+                       NaN                                                             big data projects.
+             Pre-requisite                             Fundamental of Data Science and Python Programming
+           Course Out come After completion of this course, the student will be capable to understand big
+                       NaN              data platforms, architecture, concepts of map reduce and parallel
+                       NaN                                                        programming with spark.
+            Course Content                        Unit 1 Introduction to Big Data Platform and Frameworks
+                       NaN                                        1.1 Challenges of Conventional Systems,
+                       NaN                                 1.2 Intelligent Data Analysis, Nature of Data,
+                       NaN                       1.3 Analytic Processes and Tools, Analysis vs Reporting,
+                       NaN                                                 1.4 Modern Data Analytic Tools
+                       NaN                                               1.5 Technology Stack of Big Data
+                       NaN                                       Unit 2 The Big Data Technology Landscape
+                       NaN                               2.1 Applications on Big Data Using Pig and Hive,
+                       NaN                   2.2 Data Processing Operators in Pig, Hive Services, HiveQL,
+                       NaN                2.3 Querying Data in Hive, Fundamentals of HBase and ZooKeeper,
+                       NaN                             2.4 Visualizations,Visual Data Analysis Techniques
+                       NaN                           2.5 Interaction Techniques, Systems and Applications
+                       NaN                                                 Unit 3 Map Reduce Fundamentals
+                       NaN                                                   3.1 The MapReduce Framework;
+                       NaN                                                         3.2 Uses of MapReduce;
+                       NaN               3.3 Storing Data in Hadoop : Introduction of HDFS, Architecture,
+                       NaN                                       HDFC Files, File system types, commands,
+                       NaN                  3.4 org.apache.hadoop.io package, HDF, HDFS High Availability
+                       NaN                                      3.5 Techniques to Optimize MapReduce Jobs
+                       NaN                                                      Unit 4 Hbase Fundamentals
+                       NaN                                           4.1 Introducing HBase, Architecture,
+                       NaN                  4.2 Storing Big Data with HBase , Interacting with the Hadoop
+                       NaN                                                                      Ecosystem
+                       NaN                                 4.3 HBase in Operations Programming with HBase
+                       NaN                                     4.4 Installation, Combining HBase and HDFS
+                       NaN                                         Unit 5 Parallel Programming with Spark
+                       NaN                                     5.1 Components of the Spark unified stack,
+                       NaN                                       5.2 Resilient Distributed Dataset (RDD),"
+4,table,"          Unnamed: 0                                              5.3Scala and Python overview,
+                 NaN                                       Unit 6 Spark application programming
+                 NaN               6.1 Initialize Spark with the various programming languages,
+                 NaN                         6.2 Create and run a Spark standalone application,
+                 NaN        6.3 Introduction to Spark libraries -Understand and use the various
+                 NaN                                                           Spark libraries,
+                 NaN                                              6.4 Sliding Window Analytics,
+                 NaN                                            6.5 Machine Learning with Spark
+                 NaN                                     Unit 7 Big Data Application Management
+                 NaN                                                   7.1 Design of zookeeper,
+                 NaN                                         7.2 CQL cassendrea query language,
+                 NaN                    7.3 Kafaka for streaming and real time data management,
+                 NaN           7.4 Parameter servers, Page Rank algorithm in Bigdata, Spark and
+                 NaN                                                                     GraphX
+                 NaN                                      7.5 Query Engine for Managing BigData
+                 NaN                                                Unit 8 Bigdata Case Studies
+                 NaN                            8.1 Flight Data Analysis using Spark and GraphX
+                 NaN                                8.2Twitter Sentiment Analysis using PYsAPRK
+  Text and Reference       1. Learning Spark: Lightning-Fast Big Data Analysis - Holden Karau N
+          Literature                                          Andy Kowinski O’relly Publication
+                 NaN                     2. Hadoop - The definitative Guide O’relly Publication
+                 NaN                       3. Spark- The definitative Guide O’relly Publication
+                 NaN                        4. Kafka The definitative Guide O’relly Publication
+                 NaN           5. Big Data, Black Book: Covers Hadoop 2, MapReduce, Hive, YARN,
+                 NaN                     Pig, R and Data Visualization - Dreamtech Publications
+                 NaN       6. Advanced Analytics with Spark: Patterns for Learning from Data at
+                 NaN                                      Scale, Sandy Ryza O’relly Publication
+                 NaN         7. https://towardsdatascience.com/sentiment-analysis-on-streaming-
+                 NaN          twitter-data-using-spark-structured-streaming-python-fc873684bfe3
+Teaching Methodology                    Discussion, Independent Study, Seminars and Assignments
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class
+                 NaN                 test, quiz, assignment, seminar, internal examination etc.
+                 NaN                30% assessment is based on end semester written examination"
+5,table,"               Course Code                                                                     Unnamed: 0
+              Course Title                                    Artificial Neural Network and Deep Learning
+                    Credit                                                                              4
+         Teaching per Week                                                                          4 Hrs
+Minimum weeks per Semester             15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                              -
+         Purpose of Course          The purpose of the course is to make students capable of implementing
+                       NaN                          concepts , methods and tool related to deep learning.
+          Course Objective                                 To learn about fundamentals of deep learning.
+                       NaN                          To learn and implement different types of DL models.
+                       NaN              To implement and evaluate various case studies of Deep Learning.
+             Pre-requisite        Only those Students who have completed any one of the following courses
+                       NaN                                                          1) Python Programming
+                       NaN                                                  2) Basics of Machine Learning
+           Course Out come After completion of this course, the student will be capable to develop models
+                       NaN                             and implement deep learning algorithms and models.
+            Course Content                                           Unit 1 Introduction to Deep Learning
+                       NaN                                               1.1 A review of Machine Learning
+                       NaN                                                     1.2 Biological Inspiration
+                       NaN                                                  1.3 Artificial Neural Network
+                       NaN                                                   1.4 Concept of Deep Learning
+                       NaN                                        1.5 Applications of areas Deep Learning
+                       NaN                   Unit 2 Foundations of Maths and Technhical Setup with Python
+                       NaN                            2.1 Scalars, Vectors, Matrices, Tensors Hyperplanes
+                       NaN                            2.2 Products, Feature, Solving Systems of Equations
+                       NaN                                            2.3 Hyperparameters and Convergence
+                       NaN                                                            2.4 Gradiant Decent
+                       NaN                                                         2.5 Evaluation Metrics
+                       NaN                           2.6 Python Libraries and Setup for DL - GPU, Keras ,
+                       NaN                                                                     Tensorflow
+                       NaN                                          Unit 3 Foundations of Neural Networks
+                       NaN                       3.1 Anatomy of Neural Network : - Defining ANN in Python
+                       NaN                  - layers and Multilayer Perceptron, weights, bias, Activation
+                       NaN                                                Function, Loss function, Epochs
+                       NaN                      3.2 Linear threshold units. Perceptrons: representational
+                       NaN                                      limitation and gradient descent training.
+                       NaN                                Unit 4 Artificial Neural Networks and its Types
+                       NaN                                 4.1 Types of ANN, Feed Forward Neural Network,
+                       NaN                                                Backpropagation Neural Network,
+                       NaN                                                   4.2 Error calculation in ANN
+                       NaN                    4.3 Input Layer, Output Layer, Hidden Layers of Deep Neural"
+6,table,"          Unnamed: 0                                                                          Network
+                 NaN                                          4.4 Classifying movie reviews using ANN
+                 NaN                                             Unit 5 Convolutional Neural Networks
+                 NaN                                                      5.1 Neurons in Human Vision
+                 NaN                                                     5.2 Filters and Feature Maps
+                 NaN                                  5.3 Full Description of the Convolutional Layer
+                 NaN                                                                      Max Pooling
+                 NaN                       5.4 Full Architectural Description of Convolution Networks
+                 NaN                                            5.5 MNIST with Convolutional Networks
+                 NaN                               5.6 Accelerating Training with Batch Normalization
+                 NaN                               5.7 Visualizing Learning in Convolutional Networks
+                 NaN                     5.8 Learning Convolutional Filters for Other Problem Domains
+                 NaN                                      Unit 6 Deep Learning for Text and Sequences
+                 NaN                    6.1 Working with text data - one hot encoding, word embedding
+                 NaN                        6.2 Understanding Recurrent and Recursive Neural Networks
+                 NaN                                   6.3 Feature Reduction/Dimensionality Reduction
+                 NaN                                 6.4 Recurrent Neural Networks and Implementation
+                 NaN                                     Unit 7 RNN For Language Models and Sequences
+                 NaN                                                     7.1 Language Models with RNN
+                 NaN                                                     7.2 NamedEntity Recognition,
+                 NaN                     7.3 Machine Translation, Parsing, Sentiment Analysis, Speech
+                 NaN                                                                      Recognition
+                 NaN                                                 7.4 Introduction to LSTM and GRU
+                 NaN                                          Unit 8 Advanced Topics in Deep Learning
+                 NaN                                                       8.1 Attention Mechanisms .
+                 NaN                                         8.2 Recurrent Models of Visual Attention
+                 NaN                                              8.3 Application to Image Captioning
+                 NaN                                 8.4 Attention Mechanisms for Machine Translation
+                 NaN                                       8.5 Generative Adversarial Networks (GANs)
+                 NaN                                    8.6 Training a Generative Adversarial Network
+                 NaN                                          8.7Using GANs for Generating Image Data
+  Text and Reference                              1. Deep Learning with Python, Manning Franci Cohlet
+          Literature                          2. Fundamentals of Deep Learning, Orelly, Nikhil Buduma
+                 NaN               3. Deep Learning: A Practitioner's Approach, Josh Patterson , Adam
+                 NaN                                                      Gibson O’relly Publications
+                 NaN                4. Neural Networks and Deep Learning, A Textbook - Springer, Chru
+                 NaN                                                                        C Agrawal
+                 NaN                        5. Fundamentals of Deep Learning - Nikhil Buduma, O’relly
+                 NaN                                                                     Publications
+Teaching Methodology                          Discussion, Independent Study, Seminars and Assignments
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+7,table,"               Course Code                                                                      Unnamed: 0
+              Course Title                                              Mobile Application Development - 2
+                    Credit                                                                               4
+         Teaching per Week                                                                           4 Hrs
+Minimum weeks per Semester              15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                               -
+         Purpose of Course  The purpose of this course is to give exposure of Flutter framework for mobile
+                       NaN                                                         application development
+          Course Objective   This course introduces the foundation of mobile application development using
+                       NaN flutter framework to the students. The course also gives students an idea about
+                       NaN                                                    Google’s own language, Dart.
+             Pre-requisite           Sound knowledge on Object Oriented Programming and basic knowledge on
+                       NaN                                                               Android framework
+           Course Out come        Course Out come After having completed the course the student will gain:
+                       NaN                                      1. Sound understanding of Dart programming
+                       NaN                 2. Proficiency in cross platform mobile application development
+                       NaN                                           3. Knowledge about Flutter framework.
+            Course Content                                                     Unit 1 Flutter Introduction
+                       NaN                                                         1.1 Features of Flutter
+                       NaN                                                       1.2 Advantages of Flutter
+                       NaN                                                     1.3 Disadvantage of Flutter
+                       NaN                                                        1.4 Flutter installation
+                       NaN                  1.5 Creating a basic flutter application in the Android Studio
+                       NaN                                  Unit 2 Foundation to Dart Programming – part 1
+                       NaN                                                          2.1 Important concepts
+                       NaN                                                                    2.2 Keywords
+                       NaN               2.3 Built-in types -Numbers, Strings, Booleans, Lists, Sets, Maps
+                       NaN                   2.4 Variables -Default value, Late variables, Final and const
+                       NaN   2.5 Operators - arithmetic, relational, Type test operators, logical, bitwise
+                       NaN                                  Unit 3 Foundation to Dart Programming – part 2
+                       NaN                                                     3.1 Control flow statements
+                       NaN                                                          3.2 Exception handling
+                       NaN       3.3 Functions - Parameters, The main() function, Functions as first-class
+                       NaN                                                    objects, Anonymous functions
+                       NaN                                             Unit 4 Getting started with Flutter
+                       NaN          4.1 Architecture of flutter framework - widgets, gestures, concepts of
+                       NaN                                                                   state, Layers
+                       NaN                                                                   4.2 Widgets -
+                       NaN                                                 4.2.1 Platform specific widgets"
+8,table,"          Unnamed: 0                                                             4.2.2 Layout widgets
+                 NaN                                       4.2.3 Platform independent / basic widgets
+                 NaN                                                                     4.3 Layout -
+                 NaN                                                       4.3.1 Single child widgets
+                 NaN                                                        4.3.2 Multi child widgets
+                 NaN                                                           4.4 State management -
+                 NaN                                             4.4.1 Application state scoped model
+                 NaN                                                     4.4.2 Navigation and Routing
+                 NaN                                                4.5 Writing Android Specific Code
+                 NaN                                                           Unit 5 Flutter Widgets
+                 NaN                                                             5.1 Flutter Scaffold
+                 NaN                                                            5.2 Flutter Container
+                 NaN                                                         5.3 Flutter Row & Column
+                 NaN                                                                 5.4 Flutter Text
+                 NaN                                                            5.5 Flutter TextField
+                 NaN                                                              5.6 Flutter Buttons
+                 NaN                                                                 5.7 Flutter Card
+                 NaN                                                                 5.8 Flutter List
+                 NaN                                                      5.9 Flutter Images and Icon
+                 NaN                                             Unit 6 Shared Preferences in Flutter
+                 NaN                                                          6.1 Add the dependency.
+                 NaN                                                    6.2 Save data in Preferences.
+                 NaN                                                  6.3 Read data from Preferences.
+                 NaN                                                 6.4 Remove data from Preferences
+                 NaN                                                  Unit 7 Persist data with SQLite
+                 NaN                                                           7.1 Add the dependency
+                 NaN                                       7.2 Access and manipulate data from SQLite
+                 NaN                                                      Unit 8 Advanced Programming
+                 NaN                                                          8.1 Flutter Google maps
+                 NaN                                                 8.2 Flutter Internationalization
+                 NaN                                                           8.3 Push Notifications
+      Reference Book                                 1. Web URL: https://flutter.dev/docs/development
+                 NaN            2. Beginning Flutter: A Hands-On Guide to App Development by Marco L.
+                 NaN                                                                           Napoli
+                 NaN     3. Beginning App Development with Flutter: Create Cross-Platform Mobile Apps
+                 NaN                                                                     by Rap Payne
+                 NaN                                   4. Flutter for Beginners by Alessandro Biessek
+                 NaN                       5. Learn Google Flutter Fast: 65 Example Apps by Mark Clow
+                 NaN                                            6. Flutter in Action by Eric Windmill
+Teaching Methodology                          Discussion, Independent Study, Seminars and Assignments
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+9,table,"      Course Code                                                                     Unnamed: 0
+     Course Title                                                        Cyber Law and Practices
+           Credit                                                                              4
+Teaching per Week                                                                          4 Hrs
+Minimum weeks per             15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                            NaN
+    Last Review /                                                                              -
+         Revision                                                                            NaN
+Purpose of Course      To make students aware about provisions of various laws in IT ACT and its
+              NaN                                                                    amendments.
+ Course Objective Various frauds are taking place in different domains frequently. The course is
+              NaN   specifically designed to provide knowledge of provisions of various laws and
+              NaN                              acts available in IT act 2000 and its amendments.
+    Pre-requisite                                             Basic knowledge of cyber security.
+  Course Out come      At the end of the course it will make student enable to have knowledge of
+              NaN  provision and availability of various act and laws available to fight against
+              NaN                                                             frauds and crimes.
+   Course Content                                              Unit 1. Introduction to Cyber law
+              NaN                                                 1.1. Introduction to cyber law
+              NaN                                                        1.2. Challenges to laws
+              NaN                             1.2.1.Technology-neutral and technology-based laws
+              NaN                                1.2.2.Regulation versus freedom on the internet
+              NaN                    1.2.3.Internet crime different from other technology crimes
+              NaN                                                              1.3. Adjudication
+              NaN                                                     1.3.1.Adjudicating officer
+              NaN                                     1.3.2.Cyber regulations appellate tribunal
+              NaN                                                             Unit 2 IT Act 2000
+              NaN                                 2.1 Overview of IT Act 2000 and its amendments
+              NaN                                                  2.2 Critiques of the I.T. Act
+              NaN                                              2.3 Territorial effects of IT Act
+              NaN                                                         2.4 Digital signatures
+              NaN                                     2.4.1 Controller of certifying authorities
+              NaN                          2.4.2 License to issue digital signature certificates
+              NaN                                  2.4.3 Legal recognition of digital signatures
+              NaN               Unit 3 Offences and investigation and penalties under the IT Act
+              NaN                                                                   3.1 Offences
+              NaN                                                              3.2 Investigation
+              NaN                                                                  3.3 Penalties
+              NaN                                      3.4 Liability of network service provider
+              NaN                                             3.5 Amendments to certain statutes
+              NaN                                3.5.1 Amendments to the Indian penal code, 1860
+              NaN                              3.5.2 Amendments to the Indian evidence act, 1872
+              NaN                                                            Unit 4 E-governance
+              NaN                      4.1 Legal recognition and retention of electronic records"
+10,table,"    Unnamed: 0                       4.2 Use of electronic records and digital signatures in
+           NaN                                                   Government and its agencies
+           NaN                          4.3 United nations commission on international trade
+           NaN                                                           development and law
+           NaN                  4.4 World Trade and world intellectual property organization
+           NaN         Unit 5 Telecom and internet policy for data transmission and security
+           NaN                                                          1.1 Broadband policy
+           NaN                                       1.2 Policy for .IN internet domain name
+           NaN          1.3 Guidelines for setting up of international gateways for internet
+           NaN                     1.4 Policy guidelines on website development, hosting and
+           NaN                                                                   Maintenance
+           NaN                                1.5 Information technology Security Guidelines
+           NaN                    1.6 SEBI guidelines on internet-based trading and services
+           NaN                    1.7 Guidelines on internet-based e commerce and m commerce
+           NaN                                                                based services
+           NaN                                                             Unit 6 Indian law
+           NaN                                                    6.1 Law for cyber stalking
+           NaN                                                   6.2 Law for digital forgery
+           NaN                                                   6.3 Law for online gambling
+           NaN                                   6.4 Law for online sale of illegal articles
+           NaN                                                 6.5 Law for cyber pornography
+           NaN                                             Unit 7 Jurisdiction in Cyberspace
+           NaN                                1.1 Theories of jurisdiction in criminal cases
+           NaN                                   1.2 General jurisdiction in computer crimes
+           NaN                      1.3 Application of ‘Effects’ doctrine in computer crimes
+           NaN                             1.4 Convention on cyber crime – council of Europe
+           NaN                                        Unit 8 Online Dispute Resolution - ODR
+           NaN                 8.1 Functioning of the Online Dispute Resolution (ODR) system
+           NaN                           8.2 Kinds of disputes handled in an ODR environment
+           NaN                                                8.3 Communication modes in ODR
+           NaN                                                                  8.3.1 E-mail
+           NaN                                                       8.3.2 Discussion boards
+           NaN                                                       8.3.3 Instant messaging
+           NaN                                                      8.3.4 Audio conferencing
+           NaN                                                      8.3.5 Video conferencing
+           NaN                                                              8.4 Types of ODR
+           NaN                                      8.4.1 Blind bidding or blind negotiation
+           NaN                                                      8.4.2 Online negotiation
+           NaN                                        8.4.3 Online negotiation-cum-mediation
+           NaN                 8.4.4 Document / E-mail arbitration for disputes arising from
+           NaN                                                       e-commerce transactions
+           NaN                          8.4.5 Online arbitration through video-conferencing.
+           NaN                                                8.4.6 Peer jury and panel jury
+           NaN                       8.5 Generating E-confidence – disclosure-based approach
+           NaN                                                     8.6 Legal concerns in ODR
+Reference Book 1. Investigating Cyber Law and Cyber Ethics: Issues, Impacts and Practices by"
+11,table,"       Unnamed: 0                                  Alfreda Dudley, James Braman, Giovanni Vincenti
+              NaN           2. Cyber Laws: A Guide to Cyber Laws, Information Technology, Computer
+              NaN      Software, Intellectual Property Rights, E-commerce, Taxation, Privacy, Etc.
+              NaN                 Along with Policies, Guidelines and Agreements by Yatindra singh
+              NaN                                            3. Cyber Law in India by Talat Fatima
+              NaN                                    4. Regulation of Cyberspace – MIR-12 by IGNOU
+              NaN                   5. Cyber Law 3.0: An Exhaustive Section Wise Commentary on The
+              NaN              Information Technology Act Along with Rules, Regulations, Policies,
+              NaN                                                Notifications Etc by Pawan Duggal
+         Teaching                           Discussion, Independent Study, Seminars and Assignment
+      Methodology                                                                              NaN
+Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+              NaN                             quiz, assignment, seminar, internal examination etc.
+              NaN                      30% assessment is based on end semester written examination"
+12,table,"               Course Code                                                                         Unnamed: 0
+              Course Title                                                                 Internet of Things
+                    Credit                                                                                  4
+         Teaching per Week                                                                              4 Hrs
+Minimum weeks per Semester                 15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                                  -
+         Purpose of Course     The purpose of this course is to impart knowledge on Internet of Things (IoT),
+                       NaN     which relates to the study of sensors, actuators, and controllers, among other
+                       NaN               Things, IoT applications and examples overview (building automation,
+                       NaN                                        transportation, healthcare, industry, etc.)
+          Course Objective This course is an introduction for students to IoT. The course also gives students
+                       NaN      an idea about various components of IoT and explains the working of them. The
+                       NaN                course also explains the role of embedded systems in IoT ecosystem.
+             Pre-requisite              Fundamental knowledge of Computer Organization, Computer Networks and
+                       NaN                                              Internet, Basic programming knowledge
+           Course Out come           Course Out come After having completed the course the student will gain:
+                       NaN                             1. Understanding about the architectural detail of IoT
+                       NaN                                  2. Exposure to working with Arduino & Raspbery pi
+                       NaN                             3. Knowledge about domain specific applications of IoT
+            Course Content                                      Unit 1 Introduction to The Internet of Things
+                       NaN           1.1 The Internet of Things overview - History of IoT, Components of IoT,
+                       NaN                                Characteristics of IoT, About Objects/things in IoT
+                       NaN                                                   1.2 Enabling Technologies of IoT
+                       NaN                                                              1.2.1 Cloud Computing
+                       NaN                                                           1.2.2 Big Data Analytics
+                       NaN                                                     1.2.3 Wireless Sensor Networks
+                       NaN                                                1.3 Near Field Communication & RFID
+                       NaN                                                            Unit 2 IoT Architecture
+                       NaN                                                                     2.1 M2M to IoT
+                       NaN                                     2.1.1. Introduction of M2M - Components of M2M
+                       NaN                                              2.1.2. Difference between IoT and M2M
+                       NaN               2.2 IoT Reference Model or physical design and logical design of IoT
+                       NaN                                                     2.3 IoT Reference Architecture
+                       NaN                                                       Unit 3 IoT Application Areas
+                       NaN                                                          3.1 IoT Application Areas
+                       NaN                                                             3.1.1. Home Automation
+                       NaN                                                                3.1.2. Smart Cities
+                       NaN                                                   3.1.3. Smart Energy & Smart Grid
+                       NaN                                                                3.1.4. Smart Health
+                       NaN                                                         3.1.5. Smart Manufacturing
+                       NaN                                                           3.1.6. Smart Agriculture"
+13,table,"          Unnamed: 0                                                                   Unit 4 Arduino
+                 NaN                                                      4.1 Introduction to Arduino
+                 NaN                                                           4.2 Flavors of Arduino
+                 NaN                                                4.3 Architecture of Arduino board
+                 NaN                                                            4.4 Arduino Toolchain
+                 NaN                                             4.4.1 Installing Arduino Desktop IDE
+                 NaN            4.4.2 Installing Board drivers, Configuring board type, uploading the
+                 NaN                                                                          Program
+                 NaN                                                              Unit 5 Raspberry Pi
+                 NaN                                                              5.1 About the board
+                 NaN                             5.2 Installation of Operating System on Raspberry Pi
+                 NaN                       5.3 Raspbian OS package Installation and updating process.
+                 NaN                                     5.4 Raspberry pi interfaces of Data Transfer
+                 NaN                                     5.5 Reading general purpose Input/Output pin
+                 NaN                             Unit 6 Hardware interfacing & programming in Arduino
+                 NaN                                                 6.1 Controlling LED with Arduino
+                 NaN                                             6.2 Interfacing sensors with Arduino
+                 NaN                                                        6.3 Working with switches
+                 NaN                                                         6.4 Serial data transfer
+                 NaN                                 Unit 7 Data Driven Application Using RaspberryPi
+                 NaN                                      7.1 Selecting database for IoT applications
+                 NaN                         7.2 Capturing data from surrounding and storing on cloud
+                 NaN                                                 Unit 8 IoT and Security Concerns
+                 NaN                                                    8.1 Types of security attacks
+                 NaN                                                     8.2 Security risk mitigation
+      Reference Book                          1. IoT & Applications I.A. Dhotre Technical Publication
+                 NaN           2. Designing the Internet of Things Adrian McEwen and Cassimally Wiley
+                 NaN     3. The Internet of Things Connection objects to web Edited by Hakima Chauchi
+                 NaN                                                                            Wiley
+                 NaN                    4. Introduction to Embedded System -By Shibu K V , McGrawHill
+                 NaN            5. Getting Started with Internet of Things –By Cuno Pfister, O’Reilly
+                 NaN                6. Learning Internet of Things-By Peter Waher , Packt Publication
+                 NaN         7. Internet of Things : A Hands on Approach – By Arshdip Bahga and Vijay
+                 NaN                                                                        Madisetti
+                 NaN 8. ""The Internet of Things: Enabling Technologies, Platforms, and Use Cases"", by
+                 NaN                                     Pethuru Raj and Anupama C. Raman (CRC Press)
+                 NaN            9. Raspberry Pi User Guide –By Eben Upton and Garath Halfacree, Wiley
+                 NaN                                             10. Raspberry Pi for Dummies , Wiley
+                 NaN                          11. Raspberry Pi IoT in C -By Harry Fairhead, I/O Press
+Teaching Methodology                          Discussion, Independent Study, Seminars and Assignments
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+14,table,"           Course Code                                                                    Unnamed: 0
+          Course Title                                                Advanced JavaScript Frameworks
+                Credit                                                                             4
+     Teaching per Week                                                                         4 Hrs
+     Minimum weeks per            15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                           NaN
+Last Review / Revision                                                                           NaN
+     Purpose of Course The purpose of course is to make students capable of developing effective and
+                   NaN                              interactive web client part of web applications.
+      Course Objective       To provide Fundamental knowledge of Web client development technologies
+          Prerequisite        Basic understanding of Web, HTTP, HTML, JavaScript and Object Oriented
+                   NaN                                                                     Concepts.
+       Course Out come    After completion of this course, the student will be capable of developing
+                   NaN                effective and interactive web client part of web applications.
+        Course Content                                               Unit 1: Introduction to Angular
+                   NaN                                        1.1 Features and Advantages of Angular
+                   NaN                                                      1.2 Angular Architecture
+                   NaN                                         1.3 Angular Components and Directives
+                   NaN                                                        Unit 2: Angular Basics
+                   NaN                                                              2.1 Data Binding
+                   NaN                                                    2.1.1 One way Data Binding
+                   NaN                                                    2.1.2 Two way Data Binding
+                   NaN                                                                   2.2 Routing
+                   NaN                                                 Unit 3: Introduction to React
+                   NaN                                                    3.1 Basic concept of React
+                   NaN                                  3.2 Difference between AngularJS and ReactJS
+                   NaN                                                            3.3 React features
+                   NaN                                                          Unit 4: React Basics
+                   NaN                                                               4.1 ECMA Script
+                   NaN                                                            4.2 React with JSX
+                   NaN                                                   4.2.1 React elements as JSX
+                   NaN                                                    4.3 Basic React Components
+                   NaN                                          4.3.1 Stateless functional component
+                   NaN                                                      4.3.2 Stateful component
+                   NaN                                                  4.3.3 Higher order component
+                   NaN                                                       4.3.4 Nesting component
+                   NaN                                                  4.4 State and props in React
+                   NaN                                                         Unit 5: React Routing
+                   NaN                                                     5.1 Life cycle of ReactJS
+                   NaN                                                                5.1.1 Mounting
+                   NaN                                                                5.1.2 Updating
+                   NaN                                                              5.1.3 Unmounting"
+15,table,"          Unnamed: 0                                                                5.2 React Routing
+                 NaN                                                          5.2.1 Router properties
+                 NaN                                                             5.2.2 Nesting Router
+                 NaN                                    Unit 6: React Forms and Introduction to Redux
+                 NaN                                                                  6.1 React Forms
+                 NaN                                                        6.2 Introduction to Redux
+                 NaN                              6.3 Redux building parts – State, Actions, Reducers
+                 NaN                            6.4 Concept of the store, Action creators, middleware
+                 NaN                                                  Unit 7: React – Redux and Hooks
+                 NaN                                                 7.1 Explicitly passing the store
+                 NaN                                        7.2 Presentational Vs container component
+                 NaN                                                     7.3 The React Redux provider
+                 NaN                                                          7.4 React Redux Connect
+                 NaN                                                        7.5 Introduction to Hooks
+                 NaN                           7.6 Hooks -useState Hook, useEffect Hook, custom Hooks
+                 NaN                                                Unit 8: React Bootstrap Framework
+                 NaN                                    8.1 Introduction to React Bootstrap Framework
+                 NaN                                            8.2 Layout – Grid structure, Grid API
+                 NaN                                                                8.3 Media objects
+                 NaN               8.4 Components – Accordion, Button, Dropdowns, Forms, Input group,
+                 NaN                                                          Carousel, Images, Table
+                 NaN                                                      8.5 Utilities - Transitions
+     Reference Books                                          1. Pro Angular by Adam Freeman – Apress
+                 NaN                                 2. Beginning Angular with Typescript by Greg Lim
+                 NaN         3. Learning React: Learning React: Functional Web Development with React
+                 NaN                                                             and Redux , O’Reilly
+                 NaN           4. Learning React: Modern Patterns for Developing React Apps, O’Reilly
+                 NaN                    5. Fullstack React: The complete guide to ReactJS and Friends
+                 NaN                                         6. Learning React by Kirupa Chinnathambi
+Teaching Methodology                           Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on semester end written examination"
+16,table,"           Course Code                                                                        Unnamed: 0
+          Course Title                                                                Data Visualization
+                Credit                                                                                 4
+     Teaching per Week                                                                             4 Hrs
+     Minimum weeks per                15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                               NaN
+Last Review / Revision                                                                               NaN
+     Purpose of Course        The purpose of course is to make student capable to develop their own data
+                   NaN visualizations, and learn to use Open Source data visualization tools, especially
+                   NaN                                                                  D3.js, Tableau..
+      Course Objective        To understand technological advancements of data visualization and various
+                   NaN                                                     data visualization techniques
+         Pre-requisite               Working knowledge of Programming Language and Database Concepts and
+                   NaN                                                                       JavaScript,
+                   NaN                                                                             HTML5
+       Course Out come  This course is all about data visualization, the art and science of turning data
+                   NaN               into readable graphics. We’ll explore how to design and create data
+                   NaN                  visualizations based on data available and tasks to be achieved.
+        Course Content                                         Unit 1 Introduction to Data Visualization
+                   NaN                                                         1.1 Visualization Process
+                   NaN                                                    1.1.1 Filtering and Processing
+                   NaN                                       1.1.2 Translation and Visual representation
+                   NaN                                               1.1.3 Perception and interpretation
+                   NaN                                                         1.2 Visualization formats
+                   NaN                                       1.3 Basic principles for data visualization
+                   NaN                                        Unit 2 Working with Data for Visualization
+                   NaN                                                             2.1 Data storytelling
+                   NaN                                                             2.2 Working with data
+                   NaN                                                               2.2.1 Data clean up
+                   NaN                          2.2.2 Concept of Loading, parsing, transforming the data
+                   NaN                                               Unit 3 Basics of Data Visualization
+                   NaN                       3.1 Reading Data from Standard text files (.txt, .csv, XML)
+                   NaN                      3.2 working with Data (Continuous, Statistical, Geo-spatial,
+                   NaN                                                                         Discrete)
+                   NaN                      3.3 Types of Databases for visualization – structured, semi-
+                   NaN                                                          structured, unstructured
+                   NaN                                                       3.4 Displaying JSON content
+                   NaN                                        Unit 4 Basic Visualization HTML5 Libraries
+                   NaN                                                    4.1 Basic HTML5 Drawing Charts
+                   NaN                                                     4.2 HTML5 – CANVAS/SVG Charts
+                   NaN                                                      4.3 Use of elements with CSS
+                   NaN                                                              4.4 Style properties"
+17,table,"          Unnamed: 0                                                            4.5 Stroke properties
+                 NaN                                      Unit 5 Visualization Library – Google Chart
+                 NaN                                                     5.1 Google Charts API Basics
+                 NaN                                                   5.2 Various google chart types
+                 NaN              5.2.1 column chart, bar chart, line chart, bubble chart, pie chart,
+                 NaN                                                                 Chart Animations
+                 NaN                                    Unit 6 Basic Visualization methods with D3.js
+                 NaN                                                        6.1 Introduction to D3.js
+                 NaN                                                     6.2 D3.js Features, benefits
+                 NaN                                                              6.3 D3.js Animation
+                 NaN                                    6.4 Drawing basic charts, graphs, geographics
+                 NaN                              Unit 7 Loading and filtering external data in D3.js
+                 NaN                                                7.1 D3 functions for loading Data
+                 NaN                                                               7.2 Use of Dataset
+                 NaN                                     7.3 Case study: Bar chart with External Data
+                 NaN                                  Unit 8 Advanced Data Visualization with Tableau
+                 NaN                                                      8.1 Introduction to Tableau
+                 NaN                                                   8.2 Filters, Drill Down and Up
+                 NaN                                         8.3 Forecasting, Trend Lines, Clustering
+                 NaN                                                                    8.4 Dashboard
+      Reference Book        1. Interactive Data Visualization for the Web by Scott Murray 2nd Edition
+                 NaN                                                                           (2017)
+                 NaN                   2. Jon Raasch, Graham Murray, Vadim Ogievetsky, Joseph Lowery,
+                 NaN                “JavaScript and jQuery for Data Analysis and Visualization”, WROX
+                 NaN                        3. Ritchie S. King, Visual story telling with D3” Pearson
+                 NaN                            4. D3.js in Action by Elijah Meeks 2nd Edition (2017)
+                 NaN         5. Visual Storytelling with D3: An Introduction to Data Visualization in
+                 NaN                                                    JavaScript By Ritchie S. King
+                 NaN                6. Visualization Analysis & Design by Tamara Munzner (2014) (ISBN
+                 NaN                                                                   9781466508910)
+                 NaN        7. Interactive Data Visualization for the Web by Scott Murray 2nd Edition
+                 NaN                                                                           (2017)
+                 NaN                  8. ggplot2 Elegant Graphics for Data Analysis by Hadley Wickham
+Teaching Methodology                           Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+18,table,"                                                                                                                                                                   Course Code                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Unnamed: 0
+                                                                                                                                                                  Course Title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Blockchain Technology
+                                                                                                                                                                        Credit                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              4
+                                                                                                                                                             Teaching per Week                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          4 Hrs
+                                                                                                                                                   Minimum weeks per\rSemester                                                                                                                                                                                                                                                                                                                                                                                                                                             15 (Including Class work, examination, preparation, holidays etc.)
+                                                                                                                                                       Last Review /\rRevision                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              -
+                                                                                                                                                             Purpose of Course                                                                                                                                                                                                                                                                                                                                                                                                              Conceptualize the students with the theoretical concepts of Blockchain and its associated\rareas.
+                                                                                                                                                              Course Objective                                                                                                                                                                                                                                                                                                  Familiarization with different objectives of blockchain models of blockchain, mechanics\rof bitcoin, alternative coin and recent trends. Moreover it can be more conceptualized\rusing selected case studies.
+                                                                                                                                                                  Prerequisite                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Fundamentals of Information Security concepts.
+                                                                                                                                                               Course Out come Define and Explain the fundamentals of Blockchain\rIllustrate the technologies of blockchain\rDescribe various models of block chain.\rCase study of blockchain to analyze the different issues associated with various coins\rand crypto currencies.\rFamiliarize the functional/operational aspects of crypto currency.\rUnderstand emerging abstract models for Block chain.\rIdentify major research challenges and technical gaps existing between theory and\rpractice in crypto currency domain.
+                                                                                                                                                                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                                Course Content                                                                                                                                                                                                                                                                       Introduction to Blockchain, Transactions and Blocks, Mining and Consensus,\rConnecting the Dots, Smart Contracts, Blockchain Development on Ethereum, Creating\ra Block, Adding the Hash Function to the Block, Creating Smart Contracts
+                                                                                                                                                                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Unit 1 Blockchain Fundamentals
+1.1. Definition\r1.2. History of Blockchains\r1.3. How the Blockchain Technology Works\r1.4. Cryptographic Keys\r1.5. Features of a Blockchain\r1.6. Structure of a Blockchain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                1.1. Definition
+                                                                                                                                                   1.2. History of Blockchains                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                      1.3. How the Blockchain Technology Works                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                       1.4. Cryptographic Keys                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                 1.5. Features of a Blockchain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                1.6. Structure of a Blockchain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                   Unit 2 Picking a blockchain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                        2.1 Add substance\r2.2 Determining the needs\r2.3 Defining the goal\r2.4 Drawing decision tree\r2.5 Blockchain applications\r2.6 Blockchain life cycle                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              2.1 Add substance
+                                                                                                                                                     2.2 Determining the needs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                         2.3 Defining the goal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                     2.4 Drawing decision tree                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                   2.5 Blockchain applications                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                     2.6 Blockchain life cycle                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                                                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                            Unit 3 Managing bitcoin blockchain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                             3.1 Creating first bitcoin wallet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                            3.2 Creating second bitcoin wallet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN
+                                                                                                                                         3.3 Generating bitcoin vanity address                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            NaN"
+19,table,"               Unnamed: 0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  3.4 Transferring vanity address                                          Unnamed: 1
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          3.5 Reading blockchain entry in bitcoin                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            3.6 Using smart contract with bitcoin                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          3.7 Building smart bond Checking status of the contract                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          3.8 Mining for bitcoins                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Unit 4 Ethereum Blockchain                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                 4.1 History of Ethereum\r4.2 Ether cryptocurrency\r4.3 Mining for ether\r4.4 Ethereum wallet\r4.5Building and managing decentralized autonomous organization – DAO\r4.6 Managing smart contracts                             4.1 History of Ethereum
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         4.2 Ether cryptocurrency                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             4.3 Mining for ether                                                 NaN
+      4.4 Ethereum wallet                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             4.5Building and managing decentralized autonomous organization – DAO                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     4.6 Managing smart contracts                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Unit 5 Ripple and Factom Blockchain                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                           5.1 Difference between ripple and other blockchains\r5.2 Capacity of ripple\r5.3 Caution with ripple\r5.4 Factom blockchain\r5.5 Authenticating documents and building identities using APIs\r5.6 Publishing on Factom 5.1 Difference between ripple and other blockchains
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           5.2 Capacity of ripple                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          5.3 Caution with ripple                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            5.4 Factom blockchain                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  5.5 Authenticating documents and building identities using APIs                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         5.6 Publishing on Factom                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Unit 6 DigiByte                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        6.1 Digging into digibyte                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             6.2 Fast blockchiang                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           6.3 Mining on Digibyte                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     6.4 Signing documents on digibyte’s DiguSign                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Unit 7 Hyperledger                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    7.1 Fabric\r7.2Building system in Fabric\r7.3Chaincode development\r7.4Sumeragi\r7.5 Sawtooth                                          7.1 Fabric
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     7.2Building system in Fabric                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         7.3Chaincode development                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      7.4Sumeragi                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     7.5 Sawtooth                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Unit 8 Industry Impacts                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         8.1 Financial technology                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  8.2 Real estate                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    8.3 Insurance                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   8.4 Government                                                 NaN
+                      NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              NaN                                                 NaN
+Text and Reference\rbooks 1.Blockchain for dummies by Tiana Laurence –Wiley publication\r2.Blockchain from concept to execution by Debajani Mohanty – BPB Publication\r3.Blockchain by example by By Bellaj Badr , Richard Horrocks , Xun (Brian) Wu\r4.Blockchain for beginners by Kurt Dugan\r5.Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction by Arvind\rNarayanan, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder\rPrinceton University Press, 2016\r6.Analysis of Blockchain protocol in Asynchronous networksby R.Pass et al\rEUROCRYPT 2017, (eprint.iacr.org/2016/454), A significant progress and\rconsolidation of several principles                                                 NaN"
+20,table,"       Unnamed: 0    7. Blockchain Technology: Cryptocurrency and Applications S. Shukla, M., Dhawan, S.
+              NaN                                    Sharma, S. Venkatesan Oxford University, Press 2019
+              NaN       8. Bitcoin and cryptocurrency technologies: a comprehensive introduction, Arvind
+              NaN                                     Narayanan et. Al. Princeton University, Press 2016
+              NaN          Blockchain: The Blockchain for Beginnings, Guild to Blockchain Technology and
+              NaN              Blockchain Programming’ Josh Thompson Create Space Independent Publishing
+              NaN                                                                          Platform 2017
+         Teaching                                 Discussion, Independent Study, Seminars and Assignment
+      Methodology                                                                                    NaN
+Evaluation Method 70% Internal assessment is based on class attendance, participation, class test, quiz,
+              NaN                                         assignment, seminar, internal examination etc.
+              NaN                            30% assessment is based on end semester written examination"
+21,table,"               Course Code                                                              Unnamed: 0
+              Course Title                                                Computational Linguistic
+                    Credit                                                                       4
+         Teaching per Week                                                                   4 Hrs
+Minimum weeks per Semester      15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                       -
+         Purpose of Course   The purpose of the course is to make students capable of implementing
+                       NaN               concepts , methods and tools of computational linguistic.
+          Course Objective              To learn about fundamentals of Computational Linguistics.
+                       NaN                                   To learn and implement NLP Concepts.
+             Pre-requisite                                Fundamental of AI and Python Programming
+           Course Out come After completion of this course, the student will be capable to develop
+                       NaN     models and implement predictive analytics on social media platforms
+            Course Content                                               Unit 1Introduction to NLP
+                       NaN                          1.1. Natural language vs. programming language
+                       NaN                      1.2 NLP tasks in syntax, semantics, and pragmatics
+                       NaN                                             1.3. Practical applications
+                       NaN                                            Unit 2 Langauge and Computer
+                       NaN                                               2.1 The language of locks
+                       NaN                                                2.2. Regular expressions
+                       NaN                                                   2.3. A simple chatbot
+                       NaN                                              2.4 Word order and grammar
+                       NaN                                           2.5 The problem of ambiguity.
+                       NaN                                       2.6 The role of machine learning.
+                       NaN                                 Unit 3 Tokenizer and Sentiment Analyzer
+                       NaN                                                            3.1 Stemming
+                       NaN                                3.2 Building vocabulary with a tokenizer
+                       NaN                                                      3.2.1. Dot product
+                       NaN                                   3.2.2. Measuring bag-of-words overlap
+                       NaN                                              3.2.3. A token improvement
+                       NaN                                3.2.4. Extending vocabulary with n-grams
+                       NaN                                           3.2.5. Normalizing vocabulary
+                       NaN                                                  3.3 Sentiment and Text
+                       NaN                                         3.3.1Naive Bayes Implementation
+                       NaN                            3..3.2 VADER—A rule-based sentiment analyzer
+                       NaN                                       Unit 4 TF-IDF and Topic Modelling
+                       NaN                                                       4.1. Bag of words
+                       NaN                                                        4.2. Vectorizing
+                       NaN                                                       4.3 Vector spaces
+                       NaN                                                     4.4. Topic modeling
+                       NaN                                                4.4.1. Relevance ranking"
+22,table,"        Unnamed: 0                                                              4.4.2. Tools
+               NaN                 Unit 5 Finding meaning in word counts (semantic analysis)
+               NaN                                     5.1. From word counts to topic scores
+               NaN                                     5.2. TF-IDF vectors and lemmatization
+               NaN                                                        5.3. Topic vectors
+               NaN                                                    5.4. An LDA classifier
+               NaN                                             5.5. Latent semantic analysis
+               NaN                                             Unit 6 Information extraction
+               NaN                                         6.1. Named entities and relations
+               NaN                                                   6.1.1. A knowledge base
+               NaN                                             6.1.2. Information extraction
+               NaN                                                     6.2. Regular patterns
+               NaN                                                6.2.1. Regular expressions
+               NaN                    6.2.2. Information extraction as ML feature extraction
+               NaN                                         6.3. Information worth extracting
+               NaN                                           6.3.1. Extracting GPS locations
+               NaN                     Unit 7 Named entity extraction and Question answering
+               NaN                                  7.1 Extracting relationships (relations)
+               NaN                                          7.2 Part-of-speech (POS) tagging
+               NaN                                             7.3 Entity name normalization
+               NaN                                 7.4 Relation normalization and extraction
+               NaN                                                         7.5 Word patterns
+               NaN                                                          7.6 Segmentation
+               NaN                        7.7 Sentence segmentation with regular expressions
+               NaN                                                   Unit 8 Dialogue Engines
+               NaN                                                       8.1. Language skill
+               NaN                                                   8.1.1 Modern approaches
+               NaN                                                  8.1.2. A hybrid approach
+               NaN                                            8.2. Pattern-matching approach
+               NaN                               8.2.1. A pattern-matching chatbot with AIML
+               NaN                                 8.2.2. A network view of pattern matching
+               NaN                                                            8.3. Grounding
+               NaN                                                    8.4 Retrieval (search)
+               NaN                                              8.4.1. The context challenge
+               NaN                                    8.4.2. Example retrieval-based chatbot
+               NaN                                             8.4.3. A search-based chatbot
+               NaN          8.5 Machine Translation-machine translation systems, Statistical
+               NaN                                                       machine translation
+Text and Reference 1. Natural Language Processing and Information Retrieval-By bSiddiqui and
+        Literature                                           Tiwari, Oxford University Press
+               NaN       2. Speech and Language Processing - By Jurafsky and Martin, Pearson
+               NaN                                                                 Education
+               NaN     3. Natural Language Processing with Python. – Analyzing Text with the
+               NaN      Natural Language Toolkit. Steven Bird, Ewan Klein, and Edward Loper,
+               NaN                                                       O’relly publication"
+23,table,"          Unnamed: 0            4. The Oxford Handbook of Computational Linguistics 2nd edition
+                 NaN                                      Edited by Ruslan Mitkov, Oxford Press
+                 NaN          5. Taming Text: How to Find, Organize, and Manipulate It,Grant S.
+                 NaN             Ingersoll , Thomas S. Morton, Drew Farris, Manning Publication
+Teaching Methodology                     Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class
+                 NaN                 test, quiz, assignment, seminar, internal examination etc.
+                 NaN                30% assessment is based on end semester written examination"
+24,table,"               Course Code                                                                     Unnamed: 0
+              Course Title                                               Social Media Mining and Analysis
+                    Credit                                                                              4
+         Teaching per Week                                                                          4 Hrs
+Minimum weeks per Semester             15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                              -
+         Purpose of Course          The purpose of the course is to make students capable of implementing
+                       NaN                  concepts , methods and tool related to social media miningand
+                       NaN                                                    unstructured data analysis.
+          Course Objective                       To learn about social media mining and challenges to it
+                       NaN      To learn and implement social data processing and visualization routines
+                       NaN     To implement and evaluate various case studies of social media analytics.
+             Pre-requisite                                                                            NIL
+           Course Out come After completion of this course, the student will be capable to develop models
+                       NaN                   and implement predictive analytics on social media platforms
+            Course Content                 Unit 1 Introduction to Social Media Mining and its Challenges:
+                       NaN                                                1.1 What is Social Media Mining
+                       NaN                                                                      1.2 Users
+                       NaN                                                            1.3 Social Networks
+                       NaN                                                                    1.4 Content
+                       NaN                                                  1.5 New Challenges for Mining
+                       NaN                                          Unit 2 Basics of Social Data Analysis
+                       NaN                             2.1 Social Networks - Basic Structure and Measures
+                       NaN                                 2.2 Basics of Text Processing over Social Data
+                       NaN                                                      2.3 Information Diffusion
+                       NaN                                             2.4 Experimental studies over OSNs
+                       NaN                                        Unit 3 Methods of Social Media Analysis
+                       NaN                                                            3.1 Text Processing
+                       NaN                               3.3 Information Extraction from Unstrctured Text
+                       NaN                       3.3 Entity linking and entity resolution for Social data
+                       NaN                                                               3.4 Topic Models
+                       NaN                            3.5 Basic NLP Methods : Stemming, Tokenization, POS
+                       NaN                                                                       Tagging,
+                       NaN                                          Unit 4 Social Media Mining Algorithms
+                       NaN                 4.1 Data Mining Algorithms : Classification and Clustering for
+                       NaN                                                                 Social Content
+                       NaN                           4.2 Semi-supervised Learning : Hidden Markov models,
+                       NaN                                                         K-Nearest Neighbouring
+                       NaN                                       4.3 Sentiment Analysis over Social Media
+                       NaN                                          Unit 5 Social Media Mining Techniques
+                       NaN                                              5.1 Content-based Recommendation,"
+25,table,"        Unnamed: 0                               5.2 Collaborative Filtering Recommendation,
+               NaN                                              5.3 Social Network Analysis,
+               NaN                        5.4 Detecting Community Structure in Networks, the
+               NaN                                              Evolution of Social Networks
+               NaN                                      Unit 6 Applied Social Data Analytics
+               NaN                                                6.1 Recommendation Systems
+               NaN                      6.2 Social Network Analysis using Graph, RandomWalks
+               NaN                                                    6.3 Sentiment Analysis
+               NaN                          6.4 Community identification and link prediction
+               NaN                          Unit 7 Mining Twitter: Exploring Trending Topics
+               NaN                                               7.1 Exploring Twitter’s API
+               NaN                                     7.1.1 Fundamental Twitter Terminology
+               NaN                                   7.1.2 Creating a Twitter API Connection
+               NaN                                           7.1.3 Exploring Trending Topics
+               NaN                                                7.1.4 Searching for Tweets
+               NaN                                                         7.2 Data Analysis
+               NaN                                           7.2.1 Extracting Tweet Entities
+               NaN         7.2.2 Analyzing Tweets and Tweet Entities with Frequency Analysis
+               NaN                           7.2.3 Computing the Lexical Diversity of Tweets
+               NaN                                      7.2.4 Examining Patterns in Retweets
+               NaN                          7.2.5 Visualizing Frequency Data with Histograms
+               NaN Unit 8 Mining GitHub: Software Collaboration Habits and Building Interest
+               NaN                                                                     Graph
+               NaN                                                8.1 Exploring GitHub’s API
+               NaN                                    8.1.1 Creating a GitHub API Connection
+               NaN                                          8.1.2 Making GitHub API Requests
+               NaN                                    8.2 Modeling Data with Property Graphs
+               NaN                                      8.3 Analyzing GitHub Interest Graphs
+               NaN                                           8.3.1 Seeding an Interest Graph
+               NaN                                 8.3.2 Computing Graph Centrality Measures
+               NaN         8.3.3 Extending the Interest Graph with “Follows” Edges for Users
+               NaN                    8.3.4 Using Nodes as Pivots for More Efficient Queries
+               NaN                                         8.3.5 Visualizing Interest Graphs
+Text and Reference                  1. Mining the Social Web: Data Mining Facebook, Twitter,
+        Literature              Linkedin, Google+, Github, and More, 2nd Edition, Matthew A.
+               NaN                                            Russell. O'Reilly Media, 2013.
+               NaN           2. Jennifer Golbeck, Analyzing the social web, Morgan Kaufmann,
+               NaN                                                                     2013.
+               NaN         3. Charu Aggarwal (ed.), Social Network Data Analytics, Springer,
+               NaN                                                                     2011.
+               NaN              4. Borko Furht, “Handbook of Social Network Technologies and
+               NaN                               Applications”, 1st Edition, Springer, 2010.
+               NaN                  5.Guandong Xu ,Yanchun Zhang and Lin Li, “Web Mining and
+               NaN                                        Social Networking – Techniques and"
+26,table,"          Unnamed: 0                                     applications”, First Edition Springer, 2011.
+                 NaN                      6. Max Chevalier, Christine Julien and Chantal Soulé-Dupuy,
+                 NaN                                            “Collaborative and Social Information
+                 NaN                   Retrieval and Access: Techniques for Improved user Modelling”,
+                 NaN                                                        IGI Global Snippet, 2009.
+                 NaN                  7. Charu C. Aggarwal, “Social Network Data Analytics”, Springer
+Teaching Methodology                           Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+27,table,"               Course Code                                                                     Unnamed: 0
+              Course Title                                                               Game Development
+                    Credit                                                                              4
+         Teaching per Week                                                                          4 Hrs
+Minimum weeks per Semester             15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                              -
+         Purpose of Course          The goals of this course are to provide introductions to event driven
+                       NaN                          programming, game engine scripting, game engine class
+                       NaN                     structures,learning to plan and to report on a significant
+                       NaN                programming project, learn to work in programming in teams, and
+                       NaN             learn to use standard game development environments, in particular
+                       NaN                                              the Unity3d development platform.
+          Course Objective                          To learn the ability to design and develop 2D games.
+                       NaN                          To learn the ability to design and develop 3D games.
+                       NaN                         To implement the game design and development process.
+             Pre-requisite        Only those Students who have completed any one of the following courses
+                       NaN                                                         1) Logic and Reasoning
+                       NaN                                                               2)C# Programming
+           Course Out come After completion of this course, the student will be capable to develop 2D and
+                       NaN                                             3D games using C# Unity Framework.
+            Course Content          Unit 1 Introduction to Game Engines and Unity Development Environment
+                       NaN                                                       1.1 Game Engine Concepts
+                       NaN                                                          1.2 Development Tools
+                       NaN            1.3 IDE basics : Project View, Inspector, Toolbar, Scene View, Game
+                       NaN                                                          View, Animation View,
+                       NaN                                                       1.4 Basic Unity Concepts
+                       NaN                                                                    1.5 Sprites
+                       NaN                                              Unit 2 Basics of Game Development
+                       NaN                                                     2.1 Game Design Strategies
+                       NaN                                                          2.2 Game Requirements
+                       NaN                                                             2.3 Game Mechanics
+                       NaN                                               2.4 Storytelling and Progression
+                       NaN                                                           2.5 Design Documents
+                       NaN                              Unit 3 Programming Practices for Game Development
+                       NaN                            3.1 Introduction to Scripting, Coding Fundamentals,
+                       NaN                                                               Loops, Functions
+                       NaN                                                  3.2 Simple Movement and Input
+                       NaN                                                    3.3 Primitive Data and Math
+                       NaN                                                 3.4 Decisions and Flow Control
+                       NaN                                                    3.5 Organizing Game Objects
+                       NaN                                                      Unit 4 Animation in Unity
+                       NaN                                                              4.1 Animation API
+                       NaN                                                            4.2 Animation Class
+                       NaN                                       4.3 Creating the Animation State Manager"
+28,table,"          Unnamed: 0                                              4.4 Creating Animation inside Unity  Unnamed: 1
+                 NaN                                                      4.5 Adding Animation Events         NaN
+                 NaN                            Unit 5 Understanding and Managing 3D coordinate space         NaN
+                 NaN                                5.1 Begin the project: place objects in the scene         NaN
+                 NaN                                 5.2 The scenery: floor, outer walls, inner walls         NaN
+                 NaN                                                           5.3 Lights and cameras         NaN
+                 NaN                                     5.4 Understanding Collision and Rigid bodies         NaN
+                 NaN                                            5.5 Local vs. Global coordinate space         NaN
+                 NaN                       Unit 6 Using Triggers and Creating Environment Interaction         NaN
+                 NaN                                                      6.1 Triggers and Collisions         NaN
+                 NaN                                            6.2 Setting Up a basic Trigger Object         NaN
+                 NaN                                            6.3 Setting Up other kinds of Trigger         NaN
+                 NaN                                                            6.4 Completed Scripts         NaN
+                 NaN                                        Unit 7 Game Design and Multimedia Effects         NaN
+                 NaN                                                               7.1 Virtual Worlds         NaN
+                 NaN                                  7.2 Scrolling Game, Animation and Sound Effects         NaN
+                 NaN                                                        7.3 Advanced Game Physics         NaN
+                 NaN                                                              7.4 Multiple Scenes         NaN
+                 NaN                                                                 7.5 AI and Games         NaN
+                 NaN                                                          Unit 8 Publishing Games         NaN
+                 NaN                                      8.1 Splash Screens, Credit Scenes and Icons         NaN
+                 NaN                                    8.2 Publishing to PC, Mac and Linux Computers         NaN
+                 NaN                                                    8.3 Publishing to Smartphones         NaN
+                 NaN                                 8.4 Publishing to Game Consoles Computing Ethics         NaN
+                 NaN                                                                      and Society         NaN
+  Text and Reference                          1. Game Development with Unity, Michelle Menard, Delmar         NaN
+          Literature                                                                 Cengage Learning         NaN
+                 NaN                          2. Unity in Action, Joseph Hocking, Manning Publication         NaN
+                 NaN                       3. Unity Game Development Cookbook, Paris Buttfield–addis,         NaN
+                 NaN                                 Jonathon Manning , Tim Nugent Orelly Publication         NaN
+                 NaN                              4. Developing 2D Games with Unity: Independent Game         NaN
+                 NaN                             Programming with C#,Jared Halpern Apress Publication         NaN
+                 NaN                        5. Pro Unity Game Development with C#, Alan Thorn, Apress         NaN
+                 NaN                                                                      Publication         NaN
+Teaching Methodology                          Discussion, Independent Study, Seminars and Assignments         NaN
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,         NaN
+                 NaN                             quiz, assignment, seminar, internal examination etc.         NaN
+                 NaN                      30% assessment is based on end semester written examination         NaN
+    Reference Links:       https://www.csforallteachers.org/system/files/Unity_Game_Programming_Plann         NaN
+                 NaN                                                                  er_Syllabus.pdf         NaN
+                 NaN                                       https://docs.unity3d.com/Manual/index.html         NaN
+                 NaN                  https://novicedock.com/learn/computer-science/unity-game-engine         NaN
+                 NaN             https://www.coursera.org/specializations/game-design-and-development         NaN
+                 NaN                          https://learn.canvas.net/courses/3/assignments/syllabus         NaN
+                 NaN                                         http://www.cs.kent.edu/~ruttan/GameProg/        82.0"
+29,table,"               Course Code                                                                                                                                                                                      Unnamed: 0
+              Course Title                                                                                                                                                                                       Practical
+                    Credit                                                                                                                                                                                               8
+         Teaching per Week                                                                                                                                                                                          16 Hrs
+Minimum weeks per Semester                                                                                                                              15 (Including Class work, examination, preparation, holidays etc.)
+         Review / Revision                                                                                                                                                                                               -
+         Purpose of Course                                                The purpose of the course is to make students capable of\rimplementing concepts, methods, tools and techniques learnt in\rcourses of semester 3.
+          Course Objective                                                                        The objective of these course is to enable students to learn practical\rimplementation of DSC-5, DSC-6, SEC-3 and DSE-3.
+              Pr-requisite                                                                                                                                                            As per theory papers of semester -3.
+           Course Out come                                                              After completion of this course, the student will be capable of\rperforming practical application of subjects given in semester 3.
+                       NaN                                                                                                                                                                                             NaN
+            Course Content The students will be required to carry out practical on DSC-5, DSC-6,\rSEC-3 and DSE-3 using the methods and tools discussed there in.\rA Journal must be prepared for the practical work done.
+                       NaN                                                                                                                                                                                             NaN
+            Reference Book                                                                                                                                                     .As per paper DSC-5, DSC-6, SEC-3 and DSE-3
+                       NaN                                                                                                                                                                                             NaN
+      Teaching Methodology                                                                                                                                                                                        Lab Work
+         Evaluation Method                    70% Internal assessment is based on Practical attendance, Problem\rSolving, internal examination etc.\r30% assessment is based practical examination at the end of semester."

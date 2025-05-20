@@ -1,0 +1,775 @@
+---- PDF METADATA ----
+Author: Windows User
+Creator: Microsoft® Word 2016
+CreationDate: D:20220427050127+05'30'
+ModDate: D:20220427050127+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 15
+
+==== PAGE 1 ====
+1 
+   
+  
+ 
+SARV AJANIK UNIVERSITY  
+SURAT  
+ 
+ 
+ 
+Master  of Science  
+(Chemistry)  
+ 
+[Applicable for Academic Session 2020 -21] 
+[As per CBCS guidelines given by UGC]  
+ 
+ 
+ 
+ 
+  
+  
+
+
+==== PAGE 2 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+2 
+   
+M.Sc.  Organic Chemistry Syllabus   
+ 
+ Semester -1 Semester -2 Semester -3 Semester -4 
+Core -1 
+(DSC)  Theoretical organic 
+chemistry (DSC I)  Organic synthesis 
+and mechanism  
+(DSC III)  Organic 
+Spectroscopy  
+(DSC V)  Dissertation  
+(SEC 
+Component)  
+Core -2 
+ (DSC)  Industrial Processes, 
+Waste Management 
+& Quality Control  
+(DSC II)  Chemistry of 
+Natural Products 
+(DSC IV)  Designing organic 
+synthesis (DSC 
+VI) 
+Skill Enhancement 
+Course (SEC)  Advance  analytical 
+chemistry  
+(SEC I)  Instrumentation and 
+analytical 
+techniques  
+(SEC II)  Analytical 
+Techniques in 
+Applied Chemistry  
+(SEC III)  Physical 
+Organic 
+Chemistry 
+(DSC - VII) 
+Discipline Centric 
+Electives (DSE)  Food Chemistry  
+(DSE I)  Forensic Chemistry 
+& Toxicology  
+(DSE II)  Applications of 
+Green Chemistry  
+(DSE III)  Medicinal 
+Chemistry/Dyes  
+(DSE -IV)  
+ 
+ 
+ 
+Semester  Discipline Specific Elective Courses  
+1 1. Food Chemistry  
+2. Energy and Environment  
+3. Laboratory safety and management  
+4. Bioethics  
+2 1. Forensic Chemistry & Toxicology  
+2. Bioinformatics  
+3. IPR 
+4. Biostatistics.  
+3 1. Forensic biology and DNA typing  
+2. Research Methodology  
+3. Bio-entrepreneurship  
+4. Application of Green Chemistry  
+4. 1.  Medicinal Chemistry  
+2. Dyes  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 3 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+3 
+  Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semester: II   
+Subject:  DSC -I- Theoretical Organic Chemistry  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:   This course paper is about Substitution, Addition, Elimination, Pericyclic 
+Reactions, Stereochemistry, Photochemistry, Organic Reagents.  
+Student learning outcome:  
+ At the end of the course students will be able to  learn ...about  
+• Different mechanisms of substitution reaction.  
+• Addition, Elimination reactions.  
+• Pericyclic Reactions, Stereochemistry, Photochemistry, Organic Reagents.  
+Unit 1 Substitution Reactions                                                                  (10 Hours)   
+1.1 The SN2, SN1, mixed SN1 and SN2 and SET mechanism, SE2 and SE1 mechanism  
+1.2 Reactivity effects of substrate structure, attacking nucleophile, leaving group an d reaction medium; 
+ambident nucleophile, regioselectivity  
+1.3 SNAr, benzyne and SN i mechanism  
+1.4 Arenium ion mechanism, ipso attack, orientation in other ring systems  
+ 
+Unit 2 Elimination and Addition Reactions                                             (12 Hours )                                                               
+2.1 The E2, E1 and E1cB mechanisms  
+2.2 Hoffman and Saytzeff modes of elimination  
+2.3 O rientation of the double bond, reactivity effects of substrate structures, attacking base, the    
+      leaving group and the medium, pyrolytic elimination  
+2.4 Regio - and chemo selectivity, orientation and reactivity  
+2.5 Reactivity of carbonyl group, nucleophilic addition of hetero -atoms (N,O)  
+  
+Unit 3 Organic Reaction Mechanisms                                                                                 (08 Hours)   
+3.1 Methods of determination of reaction mechanism  
+3.2  Neighboring group participation  
+3.2.1  Mechanism and effects of a chimeric assistance NGP by unshared/ lone pair electrons,  𝜋−
+𝑒𝑙𝑒𝑐𝑡𝑟𝑜𝑛𝑠 , aromatic rings,  σ -bonds with special reference to norbornyl and bicyclo  [2.2.2]  octyl 
+cation systems (formation of non -classical carbocation)  
+3.3  Role of FMOs in organic rea ctivity  
+3.3.1  Reactions involving hard and soft electrophiles and nucleophiles, ambident nucleophiles, 
+ambident electrophiles, the  α-effect  
+ 
+Unit 4  Pericyclic reactions -I                                                                                                      (06 Hours)   
+4.1 Classification of Pericyclic reactions  
+4.2 Thermal and photochemical reactions  
+4.3 Three approaches: Evidence for the concertedness of bond making and breaking  
+4.4 Symmetry -allowed and Symmetry -forbidden Reactions  
+4.5 The wood ward -Hoffmann Rules  
+4.6 The Aromatic Transition structure  [ Huckel &Mobius]  
+4.7 Frontier orbitals correlation Diagrams  
+4.8 Frontier orbital of ethylene, 1,3 -butadiene  &1,3,5 -Hexatriene and allyl system  
+
+==== PAGE 4 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+4 
+   
+Unit 5  Pericyclic Reaction -II                                                    (06 Hours)                                                      
+5.1.  Cycloaddition reactions: Supra and antra facial addition  
+5.2 4n and 4n+2 systems  
+5.3 1,3- Dipolar cyclo addition and cheletropic reactions  
+5.4 Sigmatropic rearrangements: H -shifts and C-shifts  
+5.5 Supra and antarafacial migrations  
+5.6 Cope  and Azacope rearrangements  
+5.7 Claisen and Ene rearrangements  
+  
+Unit 6  Stereochemistry                                                                                                               (06 Hours)   
+6.1  Classification of point groups based on symmetry elements with examples  
+(non mathematical treatment)  
+6.2  Conformational analysis of medium rings: eight to ten membered rings and their unusual 
+properties,  I-strain,  transannular reactions  
+6.3 Stereochemistry of fused ring and bridged ring compounds: decalins, hydrindanes, 
+perhydroantracenes, steroids and Bredt’s rule.  
+6.4  Anancomeric systems  
+6.5  Effect of conformation on reactivity of cyclohexane derivatives in the  following reactions  
+(including mechanism)  electrophilic addition, elimination, molecular rearrangements, reduction of 
+cyclohexanones.  (with LiAlH4,selectride MPV Reduction)and oxidation of cyclohexanols  
+ 
+Unit 7  Photochemistry                                                                                                                 (06 Hours)                    
+7.1  Principles of photochemistry: quantum yield, electronic states and, transitions, selection  rules, of   
+dissipation of energy (Jablonski diagram), electronic energy transfer, photosensitization and 
+quenching process.  
+7.2  Photochemistry of carbonyl compounds:  ππ    Norish -I and Norish –II Cleavages, Paterno -Buchi 
+reaction, photo reduction Calculation quantum   yield, photochemistry of enones, photochemical 
+rearrangements of α,  β unsaturated ketones and  cyclohexadienones, photo Fries rearrangement, 
+Borton reaction  
+7.3  Photochemistry of olefins: cis -trans isomerizations, dimerisations, hydr o abstruction,  addition and 
+Di-π  methane rea rrangement including azo -di-π methane.  
+Photochemical cross -coupling of alkenes,  photodimerization of alkenes.  
+7.4   Photochemistry of arenes ; 1,2 -1,3- and 1,4 additions,  
+photocycloaddition of aromatic rings  
+7.5  Singlet oxygen and photo -oxygenation reaction, photo chemically induced radical reactions,  
+Chemiluminescene  
+ 
+Unit 8  Organic Reagents                                                                                                             (06 Hours)                         
+8.1  Organo -metallic Reagents : Principle, preparation, properties and applications of the following in 
+organic synthesis with mechanistic details:  
+8.1.1  Gilman’s Reagent (Lithium Dimethyl cuprate), Organocerium Reagents, Organochromium 
+Reagents, Organosilicon Reagents.  
+8.2  Organo -nonmetallic Reagents. Principle, preparation, properties and applications of the following  
+in   organic synthesis with mechanistic details:  
+8.2.1  Trimethylsilyl iodide, Diazomethane, Polyphosphoric acid, Dicyclohexylcarbodiimide, Borane  
+ 
+
+==== PAGE 5 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+5 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ References:  
+1. Advanced  Organic Chemistry Part A and Part B, Carey B. F. A., Sundberg R.J., 5th Edition , 2007 , 
+Springer.  
+2. Stereochemistry: Conformation and Mechanism, Kalsi, P.S., 2010, New Age International (p) Ltd. 
+New Delhi . 
+3. Organic Chemistry, Morrison, R.T., Boyd, R.N. , 6th Edition, 2011, Prentice - Hall of India, New Delhi , 
+2011 .  
+4. March’s Advanced Organic Chemistry, Smith, M. B., March J., 6th Edition, John Wiley and Sons, New 
+York.  
+5. A Guide Book to Mechanism in Organic Chemistry, Sykes, P., 6th Edition , Prentice Hall, 1997.  
+6. Stereochemistry of carbon compounds , Eliel, E. L. , S. H. Wiley, 2008 . 
+7. Organic Chemistry, Clayden, J.; Greeves, N.; Warren, S., Oxford University press, 2nd Edition , 2012 .  
+8. Organic Chemistry, Bruice Paula, Y., 7th Edition, 2015, Pearson Edition.  
+ 
+ 
+ 
+ 
+ 
+  
+
+==== PAGE 6 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+6 
+  
+ 
+Unit 1  Unit Processes and Chemical Reactions in Organic Chemistry     (10 Hours)                                                                       
+1.1 Unit processes: Nitration, Halogenation, Sulphonation, Sulphanation,  
+Oxidation, Hydrogenation Esterification, Hydrolysis, Alkylation, Aminolysis, 
+Amination, Cyanation, Will –Meyer reac tion, Formylation, Polymerization  
+1.2 Aerobic and Anaerobic Fermentation : Production of Ethyl Alcohol and Citric Acid, 
+Antibiotics: Penicillin, Cephalosporin, Chloromycetin and Streptomycin, Amino 
+Acids: Lysine, Glutamic Acid, Vitamins: Vitamin B2, Vitamin B12 and Vitamin C  
+1.3 Important Chemical Reaction & Their Application s in Chemical Process Industries  
+ 
+Unit 2  Unit Operation s         (04 Hours) 
+2.1 Principle and Method of Distillation,  Solvent Extraction, Solid -Liquid Leaching , 
+Liquid - Liquid Extraction, Membrane Processes, Absorption, Adso rption, 
+Crystallization Process  
+2.2       Physical techniques in chemical industries: Filtration, Centrifugation, Drying  
+2.3 Equipment needed in chemical technology : Reactors, Distillation columns, Extruders, 
+Pumps, Mills, Emulators  
+ 
+Unit 3  Process Instrumentation        (04 Hours)  
+3.1  Principle and Applications of:  
+3.1.1  Flowmeter  
+3.1.2   Temperature  & Pressure  
+3.1.3   pH, O xidation Reduction Potential  
+3.1.4   D.O. &  Turbidity  
+3.1.5  Other Sensors for Water Quality Monitoring  
+ 
+Unit 4  Industrial Effluent Treatment       (08 Hours) 
+4.1 Need for effluent treatment and principle of ETP  
+4.2 Primary Treatment  
+4.3 Secondary Treatment  Program: M.Sc. Organic Chemistry  Type:  Theory  
+Semester: I   
+Subject:   DSC -II- INDUSTRIAL PROCESSES, WASTE MANAGEMENT & QUALITY CONTROL  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:  
+This course will provide the student with an introduction to the concepts and technologies  of the 
+principal manufacturing processes utilized by industry.  Subjects include the manufacturing system 
+and its operating principles, and advanced manufacturing processes , industrial effluent treatment, 
+solid and hazardous waste management. Course provides the idea about quality control and quality 
+management  and safety in chemical industries.  
+Student learning outcome:  
+ At the end of the course students will be able to...learn  
+• The different unit processes, different separation techniques.  
+• Effluent treatment, Waste management and process Instrumentation . 
+• Also learn about quality control techniques, assurance and management in chemical industry  
+   
+
+==== PAGE 7 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+7 
+ 4.4 Tertiary Treatment  
+4.5       Gaseous pollution control in ETP  
+4.6 Indian standards for disposal of industrial effluents  
+Unit 5  Solid & Hazardous W aste Management      (10 Hours) 
+5.1 Introduction of Solid & Hazardous Waste generated in Chemical Industry  
+5.2 Sources and Classification  
+5.3 Identification: Characteristics and types of listed hazardous waste  
+5.4 Treatment and Disposal  
+5.5 Management and Handling Rules  
+ 
+Unit 6  Quality Control  & Assurance  in Chem ical industry      (12 Hours)                                                       
+6.1 Statistical Treatment of data  
+6.2  Control charts  
+6.3  Performance Evaluation uncertainties in measurement  
+6.4 Validation of analytical Methods , instrumentation, persons  
+6.5 Elements of quality assurance  
+6.6 Quality management concepts and principles   
+6.7 Quality Management System : ISO 9001:20 16 
+ 
+Unit 7  TQM in Chemical Industry                       (06 Hours)                                                                       
+7.1 Six sigma approach to Quality  
+7.2  Applying six sigma to chemical Industries  
+7.3 Good Laboratory Practices: principles of GLP  
+7.4 GMP in Drugs & Pharmaceutical Industries  
+7.5  Accreditation of QC laboratories  
+7.6 Tools  and Mechanisms ICH Guidelines on Drug substances & products  
+ 
+Unit 8   Safety in Chemical Industries                             (06 Hours) 
+8.1 Need of Safety in Chemical Industries  
+8.2  Indian Standards  
+8.3  Types of Chemical Hazards & Controls  
+8.4 Storage Hazards &  controls  
+8.5 Process Hazards and Control,  
+8.6  Safe Transfer and Transportation of chemical  
+8.7       NFPA, GHS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 8 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+8 
+ References:  
+ 
+1. Handbook of Quality Assurance for the analytical chemistry laboratory, James P. 
+Dux, Van Nostrand Reinhold,  1986,  New York .  
+2. Applying ISO -9000 Quality Management Systems, International Trade Centre 
+Publishing, UNCTAD/WTO. Geneva, Switzerland, Indian Edition Printed by D.  L. 
+Shah Trust.  
+3. How to practice GLP, PP Sharma, 2000, Vandana Publications, New Delhi .  
+4. Training Manuals on I SO 9000 / 2000 PQM, Girdhar J Gyani, 2001 , Raj Publishing 
+House  
+5. Quality Assurance in Analytical Chemistry, B.W. Wenclawiak, 2004 , Springer, India.  
+6. Separation Methods , M. N. Sastri, 1st Edition , 1991, Himalaya Publishers . 
+7. Analytical Chemistry , - Gary D.  Christian, 6th Edition, John Wiley and sons. Inc., 
+New York, 1994.  
+8. Quality Assurance and Quality Management in Pharmaceutical Industry, Y. 
+Anjaneyulu and R. Marayya, 2005, Pharma Book Syndicate.  
+9. Quality Assurance and Quality Control in the Analytical Chemical Laboratory, Piotr 
+Konieczka and Jacek Namiesnik, 2009, CRC Press.  
+10. Guide to ISO 9001: 2000, A. K. Chakraborty, P. K. Basu, S.C. Chakravarty, 2005, 
+Asian Books Pvt. Ltd.  
+11. Quality Assurance in A nalytical Chemistry, B.W. Wenclawiak, M.Koch and E. 
+Hadjicostas , 2004,  Springer.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                              
+ 
+        
+            
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 9 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+9 
+  
+ 
+                                                       
+Unit 1  Introduction to Analytical Chemistry      (08 Hours)  
+1.1       Importance of Analytical Chemistry  
+1.2       Methods of Quantitative Analysis  
+1.3       Selection of method of Analysis  
+1.4       Chemical Analysis & Analytical chemistry  
+1.5       Quantitative Analysis & scale of operation  
+1.6       Various steps in Quantitative Analysis  
+1.7       Methods of Analytical Determination  
+1.8       The Role of Instrumentation  
+1.9       Application of  Analytical Chemistry  in Agriculture , Pharmaceuticals,  
+      Medical Technology , Food & Beverage s, Other  Fields  
+ 
+Unit 2   Reliability of Analytical Data      (08 Hours)  
+2.1        Errors in Chemical Analysis  
+2.2        Classification of Errors  
+2.3        Determining the Accuracy of Methods  
+2.4        Improving the Accuracy of analysis  
+2.5        Statistical Analysis  
+2.6        Rejection of Results  
+2.7        Presentation of Data  
+2.8        Confidence Limit  
+2.9        Q-Test for Rejection of Results  
+2.10      Standard ‘t’ Test  
+ Program: M.Sc.  Organic Chemistry  Type: Theory  
+Semester: I   
+Subject:    SEC  I:   ADVANCE D ANALYTICAL CHEMISTRY  
+Credit:       04(T) + 02 (P)        Total learning hours: 60 
+Course description:   
+This Course Paper proposes to teach about: Analytical chemistry basic principles and classical 
+theory, sampling methods, various volumetric analysis, gravimetric analysis and about the 
+reliability of analytical data generated in a statistical manner.  
+Student learning outcome:  
+At the end of the course students will be able to... Learn  
+• The quantitative and qualitative aspects of analytical chemistry  
+• Sampling techniques  
+• Principle, method of gravimetric analysis and  
+• Principle, method of volumetric analysis:  
+• Acid -base titrations, precipitation titrations, redox titrations, complexometric titrations  
+• Statistical methods to check the reliability of generated analytical data  
+• Applications in various fields  
+
+==== PAGE 10 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+10 
+ Unit 3   Sampling in Analysis        (06 Hours)  
+3.1        Theory of sampling  
+3.2        Techniques of sampling  
+3.3        Statistical Criteria of Good sampling  
+3.4        Stratified Sampling versus Random Sampling  
+3.5        Minimization of variance in stratified sampling  
+3.6        Transmission and storage of samples.  
+ 
+Unit 4  Gravimetric Analysis       (08 Hours)  
+4.1  Precipitation methods  
+4.2  Purity of precipitation -co precipitation  
+4.3  Optimum conditions for precipitation  
+4.4  Precipitation from homogeneous solution  
+4.5  Washing of the precipitate  
+4.6  Ignition of the precipitate  
+4.7  Role organic precipitants in gravimetric analysis  
+4.8  Criteria for choice of an organic Reagent  
+4.9  Some Important organic precipitants  
+ 
+Unit 5  Volumetric Analysis         (07 Hours)  
+5.1  Volumetric analysis in chemistry  
+5.2  Classification of volumetric methods  
+5.3  Acid Base Titration  
+5.4  Acid Base  indicators  
+5.5  Mixed indicator  
+5.6  Fluorescent indicators  
+ 
+ 
+Unit 6   Redox Titrations         (07 Hours)  
+6.1  Theory of Redox Titration curves  
+6.2  Some Oxidizing Agents as Titrants  
+6.3  Application of Iodine as Redox Reagent  
+6.4  Redox indicators  
+6.5  Detection of Endpoint in Redox Titrations.  
+ 
+Unit 7   Precipitation Titration        (08 Hours)  
+7.1  Theory of Precipitation, Titration Curve  
+7.2  Factors Influencing solubility o f the precipitate  
+7.3  Titration by Turbidity without an indicator  
+7.4 Volhard’s Method  
+7.5  Mohr’s Method  
+7.6 Adsorption Indicators in Precipitation Titration  
+7.7  Miscellaneous Indicators for titrations  
+ 
+Unit 8  Complexometric EDTA Titrations       (08 Hou rs) 
+8.1  Complexometric EDTA Titrations  
+8.2  Complexometric Titration curves  
+8.3  Metallochromic Indicators  
+
+==== PAGE 11 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+11 
+ 8.4  Selectivity in Complexometric Titrations  
+8.5  Typical EDTA Titrations  
+8.6  Advantages of Complexometric Titrations  
+ 
+ 
+References : 
+1. Chemistry for Environmental Engineering and Science, C. N. Sawyer and P. L. Mc 
+Carty, G.F. Parkin, 5th Edition, 21st Reprint, 2015, Mc  Graw Hill Education (India) 
+Private Limited.  
+2. Quantitative Analysis , R.A Day, A.  L. Underwood, 6th Edition , 1991,  Prentice -Hall. 
+ 
+3. Standard Methods for Examination of Water & Wastewater , Andrew D . Eaton, 
+Lenore S . Clesceri, Eugene W . Rice, Arnold Greenberg, 23rd Edition,  2017,  
+published by APH A, AWWA, WEF . 
+4. Official Methods of Analysis , Dr. William Harwitz, Dr. George  W Latimer ,  
+18th Edition, 2005, published by Association of Officiating Analytical Chemists 
+(AOAC) .  
+5. Fundamentals of Analytical Chemistry, D.A. Skoog, D.M. West, F.J. Holler and  
+S.R. Crouch, 9th Edition, Reprint 2014, Cengage Learning.  
+     6. Basic Concepts of Analytical Chemistry, S.M. Khopkar, 3rd Edition,  2009,  
+New Age International Private Limited.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 12 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+12 
+   
+Unit  1 Water in Food                                                                                                   (06 Hrs)  
+1.1 Moisture in foods, definition of water in food, Water as a nutrient  
+1.2 Types of water and their specific function  
+1.2 Sorption phenomenon  
+1.3 Water activity and food stability  
+1.4 Water act ivity and packaging  
+1.6 Water activity and spoilage  
+ 
+Unit  2 Carbohydrates                                                                                                  (10 Hrs)  
+2.1  Definition, classification and physical properties  
+2.2  Nutritive roles of carbohydrate  
+2.3  Sweetness of sugars, relation of structure to sweetness  
+2.4  Important carbohydrates in food  
+(glucose, sucrose, starch, agar, glycogen, cellulose, pectin, gums and resins)  
+2.5  Carbohydrates: digestion, absorption, metabolism (glycolysis, citric acid cycle,                        
+       glycogenesis, Glycogenolysis, Gluconeogenesis, hexose monophosphate pathway)  
+2.6  Retro gradation and staling  
+2.7  Modified celluloses and starch es 
+2.8  Pectic substances and dietary fibre  
+2.9  Nonenzymatic browning and Mailard reaction  
+ 
+Unit  3 Lip ids                                                                                                                 (08 Hrs)  
+3.1  Characteristics and classification  
+3.2  Physical properties -melting point, softening point, specific gravity,  
+      refractive index, smoke, flash and fire point, turbidity point  
+3.1       Chemical properties - reichert meissel value, polenske value, iodine  value,  
+peroxide value, saponification value  
+3.4  Effect of frying on fats  Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semester: I   
+Subject:  DSE -I: Food Chemistry  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:  
+This course presents concise and relevant information on the composition of foods and the reactions 
+they undergo during processing and storage.  The course will deal with the chemistry of the 
+principal components of foods, their properties and interactions.  This will provide basic information 
+regarding the food analysis also. 
+Student learning outcome:  
+ At the end of the course students will be able to:  
+• Explain the importance of water for stability and quality of foods.  
+• Understand the relationship between nutrition and human well being  
+• Know the major and minor components of foods  
+• Know composition and pro perties of food  
+• Explain the basic structures of food constituents  
+• Understand the basic chemical reaction food constituents undergo during processing  
+• Identify additives added to foods for different purposes  
+
+==== PAGE 13 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+13 
+ 3.5  Changes in fats and oils - rancidity, l ipolysis, flavor reversion  
+3.6  Auto -oxidation, factor affecting rate of oxidation and its prevention,  
+Methods of measuring lipid oxidation - solid fat index, peroxide value, thiobarbituric 
+acid test, anisidine value, Kreis test, oxirane test  
+3.7  Technology of edible fats and oils - Refining, Hydrogenation and Interesterification  
+ 
+Unit  4 Proteins                                                                                                               (08 Hrs)  
+4.1  Protein classification and structure  
+4.2  Nature of food proteins (plant and animal proteins)  
+4.3  Denaturation of protein and its implications  
+4.4  Functional properties of proteins (organoleptic, solubility, viscosity, binding gelation/     
+        texturization , emulsification , foaming)  
+4.5  Supplementary value of food proteins  
+4.6  Modification of food protein in processing and storage and its implications  
+4.7  Reaction of protein in food (Reaction with lipids, sulphites enzymatic hydrolysis, 
+plastein reaction)  
+ 
+Unit  5 Minerals                                                                                                             (04 Hrs)                                                                             
+5.1  Mineral functions, sources  
+5.2  Solubility and bioavailability of minerals  
+5.3  Nutritional aspects of minerals  
+5.4  Fortification: Iron sources used in fortification  
+ 
+Unit  6 Vitamin                                                                                                               (06 Hrs) 
+6.1  Classification, stability, toxicity and sources  
+6.2  Distribution in foods, loss during processing  
+6.3  Mechanism of degradation  
+6.4  Functions and deficiency diseases caused by following vitamins:  
+6.4.1  Fats soluble vitamins – Vitamin A, D, E and K  
+6.4.2 Water soluble vitamins – Vitamin C and B -complex  
+ 
+Unit  7  Food additives                                                                                                   (08 Hrs)  
+7.1  Definition, need and classification of food additives  
+7.2  Permitted food additives and their role  
+7.2.1  Preservatives -Natural and Artificial (Class -I and class -II preservatives)  
+7.2.2  Antioxidants, C helating agents, Colouring agents  
+7.2.3  Curing agents, Emulsions  
+7.2.4  Flavors and flavor enhancers  
+7.2.5  Non-nutritive sweeteners  
+7.2.6  pH control agents  
+7.2.7  Stabilizer and thickeners  
+7.2.8  Humectants, Anti-caking agents  
+7.2.9 Firming agent, Clarifying agent, Flour bleaching agents  
+ 
+ 
+
+==== PAGE 14 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+14 
+ Unit  8  Food Analysis                                                                                                   (10 Hrs)  
+8.1  Analysis of Chemical Additives in foods  
+8.1.1  Division of colour additives  
+8.1.2  Chromatographic identification of colours, quantitative estimation of added dyes in 
+foods (Titanium Trichloride Method)  
+8.2  Chemical preservatives and synthetic sweetening agents (Organic -ether extractable 
+and non- ether extractable)  
+8.2.1  Analysis of SO 2 & Sodium Benzoate (Chemical Met hods),  
+Sorbic Acid (Chromatography)  
+8.3  Types of Antioxidants used in Foods  
+8.3.1  Analysis of Butylated Hydroxy Toluene (BHT) (Spectrophotometry)  
+8.4  Moisture analysis in food  
+8.5  Common adulterants in food  
+8.6  Pesticide analysis of food products  
+ 
+  
+Reference:  
+1. Fennema's food chemistry , Damodaran, S., Parkin, K. L., & Fennema, O. R. , 2007, CRC 
+press.  
+2. Food science,  Potter, N. N., & Hotchkiss, J. H. , 2012 , Springer Science & Business 
+Media.  
+3. Principles of food chemistry , DeMan, J. M., Finley, J. W., Hurst, W. J., & Lee, C. Y. 
+2018 , Springer . 
+4. Food chemistry,  Aurand, L. W., Woods, A. E., & Wells, M. R. , 1987 , Springer, 
+Dordrecht . 
+5. Food Chemistry, Meyer, L. H. , 1982,  AVI Publising Company .  
+6. Foods facts and principles, N. Shakuntala Manay, M. Shdakshara Swamy , 2008, New age 
+International Publisher, New Delhi . 
+7. Introduction to Chemical Analysis of Foods,  S. Suzanna & Nielsen , CBS Publishers & 
+Distributor . 
+8. Food chemistry , Belitz, H. D., Grosch, W., & Schieberle, P. , 2004,  Springer, Berlin, 
+Heidelberg.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 15 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FIRST SEMESTER  
+ 
+15 
+ Laboratory Practical  
+1. Determination of pH, Turbidity and TDS of water sample.  
+2. Determination of D.O. and Conductivity of water sample.  
+3. Preparation of p -Nitro Chloro benzene from Acetanilide.  
+4. Preparation of Eosin from Phthalic Acid.  
+5. Organic synthesis of Paracetamol  
+6. Organic synthesis of 6 - methyluracil.  
+7. Organic synthesis of Acridone.  
+8. Organic synthesis of Methyl Orange.  
+9. Determination of Zn+2/ Cu+2 by Complexometric titration.  
+10. Gravimetric estimation of Ni as Ni (Dimethyl Glyoxime) 2 /Ba as BaSO 4. 
+11. Determination of COD of water sample by redox titration.  
+12. Analysis of fats/oils – Any two of the following:  
+  Acid value, Iodine number, Reichert Meissel number and Saponification value of                   
+  fats 
+13. Determination of riboflavin from curry leaves (fluorimetric method).  
+14. Determination of salt content in commercial table butter.  
+15. Determination of Moisture  in food sample . 
+ 
+ 
+Reference s: 
+1. Standard Methods for Examination of Water & Wastewater , Andrew D. Eaton, 
+Lenore S. Clesceri, Eugene W. Rice, Arnold Greenberg, 23rd Edition, 2017, published 
+by APHA, AWWA, WEF.  
+2. Official Methods of Analysis , Dr. William Harwitz, Dr. George W Latimer,  
+18th Edition, 2005, published by Association of Officiating Analytical Chemists 
+(AOAC).  
+3. Analytical Techniques in Agriculture, Biotechnology and Environmental Engineerin; 
+A. Nag; 1st Edition, 2006, Prentice Hall of India.  
+4. Laboratory Manual in Biochemistry – J. Jayaraman, 2011, New Age Publication.  
+5. Manual of analysis of fruits and vegetable products, Central food technological 
+research institute, Mysore, S. Ranganna, 1977, Tata McGraw Hill publishing 
+company Ltd, New Delhi.  
+6. Biochemical Methods , S. Sadasivam, and A. Manikam, 2nd Edition, 1996 , New Age 
+International(p) Ltd. Publishers and Tamil Nadu Agricultural University 
+(Coimbatore).  
+7. Laboratory techniques in food analysis , D. Pearson, 1973, John Wiley & Sons, New 
+York . 
+8. Analytical  Chemistry, H. Kaur,  1st Edition, 201 3, Pragati Prakashan .  
+ 
+ 
+ 

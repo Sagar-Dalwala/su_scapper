@@ -1,0 +1,467 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+7,text,SRKI
+8,text,SRKI
+9,text,SRKI
+10,text,SRKI
+11,text,SRKI
+12,text,SRKI
+13,text,SRKI
+14,text,SRKI
+15,text,SRKI
+16,text,SRKI
+17,text,SRKI
+1,table,"            Program Structure  Unnamed: 0        Unnamed: 1          Semester 5 Unnamed: 2 Unnamed: 3
+                 Course Title         NaN Teaching Hrs. per   Course University   Internal      Total
+                         Code         NaN              Week Credits Examination      Marks      Marks
+                          NaN         NaN  Theory Practical      Duration Marks        NaN        NaN
+      Life Skills / NSS / NCC         NaN                 2                   2        NaN        NaN
+ BCS DSC-9 Mobile Application         NaN                 4                4 30         70        100
+              501 Development         NaN               NaN                 NaN        NaN        NaN
+ BCS DSC-10 Operating Systems         NaN                 4                4 30         70        100
+                          502         NaN               NaN                 NaN        NaN        NaN
+    BCS SEC 3-Introduction to         NaN                 4                4 30         70        100
+          503 Bigdata and IOT         NaN               NaN                 NaN        NaN        NaN
+BCS DSE-5 Digital Marketing &         NaN                 2                2 30         70        100
+                      504 SEO         NaN               NaN                 NaN        NaN        NaN
+        DSE-5 Cloud Computing         NaN               NaN                 NaN        NaN        NaN
+    DSE-5 Enterprise Resource         NaN               NaN                 NaN        NaN        NaN"
+2,table,"  Unnamed: 0                                                                           Planning             Unnamed: 1      Unnamed: 2              Unnamed: 3      Unnamed: 4   Unnamed: 5  Unnamed: 6  Unnamed: 7
+         NaN                                                  Transdisciplinary Open\rElectives                      2             NaN                       2             NaN          NaN         NaN         NaN
+    BCS\r505                                                                        Practical-5                    NaN              12                       6             NaN           50       100.0       150.0
+         NaN                                                                                NaN                    NaN             NaN                      24             NaN          NaN         NaN       650.0
+         NaN                                                                                NaN                    NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+         NaN                                                                        Semester -6                    NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+Course\rCode                                                                              Title Teaching Hrs. per week Course\rCredits University\rExamination Internal\rMarks Total\rMarks         NaN         NaN
+         NaN                                                                             Theory              Practical             NaN                Duration           Marks          NaN         NaN         NaN
+         NaN                                                  Life Skills/ NSS/ NCC /\rNCC/ NSS                      2             NaN                       2             NaN          NaN         NaN         NaN
+    BCS\r601                                           DSC 11, 12 , DSE 6\rProject / Internship                    NaN              24                      18             NaN          150       300.0       450.0
+    BCS\r602 DSE-6 Seminar : Emerging\rtrends, technologies and tools\rin Computer Science & IT                    NaN               2                       2             NaN           30        70.0       100.0
+         NaN                                                  Transdisciplinary Open\rElectives                      2             NaN                       2             NaN          NaN         NaN         NaN
+         NaN                                                                                NaN                    NaN             NaN                      24             NaN          NaN         NaN       650.0"
+3,table,"           Course Code                                                             Unnamed: 0
+          Course Title                                          DSC-9: SMART DEVICE COMPUTING
+                Credit                                                                      4
+     Teaching per Week                                                                  4 Hrs
+     Minimum weeks per     15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                    NaN
+Last Review / Revision                                                                    ---
+     Purpose of Course              To introduce the most demanding and developing mobile app
+                   NaN             technology. Fundamentals of android open source technology
+      Course Objective  1. To make students understand fundamentals of mobile app technology.
+                   NaN    2. To make students understand various inbuilt features of android.
+                   NaN          3. To make students understand the android design essentials.
+                   NaN   4. To make students understand android user interface design basics.
+          Pr-requisite        Pre-requisite Fundamentals of web technologies and fundamentals
+                   NaN                                                  related to mobile OS.
+       Course Out come Students will have knowledge about android which is widely used Mobile
+                   NaN    OS and open source technology and its concepts. Various features of
+                   NaN      android like Application Design Essentials, User Interface Design
+                   NaN  Essentials, Use of Common Android APIs, data storage using SQLite and
+                   NaN                                         deploying Android application.
+        Course Content                                        Unit-1 :Introduction to Android
+                   NaN                                             1.1 Android - Architecture
+                   NaN                                     1.2 Android Application Components
+                   NaN                            1.3 Android Application Directory Structure
+                   NaN                         Unit-2 : Android Application Design Essentials
+                   NaN         2.1 Understanding the IDE – Emulator/ AVD, logcat, Gradle, SDK
+                   NaN                                        2.2. Android Activity Lifecycle
+                   NaN                           2.3 Application Context and Activity Context
+                   NaN                      2.4 Android Manifest File and its common settings
+                   NaN                                           2.5 Intent and Intent Filter
+                   NaN                      Unit-3 : Android User Interface Design Essentials
+                   NaN             3.1 UI elements – EditText, TextView, Button, RadioButton,
+                   NaN                              CheckBox, Listview, RecyclerView, Spinner
+                   NaN                             3.2 Designing User Interfaces with Layouts
+                   NaN                                                 3.2.1 Relative Layouts
+                   NaN                                                   3.2.2 Linear Layouts
+                   NaN                                               3.2.3 Constraint Layouts
+                   NaN                             Unit-4 : Programming for different devices
+                   NaN                        4.1 Android TV, Android for Car, Android Things
+                   NaN                                   4.2 Overview of screen compatibility
+                   NaN                                  4.3 Support different pixel densities
+                   NaN                                          Unit-5 : Menus and Dialog Box
+                   NaN                     5.1 Menus – Context menu, Pop-up menu, Option menu
+                   NaN                                 5.2 Toast Message and Alert Dialog box
+                   NaN                                      Unit-6 : Using Shared preferences"
+4,table,"                    Unnamed: 0 6.1 Purpose of Shred Preferences\r6.2 Shared Preference Modes\r6.3 Writing to shared Preferences\r6.4 Methods of editor class\r6.5 Reading from Shared Preference\rnit-7 : Preserving and Saving data in Local Database\r7.1 Introduction to SQLite\r7.2 SqliteOpenHelper Class\r7.3 SQlite Methods - ExecSQL, Rawquery, Insert, Update, Delete\rnit 8: SqlServer connection with android app\r8.1 Connecting to the MS Sql Server\r8.2 Storing and Retrieving data in MS Sql Server                                                               Unnamed: 1
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  NaN                                                                      NaN
+Text and Reference\rLiterature                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  NaN 1. Silberschatz, Korth, Sudarshan ,Database System Concepts, McGraw-Hill
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                              computer science series                                                                      NaN
+                           NaN                                                   2. C J Date, An introduction to Database Systems, Addition-Wesley\rNilesh shah, Database System using Oracle, PHI.\r3. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database\rSystems, Addison-Wesley\r4. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database\rSystem Implementation, Pearson.\r5. Ivan Bayross, SQL, PL/SQL, BPB Publications\r6. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill        2. C J Date, An introduction to Database Systems, Addition-Wesley
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                      Nilesh shah, Database System using Oracle, PHI.                                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                     3. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database                                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                              Systems, Addison-Wesley                                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                             4. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database                                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                      System Implementation, Pearson.                                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                       5. Ivan Bayross, SQL, PL/SQL, BPB Publications                                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                             6. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill                                                                      NaN
+          Teaching Methodology                                                                                                                                                                                                                                                                                                                                                                                                                 The course is composed of Lectures, assignments and a group project.                                                                      NaN
+             Evaluation Method                                                                                                                                                                                                                                                                                  70% Internal assessment is based on class attendance, participation,\rclass test, quiz, assignment, seminar, internal examination etc.\r30% assessment is based on semester end written examination                                                                      NaN"
+5,table,"                                                              Course Code                                                                                                                                                                                                                                                              Unnamed: 0
+                                                             Course Title                                                                                                                                                                                                                                                DCS-10 Operating Systems
+                                                                   Credit                                                                                                                                                                                                                                                                       4
+                                                        Teaching per Week                                                                                                                                                                                                                                                                   4 Hrs
+                                              Minimum weeks per\rSemester                                                                                                                                                                                                      15 (Including Class work, examination, preparation, holidays etc.)
+                                                  Last Review /\rRevision                                                                                                                                                                                                                                                                     ---
+                                                        Purpose of Course                                                                                                                                                                                            Conceptualize the students with the theoretical concepts of Operating System
+                                                         Course Objective Familiarization with different objectives of operating system components like\rprocess management and inter-process communication; Experiments on process\rscheduling and other operating system tasks through simulation/implementation\runder a simulated environment
+                                                            Pre-requisite                                                                                                                                                                                                              Fundamentals of Computer Organization and Operating System
+                                                          Course Out come     Describe the various components of Operating Systems.\rCase study of Unix operating systems to analyze the different services provided\rby UNIX Operating System\rDesign and implement various system calls and concurrent processes requiring\rsynchronization.
+                                                           Course Content                                                                                                                                                                                                                                      Unit- 1: Operating System Concepts
+                                                                      NaN                                                                                                                                                                                                                         1.1. Operating system fundamental and its types
+                                      1.2. Components of operating system                                                                                                                                                                                                                                                                     NaN
+                                    1.3. BIOS, Booting process and kernel                                                                                                                                                                                                                                                                     NaN
+                                      1.4. Functions of operating systems                                                                                                                                                                                                                                                                     NaN
+                 1.5. Interrupt and System call, Data bus and Address bus                                                                                                                                                                                                                                                                     NaN
+                                                                      NaN                                                                                                                                                                                                                                                                     NaN
+                                  Unit- 2: I/O Device and File Management                                                                                                                                                                                                                                                                     NaN
+                                                                      NaN                                                                                                                                                                                                   2.1 I/O Devices, Device controllers and drivers, DMA, Programmed I/O,
+                                       Interruptdriven I/O, I/O using DMA                                                                                                                                                                                                                                                                     NaN
+                                                 2.2Disk space Management                                                                                                                                                                                                                                                                     NaN
+      2.3Allocation and Disk Arm Scheduling Methods (FCFS, SSTF, SCAN, C-                                                                                                                                                                                                                                                                     NaN
+                                                                    SCAN)                                                                                                                                                                                                                                                                     NaN
+                                        2.4Drivers for different devices.                                                                                                                                                                                                                                                                     NaN
+                                                                      NaN                                                                                                                                                                                                                                                                     NaN
+                                                 Unit- 3: Files structure                                                                                                                                                                                                                                                                     NaN
+                                                                      NaN                                                                                                                                                                                         .1 File storage mechanism, File allocation table, Directory and File structure,
+Attributes, Types, Access, Operations, Protection, and sharing and remote                                                                                                                                                                                                                                                                     NaN
+                                                                  access.                                                                                                                                                                                                                                                                     NaN
+      .2 File system management and optimization - Disk space management,                                                                                                                                                                                                                                                                     NaN
+                        backup, consistency, Performance, Defragmentation                                                                                                                                                                                                                                                                     NaN
+                                                                      NaN                                                                                                                                                                                                                                                                     NaN
+                                               Unit- 4: Memory Management                                                                                                                                                                                                                                                                     NaN
+                                                                      NaN                                                                                                                                                                                               2.1Address space, Contiguous and non contiguous allocation, Managing free
+                                                                    space                                                                                                                                                                                                                                                                     NaN"
+6,table,"                                                                                                                                                                                             Unnamed: 0 2.2Virtual memory - Paging, Page size, Page table, Page fault, Demand\rPaging,Pagereplacementalgorithms(FIFO,LRU,2ndChanceNRU\rOptimal), Shared page\r2.3 Segmentation - Implementation of pure segmentation, segmentation with\rpaging.  2.2Virtual memory - Paging, Page size, Page table, Page fault, Demand
+                                                                                                                                                                                                    NaN                                                                                                                                                                                   Paging,Pagereplacementalgorithms(FIFO,LRU,2ndChanceNRU                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                    Optimal), Shared page                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                2.3 Segmentation - Implementation of pure segmentation, segmentation with                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                                  paging.                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                                            Unit- 5: Process Management                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                     5.1 Process, Process states, PCB, Process scheduling                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                5.2 Scheduling Algorithms                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                        5.3 Study of Round-robin, FCFS, SJF, SRTF and priority algorithms                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                 5.4 Overview of deadlock                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                          5.5 Deadlock avoidance, prevention and recovery                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                              5.6 Overview of Inter process communication                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                  5.7 Deadlocks - Overview of Deadlock Avoidance, Prevention and Recovery                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                  Unit- 6: Security and Protection in operating systems                                                                                                                                                                                                                                      NaN                                                                    NaN
+6.1 Main features of security and protection\r6.2 Different security concerns\r6.3 Ways available in OS to protect the the system\r6.4 Inbuilt security features of operating system.\r6.5 Group policy                                                                                                                                                                                              .1 Main features of security and protection                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                           .2 Different security concerns                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                        .3 Ways available in OS to protect the the system                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                        .4 Inbuilt security features of operating system.                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                          .5 Group policy                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                         Unit- 7: Introduction to Unix operating system                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                              1.1 Introduction: History of Unix, features                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                  1.2 Unix system architecture and kernel                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                  1.3 Unix command format, Unix internal and external commands, Directory                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                          commands, File related commands, Disk related commands, general                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                               utilities.                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                 Unit- 8: File, Process and memory management in Unix operating systems                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                                                                    NaN                                                                                                                                                                .1 Unix File System: Boot inode, super and data block, in-core structure,                                                                    NaN
+                                                                                                                                Directories, conversion of pathname to inode, inode to a new file, Disk                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                                                      block allocation.                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                         .2 Process Management in unix: Process state and data structures of a Process,                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                              User vs, kernel node, context of a Process, background processes, Process                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                       scheduling commands, Process terminating and examining commands.                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                           .3 Storage Management in unix: Formatting, making file system, checking disk                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                             space, mountable file system, disk partitioning, file compression. Special                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                             Tools and Utilities: Filters, Stream editor SED and AWK, Unix system calls                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                  and library functions, Processes, signals and Interrupts, storage and                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                                                compression facilities.                                                                                                                                                                                                                                      NaN                                                                    NaN
+                                                                                                                                                                   .4 Basic shell Programming concepts.                                                                                                                                                                                                                                      NaN                                                                    NaN"
+7,table,"         Text and         1. Silberschatz, Korth, Sudarshan ,Database System Concepts, McGraw-Hill
+        Reference                                                          computer science series
+       Literature                2. C J Date, An introduction to Database Systems, Addition-Wesley
+              NaN                               3. Nilesh shah, Database System using Oracle, PHI.
+              NaN        4. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database Systems,
+              NaN                                                                   Addison-Wesley
+              NaN         5. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database
+              NaN                                                  System Implementation, Pearson.
+              NaN                                   6. Ivan Bayross, SQL, PL/SQL, BPB Publications
+              NaN                         7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill
+         Teaching             The course is composed of Lectures, assignments and a group project.
+      Methodology                                                                              NaN
+Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+              NaN                             quiz, assignment, seminar, internal examination etc.
+              NaN                      30% assessment is based on semester end written examination"
+8,table,"      Course Code                                                                     Unnamed: 0
+     Course Title                         SEC-3: Introduction to Artificial Intelligence and IoT
+           Credit                                                                              4
+Teaching per Week                                                                          4 Hrs
+Minimum weeks per             15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                            NaN
+    Last Review /                                                                            ---
+         Revision                                                                            NaN
+Purpose of Course      This course presents the blend of Artificial Intelligence and Internet of
+              NaN          Things. Artificial Intelligence spans a wide variety of topics at the
+              NaN           forefront of computer science research, including areas like machine
+              NaN          learning, planning, computer vision, natural language processing, and
+              NaN many others. It is the goal of this course to study Artificial Intelligence in
+              NaN     today's environment and to instill an understanding of representations and
+              NaN  external constraints with the idea of enabling a student to think creatively.
+              NaN                       The subject also extends concepts of Internet of Things.
+ Course Objective                                                 The objectives are as follows:
+              NaN         1) To give initial exposure of Artificial Intelligence to the students
+              NaN                  2) To make student understand AI problems and problem solving
+              NaN                                                                       approach
+              NaN                   3) To make student learn fundamental AI techniques and their
+              NaN                                                                   applications
+     Pr-requisite        Students are expected to have understanding of Computerized Information
+              NaN                                                                         System
+  Course Out come                 After having completed the course the student will be able to:
+              NaN        1) describe concepts, methods, and theories of problem solving approach
+              NaN                          of AI, solution search, heuristics, game playing etc.
+              NaN       2) describe concepts, methods, and theories knowledge representation and
+              NaN                                                              reasoning systems
+              NaN            3) describe concepts behind various AI task like planning, Decision
+              NaN                                                            making and Learning
+              NaN       4) describe various Techniques and Application Areas of AI in context of
+              NaN                                  Expert Systems, ANN, Machine Learning and NLP
+   Course Content                                 Unit 1 Introduction to Artificial Intelligence
+              NaN                                                               1.1 Intelligence
+              NaN                       1.1.1 Composition of intelligence - Reasoning, Learning,
+              NaN                           Problem Solving, Perception, Linguistic Intelligence
+              NaN                                                    1.2 Artificial Intelligence
+              NaN                                               1.2.1 Philosophy and goals of AI
+              NaN                                                       1.2.2 Applications of AI
+              NaN                  1.3 AI Agents & Environments –types of agents, ideal rational
+              NaN                     agent, structure of intelligent agents, Simple Turing test
+              NaN                                            environment, environment properties"
+9,table,"    Unnamed: 0                                          6.4 Embedded system applications
+           NaN                                                Unit 7 Overview of Arduino
+           NaN                                               7.1 Introduction to Arduino
+           NaN                                                   7.2 Flavours of Arduino
+           NaN                                           7.3 Components of Arduino board
+           NaN                                      7.4 Arduino Power supply, Breadboard
+           NaN                                           Unit 8 Programming with Arduino
+           NaN                                        8.1 Installing Arduino Desktop IDE
+           NaN              8.2 Installing Board drivers, configuring board type, sketch
+           NaN                                     8.3Hardware interfacing & programming
+           NaN                                             8.3.1. LED on/off using timer
+           NaN                                               8.3.2. Working with sensors
+           NaN                                   8.3.3. Arduino Traffic Light Controller
+Reference Book           1. A First Course in Artificial Intelligence by Deepak Khemani,
+           NaN                                      McGrawHill, ISBN : 978-1-25-902998-1
+           NaN    2. Introduction to Artificial Intelligence and Expert System by Dan W.
+           NaN                                  Patterson, PHI, ISBN : 978-93-325-5194-7
+           NaN       3. Artificial Intelligence –A Modern Approach (2nd Edition 2004) by
+           NaN  Stuart J. Russell and Peter Norvig, Pearson Education, ISBN: 978-81-775-
+           NaN                                                                    8367-0
+           NaN      4. Introduction to Artificial Intelligence by Rajendra Akerkar, PHI,
+           NaN                                                  ISBN : 978-81-203-2864-8
+           NaN 3. Artificial Intelligence -Structures and Strategies for Complex Problem
+           NaN          Solving (4th Edition 2004) by George F. Luger, Pearson Education
+           NaN       4. Foundation of Artificial Intelligence and Expert Systems by V.S.
+           NaN             Janakiraman, K. Sarukesi, P. Gopalakrishnan, Mc Millan (2002)
+           NaN      6. Artificial Intelligence: The Basics (Paperback) by Kevin Warwick,
+           NaN                                                     Publisher: Routledge;
+           NaN    7. The Essence of Artificial Intelligence (Paperback) by Alison Cawsey
+           NaN                                                  Publisher: Prentice Hall
+           NaN         8.“Artificial Intelligence” -By Elaine Rich And Kevin Knight (2nd
+           NaN                                                 Edition) Tata Mcgraw Hill
+           NaN               9.INTERNET OF THINGS by Sandeep Vishwakarma, Kiran Gurbani,
+           NaN                       Nitesh Shukla Publisher : Himalaya Publishing House
+           NaN                  10. IoT & Applications I.A. Dhotre Technical Publication
+           NaN          11.Designing the Internet of Things Adrian McEwen and Cassimally
+           NaN                                                                     Wiley
+           NaN      12.The Internet of Things Connection objects to web Edited by Hakima
+           NaN                                                             Chauchi Wiley
+           NaN             13.Introduction to Embedded System -By Shibu K V , McGrawHill
+           NaN    14. Getting Started with Internet of Things –By Cuno Pfister, O’Reilly
+           NaN        15. Learning Internet of Things-By Peter Waher , Packt Publication
+           NaN       16. Internet of Things : A Hands on Approach – By Arshdip Bahga and"
+10,table,"       Unnamed: 0                                                            Vijay Madisetti
+              NaN     17. ""The Internet of Things: Enabling Technologies, Platforms, and Use
+              NaN                    Cases"", by Pethuru Raj and Anupama C. Raman (CRC Press)
+         Teaching                     Discussion, Independent Study, Seminars and Assignment
+      Methodology                                                                        NaN
+Evaluation Method 30% Internal assessment is based on class attendance, participation, class
+              NaN                 test, quiz, assignment, seminar, internal examination etc.
+              NaN                70% assessment is based on semester end written examination"
+11,table,"           Course Code                                                              Unnamed: 0                                                                Unnamed: 1
+          Course Title                                                                     NaN                                           Computer Graphics and animation
+                Credit                                                                     NaN                                                                         2
+     Teaching per Week                                                                     NaN                                                                     2 Hrs
+     Minimum weeks per                                                                     NaN        15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                     NaN                                                                       NaN
+Last Review / Revision                                                                     NaN                                                                         -
+     Purpose of Course                                                                     NaN To train the students to acquire skills in generating marketable computer
+                   NaN                                                                     NaN                                           graphics and animated pictures,
+      Course Objective                                                                             To understand the concept of computer graphics and Skills in Graphic
+                   NaN                                                                     NaN                                                                 Designing
+                   NaN                                                                                                          To understand the animation techniques.
+         Pre-requisite                                                                     NaN                                                                      ----
+       Course Out come   Students are able to understand the concept of graphics and animation                                                                       NaN
+                   NaN               effect and image manipulation after completion of course.                                                                       NaN
+   Course Description:     Computer animation is the art of creating moving images via the use                                                                       NaN
+                   NaN      of computers. It is a subfield of computer graphics and animation.                                                                       NaN
+                   NaN     Increasingly it is created by means of 3D computer graphics, though                                                                       NaN
+                   NaN 2D computer graphics are still widely used for low bandwidth and faster                                                                       NaN
+                   NaN                                              real-time rendering needs.                                                                       NaN
+        Course Content                                                                     NaN                                                                       NaN
+                   NaN                               Unit 1: Introduction to computer graphics                                                                       NaN
+                   NaN                                        1.1.Definition computer graphics                                                                       NaN
+                   NaN                                              1.2.Pixel and Frame Buffer                                                                       NaN
+                   NaN                                      1.3.Raster and Random Scan display                                                                       NaN
+                   NaN                                   1.4.Applications of Computer Graphics                                                                       NaN
+                   NaN                                  1.5.Aliasing and anti aliasing methods                                                                       NaN
+                   NaN                                               Unit 2: 2D transformation                                                                       NaN
+                   NaN                                        2.1 2-Dimensional transformation                                                                       NaN
+                   NaN                  2.2. Translation, Rotation, Scaling, Reflection, Shear                                                                       NaN
+                   NaN                 2.3. Matrix representation and Homogeneous Coordinates.                                                                       NaN
+                   NaN                                           2.4. Composite transformation                                                                       NaN
+                   NaN                                                      Unit 3: 2D viewing                                                                       NaN
+                   NaN                                3.1 Introduction to window and view port                                                                       NaN
+                   NaN                                                    3.2 Viewing pipeline                                                                       NaN
+                   NaN                                  3.3 Viewing coordinate reference frame                                                                       NaN
+                   NaN                       3.4 Window to view port coordinate transformation                                                                       NaN
+                   NaN                                                 3.5 Clipping operations                                                                       NaN
+                   NaN                                                     Unit 4: 3D Concepts                                                                       NaN
+                   NaN                                   4.1 Three dimensional display methods                                                                       NaN
+                   NaN                                                                     NaN        4.1.1 Parallel and perspective projections, Depth Queuing ,Visible
+                   NaN                                                                     NaN         line and surface identification ,Surface rendering, Exploaded and
+                   NaN                                                                     NaN                     cutways views, three dimension and stereoscopic views"
+12,table,"          Unnamed: 0                                         Unit 5: Visible surface Detections
+                 NaN                                                   5.1. Back face detection
+                 NaN                                                   5.2. Depth buffer method
+                 NaN                                                       5.3.Scan-line method
+                 NaN                                                     Unit 6: Visual Realism
+                 NaN               6.1. Light Sources: types of light sources, effects of light
+                 NaN                          6.2. Illumination, Shading, Transparency, Shadow,
+                 NaN                                     6.3. Colors: model and changes setting
+                 NaN                                                          Unit 7: Animation
+                 NaN                                7.1. Basic Principles of computer animation
+                 NaN                                                    7.2. Types of animation
+                 NaN    7.3. Animation methods -Principles, keyframe, Frame by frame animation,
+                 NaN         masks, motion, dynamic, behavior, Working in the timeline, Working
+                 NaN                     with symbols, Shape tween, staggering animation effect
+                 NaN                                                              7.4. Morphing
+                 NaN                                         7.5. Animation tools for 2D and 3D
+                 NaN                             7.6. Graphics File formats for 2D and 3D image
+                 NaN                                           Unit 8: Digital Image Processing
+                 NaN                                                8.1. Defining Digital Image
+                 NaN                                     8.2. Step for digital image processing
+                 NaN                          8.3. basic concept of image processing techniques
+    Reference books:              1. Computer Graphics – By- Donald D. Hearn & M. Pauline Baker
+                 NaN                                                        PEARSON PUBLICATION
+                 NaN              2. Computer Graphics – By Zhigang Xiang and Roy Plasock, Tata
+                 NaN                                                                McGraw Hill
+                 NaN                                     3. Computer Graphics by Dr. A.A. Desai
+                 NaN                4. Computer Graphics By- Rajesh Maurya – Wiley Publications
+Teaching Methodology                     Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 30% Internal assessment is based on class attendance, participation, class
+                 NaN                 test, quiz, assignment, seminar, internal examination etc.
+                 NaN                70% assessment is based on semester end written examination"
+13,table,"           Course Code                                                           Unnamed: 0
+          Course Title                                               DSE-5: Cloud Computing
+                Credit                                                                    2
+     Teaching per Week                                                                2 Hrs
+     Minimum weeks per   15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                  NaN
+Last Review / Revision                                                                  ---
+     Purpose of Course The course gives students an idea about Cloud Computing fundamentals
+                   NaN                                             and Cloud Based Systems.
+      Course Objective    To provide comprehensive knowledge of cloud computing and aspects
+                   NaN                                                       related to it.
+         Pre-requisite         Basic understanding of operating system and computer network
+       Course Out come After completion of this course, the student will gain comprehensive
+                   NaN           knowledge of Cloud based systems and aspects related to it
+        Course Content                               Unit 1 Introduction to Cloud Computing
+                   NaN                              1.1 Overview, Roots of Cloud Computing,
+                   NaN                   1.2 Benefits and Disadvantages of Cloud Computing,
+                   NaN                                 1.3 Cloud Infrastructure Management,
+                   NaN                                             1.4 Challenges and Risks
+                   NaN                                            Unit 2 Cloud Fundamentals
+                   NaN                          2.1 Cloud characteristics-On Demand Service
+                   NaN                                       2.2 Ubiquitous Network Access,
+                   NaN         2.3 Location Independent Resource Pooling, Rapid Elasticity.
+                   NaN                  2.4 Cloud Types-Public, Private, Hybrid, Community,
+                   NaN                                    Shared Private, Dedicated Private
+                   NaN                                    Unit 3 Cloud Computing Essentials
+                   NaN                          3.1 Cloud Computing Architectural Framework
+                   NaN                                          3.2 Cloud Deployment Models
+                   NaN                                3.3 Virtualization in Cloud Computing
+                   NaN                               3.4 Parallelization in Cloud Computing
+                   NaN                                     3.5 Security for Cloud Computing
+                   NaN                                                Unit 4 Virtualization
+                   NaN                     4.1 Introduction to Virtualization Technologies,
+                   NaN                               4.2 Load Balancing and Virtualization,
+                   NaN                                      4.3 Understanding Hyper visors,
+                   NaN                                          4.4 Types of Virtualization
+                   NaN                                          4.4.1 Server virtualization
+                   NaN                                         4.4.2 Storage virtualization
+                   NaN                                         4.4.3 Network virtualization"
+14,table,"    Unnamed: 0                                             Unit 5 Cloud Service Models
+           NaN                                5.1 Exploring the Cloud Computing Stack,
+           NaN                                         5.2 Infrastructure as a Service
+           NaN                                        5.3 Platform as a Service (PaaS)
+           NaN                                                             5.3.1 Azure
+           NaN                                                      5.3.2 Goole AppEng
+           NaN                                                            5.3.3 Hadoop
+           NaN                                                        5.3.4 SalesForce
+           NaN         5.4 Software as a Service (SaaS)-Characteristics, Open SaaS and
+           NaN                                                                     SOA
+           NaN                                                    5.4.1 Cloud services
+           NaN                                                        5.4.2 Web portal
+           NaN                                                           5.4.3. Web OS
+           NaN                                       Unit 6 Other Cloud Service Models
+           NaN                                        6.1 Identity as a Service(IDaaS)
+           NaN                                    6.2 Network Identity Service Classes
+           NaN           6.3 IDaaS Interoperability-user authentication, Authorization
+           NaN                                                        MarkUp Languages
+           NaN                                       6.4 Compliance as a Service(CaaS)
+           NaN                                        Unit 7 Cloud Resource Management
+           NaN                                    7.1 Inter Cloud Resource Management,
+           NaN               7.2 Resource Provisioning and Platform Deployment, Global
+           NaN                                            Exchange of Cloud Resources.
+           NaN               7.3 Administrating the Clouds, Cloud Management Products,
+           NaN                                     Emerging Cloud Management Standards
+           NaN                                                   Unit 8 Cloud Security
+           NaN             8.1 Security Overview, Cloud Security Challenges and Risks,
+           NaN                                    8.2 Software-as-a- Service Security,
+           NaN                8.3 Cloud computing security architecture: Architectural
+           NaN             Considerations, General Issues Securing the Cloud, Securing
+           NaN                                                                    Data
+Reference Book    1.Cloud Computing: Principles and Paradigms - R. Buyya et al - Wiley
+           NaN                                                                    2010
+           NaN 2.Cloud Computing : Principles Systems and Application - L Gillam et al
+           NaN                                                         - Springer 2010
+           NaN                3.Cloud Computing Bible - Sosinsky - Wiley - India, 2011
+           NaN     4.Cloud Computing Second Edition Dr. Kumar Saurabh - Wiley - India,
+           NaN                                                                    2012
+           NaN      5.Cloud Computing - Insight into New Era Infrastructure - Dr Kumar
+           NaN                                              Saurabh - Wiley India 2012"
+15,table,"Teaching Methodology                     Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 30% Internal assessment is based on class attendance, participation, class
+                 NaN                 test, quiz, assignment, seminar, internal examination etc.
+                 NaN                70% assessment is based on semester end written examination"
+16,table,"      Course Code                                                                                                         Unnamed: 0
+     Course Title                                                                                                        Practical-5
+           Credit                                                                                                                 10
+Teaching per Week                                                                                                           12 Hours
+Minimum weeks per                                                 15 (Including Class work, examination, preparation, holidays etc.)
+         Semester                                                                                                                NaN
+    Last Review /                                                                                                                ---
+         Revision                                                                                                                NaN
+Purpose of Course The purpose of course is to make students aware with practical implementationof concept learnt in theory subjects.
+ Course Objective                        To provide Fundamental knowledge of practical implementation based onDSC9, DSC10 and SEC -3
+    Pre-requisite                                                                                                                ---
+  Course Out come                        Student should be able to demonstrate skills mentioned in DSC9, DSC10 andSEC-3 practically.
+   Course Content                                                                  As per theory subject content of relative subject
+   Reference Book                                                                                                                NaN
+         Teaching                                                             Discussion, Independent Study, Seminars and Assignment
+      Methodology                                                                                                                NaN
+              NaN                                   70% Internal assessment is based on class attendance, participation, class test,
+Evaluation Method                                                               quiz, assignment, seminar, internal examination etc.
+              NaN                                                        30% assessment is based on semester end written examination"

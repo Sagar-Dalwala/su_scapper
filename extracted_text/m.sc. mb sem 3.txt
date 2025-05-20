@@ -1,0 +1,840 @@
+---- PDF METADATA ----
+Author: admin
+CreationDate: D:20220426142707+08'57'
+Creator: WPS Writer
+ModDate: D:20220426142707+08'57'
+SourceModified: D:20220426142707+08'57'
+Trapped: /False
+---- END METADATA ----
+
+Total Pages: 25
+
+==== PAGE 1 ====
+FacultyofScience
+SHREERAMKRISHNAINSTITUTEOFCOMPUTER
+EDUCATIONANDAPPLIEDSCIENCES,SURAT
+M.Sc.Microbiology
+Syllabus
+(Effectivefrom2021)
+M.T.BCollegeCampus,B/hP.T.ScienceCollege,Opp.Chowpati,
+Athwalines,Surat-395001Gujarat,India
+Contact:7228018498,728018499.Email:info@srki.ac.in
+
+==== PAGE 2 ====
+A.AboutM.Sc.MicrobiologyProgramme
+TheM.Sc.MicrobiologyprogrammeofferedbySarvajanikUniversityisoftwoyears’
+durationandisdividedintofoursemesters.Thevariouscoursesoftheprogrammeare
+designedtoincludeclassroomteachingandlectures,laboratorywork,projectwork,viva,
+seminars,assignmentsandfieldtrips.Threecategoriesofcoursesarebeingofferedinthis
+programme:Corecourses,SkillenhancementcoursesandElectivecourse.Aseparate
+research-basedcoursethatleadstoadissertationisalsooneoftheCoreCoursesofferinthe
+finalsemester.Thestudentpresentshis/herresearchorallyattheendofthesemester,and
+thisiscoupledtoaviva-voce.Thisnotonlyequipsthestudentforacareerinresearch/
+industry,butalsofostersself-confidenceandself-relianceinthestudentashe/shelearnsto
+workandthinkindependently.Thirtypercentofthetotalmarksforeachcoursewillbe
+awardedthroughInternalAssessment.Particularemphasisislaidonthepracticalaspectsof
+thefield.Studentsaretaughthowtoplanexperiments,performthemcarefully,analyzethe
+dataaccurately,andpresenttheresultsboth,qualitativelyandquantitatively.
+B.ProgrammeObjective
+Throughthestimulusofscholarlyprogressionandintellectualdevelopmentthe
+programmeaimstoequipstudentswithexcellenceineducationandskills,thus
+enablingthestudenttopursueacareerofhis/herchoice.
+Bycultivatingtalentsandpromotingallroundpersonalitydevelopmentthrough
+multi-dimensionaleducationaspiritofself-confidenceandself-reliancewillbe
+infusedinthestudent.
+Thestudentwillbeinstilledwithvaluesofprofessionalethicsandbemadereadyto
+contributetosocietyasresponsibleindividuals.
+C.Eligibility
+AcandidatemusthavepassedBachelor’sdegreeinMicrobiology/Medical
+Technology/Biotechnology/EnvironmentalScience/IndustrialMicrobiology
+/Bioscience/GeneralScience/Life-Science/Botany/PlantScience/Zoology/Animal
+Science/Biology/Agriculture/Fisheries/Forestry/others.
+Thecandidatewhohaspassedequivalentexamfromothersubjectsorboardsneedto
+availeligibilitycertificateforthisprogrammefromtheBoardofEquivalence(BoE)
+oftheSarvajanikUniversity.M.Sc.Microbiology
+No. Contents
+AAboutM.Sc.MicrobiologyProgramme
+BProgrammeObjective
+CEligibility
+DCourseStructure
+EEvaluationScheme
+FSyllabus
+
+==== PAGE 3 ====
+D.M.Sc.MicrobiologyCourseStructure
+Semester DSE(Anyonetobeopt)
+1 1.FoodChemistry
+2.EnergyandEnvironment
+3.Laboratorysafetyandmanagement
+4.Bioethics&Biosafety
+2 1.ForensicChemistry&Toxicology
+2.Bioinformatics&Other“OMICS”
+3.IPR
+4.Biostatistics.
+3 1.ForensicbiologyandDNAtyping
+2.ResearchMethodology
+3.Bioentrepreneurship
+4.ApplicationofGreenChemistrySemCourse
+TypeCourse
+CodePaperTitle Hours/WeekCredi
+tThPr
+1Core
+courseDSC-1PrinciplesofMicrobiology&Microbial
+Diversity4 4 4+2
+DSC-2Agriculture&EnvironmentalMicrobiology 4 4 4+2
+SEC SEC-1Molecularbiology&GeneticEngineering 4 4 4+2
+ElectiveDSE-1 4 4 4+2
+2Core
+courseDSC-3MicrobialPhysiology&Metabolism 4 4 4+2
+DSC-4Immunologyandmolecularpathogenesis 4 4 4+2
+SEC SEC-2Instrumentationandanalyticaltechniques 4 4 4+2
+ElectiveDSE-2 4 4 4+2
+3Core
+courseDSC-5EconomicMicrobiology 4 4 4+2
+DSC-6EnzymeTechnology&ProteinEngineering 4 4 4+2
+SEC SEC-3PharmaceuticalMicrobiology&Drug
+Development4 4 4+2
+ElectiveDSE-3 4 4 4+2
+4Core
+courseDSC-7Dissertation
+3216
+DSC-8SeminarPresentation 4
+DSC-9Reviewofpublishedresearchpaper/Article 4
+TotalCredit96
+Note:DSC–DisciplineSpecificCore,DSE-–DisciplineSpecificElective,SEC-SkillEnhancementCourse
+
+==== PAGE 4 ====
+E.EvaluationScheme
+M.Sc.Microbiology
+Evaluation Criteria TheoryPracticalDissertationSeminar/
+Reviewof
+published
+research
+paper
+InternalContinuous&
+Comprehensive
+Evaluation(CCE)40 60 140 60
+Attendance 10 10 10 10
+Assignment 20 ---- ---- ----
+InternalPracticalTest
+andViva–Voce/---- 70 ---- ----
+Internalassessment ---- ---- 50 30
+ExternalExternalEvaluation 30 60 100 50
+Total100 200 300 150
+
+==== PAGE 5 ====
+F.Syllabus
+Semester3
+EconomicMicrobiology
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-III Type:DSC-5
+Subject:EconomicMicrobiology
+Credit:4+2 Totallearninghours:60
+Coursedescription:
+Thiscourseintroducestomicrobialsciencestoderiveindustrialproducts.Itinvolves
+manipulationofmicro-organismstoincreaseyieldthateconomicallycompetitivein
+commercialscale.Courseemphasisesoncommercialproductionandapplicationsinclude
+enzymes,antibiotics,hormones,aminoacidsandmanymorenoveleconomicmicrobial
+products
+Studentlearningoutcome:
+Studentswillbeabletoexplaintheproductionofindustrialproductsfrom
+microorganismswithfermentation
+Studentwillbeequippedwiththeknowledgetouseandmanipulatemicrobialsources
+forcommercialproductionofvariousproductsofhumanconsumption
+Studentswilldeveloptheconceptsvariousaminoacids,organicacids,microbial
+polysaccharidesandBiofuel’sproductionmethodsandapplications
+UNIT1:IntroductiontoIndustrialMicrobiology (Duration:07Hrs)
+1.1HistoryofIndustrialMicrobiology
+1.2Majorclassofproductsproducedbymicroorganismsonlargescale
+1.3FermentationProcesses
+1.4Metabolitesofmicroorganisms
+1.5PrimaryandSecondaryMetabolites
+1.6StrainsusedinScreening
+1.7TestSystems.
+UNIT2:MediaandSterilization. (Duration:07Hrs)
+2.1SomepotentialsourcesusedincomponentsIndustrialMedia.
+2.2TheuseofplantwastematerialsinIndustrialMicrobiologyMedia:
+SaccharificationofPolysaccharides.
+2.3MethodsofAchievingSterility.
+2.4AspectsofSterilizationinIndustry.
+
+==== PAGE 6 ====
+UNIT3:Strainimprovement. (Duration:08Hrs)
+3.1Mutation.
+3.2SelectionofMutants.
+3.3Recombination.
+3.4Regulation.
+3.5GeneTechnology.
+3.6UseofGeneticMethods.
+UNIT4:FermenterDesign. (Duration:10Hrs)
+4.1Introduction
+4.2Basicfunctionsofafermenterformicrobialoranimalcellculture.
+4.3Asepticoperationandcontainment.
+4.4Bodyconstruction
+4.5Aerationandagitation.
+4.6Monitoringandcontrolofvariousparameters.
+UNIT5:IndustrialProductionofAminoacidsandOrganicacids(Duration:07Hrs)
+5.1Glutamate
+5.2Lasparticacid
+5.3Lysine
+5.4Citricacid
+5.5AceticAcid
+5.6Itaconicacid
+UNIT6:IndustrialProductionofEnzymesandHealthCareProducts(Duration:08
+Hrs)
+6.1Amylase
+6.2Proteases
+6.3Penicillin
+6.4Erythropoietin
+6.5Ergotalkaloids
+UNIT7:IndustrialSolventandAlcoholicBeverages (Duration:05Hrs)
+7.1Ethanol
+7.2WineandBeer
+7.3Acetone/Butanolfermentation
+UNIT8:FermentedProductofIndustrialImportance (Duration:08Hrs)
+8.1Cheese
+8.2Sauerkraut
+8.3Baker’sYeast
+8.4PHA
+8.5Xanthan
+8.6Dextran
+
+==== PAGE 7 ====
+ReferenceBooks:
+CreugerW.,(2005).Biotechnology:Atextbookofindustrialmicrobiology,3rdEd.,
+Panima,NewDelhi.ISBN:9789385998638.
+Flickinger,M.&Drew,S.(1999)EncyclopediaofBioprocessTechnology,(Volumes
+1-5):ISBN0-471-13822-3.
+OkaforN.,(2007).ModernIndustrialMicrobiologyandBiotechnology,Science
+publishers.ISBN:9781138036147.
+ReedJ(2004),Prescott&Dunn’sIndustrialMicrobiology,4thEd.,CBSPublishers
+Stanbury,P.F.,(2006).PrinciplesofFermentationTechnology,2Ed.,Elsevier
+ScienceLtd.ISBN:9780750645010.
+SyedSajeedAli,(2016).FermentationandIndustrialMicrobiology.ISBN:
+9788192756929.
+Waites,M.J.,etal.,(2001).IndustrialMicrobiology,1STEd.,Blackwellpublishing.
+ISBN:0632053070.
+FurtherReading:
+A.L.Demainetal(1989),NovelMicrobialProductsforMedicineandAgriculture,
+ElsevierScienceLtd.ISBN:978-0444810663.
+AlexanderN.Glazer&HiroshiNikaido(2008),MicrobialBiotechnology,Cambridge
+UniversityPress.ISBN:978-0521729673.
+Patel,A.H.,(2012).IndustrialMicrobiology,2ndEd.Macmillan,India.ISBN:
+9789385750250.
+SivakumaarP.K.,JoeM.M.andSukeshK.,(2010),Anintroductiontoindustrial
+microbiology,1stEd.,S.Chandpublication.ISBN:9788121935197.
+SrivastvaM.L.,(2008),Fermentationtechnology,1stEd.,Narosapub.House.ISBN:
+9788173198533.
+ListofPractical
+1)ScreeningofCitricacid/lacticacid,cellulase,amylaseandprotease
+producingmicroorganisms.
+2)Microbialproductionofpenicillin.
+3)ComparisonofEthanolproductionusingpurecarbohydrateandagroindustrial
+waste.
+4)Productionoffungalamylasebysolidstatefermentationanditspartial
+purification.
+************
+
+==== PAGE 8 ====
+EnzymeTechnologyandProteinEngineering
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-III Type:DSC-6
+Subject:EnzymeTechnologyandProteinEngineering
+Credit:4+2 Totallearninghours:60
+Coursedescription:
+Theobjectiveofthispaperistoprovidedetailedknowledgeoftechniquesusedinenzymeand
+proteinengineering.Understandingbiotechniquesisessentialtostrengthentheknowledgeof
+thecandidatedesiredtoworkinthefieldofenzymeindustry.Thiscourseprovidesbasic
+understandingvariousenzymatictechniquesandrealizethestructure-functionrelationshipsin
+proteins.
+Studentlearningoutcome:Aftersuccessfulcompletionofthecoursestudentwillbeableto
+understand
+Detailedconceptsofenzymologyandenzymetechnologyandaboutproductionand
+synthesisofindustriallyimportantbiologicalsubstance.
+Commercialproductionofenzymes,enzymeengineering,designandconstructionof
+novelenzymesanditsapplicationinvariousfield.
+Analyzethepurityandstabilityofproteinsandexplainhowtostoretheminthebest
+way.
+EvaluateandassesscurrentandevolvingconceptsinEnzymetechnologyandprotein
+engineering.
+Toknowtheroleoffunctionalproteinsinvariousfieldofstudy.
+Topracticethelatestapplicationofproteinscienceintheirresearch.
+Unit-1:IntroductiontoEnzymeTechnologyandBasicsofEnzymes(Duration:08Hrs)
+1.1IntroductiontoEnzymeTechnology,GoalsandPotentialofBiotechnological
+ProductionProcesses
+1.2HistoryofEnzymeTechnology,BiotechnologicalProcesses,Advantagesand
+limitationofEnzyme-BasedProductionProcesses,NeworImprovedEnzyme
+Processes
+1.3EnzymeClassification,synthesis,structure,functionandmechanisms,Specificity,
+equilibrium-controlledreactions,KineticsofEnzyme-CatalyzedReactions
+1.4EndPointsofEnzymeProcesses,Enzyme-CatalyzedProcesses,Stability,
+Denaturation,andRenaturationofEnzymes,BetterEnzymesbyNaturalEvolution
+Unit-2:EnzymeDiscovery (Duration:07Hrs)
+2.1EnzymeDiscoveryandStrategiesforProteinEngineering
+2.2ComputationalDesignofEnzymes
+2.3CellsDesignedbyMetabolicEngineeringasBiocatalystsforMultienzyme
+Biotransformations
+
+==== PAGE 9 ====
+2.4DrivingforcesforbiocatalystdevelopmentandNovelmicrobialenzymes
+Unit-3:IndustrialEnzymesinFoodApplications (Duration:07Hrs)
+BiocatalystsinBakingprocess
+2.2EnzymesinFruitJuiceProductionandFruitProcessing
+2.3BiocatalystsinBrewingindustries
+2.4ApplicationofenzymesinDairysector
+Unit-4:IndustrialEnzymesinNon-foodApplications (Duration:08Hrs)
+4.1ApplicationofenzymesinHouseholdDetergentsandAutomaticDishwashing
+4.2BiocatalystsinGrainWet-Milling
+4.3RoleofEnzymesinAnimalFeeds
+4.4EnzymesinTextileProduction
+Unit-5:BasicsofProtein (Duration:07Hrs)
+5.1Proteinstructurelevel,Classification,physico-chemicalandmolecularpropertiesof
+aminoacidsandprotein
+5.2Isolation,extractionandpurificationofprotein
+5.3Structuredeterminationandmethodsofstudyingproteinstructure
+5.4ProteinfoldingandProteinstability
+Unit-6:SyntheticProtein (Duration:08Hrs)
+6.1ExpandingtheSyntheticProteinUniversebyGuidedEvolutionaryConcepts:Direct
+evolution,AsexualandSexualMethods
+6.2Random,FocusedandSitesaturatedMutagenesis
+6.3Invitroandinvivohomologousandnon-homologousrecombination
+6.4RationalDesigningofNovelProteinsthroughComputationalApproaches
+Unit-7:GeneratingFancyProteinBasket (Duration:08Hrs)
+7.1DeNovoDesigningofProteins,ExamplesofDeNovoDesignedProteinsand
+NegativeDesignMethods
+7.2Combinatorial/Semi-rationalApproachforProteinDesigning,GlimpseonProteins
+EngineeredbydeNovo/CombinatorialApproaches.
+7.3ApplicationsofProteinEngineeringinvariousfields
+7.4Patentingofprotein
+Unit-8:AppliedAspectofProteinEngineering (Duration:07Hrs)
+8.1Protein-proteinInteractionandPhageDisplaySystems
+8.2CellSurfaceDisplaySystemsandCell-FreeDisplaySystemsforProtein
+Engineering
+8.3AntibodyEngineering
+8.4ProteinEngineeringinVaccineDevelopmentandProteinEngineeringFor
+Biosensors
+
+==== PAGE 10 ====
+ReferenceBook:
+KlausBuchholz,VolkerKascheandUweT.Bornscheuer(2012).Biocatalystsand
+enzymetechnology.By.Wiley‐Blackwell,ISBN:978-3-527-32989-2.
+Aehle,W.(Ed.).(2007).Enzymesinindustry:productionandapplications.John
+Wiley&Sons.ISBN:978-3-527-31689-2
+WilliamH.Scouten,NewBiocatalysts:EssentialToolsforaSustainable21stCentury
+ChemicalIndustry,GenePetersen.
+Alberghina,L.(Ed.).(2005).Proteinengineeringforindustrialbiotechnology.
+harwoodacademicpublishers.ISBN:0-203-34342-5
+Park,S.J.,&Cochran,J.R.(Eds.).(2010).Proteinengineeringanddesign(Vol.75).
+CRCpress.ISBN:978-1-4200-7658-5
+Poluri,K.M.,&Gulati,K.(2017).Proteinengineeringtechniques:Gatewaysto
+syntheticproteinuniverse.Springer.ISBN:978-981-10-2732-1
+M.Ramya&P.Ponmurugan,(2015).ProteinEngineering.NarosaPublishingHouse
+Pvt.Ltd.ISBN-978-81-8487-424-2
+FurtherReading:
+Brahmachari,G.(2016).Biotechnologyofmicrobialenzymes:production,
+biocatalysisandIndustrialapplications.AcademicPress.ISBN:9780128037461
+Ray,R.C.,&Rosell,C.M.(Eds.).(2017).Microbialenzymetechnologyinfood
+applications.CRCPress.ISBN:9781315351414
+Bornscheuer,U.T.,&Hohne,M.(2018).ProteinEngineering.Springer.ISBN978-1-
+4939-7366-8
+Rosenberg,A.,&Demeule,B.(Eds.).(2015).Biobetters:Proteinengineeringto
+approachthecurative(Vol.19).Springer.ISBN978-1-4939-2543-8
+Lutz,S.,&Bornscheuer,U.T.(Eds.).(2009).Proteinengineeringhandbook(Vol.1).
+Weinheim:Wiley-VCH.ISBN:978-3-527-31850-6
+Arndt,K.M.,&Müller,K.M.(Eds.).(2007).Proteinengineeringprotocols(Vol.11,
+p.312).Totowa,NJ:HumanaPress.eISBN1-59745-187-8
+ListofPractical
+1)DeterminationofcellulaseactivityonCMCassubstrate.
+2)DeterminationofKmandVmaxofamylase/Cellulaseenzyme.
+3)Immobilizationofamylase/cellulaseanddetermineitsactivityyield.
+************
+
+==== PAGE 11 ====
+PharmaceuticalMicrobiology&DrugDevelopment
+Nameoffaculty:Sciences Department:Microbiology
+Program:M.Sc.MicrobiologySem-III Type:SEC-3
+Subject:PharmaceuticalMicrobiology&DrugDevelopment
+Credit:4+2 Totallearninghours:60
+Coursedescription:
+Thiscoursegivesinsightofqualitycontrol&goodmanufacturingpracticeinpharmaceutical
+industries.Itincludesqualitycontrol&qualityassuranceinsterileproductpreparation.Also
+highlightthefundamentalsofdrugdiscoveryanddevelopmentprocess.
+Studentlearningoutcome:
+StudentswillintroducewithcGMPandinternationalregulation
+Studentlearnkeyaspectsofmicrobialspoilage&preservationofpharmaceutical
+products
+Studentswillacquaintwiththemethodologiesofmicrobiologicalassay.
+Studentswillbeintroducingwiththefundamentalsofdrugdiscoveryanddevelopment
+process.
+Unit-1:History&TheDevelopmentofPharmaceuticalProcess(Duration:07Hrs)
+1.1Introductiontopharmaceuticals,biologicsandbiopharmaceuticals
+1.2Historyofpharmaceuticalindustries
+1.3Manufactureofsterileproduct:Designofpremises&Asepticareas
+1.4Goodmanufacturingpractice
+1.5FD&CAct,FederalRegister&CodeofFederalRegulation(CFR)
+Unit-2:Qualitycontrol&cGMP (Duration:07Hrs)
+2.1Definition:Quality,Manufacture,Qualityassurance(QA),Goodmanufacturing
+practice(GMP),Qualitycontrol(QC),In-processcontrol,Validation.
+2.2WhatiscGMP
+2.3ImportanceofcGMP
+2.4KeyaspectsofGMPcompliance
+2.5TenrulesofGMP
+2.6Riskmanagement
+2.7Theroleanddevelopmentofpharmacopoeias
+2.8IndianGMPregulation
+Unit-3:Microbialspoilage&PreservationofPharmaceuticalProducts(Duration:08
+Hrs)
+3.1Pharmaceuticalingredientssusceptibletomicrobialattack
+3.2Factorsaffectingmicrobialspoilageofpharmaceuticalproducts
+
+==== PAGE 12 ====
+3.3Preservationofpharmaceuticalproductbyantimicrobialagents
+3.4Factorsaffectingtheavailabilityofpreservatives
+3.5Preservativeefficacytesting
+Unit-4:Qualitycontrolandqualityassuranceofsterileproducts(Duration:08Hrs)
+4.1Typesofsterileproducts
+4.2Pharmacopeiaandmicrobiologicaltests
+4.3Microbiologicalexaminationofnonsterileproducts
+4.4Testforspecifiedorganisms
+4.5Specificationlimits
+4.6Bioburdendetermination
+Unit-5:Sterilization&sterilityassurance (Duration:08Hrs)
+5.1Sterility
+5.2Sterilityassuranceandsterilityassurancelevel
+5.3Sterilitytesting
+5.4Endotoxin&pyrogentesting
+5.5Parametricrelease
+5.6Factorsaffectingsterilizationeffectiveness
+5.7Validationandin-processmonitoringofsterilizationprocedures
+Unit-6:Microbiologicalassays (Duration:08Hrs)
+6.1Principle
+6.2Methodologies
+6.3Typesofmicrobiologicalassays
+6.4Assayofantibiotics,vitamins&aminoacids
+Unit-7:DrugDiscoveryProcess (Duration:07Hrs)
+7.1Drugdiscoveryprocess–Generalprinciples
+7.2Overviewofdrugdevelopmentprocess
+7.3Theimpactofgenomicsandrelatedtechnologiesupondrugdiscovery
+7.4Rationaldrugdesign
+7.5Combinatorialapproachtodrugdiscovery
+Unit-8:DrugDevelopmentProcess (Duration:07Hrs)
+8.1Pre-clinicaltrials
+8.2Clinicaltrials
+8.3Roleofregulatoryauthorities
+8.4RegulatoryrequirementsforclinicaltrialsinIndia
+
+==== PAGE 13 ====
+ReferenceBook:
+Sandle,T.(2015).Pharmaceuticalmicrobiology:essentialsforqualityassuranceand
+qualitycontrol.WoodheadPublishing.ISBNNo.9780081000229
+AshutoshKar,(2008)Pharmaceuticalmicrobiology,NewAgeInternational(P)Ltd.,
+Publishers,NewDelhi.ISBNNo9788122422009
+HugoandRussells,(2007),PharmaceuticalMicrobiology8thEdi.,Blackwell
+Publishing.ISBNNo.978-9332541306
+WalshG.,(2007),PharmaceurcalBiotechnolog-ConceptsandApplications,Wiley.
+(ISBN:978-0-470-01244-4)
+RegulationsAndQualitypdfPg.No126
+CurrentGoodManufacturingPractice(CGMP)Regulations.Retrievedfrom
+https://www.fda.gov/drugs/pharmaceutical-quality-resources/current-good-
+manufacturing-practice-cgmp-regulations
+
+FurtherReading:
+Gad,S.C.,(2007),HandbookofPharmaceuticalBiotechnology.Wiley-Interscience,
+NewJersey,(ISBN:978-0-470-25958-0)
+Denyer,S.P.andBaird,R.M.,(2008),Guidetomicrobiologicalcontrolin
+pharmaceuticalsandmedicaldevices.2ndEdition,CRCPress,BocaRaton,(ISBN:
+9781444330632)
+ListofPractical
+1)Sterilitytestingofpharmaceuticalproductsbydirectinoculation&membrane
+filtrationmethodsasperIndianPharmacopoeia(IP).
+2)Microbiologicalassayofaminoacid/vitamin.
+3)Performpreservativeefficacytest.
+************
+
+==== PAGE 14 ====
+ForensicBiologyandDNATyping
+Nameoffaculty:Science Department:Biotechnology
+Program:M.Sc.Sem-III Type:DSE-3
+Subject:ForensicBiologyandDNATyping
+Credit:04 Totallearninghours:60
+Coursedescription:
+ThecourseprovidesthebasicknowledgeaboutForensicScienceandits
+applications.Specifically,thiscoursecoversbiologicalandmolecularaspects
+andinformationusedforforensicstudiesandtosolvethecrimes.The
+techniquesusedforidentificationandcharacterizationofculpritsorvictims
+throughdiversebiologicalevidencesareincludedinthiscourse.
+Studentlearningoutcome:
+Oncompletionofcoursestudentswillbeableto:
+●Learnthebasicsofforensicbiology.
+●Understandthecollection,identificationandapplicationsofvariousbiological
+evidenceforsolvingcrimes.
+●LearnbasicbiologyofDNAanditsprinciples.
+●ApplythetechniquesforDNAtypingforforensics.
+Unit-1:BasicsofForensics:(4h)
+1.1.IntroductiontoForensicsanditsbranches
+1.2.Forensicbiology:AsubdisciplineofForensics
+1.3.HistoryofForensicBiology
+1.4.LaboratoryServices:Forensics
+Unit-2:BiologicalSourcesasForensicIndicators:(8h)
+2.1.TheDecayprocessofBiologicalSources
+2.2.Bodyfluidsandwasteproducts
+2.2.1.BloodandCells;BloodTyping(bloodstainpatternanalysis)
+2.2.2.SalivaandSemen
+2.2.3.Faeces,urineandvomitus
+2.3.Hair
+2.4.Bone
+2.5.Wounds
+Unit-3:CrimeSceneInvestigationandAnalysisofBiologicalEvidence:(8h)
+
+==== PAGE 15 ====
+3.1.Protectionanddocumentationofcrimescene
+3.2.Recognitionandcollectionofbiologicalevidence
+3.3.Packagingandtransportationofbiologicalevidence
+3.4.Identificationandcharacterizationofbiologicalevidence
+3.5.Crimescenereconstructionandreportingresults
+Unit-4:OrganismsinForensics:(9h)
+4.1.Microbes(Bacteria,Viruses,ProtistAndFungi)
+4.2.Plants
+4.2.1.Woodandillegaltradeinprotectedplants
+4.2.2.Pollenandspores
+4.2.3.Fruit,seedsandleaves
+4.2.4.Secondarymetabolitesasdrugsandpoison
+4.3.Invertebrates(forensicindicatorsandforensicinformationobtained-calculating
+deathtime)
+4.4.Vertebrates
+4.5.Collectionofplantandanimalmaterialforforensicstudies
+Unit-5:BasicsofDNABiology:(6h)
+5.1.BasicDNAprinciplesandstructureofDNA
+5.2.Chromosome,genes
+5.3.DNAPolymorphisms
+5.4.DNAMarkers
+5.5.Designatingchromosomallocations
+Unit-6:DNAtyping:(8h)
+6.1.IntroductiontoDNAanalysis
+6.2.HistoricalmethodsforDNAtyping
+6.3.SourcesforDNA
+6.4.Sampling,collection,storageandtransportationofDNAevidence
+6.5.DealingwithDegradedDNA,LowcopyNumberDNAandMixtureofDNA
+samples
+Unit-7:TechniquesforDNAtyping:(10h)
+7.1.ExtractionofDNA
+7.2.QuantitationandanalysisofDNAevidence
+7.3.AmplificationofDNA
+7.4.SeparationanddetectionofDNA
+7.5.STRmarkersandgenotyping(generalSTRandY-chromosome)
+7.6.SNPsandotherpolymorphisms
+7.7.VNTRsprofiling
+Unit-8:ApplicationsofDNATypinginForensics:(7h)
+8.1.Sexchromosomehaplotypingandgenderidentification
+8.2.MitochondrialDNAprofiling(TzarNicholasIIcase)
+
+==== PAGE 16 ====
+8.3.Parentageidentification
+8.4.Disastervictimidentification
+8.5.WildlifeCrimeandForensics
+References:
+●LiR.,(2015)ForensicBiology(2ndEdition),CRCPressISBN:978-1-4398-8972-5
+●ButlerJ.,(2010)FundamentalsofForensicDNATyping,Elsevier
+ISBN:9780123749994
+●GunnA.,(2006)EssentialForensicBiology,JohnWiley&SonsLtd.ISBN:978-
+0470758038
+●JamiesonA.&BaderS.,(2016)AGuidetoForensicDNAProfiling,JohnWiley&
+SonsLtd.ISBN:978-1118751527
+Practical:
+1.Extractionandcharacterization(spectrophotometricandgelelectrophoresis)ofDNA
+fromhair/nailclipping.OrTostudyDNAextractionthroughInstaDNAcard.
+2.DemonstrationofCrimesceneinvestigation.OrToidentifyunknownremains
+throughmitochondrialDNAstudy(Demonstrationandtheoreticalcasestudy)
+3.Tostudydiatomsforidentificationoflocation,timeofyearandhabitatofcrime
+involvingdrowning.
+4.Toidentifybloodstainthroughpresumptivetests(HydrogenPeroxidetest/Kastle-
+MeyerTest).
+ReferenceforPractical:
+1.WalkerP.&WoodE.,(2010)FactsonFileScienceExperimentsForensicScience
+Experiments,InfobasePublishingISBN:978-0816078042
+
+==== PAGE 17 ====
+ResearchMethodology
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-III Type:DSE-3
+Subject:ResearchMethodology
+Credit:04 Totallearninghours:60
+Coursedescription:
+Thelearningobjectiveofthepaperwillenrichthestudentswithbasicprincipleofresearch
+methodologywhichhelpthestudentstolearnessentialstepsinvolvedinresearch
+methodologylikeReviewofliterature,Constructionofhypothesis,Datacollection,Report
+writingandResearchpublication.
+Studentlearningoutcome:
+Studentwilllearnaboutobjectiveandtypesofresearch.
+Studentwillunderstandimportantstepsinvolvedinresearch
+Studentwilllearnaboutwritingaresearchproposalandreportandhowtodocitation
+Unit-1:Introductiontoresearchmethodology (Duration:07Hrs)
+1.1DefinitionofResearch
+1.2Objectivesofresearch
+1.3Typesofresearch.
+1.4Theresearchprocess
+Unit-2:Importantstepsofresearch (Duration:08Hrs)
+3.1Reviewingtheliterature
+3.2Formulatingaresearchproblem
+3.3Identifyingvariables:Whatisvariables?,TypesofvariablesConstructinghypothesis
+3.4Typesofmeasurementscale
+3.5Datacollection
+Unit-3:ConstructingHypothesis (Duration:07Hrs)
+3.1DefinationofHypothesis
+3.2ThefunctionofHypothesis
+3.3Testingofahypothesis
+3.4Characteristicsofhypothesis
+3.5Typesofhypothesis
+Unit-4:Researchdesign (Duration:07Hrs)
+4.1Needforaresearchdesign
+4.2Importantconceptrelatingtoresearchdesign
+
+==== PAGE 18 ====
+4.3Basicprinciplesofexperimentaldesigns
+4.4Importantexperimentaldesigns
+Unit-5:Datacollection&preparationprocess (Duration:08Hrs)
+5.1Collectionofprimarydata
+5.2Collectionofsecondarydata
+5.3Selectionofappropriatemethodfordatacollection
+5.4Datapreparationprocess
+Unit-6:Literaturecitation (Duration:08Hrs)
+5.5Differentsystemsofcitingreferences
+5.6Citationintext
+5.7Placementofreferencesection
+5.8Formatofreferencesection
+Unit-7:ResearchReport–Tables&Figures(Duration:07Hrs)
+6.1Introductionandplacementoftables
+6.2Formatoftable
+6.3Introductionandplacementoffigures
+6.4Numbering&captionoffigures
+6.5Preparationofstatisticaldiagrams,photographs&microphotograps
+Unit-8:WritingaResearchproposal&report (Duration:08Hrs)
+5.1Contentsofresearchproposal
+5.2Componentsofresearchreport
+5.3Researchreport-Formatting&typing
+5.4Plagiarism
+ReferenceBook:
+GurumaniN.(2011)ResearchMethodologyForBiologicalSciences,MJPPublishers,
+Chennai(ISBN:978-81-8094-016-0)
+Kumar,R.(2005).AStep-by-stepGuideforBeginners.SagePublications.(ISBN:
+9788132106487)
+Kothari,C.R.(2004).Researchmethodology:Methodsandtechniques.NewAge
+International.(ISBN:978-81-224-2488-1)
+FurtherReading:
+Singh,Y.K.(2015)FundamentalofResearchMethodologyandStatisticNew
+AgeInternational(P)Ltd.,Publishers-NewDelhi(ISBN:978-81-224-2418-8)
+
+==== PAGE 19 ====
+ListofPractical
+1)Searchingofscientificjournals&resources
+2)Preparationofgraphsandtablestopresentthescientificdata
+3)Onlinegrammarcheckinginscientificwriting
+4)Referencesmanagementbyonlinetools
+5)Plagiarismschecking
+************
+
+==== PAGE 20 ====
+Bioentrepreneurship
+NameofFaculty:Science Department:Biotechnology
+Program:M.Sc.Sem-III Type:DSE-3
+Subject:Bioentrepreneurship
+Credit:04 TotalLearningHours:60
+CourseDescription:ThiscourseintroducesstudentstobasicconceptsofBio-Entrepreneurship.It
+willalsoinculcatetheimportance,need&applicationsoftheseareas.Thiscoursewillpreparethe
+studentsforbecominganentrepreneur.
+StudentLearningOutcome:
+Aftercompletionofthecourse,studentswillbe:
+1)StudentwillbeabletoappreciatetheimportanceofBio-Entrepreneurship
+2)Studentwillbeabletoexposedtodifferentconceptsneededforpracticalexecutionwhenthey
+workasEntrepreneur
+3)Studentwillgainskillsusefulforbecominganentrepreneur
+Unit1IntroductiontoEntrepreneurship(08Hours)
+1.1Definitions&Concepts-Entrepreneur,Entrepreneurship,MSMEs,Enterprise&Startups
+1.2ProcessofEntrepreneurship
+1.3Competencies&Skills/QualitiesofanEntrepreneur
+1.4TypesofEntrepreneurs&Enterprise
+1.5Advantages&DisadvantagesofEntrepreneurship
+Unit2BiotechnologyEntrepreneurship(09Hours)
+2.1ConceptofBiotechnologyEntrepreneurship
+2.2SignificanceoftheBiotechnologyEntrepreneur
+2.3Biotechnologyentrepreneurshipversusgeneralentrepreneurship
+2.4Essentialbiotechnologyentrepreneurialcharacteristics
+2.5Backgroundsofbiotechnologyentrepreneurs
+
+==== PAGE 21 ====
+2.6Fuel,FeedandHealtheworldthroughBiotechnologyEntrepreneurship:Industrialand
+EnvironmentalBiotechnology,FoodandAgriculturalBiotechnology,HealthBiotechnology.
+Unit3FinancialManagement&FinancialStatements(09hours)
+3.1Approachestomanagingcapital&costofcapital
+3.2Workingcapital&cashflowplanning
+3.3FinancialPlanning&Budgets
+3.4Statementshowingfinancialposition
+3.5Measuring&reportingfinancialperformance
+3.6Accountingconventions&concepts
+Unit4ProjectManagement(07hours)
+4.1Project:Concept&Classification
+4.2ProjectFormulation
+4.3ProjectReporting
+4.4ProjectAppraisal
+Unit5EntrepreneurialPlanning&HRM(06hours)
+5.1Basiclegalformsoforganizations
+5.2Companyformation,ownershipstructure&securities
+5.3Humanresource&businessstrategies
+5.4WorkforcePlanning
+5.5HRMFunctions
+Unit6CasestudiesofBiotechEntrepreneurs(06Hours)
+6.1ShanthaBiotech:UnleashingBiotechnologyinIndia.
+6.2AravindEyeHospital:MakingaDentinGlobalBlindness.
+6.3Centocor:DiagnosticsCompanyonMonoclonalAntibodies.
+6.4SugunaPoultryFarmLtd:Hardwork,Nocompromise,Noexcuse.
+6.5TheSuratTransformation:UrbanRenewal.
+
+==== PAGE 22 ====
+Unit7IntroductiontoIPR(06Hours)
+7.1History&DefinitionofIPR
+7.2Forms/TypesofIPR
+7.3TraditionalKnowledge,CommercialExploitation&Protection
+7.4ProtectionofBiotechnologicalInventions
+Unit8IntroductiontoPatent(09Hours)
+8.1Introduction&TypesofPatent
+8.2RequirementsforPatenting
+8.3ProcedureofPatentApplication
+8.4VarioustypesofpatentapplicationsinIndia
+8.5PatentSearch
+References:
+●BioentrepreneurshipDevelopment:AResourceBookPreparedbyBiotech
+ConsortiumIndiaLimited(BCIL),NewDelhiCompiledby:Ms.ShreyaSanghvi
+Malik,DeputyManagerDr.ShivKantShukla,DeputyGeneralManage
+●BiotechnologyEntrepreneurship(2014)CraigShimasaki,AcademicPress,USA.
+●DynamicsofEntrepreneurialDevelopmentandManagement(2005)VasantDesai,
+HimalayaPublishingHouse.
+●MakingBreakthroughInnovationHappen:HowElevenIndiansPulledofthe
+Impossible(2009)PorusMushi,HarperCollinsPublishersIndia.
+●TheCIIEntrepreneurHandBook:PracticalAdviceforStartingaNewBusiness
+(2010)SushilaRavindranath,WestlandLtd.
+●TheGameChangers:20extraordinarysuccessstoriesofEntrepreneurs(2013)Y.
+Modi,R.Kumar&A.Kothari,RandomHousePublishersIndiaPvt.Ltd.
+●Bioethics&BiosafetybyMKSateesh,IKInternationalPub.Ltd
+●BiotechnologyExpandingHorizonsbyBDSingh,KalyaniPub.
+
+==== PAGE 23 ====
+ApplicationofGreenChemistry
+Nameoffaculty:Science Department:Chemistry
+Program:M.Sc.Sem-III Type:DSE-3
+Subject:ApplicationofGreenChemistry
+Credit:04(T)+02(P) Totallearninghours:60
+Coursedescription:Studentsshallbeabletounderstand:
+Afunctionalconceptofthefieldofgreenchemistry.
+The12principlesofgreenchemistry.
+Severalreal-worldexampleswhereorganizationsusedgreenchemistrytoimprovethe
+sustainabilityperformanceoftheirproducts.
+Howthepracticeofgreenchemistryenhancescompetitiveness,innovationandfastertimeto
+market.
+Studentlearningoutcome:
+Attheendofthecoursestudentswillbeableto...understandabout
+GreenChemistryisthedesignofchemicalproductsandprocessesthatreduceoreliminate
+theuseandgenerationofhazardoussubstances.
+Thiscoursewillpresentthefundamentalsofthe12principlesofgreenchemistry,and
+explorerelevantexamplesoftheirpracticaluseincommercialapplications.
+Tounderstandtheenvironmentalconsequencesofchemicalmanufacturingandillustrate
+howthesemaybeminimized.
+Unit1Applicationofgreenchemistryindailylife (06Hours)
+1.1GreenDrycleaningofclothes,GreenBleachingAgents,greendetergents,greendyes
+1.2EcoFriendlypaints&Waxes
+1.3PuttingoutFiresinagreenway
+1.4TurningturbidwaterclearinaGreenway
+1.5Biodegradableplastics
+1.6Computerchips
+1.7Greendrugs
+1.8Solarcell,Solarwaterheater
+1.9GreenbuildingandconstructionMaterials
+1.10Bleachingofpaper
+1.11ReusablewaterBottle
+1.12BioMaterial&Greenfuel
+1.13Antifoulantsandothergreenchemicals
+Unit2ApplicationofgreenchemistryinpharmaceuticalIndustry. (12Hours)
+2.1GreenPharmacy:Principle
+2.2GreenCatalyst&Biocatalystusedinpharmaceuticalindustry.
+2.3GreenSolventsandit’scategories:
+Water,Ionicliquids&SupercriticalCO2,OtherGreenSolvents
+2.4Solventfreeprocesses,
+
+==== PAGE 24 ====
+2.5GreenprocessesinPharmaceuticaldevelopment
+2.6MinimumPharmacyWaste
+2.7Designpharmaceuticalproductsfordegradation
+2.8GreenResourcesforDrugdevelopmentthroughEthanbotany
+2.9EcofriendlyMedicinalplants&Ayurvedicpreparation
+Unit3ApplicationofGreenchemistryinAgriculture. (10Hours)
+3.1Naturalproductinplantprotection:
+3.2DevelopmentofgreenchemicalsfortheAgriculture-MinimumRiskPesticides
+3.3EcofriendlyPesticides&Insecticides
+3.4RenewableFeedstockfromAgriculture(Biomass)
+3.5AnewRoleofNeemTreeingreeningtheEnvironment
+3.6VesicularArbuscularMycorrhizaeingreenchemistry.
+Unit4ApplicationofGreenchemistryinIndustry (12Hours)
+4.1FoodandflavourIndustry
+4.2PaperandpulpIndustry
+4.3PolymerIndustry
+4.4TextileIndustry
+4.5PaintIndustry:WaterBasedpaints,HighsolidsPaints,lowTiO2paint
+4.6TanneryIndustry
+4.7RubberIndustry
+Unit5ApplicationofGreenchemistryforachievingsustainabledevelopment(06Hours)
+5.1Greenchemistryskills
+5.2EnvironmentallyFriendlyTechnologies
+5.3Renewablefeedstockandrawmaterials,
+5.4Oleochemistry,photochemistry,biocatalysis&biotransformation,
+sequestrationofCO2,wastebiomassaschemicalfeedstock,
+5.5Biodegradationofbiomasstobiogas&biodiesels
+Unit6ApplicationofGreenchemistryinanalyticalchemistry (04Hours)
+6.1Greenanalyticalchemistry
+6.2Electrophoresis
+6.3MicronizationinseparationMethods
+6.4Greenersolventforseparation
+Unit7Ecofriendlytechnologiesforcleanworld (06Hours)
+7.1Waste:production,problems&prevention
+7.2EnvironmentallyBenignTechnologiesusinggreenchemistry
+7.3Applicationofnonconventionalenergysources
+7.4Microwaveinduced&Ultrasoundassistedgreensynthesis
+
+==== PAGE 25 ====
+Unit8OtherApplicationsOfGreenChemistry (04Hours)
+8.1Chemicalsfromglucose:
+8.2PolysaccharidePolymers
+8.3Applicationofgreenchemistryinorganicsynthesis
+8.4Greenernanoscience
+References:
+1.V.K.Ahluwalia&M.R.Kidwai:NewTrendsinGreenChemistry,2005,Anamalaya
+Publishers.
+2.P.T.Anastas&J.K.Warner:OxfordGreenChemistry-TheoryandPractical,1988,
+UniversityPress.
+3.A.S.Matlack:IntroductiontoGreenChemistry,2001,MarcelDekker.
+4.M.C.Cann&M.E.Connely:Real-WorldCasesinGreenChemistry,2000,
+AmericanChemicalSociety,Washington.
+5.M.A.Ryan&M.Tinnesand,IntroductiontoGreenChemistry,2002,
+AmericanChemicalSociety,Washington.
+LaboratoryPractical
+1.DeterminationofOrganicCarboninsoilsample.
+2.DeterminationofNitrogeninsoilsample.
+3.DeterminationofPhosphorousinsoilsample.
+4.DeterminationofBODinindustrialwastewatersample.
+5.DeterminationofNOxinAirsample.
+6.DeterminationofSOxinAirsample.
+7.NitrationofSalysilicAcidusingCa(NO3)2andAceticAcid.
+8.BrominationofAcetanilideusingKBrO3and(NH4)2Ce(NO3)6.
+9.PreparationofSchiffBasebyMicrowaveTechnique.
+10.DeterminationofBloodSugarbyFolin-Wumethod.
+11.DeterminationofBloodUreabyDAMmethod.
+12.Determinationof%PurityofBrassAlloy(CopperandZinc).
+References:
+1.StandardMethodsforExaminationofWater&Wastewater,AndrewD.Eaton,
+LenoreS.Clesceri,EugeneW.Rice,ArnoldGreenberg,23rdEdition,2017,
+publishedbyAPHA,AWWA,WEF.
+2.OfficialMethodsofAnalysis,Dr.WilliamHarwitz,Dr.GeorgeWLatimer,
+18thEdition,2005,publishedbyAssociationofOfficiatingAnalyticalChemists
+(AOAC).
+3.AnalyticalTechniquesinAgriculture,BiotechnologyandEnvironmentalEngineering,
+A.Nag,1stEdition,2006,PrenticeHallofIndiaPvt.Ltd.
+4.LaboratoryManualonEngineeringChemistry,S.K.BhasinandSudhaRani,3rd
+Edition,Reprint2011,DhanpatRaiPublishingCompany(P)Ltd.

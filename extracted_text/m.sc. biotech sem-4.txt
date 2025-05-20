@@ -1,0 +1,15 @@
+---- PDF METADATA ----
+Title: IndirectObject(26, 0, 2503451747664)
+Producer: IndirectObject(27, 0, 2503451747664)
+Creator: IndirectObject(28, 0, 2503451747664)
+CreationDate: IndirectObject(29, 0, 2503451747664)
+ModDate: IndirectObject(29, 0, 2503451747664)
+Keywords: IndirectObject(30, 0, 2503451747664)
+AAPL:Keywords: IndirectObject(31, 0, 2503451747664)
+---- END METADATA ----
+
+Total Pages: 1
+
+==== PAGE 1 ====
+SARVAJANIK UNIVERSITY FACULTY OF SCIENCE Shree Ramkrishna Institute of Computer Education & Appled Sciences, Surat  Titles of Papers in Syllabus of M.Sc. Biotechnology  
+ Semester-4 Sr. No. Paper Type Paper Code Title of Paper 1. Discipline Specific Core Course  DSC-7 Project / Dissertation  DSC-8 Seminar 2. Professional Ability Enhancement Compulsory Courses PAECC   Review of Research 3. Skill Enhancement Course SEC 4                           Review of published research paper/Article       

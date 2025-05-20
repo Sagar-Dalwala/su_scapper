@@ -1,0 +1,15 @@
+section,subsection,content
+Course Title,,Thepurposeofthecourseistomakestudentscapableof
+Objectives,,Theobjectiveofthesecourseistoenablestudentstolearnpractical
+Unit,Unit 1,IntroductiontoTheInternetofThings
+Unit,Unit 2,IoTArchitecture
+Unit,Unit 3,IoTApplicationAreas
+Unit,Unit 4,Arduino
+Unit,Unit 5,Raspberrypi
+Unit,Unit 6,Hardwareinterfacing&programminginArduino
+Unit,Unit 8,IoTandSecurityConcerns
+Unit,Unit 7,DataDrivenApplicationUsingRaspberryPi
+References,,"Bookss1.BlockchainfordummiesbyTianaLaurence–Wileypublication
+2.BlockchainfromconcepttoexecutionbyDebajaniMohanty–BPBPublication
+3.BlockchainbyexamplebyByBellajBadr,RichardHorrocks,Xun(Brian)Wu
+4.BlockchainforbeginnersbyKurtDugan"

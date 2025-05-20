@@ -1,0 +1,127 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+1,table,"Semester Unnamed: 0    DSC Unnamed: 1    SEC Unnamed: 2  DSE Unnamed: 3     Practical  Total
+     NaN     No. of Credit     No. of Credit     No. of  NaN     Credit No. of Credit    NaN
+     NaN    Courses    Th.    Courses    Th.     Course  NaN        Th.        Course    NaN
+       1          2      8          1      4          1  NaN          4           1 8   24.0
+       2          2      8          1      4          1  NaN          4           1 8   24.0
+       3          2      8          1      4          1  NaN          4           1 8   24.0
+       4          2     16          1      4          1  NaN          4           1 -   24.0
+   Total         08     40         04     16         04  NaN         16         04 24   96.0"
+2,table," Semester Subject group    Internal Unnamed: 0 Unnamed: 1 Unnamed: 2  External Grand
+      NaN           NaN CCE Attend.    Assign.   Internal      Total       NaN Total
+      NaN           NaN         NaN        NaN      Exam/       Int.       NaN   NaN
+      NaN           NaN         NaN        NaN      Viva-        NaN       NaN   NaN
+      NaN           NaN         NaN        NaN       Voce        NaN       NaN   NaN
+      NaN         DSC-1       40 10         20        NaN         70      30.0   100
+      NaN         DSC-2       40 10         20        NaN         70      30.0   100
+      1.0         SEC-1       40 10         20        NaN         70      30.0   100
+      NaN         DSE-1       40 10         20        NaN         70      30.0   100
+      NaN     Practical       60 20          -         60        140      60.0   200
+      NaN           NaN         NaN        NaN      Total        420     180.0   600
+      NaN         DSC-3       40 10         20        NaN         70      30.0   100
+      NaN         DSC-4       40 10         20        NaN         70      30.0   100
+      2.0         SEC-2       40 10         20        NaN         70      30.0   100
+      NaN         DSE-2       40 10         20        NaN         70      30.0   100
+      NaN     Practical       60 20          -         60        140      60.0   200
+      NaN           NaN         NaN        NaN      Total        420     180.0   600
+      NaN         DSC-5       40 10         20        NaN         70      30.0   100
+      NaN         DSC-6       40 10         20        NaN         70      30.0   100
+      3.0         SEC-3       40 10         20        NaN         70      30.0   100
+      NaN         DSE-3       40 10         20        NaN         70      30.0   100
+      NaN     Practical       60 20          -         60        140      60.0   200
+      NaN           NaN         NaN        NaN      Total        420     180.0   600
+      NaN         DSC-7      150 50          -        150        350     150.0   500
+      NaN         DSE-4       30 10          -         30         70      30.0   100
+      4.0           NaN         NaN        NaN        NaN        NaN       NaN   NaN
+      NaN           NaN         NaN        NaN      Total        420     180.0   600"
+3,table," Sem            Paper type Paper No.                                                              Paper Title
+ NaN           Core course     DSC-1                                             Fundamentals of Data Science
+ NaN                   NaN     DSC-2                                                       Web Programming -1
+ NaN     Skill Enhancement       NaN                                                                      NaN
+ NaN                Course     SCE-1                                           Advanced Database Technologies
+ 1.0                   NaN       NaN                                        1. Cyber Security and Forensics-1
+ NaN          Professional       NaN                                                       2. Web Engineering
+ NaN              Elective     DSE-1 3. 4. Distributed and Parallel ComputingFoundation of Advanced Computing
+ NaN                   NaN       NaN                                                    5. Fundamentals of AI
+ NaN           Core course     DSC-1                                       Mobile Application Development - 1
+ NaN                   NaN     DSC-2                                                       Web Programming -2
+ NaN     Skill Enhancement       NaN                                                                      NaN
+ 2.0                Course     SCE-1                                               Advanced Cloud Programming
+ NaN                   NaN       NaN                                        1. Cyber Security and Forensics-2
+ NaN          Professional       NaN                                                     2. UI/UX development
+ NaN              Elective     DSE-1                              3. 4. Machine LearningResearch in computing
+ NaN                   NaN       NaN                                           5. Advanced Python Programming
+ NaN                   NaN     DSC-1                                                       Internet of Things
+ NaN           Core course       NaN                                                                      NaN
+ NaN                   NaN     DSC-2                                                         Game Development
+ NaN                   NaN       NaN                                         1. Advanced JavaScript Framework
+ 3.0     Skill Enhancement       NaN                                                    2. Data Visualization
+ NaN                Course     SEC-1                      3. 4. Blockchain TechnologyComputational Linguistic
+ NaN                   NaN       NaN                                     5. Social Media Mining and Analytics
+ NaN                   NaN       NaN                                    1. Mobile Application Development - 2
+ NaN Professional Elective     DSE-1     2. 3. Bigdata & AnalyticsArtificial Neural Network and Deep Learning
+ NaN                   NaN       NaN                                               4. Cyber Law and Practices
+ NaN           Core course     DSC-1                                                   Project / Dissertation
+ 4.0     Skill Enhancement       NaN                        Seminar Presentation/Review of published research
+ NaN                Course     SEC-2                                                                    paper"
+4,table,"                 Name of Program Master of Science [Information Technology]            Unnamed: 0
+                                                      Abbreviation M.Sc. IT                   NaN
+                                                           Duration 2 Years                   NaN
+Objective of Program The Objective of the program is to impart knowledge of                   NaN
+                    fundamentals and/or latest theories, concepts, methods,                   NaN
+                  techniques and tools related to various areas of Computer                   NaN
+                       Science, Applications and Information Technology and                   NaN
+                     specifically in the area of Mobile based, cloud based,                   NaN
+                                                      Web based Application Development, Software
+                      Engineering, Data Management and Intelligent Systems.                   NaN
+ Program Outcome At the successful completion of the program, students will                   NaN
+                       be able to start their career in the IT and Software                   NaN
+                                                                  industry.                   NaN
+                                                          Program Structure                   NaN
+                                                                 Semester 1                   NaN
+                               Course Title Teaching Hrs. Course University        Internal Total
+                                                  Code per week Examination           Marks Marks
+                                                                    Credits                   NaN
+                                      Theory Practical Marks Duration Marks                   NaN
+                                             DCS-1 Fundamentals of Data 4 4             30 70 100
+                                                                    science                   NaN
+                                               DSC-2 Web Programming -1 4 4             30 70 100
+                                              SEC - 1 Advanced Database 4 4             30 70 100
+                                                               Technologies                   NaN
+                                                         DSE-1 Elective 4 4             30 70 100
+                                                             Practical 16 8            140 60 200
+                                                                      16 24                   600
+      NOTE: Following subjects are listed as elective subjects of semester.                   NaN
+                                                          ELECTIVE SUBJECTS                   NaN
+                                           1 Cyber Security and Forensics-1                   NaN
+                                                          2 Web Engineering                   NaN
+                                       3 Distributed and Parallel Computing                   NaN
+                                         4 Foundation of Advanced Computing                   NaN
+                                                       5 Fundamentals of AI                   NaN"
+5,table," NOTE: Following subjects are listed as elective subjects of semester.\rELECTIVE SUBJECTS\r1Cyber Security and Forensics-2\r2UI/UX development\r3Research in computing\r4Machine Learning\r5Advanced Python Programming                     Unnamed: 0
+                                                                                                                                                                                                                      1 Cyber Security and Forensics-2
+                                                                                                                                                                                                                      2              UI/UX development
+                                                                                                                                                                                                                      3          Research in computing
+                                                                                                                                                                                                                      4               Machine Learning
+                                                                                                                                                                                                                      5    Advanced Python Programming"
+6,table,"                                                                                                                                                                                                            Semester 2                                Unnamed: 0              Unnamed: 1      Unnamed: 2              Unnamed: 3      Unnamed: 4   Unnamed: 5  Unnamed: 6  Unnamed: 7
+                                                                                                                                                                                                          Course\rCode                                     Title Teaching Hrs.\rper week Course\rCredits University\rExamination Internal\rMarks Total\rMarks         NaN         NaN
+                                                                                                                                                                                                                   NaN                                       NaN                  Theory       Practical                   Marks        Duration        Marks         NaN         NaN
+                                                                                                                                                                                                                   NaN DSC-3 Mobile Application\rDevelopment - 1                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                   NaN         DSC-4 Web Programming -\r2 NodeJS                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                   NaN         SEC-2 Advanced Cloud\rProgramming                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                   NaN                            DSE-2 Elective                       4             NaN                       4             NaN           30        70.0       100.0
+                                                                                                                                                                                                                   NaN                               Practical-1                     NaN              16                       8             NaN          140        60.0       200.0
+                                                                                                                                                                                                                   NaN                                       NaN                      16             NaN                      24             NaN          NaN         NaN       600.0
+NOTE: Following subjects are listed as elective subjects of semester.\rELECTIVE SUBJECTS\r1Cyber Security and Forensics-2\r2UI/UX development\r3Research in computing\r4Machine Learning\r5Advanced Python Programming                                       NaN                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                     1            Cyber Security and Forensics-2                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                     2                         UI/UX development                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                     3                     Research in computing                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                     4                          Machine Learning                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN
+                                                                                                                                                                                                                     5               Advanced Python Programming                     NaN             NaN                     NaN             NaN          NaN         NaN         NaN"

@@ -1,0 +1,127 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426103301Z
+---- END METADATA ----
+
+Total Pages: 4
+
+==== PAGE 1 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+87
+FacultyofScience
+ShreeRamkrishnaInstituteofComputerEducation&
+AppliedSciences,Surat
+M.Sc.WebandMobileTechnology
+SEMESTER-4
+
+==== PAGE 2 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+88
+Course:Project
+CourseCode
+CourseTitle Project
+Credit 20
+TeachingperWeek 20hours(i.e.2Students/hour/Week)
+Minimumweeksper
+Semester15(Projectwork,Self-Study,examination,preparation,holidays
+etc.)
+LastReview/Revision ---
+PurposeofCourse Studentswillgettrainedinindustrialpracticesandactivitiesof
+SoftwareEngineering
+CourseObjective Toexposestudentstoindustrialpracticesandactivitiesofsoftware
+engineeringandtrainthemaboutthesame.
+Prerequisite KnowledgeofAdvancedProgramming,LatestTechnologiesand
+ToolsandSoftwareEngineering.
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletostart
+professionalcareerand/orresearchworkinthefieldofWeband
+MobileTechnology.
+CourseContent Entiresemesterisallocatedforafull-timeprojectwork.Allthe
+studentshavetoundergoaprojectpreferablyinanindustryorany
+reputedinstitute.Thestudentsmustpreparedocumentationofthe
+projectworkdoneasperthesoftwareEngineeringGuidelines.Atthe
+endofthesemester,thestudentshavetosubmittheirprojectreportin
+boundedformtotherespectiveinstitution.Theprojectpresentation
+andviva–voicewillbeconductedonthebasisofit.
+Thestudentshavetosubmitthefollowingreportstotheirrespective
+institution:
+1.ProjectJoiningReport
+2.Appropriatenameoftheproject
+3.MonthlyProgressReportdulysignbytheconcernexternal
+guide
+4.ProjectCompletionCertificate
+5.Institution/CollegeCertificate
+6.SoftwareCodingdeclaration…(ifindustry/organizationdoesn‟t
+permitstudentstosubmitthesourcecode)(Tobesubmittedatthe
+timeofjoiningprojecttraining)
+7.AttendanceReport
+Withoutsuchreportsstudentwillnotbeallowedtoappearinhis/her
+finalProjectPresentationandViva-Voice.
+TeachingMethodology Projectguidance,review
+EvaluationMethod 70%Internalassessmentisbasedonprojectpresentationand/or
+demonstrationandviva-voiceexamination.
+30%assessmentisbasedProjectPresentationand/ordemonstration
+andviva-voiceexaminationattheendofsemester.
+
+==== PAGE 3 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+89
+Course:SeminarPresentation/Reviewofpublishedresearchpaper
+CourseCode
+CourseTitle SeminarPresentation/Reviewofpublishedresearchpaper
+Credit 4
+TeachingperWeek 10hours(i.e.2Students/hour/Week)
+Minimumweeksper
+Semester15(Projectwork,Self-Study,examination,preparation,holidays
+etc.)
+LastReview/Revision ---
+PurposeofCourse Thepurposeofthecourseistomakestudentcapableofgaining
+additionalknowledge(besidesthecurricula)inthefieldof
+informationtechnologybyself-learningpracticesandpresenting
+and/ordemonstratingit.
+OR
+Thepurposeofareviewpaperistosuccinctlyreviewrecent
+progressinaparticulartopic.Overall,thepapersummarizesthe
+currentstateofknowledgeofthetopic.Itcreatesanunderstanding
+ofthetopicforthereaderbydiscussingthefindingspresentedin
+recentresearchpapers
+CourseObjective AdditionalknowledgebuildinginthefieldofInformation
+Technologyusingself-learningpracticeandresearchpaper
+reviews.
+Prerequisite BasicKnowledgeofInformationTechnologytheories,
+activities,methods,techniques&tools
+CourseOutcome Aftercompletionofthiscourse,thestudentwillhavegained
+furtherknowledge(besidesthecurricula)inthefieldof
+informationtechnologybyself-learningpracticesandwillbe
+capableofpresentingand/ordemonstratingit.OR
+Thestudentwillbenefitwithresearchpaperreviews
+Tohelpimprovewritingandresearchskills
+Toprofessionalizethegraduateexperience.
+Toinformafuturecareerpath
+CourseContent Inthispaperstudentswillhavetoselectanytopicrelatedto
+informationtechnologyfield–preferablybasedonthecurrent
+trendsandtechnologiesfortheseminar.Individualstudentis
+requiredtoprepareaseminarreport.Attheendofthesemester
+studenthastosubmitseminarreportwithsatisfactorydetailstudy
+intheboundedformtotherespectiveinstitution.Theseminar
+presentationandvivavoicewillbeconductedonthebasisof
+selectedtopicattheendofthesemester.
+Thestudentshavetosubmitthefollowingdocumentstotheir
+respectiveinstitution:
+1.NameandabstractoftheTopicselected.
+2.MonthlyProgressReportdulysignedbytheconcerninternal
+guide
+3.WorkCompletionCertificatebyinternalguide
+
+==== PAGE 4 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+90
+4.Institution/CollegeCertificate
+TeachingMethodology Seminarguidance,review
+EvaluationMethod 70%Internalassessmentisbasedonseminarpresentationand/or
+demonstrationandviva-voiceexamination.
+30%assessmentisbasedseminarPresentationand/or
+demonstrationandviva-voiceexaminationattheendofsemester.

@@ -1,0 +1,609 @@
+---- PDF METADATA ----
+Author: HP
+Creator: Microsoft® Word 2016
+CreationDate: D:20211208052357+05'30'
+ModDate: D:20211208052357+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 12
+
+==== PAGE 1 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+1 
+  
+                
+Unit  1 UV spectroscopy                                                                                                 (08Hrs)  
+1.1 Introduction  
+1.2 Electromagnetic radiation and spectroscopy  
+1.3 Absorption of electromagnetic radiations by organic molecules  
+1.4 Ultraviolet spectroscopy  
+1.5 Types of electronic transitions  
+1.6 Absorption laws  
+1.7 Selection Rule  
+1.8 Instrumentation  
+1.9 Applications   
+ 
+Unit  2 Infra-Red Spectroscopy                                                                                     (08Hrs)  
+2.1 Introduction and origin of Infra -Red spectroscopy  
+2.2 Absorption in the IR region  
+2.3 Molecular Vibrations -Complexity and Simplicity of IR spectra  
+2.4 Calculation of vibrational frequencies  
+2.5 Selection Rule   
+2.6 Instrumentation  
+2.7 Sampling Techniques  
+2.8 Fingerprint region  
+2.9 Spectral features of organic compounds  
+2.10 Applications of IR - spectroscopy  
+ 
+Unit  3 Raman Spectroscopy                                                                                          (10Hrs)  
+3.1Introduction  
+3.2 Quantum theory of Raman effect  Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semester: III  
+Subject:  DSC -V: Organic Spectroscopy  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:  
+The syllabus deals with theory, principal & instrumentation of various spectroscopic techniques.  This course 
+is intended to give students a more complete picture of how spectroscopic methods are used to 
+elucidate the structure of complex organic molecules .    
+Student learning outcome:  
+ At the end of the course……  
+• Students will be skilled in the interpreting NMR spectroscopy, Mass spectroscopy to derive the 
+information regarding the structure, stereochemistry of the molecules  
+• Students will apply the learned  fundamental instrumental techniques in the physical characterization 
+of organic molecules  
+• Students will have a clear understanding of the subject related concepts  
+• Students will get problem solving ability and i dentify organic compounds by analysis and 
+interpretation of spectral data  
+• Student will be able to s olve structural problems based on UV -Vis, IR, 1HNMR , 13CNMR and mass 
+spectral data  
+
+==== PAGE 2 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+2 
+ 3.3 Theory of Raman spectra  
+3.4 Equivalence of Beer -Lambert law of absorption in Raman scattering  
+3.5 Param eters of Raman lines  
+3.6 Rotational -Vibrational Raman Spectra: Diatomic and polyatomic molecules  
+3.7 Rule of mutual exclusion principle  
+3.8 Structural elucidation by Raman spectroscopy  
+3.9 Importance of Raman spectra  
+Unit 4  1H-NMR                                                                                                             (08Hrs)  
+4.1 Introduction and basic principle of -NMR  
+4.2 Nuclear spin, nuclear resonance, saturation, relaxation  
+4.3 Instrumentation  
+4.4 Shielding and deshielding of m agnetic nuclei  
+4.5 Chemical shift and its measurements  
+4.6 Factors influencing chemical shift  
+4.7 Spin – spin interactions and factors influencing  
+4.8 Dynamic NMR  
+4.9 Coupling constant J. and factors effecting J value  
+ 
+Unit 5   13C- NMR                                                                                                          (07Hrs)  
+5.1 Introduction  
+5.2 Broad Band proton decoupling and Nuclear Overhauser Enhancement (NOE)  
+5.3 Off resonance decoupling, DEPT, APT  
+5.4 Chemical shift  
+5.5 Calculations of chemical shifts of aliphatic, olefinic, alkyne, aromatic, hetero aromatic   
+      and carbonyl carbons  
+5.6  13C-13C coupling constant  
+5.7 13C-1H coupling constant  
+ 
+Unit 6 2D NMR                                                                                                             (06Hrs)  
+6.1 Introduction  
+6.2. Homo -nuclear COSY  
+6.3 Hetero -nuclear HETCOR  
+6.4 Hetero -nuclear Single Quantum Coherence (HSQC)  
+6.5 NOESY and ROESY techniques  
+6.6 Comparison of 1D NMR and 2D NMR  
+ 
+Unit 7   Mass Spectroscopy                                                                                            (08Hrs) 
+7.1 Basic Principle  
+7.2 Instrumentation  
+7.3 Various methods of ionisation (EI, CI, FD, ESI, APCI, MALDI and FAB)  
+7.4 Mass analysers  
+7.4.1 Time of flight mass analyser  
+7.4.2 Quadrupole mass analyser  
+7.4.3 Ion trap mass analysers  
+
+==== PAGE 3 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+3 
+ 7.4.4 Magnetic sector mass analyser  
+7.4.5 Electrostatic sector mas s analyser  
+7.4.6 Ion  cyclotron resonance  
+7.5 Fragmentation rules  
+7.6 Factors controlling fragmentation  
+  
+Unit 8: Problems based on joint applications of UV, IR, NMR, MASS                   (05Hrs)  
+ 
+            
+ 
+References:  
+1. Understanding NMR Spectroscopy, James Keeler, 2nd Edition,  2013 , India Pvt Ltd .   
+2. Organic Spectroscopy through Solved Problems, Kali Shankar Mukherjee 
+Bodhisattwa Mukhopadhyay, 1st Edition, 2013 . 
+3. Elementary Organic Spectroscopy, Principles and Chemical Applications, Y.R. 
+Sharma, 5th Revised Edition, 2013 , S. Chand and Company . 
+4. Introduction to Magnetic Resonance Spectroscopy ESR, NMR, NQR , D. N. 
+Sathyanarayana , 2nd  Edition, 2013 , I K International  Publishing House Pvt. Ltd .;  
+5. Spectroscopy of Organic Compounds, P. S. Kalsi, 17th edition, 2016, New Age 
+international Publishers .  
+6. Spectrometric Identification of Organic Compounds, Robert M. Silverstein, Francis X. 
+Webster, David J. Kiemle, David L. Bryce, 8th Edition, 2015 , Wiley .  
+Principles of NMR Spectroscopy, David Goldenberg, 4th Edition, 2016 , University 
+Science Books .  
+7. Introduction to Spectroscopy, Donald L. Pavia, Gary M. Lampman, George S. Kriz, 
+James A. Vyvyan,  4th Edition, Brooks Cole. 
+8. Spectroscopic Methods in Organic Chemistry, D.H Williams, I. Fleming, 6th Edition, 
+Tata Mc  Graw Hill Education . 
+9. Spect roscopy of Organic Compounds, P S Kalsi, 6th Edition, Ne w Age International 
+Publisher . 
+10. Organic Spectroscopy: Principle s and Applications,  Jag Mohan, 2nd Edition, Published 
+by Alpha Science International Ltd.  
+11. Organic Spectros copy (NMR, IR, Mass and UV), Dew an S.K.,  1st Edition, CBS 
+Publisher & Distributors Pvt Ltd.  
+12. Basic  Principles of Spectroscopy, Raymond Chang , McGraw -Hill Inc.  
+13. Elementary Organic Spectroscopy,  Y R Sharma, S. Chand & Company Pvt. Ltd.  
+14. Organic Spectroscopy, William Kemp,  Palgrave Macmillan.  
+15. Spectrometric Identifi cation of Organic Compounds, Robert M. Silverstein,    
+       Francis X. Webster, David J. Kiemle,  David L. Bryce, 8th Edition,  Wiley . 
+ 
+ 
+ 
+ 
+
+==== PAGE 4 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+4 
+  
+Unit  1Reterosynthetic Analysis                                                                             (08 Hours) 
+1.1 Protecting Groups in Organic Synthesis:  
+Protection and deprotection of the Hydroxyl, Carbonyl, Amino and Carboxyl functional  
+groups and its applications.  
+1.2 Concept of Umpolung (Reversal of Polarity):  
+Generation of acyl anion equivalent using 1 ,3-dithianes, methyl thio methyl sulfoxides,  
+cyanide ions, cyanohydrins ethers, nitro compounds & vinylated ethers.  
+1.3 Introduction to Retrosynthetic analysis and Synthetic Planning:  
+Linear and convergent synthesis, Disconnection approach: An introduction to   
+synthons, synthetic equivalents, disconnection approach, functional group inter    
+conversions, functional group addition (FGA), functional group of Removal (FGR),   
+importance o f order of events in Organic Synthesis. One and two group C -X   
+disconnections (1,1; 1,2; 1,3 difunctionalized compounds) selective organic    
+transformations. Chemo selectivity, Regio selectivity, Selereo selectivity, enantio  
+selectivity.  
+ 
+Unit 2 Designin g Organic Synthesis                                                                        (06 Hours)                                                
+2.1 General Strategy:  Choosing a disconnection -simplification Symmetry,  
+high yielding steps, and recognisa ble starting material.  
+2.2 One group C -C Disconnections:  Alcohols (including Stereo selectivity), Carbonyls 
+(including region selectivity), Alkane Synthesis, use of acetylenes and aliphatic nitro 
+compounds in Organic Synthesis.  
+2.3 Two group C -C Disconnections:  1,2; 1,3; 1,4; 1,5 and 1,6 – difunctionalized 
+compounds, Diet -Aldez reactions, α, β – unsaturated compounds, control in carbonyl 
+condensations, Michael addition and Robinson annelation.  
+ 
+Unit 3 Electro -Organic Chemistry and Selected Methods of Organic Synthesis  (08 Hours)      
+3.1 Introduction: Electrode Potential, Cell Parameters, Electrolyte, working electrode  
+choice  of Solvents, Supporting Electrolytes.  
+3.2 Cathodic reduction: Reduction of alkyl halides, aldehydes, ketons, nitro compoun ds,   
+             olefins, arenes, electro -dimerization.  
+3.3 Anodic Oxidation: Oxidation of alkyl benzene, Kolbe reaction, Non -Kolbe oxidation,    
+            shono oxidation.   
+ 
+  
+Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semester: III  
+Subject:  DSC -VI- Designing Organic Synthesis  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:  
+The course will cover different concepts regarding retrosynthetic analysis and synthetic planning , 
+designing organic synthesis, principles and applications of asymmetric synthesis , general treatment 
+of reaction mechanism , tautomerism.                                                
+Student learning outcome:  
+ At the end of the course…… students will learn about  
+• Synthetic planning and designing in various organic synthesis.  
+• To understand the methodology, basics and applications of electro -organic chemistry.  
+• To study applications of organometallic compounds in organic synthesis.  
+• To obtain knowledge regarding assymetric synthesis.  
+
+==== PAGE 5 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+5 
+  
+Unit 4  Selected Methods of Organic Synthesis      (06 Hours)                                                                                                   
+ Application of the following in Organic Synthesis.  
+4.1 Crown ethers, Crytands, Micelles, Cyclodextrino,  Cateranos.  
+4.2 Organo catalysts: Proline, Imidazolidinone  
+4.3 Catalysed cycloaddition reactions, stille reaction, saeguse -1 to oxidation to enones,  
+             Negishi coupling.  
+ 
+Unit 5 Transition and rare earth metals in Organic Synthesis                                 (12Hours) 
+5.1 Introduction to basic concepts: 18 electron rule, Bonding in transition metal  
+            complexes, C -H activation, Oxidative addition, Reductive elimination,  
+            Mjigratory insertion.  
+5.2 Palladium in Organic Synthesis: π – bonding of PD with olefin, applications in C -C 
+bond  formation, Carbonylation, Alkane isomerisation,  Cross -coupling of 
+organometallics and  halides, Representative examples. Heck reaction, Suzuki -Miayura 
+coupling Sonogashira reaction and Wacker Oxidation. Heteroatom coupling for bond 
+formation between aryl/vinyl groups and N, S or P – atoms.  
+5.3 Olefin me tathesis using Grubb’s Catalyst.  
+5.4 Application of Ni, Co, Fe, Rh and Cr carbonyls in Organic Synthesis  
+5.5 Application of samarium iodide including reduction of Organic halides, aldehydes and   
+            ketones, α -functionalised carbonyl and nitro com pounds.  
+5.6 Application of Ce (IV) in synthesis of hetero cyclic quinoxaline derivatives and its role  
+            as a deprotecting agent.  
+ 
+Unit 6   Principles and applications of asymmetric synthesis :                                  (08 Hours)                                                   
+6.1      Stereoselectivity in cyclic compounds, enantio -selectivity, diastereos electivity,  
+6.2      Enatiomeric and diastereomeric excess, stereo selective aldol reactions.  
+6.3      Cram’s rule, Felkin Anh rule, Cra m’s chelate model,  
+6.4     Asymmetric synthesis, chiral pool strategy, use of chiral auxiliaries, chiral reagents  
+and catalysts  
+6.5      Asymmetric hydrogenation, asymmetric epoxidation and asymmetric hydroxylation  
+6.6      Baker Yeast as chiral catalyst.  
+ 
+Unit 7  General Treatment of Reaction Mechanism                                                (04 Hours)                                                
+7.1     Intermolecular & intramolecular reactions.  
+7.2    Concept of organic acids and bases: effect of structure, substituent and solvent on 
+acidity and basicity; proton sponge  
+7.3     Comparison between nu cleophilicity and basicity;  
+7.4    Application of thermodynamic principles in acid -base equilibria.  
+ 
+Unit 8  Tautomerism                                                                                               (08 Hours)  
+8.1  Prototrophy (keto -enol, nitro - aci-nitro, nitroso -oxyimino, diazo -amino and  
+        enamine -imine systems); valence tautomerism and ring -chain tautomerism;  
+8.2    Composition of the equilibrium in different systems (simple carbonyl; 1,2 - and 1,3 - di 
+carbo nyl  systems, phenols and related systems)  
+8.3  Factors affecting keto -enol tautomerism;  
+8.4   Application of thermodynamic principles in tautomeric equilibria.  
+
+==== PAGE 6 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+6 
+ 8.5   Rate constant and free energy of activation; free energy profiles for one -step, two -step 
+and three - step reactions;  
+8.6   Catalysed reactions: electrophilic and nucleophilic catalysis;  
+8.7   Kinetic control and thermodynamic control of reactions;  
+8.8   Isotope effect: primary and β -secondary kinetic isotopic effect (kH /kD)  
+8.9   Principle of microscopic reversibility; Hammond’s postulate  
+References:  
+1. Advanced Organic Chemistry Part A and Part B: Reaction and Synthesis, Francis A 
+Carey, Richard J Sundberg, 5th Edition, Springer Verlag.  
+2. Modern methods of Organic Synthesis, Synthesis 4th Edition, 2004,  W. Carruthers and 
+Iain Coldham, Cambridge University Press.  
+3. Modern Organic Synthesis: An Introduction, G.S. Zweifel and M.H.Nantz , W.H. 
+Freeman , 2007.  
+4. Principles of Organic Synthesis, R.O.C.  Norman & J.  M. Coxon,  3rd Edition , Nelson 
+Thornes.  
+5. Advanced Organic Chemistry: Reactions & Mechanisms, B. Miller and R.  Prasad, 2nd 
+Edition, Pearson.  
+6. Organic reactions & their mechanisms, 3rd Revised Edition, P.  S. Kalsi, New Age 
+International Publishers.  
+7. Organic electrochemistry, H. Lund  and M. Baizer, 3rd Edition, Marcel Dekker.  
+  
+
+==== PAGE 7 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+7 
+  
+Unit 1 Soil and Fertilizer Analysis        (06 Hours)  
+ 
+1.1 Sampling  
+1.2 Principle, Chemical Reaction and Methods of Analysis:  
+1.2.1 pH & Moisture  
+1.2.2 Kjeldahl  and Total Nitrogen  
+1.2.3 Organic Carbon  
+1.2.4 Total P and Phosphate  
+1.2.5 Na and K, Ion Exchange Capacity  
+1.2.6 Pesticides and Insecticides  
+1.3 Soil Health Standards  
+ 
+Unit 2 Industrial Wastewater Analysis       (08 Hours)  
+ 
+2.1 Sampling  
+2.2 Principle, Chemical Reaction and Methods of Analysis:  
+2.2.1  D.O., BOD and COD  
+2.2.2  Phenol and TOC  
+2.2.3  Metals and Heavy Metals  
+2.3 Disposal Standards  
+ 
+ 
+ 
+ Program: M.Sc. Organic Chemistry  Type:  Theory  
+Semester: III   
+Subject:    SEC -III-  Analytical  Techniques in Applied Chemistry  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:  
+This course paper deals about sampling and analysis methods to determine various quality parameters 
+of soil and fertilizer, water -wastewater, industrial solid waste and stack gas, ore and alloy, polymer, 
+petroleum and fuel, pharmaceutical and clinical anal ysis. 
+  
+Student learning outcome:  
+At the end students will be able to learn about  
+Sampling techniques, principle,  chemical reaction and analysis  methods of  various quality parameters 
+of  
+• Soil and fertilizer  
+• Water -wastewater  
+• industrial solid waste and stack gas  
+• ore and alloy  
+• polymer  
+• petroleum and fuel  
+• pharmaceutical  
+• Clinical analysis  
+ 
+
+==== PAGE 8 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+8 
+ Unit 3 Industrial Solid Waste & Stack Gas Analysis     (06 Hours)  
+ 
+3.1  Sampling  
+3.2 Principle, Chemical Reaction and Methods of Analysis:  
+3.2.1  Proximate Analysis of Solid Waste  
+3.2.2  Ultimate Analysis of Solid Waste  
+3.2.3  Particulate Matter  
+3.2.4  CO, SOx, NOx  
+3.3 Quality Standards  
+ 
+Unit 4   Petroleum & Fuel Analysis        (06 Hours)  
+ 
+4.1 Sampling and Determination  
+4.1.1  Moisture, Volatiles, Ash and Fixed carbon  
+4.1.2    Calorific value  
+4.1.3  Flash and Fire Point  
+4.1.4  Aniline point  
+4.1.5  Octane Number and Cetane Number  
+ 
+Unit 5   Clinical Analysis         (08 Hours)  
+ 
+5.1 Sampling  
+5.2 Estimation of  
+5.2.1  Blood Chloride, Na and K  
+5.2.3  Blood Glucose  
+5.2.4  Blood Urea and BUN  
+5.2.5  Creatinine and Billirubin  
+5.2.6  Cholesterol and Haemoglobin  
+ 
+Unit 6: Ore & Alloy  Analysis        (06 Hours)  
+ 
+6.1 Determination of % Purity of  
+6.1.1  Pyrolu site Ore (Available O 2 and MnO 2, Mn  +2) 
+6.1.2  Dolomite  Ore or Lime Stone (Calcium)  
+6.1.2 Stainless Steel Alloy (Iron and Nickle)  
+6.1.3  Brass Alloy (Copper and Zinc)  
+6.1.4 Chromite Ore (Chromium)  
+ 
+Unit 7   Pharmaceutical analysis        (12 Hours)  
+ 
+7.1 Determination of Diclofenac (non -aqueous titration)  
+7.2 Calcium in Vitamin D and Calcium formulations (Complexometry)  
+7.3 Sulphanilamide (potentiometry)  
+7.4 Pethidine hydrochloride (UV -Vis), Frusemide (UV -Vis) 
+7.5 Aspirin,  paracetamol and codein in APC tablets (NMR)  
+7.6 Phenobarbitone in tablets (IR)  
+7.7 Pivolic acid in dipivefrin eye drops (GC)  
+7.8 Assay of hydrocortisone cream. (HPLC)  
+
+==== PAGE 9 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+9 
+ 7.9 Impurity profiling of Propranolol (GC -MS), famotidine (LC -MS).  
+ 
+Unit 8: Polymer Analysis         (08 Hours)  
+ 
+8.1 Chemical analysis of po lymers: X -ray diffraction analysis,  
+thermal analysis, TGA, DTA.  
+8.2  Physical testing of polymers: Mechanical properties, Fatigue testing, impact testing, 
+tear resistance, hardness, abrasion resistance  
+8.3  Thermal properties: Softening temperature, flam mability  
+8.4  Optical properties: transmittance, color, gloss, haze and transparency.  
+8.5  Electrical properties: dielectric constant and loss factor, resistively, dielectric 
+strength, electronic properties.  
+8.6 Chemical properties: resistance to solvent s, vapor permeability, weathering.  
+8.7 Measurement of molecular weight and size: (4 L) End group analysis,  
+colligative properties measurements, solution viscosity and molecular size.  
+ 
+ 
+References:  
+1. Chemistry for Environmental Engineering and Science, C. N. Sawyer and P. L. Mc 
+Carty, G.F. Parkin, 5th Edition, 21st Reprint, 2015, McGraw Hill Education (India) 
+Private Limited.  
+2. Analytical  Chemistry, H. Kaur,  1st Edition, 201 3, Pragati Prakashan .  
+3. Quantitative Analysis , R.A Day, A.  L. Underwood, 6th Edition , 1991,  Prentice -Hall. 
+4. Standard Methods for Examination of Water & Wastewater – Andrew D . Eaton, 
+Lenore S . Clesceri, Eugene W . Rice, Arnold Greenberg, 23rd Edition, 2017,  
+published by APH A, AWWA, WEF . 
+5. Environmental Chemistry - A. K. De, 7th Edition, 2015, New Age international (P) 
+Ltd. 
+6. Official Methods of Analysis – Dr. William Harwitz, Dr. George W Latimer ,  
+18th Edition, 2005, published by Association of Officiating Analytical Chemists 
+(AOAC) .  
+7. Fundamentals of Analytical Chemistry, D.A. Sk oog, D.M. West, F.J. Holler and  
+S.R. Crouch, 9th Edition, Reprint 2014, Cengage Learning.  
+8. Analytical Instrumentation, Bela G. Liptak, 1st Edition,1994, 1st Indian Reprint, 2012, 
+Chilton Book Company.  
+9. Analytical Techniques in Agriculture, Biotechnology and Environmental Engineering, 
+A. Nag, 1st Edition, 2006, Prentice Hall of India Pvt. Ltd.  
+10. Laboratory Manual on Engineering Chemistry, S.K. Bhasin and Sudha Rani, 3rd 
+Edition, Reprint 2011, Dhanpat Rai Publishing Company (P) Ltd.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 10 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+10 
+ Unit  1 Application of green chemistry in daily life                                                  (06 Hours)  
+1.1 Green Dry cleaning of clothes , Green Bleaching Agents , green detergents, green dyes  
+1.2 Eco Friendly paint s & Waxes  
+1.3 Putting out Fires in a green way  
+1.4 Turning turbid water clear in a Green way  
+1.5 Biodegradable plastics  
+1.6 Computer chips  
+1.7 Green drugs  
+1.8 Solar cell , Solar water heater  
+1.9 Green building and construction Materials  
+1.10 Bleaching of paper  
+1.11 Reusable water Bottle  
+1.12 Bio Material & Green fuel  
+1.13 Anti foul ants and other green chemicals  
+Unit  2 Application of green chemistry in pharmaceutical Industry.                      (12Hours) 
+2.1  Green Pharmacy: Principle  
+2.2  Green Catalyst & Biocatalyst used in pharmaceutical industry.  
+2.3  Green Solvents and it’s categories:  
+       Water, Ionic liquids & Supercritical CO 2, Other Green Solvents  
+2.4  Solvent free processes,  
+2.5  Green processes in Pharmaceutical development  
+2.6  Minimum Pharmacy Waste  
+2.7 Design pharmaceutical products for degradation  
+2.8 Green Resources for Drug development through Ethan botany  
+2.9  Eco friendly Medicinal plants & Ayurvedic preparation  
+ Unit  3 Application of Green chemistry in Agriculture.                  (10Hours)                   Program: M.Sc.  Organic Chemistry  Type:  Theory  
+Semester: III   
+Subject:    DSE - III - Application of Green Chemistry  
+Credit: 04(T) + 02 (P)        Total learning hours: 60 
+Course description:  Students shall be able to understand:  
+• A functional concept of the field of green chemistry.  
+• The 12 principles of green chemistry.  
+• Several real world examples where organizations used green chemistry to improve the 
+sustainability perfor mance of their products.  
+How the practice of green chemistry enhances competitiveness, innovation and faster time to market.  
+  
+Student learning outcome:  
+ At the end of the course students will be able to... understand about  
+• Green Chemistry  is the design of  chemical  products and processes that reduce or eliminate 
+the use and generation of hazardous substances.  
+• This course  will present the fundamentals of th e 12 principles of  green chemistry, and 
+explore relevant examples of their practical  use in commercial  applications.  
+• To understand the environmental consequences of chemical manufacturing and illustrate how 
+these may be minimized.  
+
+==== PAGE 11 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+11 
+  3.1  Natural product in plant protection : 
+ 3.2  Development of green chemicals for the Agricultur e-Minimum Risk Pesticides  
+ 3.3  Eco friendly Pesticides & Insecticides  
+ 3.4  Renewable Feedstock from Agriculture (Biomass)  
+ 3.5 A new Role  of Neem Tree in greening the Environment  
+ 3.6  Vesicular Arbuscular Mycorrhizae in green chemistry.  
+Unit  4 Application of Green chemistry in Industry            (12Hours)                                           
+4.1  Food and flavour Industry  
+4.2  Paper and pulp Industry  
+4.3  Polymer Industry  
+4.4 Textile Industry  
+4.5  Paint Industry: Water Based paints,  High solids Paints, low TiO 2 paint  
+4.6  Tannery Industry  
+4.7  Rubber Industry  
+Unit  5 Application of Green chemistry for achieving sustainable development (06 Hours)     
+5.1  Green chemistry skills  
+5.2  Environmentally Friendly Technologies  
+5.3  Renewable feedstock and raw materials,  
+5.4  Oleochemistry, photochemistry, bio catalysis  & biotransformation,  
+sequestration of CO 2, waste biomass as chemical feed stock,  
+5.5 Biodegradation of biomass to biogas  & biodiesels  
+Unit 6   Application of Green chemistry in analytical chemistry              (04Hours)                    
+6.1  Green analytical chemistry  
+6.2  Electrophoresis  
+6.3  Micronization in separation Methods  
+6.4  Greener solvent for separation  
+Unit 7   Eco friendly technologies for clean world                 (06Hours)                                     
+7.1  Waste: production, problems & prevention  
+7.2  Environmentally Benign Technologies using green chemistry  
+7.3  Application of non conventional energy sources  
+7.4  Microwave induced & Ultrasound assisted green synthesis  
+Unit 8  Other Applications Of Green Chemistry       (04 Hours)                                         
+8.1  Chemicals from glucose:  
+8.2  Polysaccharide Polymers  
+8.3  Application of green chemistry in organic synthesis  
+8.4  Greener nanoscience   
+ 
+ 
+ 
+ 
+ 
+ 
+Reference s:  
+
+==== PAGE 12 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+THIRD  SEMESTER  
+ 
+12 
+ 1. V.K. Ahluwalia & M.R. Kidwai: New Trends in Green Chemistry, 2005, Anamalaya 
+Publishers.  
+2. P.T. Anastas & J.K. Warner: Oxford Green Chemistry - Theory and Practical, 1988, 
+University Press . 
+3. A.S. Matlack: Introduction to Green Chemistry,  2001,  Marcel Dekker.  
+4. M.C. Cann & M.E. Connely: Real -World Cases in Green Chemistry, 2000,  
+American Chemical Society, Washington .  
+5. M.A. Ryan & M. Tinnesand, Introduction to Green Chemistry, 2002,  
+American Chemical Society, Washington.  
+ 
+ 
+Laboratory Practical  
+1. Determination of Organic Carbon in soil sample.  
+2. Determination of Nitrogen in soil sample.  
+3. Determination of Phosphorous  in soil sample.  
+4. Determination of BOD  in industrial wastewater  sample.  
+5. Determination of NOx in Air  sample . 
+6. Determination of SOx in Air sample.  
+7. Nitration of Salysilic Acid using Ca(NO 3)2 and Acetic Acid.  
+8. Bromination of Acetanilide using KBrO 3 and (NH 4)2Ce(NO 3)6. 
+9. Preparation of Schiff Base by Microwave Technique.  
+10. Determination of Blood Sugar by Folin -Wu method.  
+11. Determination of Blood Urea by DAM method.  
+12. Determination of % Purity of Brass Alloy (Copper and Zinc) . 
+ 
+References:  
+1. Standard Methods for Examination of Water & Wastewater , Andrew D . Eaton, 
+Lenore S . Clesceri, Eugene W . Rice, Arnold Greenberg, 23rd Edition, 2017,  
+published by APH A, AWWA, WEF . 
+2. Official Methods of Analysis , Dr. William Harwitz, Dr. George W Latimer ,  
+18th Edition, 2005, published by Association of Officiating Analytical Chemists 
+(AOAC) .  
+3. Analytical Techniques in Agriculture, Biotechnology and Environmental Engineering, 
+A. Nag, 1st Edition, 2006, Prentice Hall of India Pvt. Ltd.  
+ 
+4. Laboratory Manual on Engineering Chemistry, S.K. Bhasin and Sudha Rani, 3rd 
+Edition, Reprint 2011, Dhanpat Rai P ublishing Company (P) Ltd.  
+ 
+ 

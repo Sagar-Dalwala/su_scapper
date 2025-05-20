@@ -1,0 +1,866 @@
+---- PDF METADATA ----
+Author: admin
+CreationDate: D:20220426141608+08'46'
+Creator: WPS Writer
+ModDate: D:20220426141608+08'46'
+SourceModified: D:20220426141608+08'46'
+Trapped: /False
+---- END METADATA ----
+
+Total Pages: 27
+
+==== PAGE 1 ====
+FacultyofScience
+SHREERAMKRISHNAINSTITUTEOFCOMPUTER
+EDUCATIONANDAPPLIEDSCIENCES,SURAT
+M.Sc.Microbiology
+Syllabus
+(Effectivefrom2021)
+M.T.BCollegeCampus,B/hP.T.ScienceCollege,Opp.Chowpati,
+Athwalines,Surat-395001Gujarat,India
+Contact:7228018498,728018499.Email:info@srki.ac.in
+
+==== PAGE 2 ====
+A.AboutM.Sc.MicrobiologyProgramme
+TheM.Sc.MicrobiologyprogrammeofferedbySarvajanikUniversityisoftwoyears’
+durationandisdividedintofoursemesters.Thevariouscoursesoftheprogrammeare
+designedtoincludeclassroomteachingandlectures,laboratorywork,projectwork,viva,
+seminars,assignmentsandfieldtrips.Threecategoriesofcoursesarebeingofferedinthis
+programme:Corecourses,SkillenhancementcoursesandElectivecourse.Aseparate
+research-basedcoursethatleadstoadissertationisalsooneoftheCoreCoursesofferinthe
+finalsemester.Thestudentpresentshis/herresearchorallyattheendofthesemester,and
+thisiscoupledtoaviva-voce.Thisnotonlyequipsthestudentforacareerinresearch/
+industry,butalsofostersself-confidenceandself-relianceinthestudentashe/shelearnsto
+workandthinkindependently.Thirtypercentofthetotalmarksforeachcoursewillbe
+awardedthroughInternalAssessment.Particularemphasisislaidonthepracticalaspectsof
+thefield.Studentsaretaughthowtoplanexperiments,performthemcarefully,analyzethe
+dataaccurately,andpresenttheresultsboth,qualitativelyandquantitatively.
+B.ProgrammeObjective
+Throughthestimulusofscholarlyprogressionandintellectualdevelopmentthe
+programmeaimstoequipstudentswithexcellenceineducationandskills,thus
+enablingthestudenttopursueacareerofhis/herchoice.
+Bycultivatingtalentsandpromotingallroundpersonalitydevelopmentthrough
+multi-dimensionaleducationaspiritofself-confidenceandself-reliancewillbe
+infusedinthestudent.
+Thestudentwillbeinstilledwithvaluesofprofessionalethicsandbemadereadyto
+contributetosocietyasresponsibleindividuals.
+C.Eligibility
+AcandidatemusthavepassedBachelor’sdegreeinMicrobiology/Medical
+Technology/Biotechnology/EnvironmentalScience/IndustrialMicrobiology
+/Bioscience/GeneralScience/Life-Science/Botany/PlantScience/Zoology/Animal
+Science/Biology/Agriculture/Fisheries/Forestry/others.
+Thecandidatewhohaspassedequivalentexamfromothersubjectsorboardsneedto
+availeligibilitycertificateforthisprogrammefromtheBoardofEquivalence(BoE)
+oftheSarvajanikUniversity.M.Sc.Microbiology
+No. Contents
+AAboutM.Sc.MicrobiologyProgramme
+BProgrammeObjective
+CEligibility
+DCourseStructure
+EEvaluationScheme
+FSyllabus
+
+==== PAGE 3 ====
+D.M.Sc.MicrobiologyCourseStructure
+Semester DSE(Anyonetobeopt)
+1 1.FoodChemistry
+2.EnergyandEnvironment
+3.Laboratorysafetyandmanagement
+4.Bioethics&Biosafety
+2 1.ForensicChemistry&Toxicology
+2.Bioinformatics&Other“OMICS”
+3.IPR
+4.Biostatistics.
+3 1.ForensicbiologyandDNAtyping
+2.ResearchMethodology
+3.Bioentrepreneurship
+4.ApplicationofGreenChemistrySemCourse
+TypeCourse
+CodePaperTitle Hours/WeekCredi
+tThPr
+1Core
+courseDSC-1PrinciplesofMicrobiology&Microbial
+Diversity4 4 4+2
+DSC-2Agriculture&EnvironmentalMicrobiology 4 4 4+2
+SEC SEC-1Molecularbiology&GeneticEngineering 4 4 4+2
+ElectiveDSE-1 4 4 4+2
+2Core
+courseDSC-3MicrobialPhysiology&Metabolism 4 4 4+2
+DSC-4Immunologyandmolecularpathogenesis 4 4 4+2
+SEC SEC-2Instrumentationandanalyticaltechniques 4 4 4+2
+ElectiveDSE-2 4 4 4+2
+3Core
+courseDSC-5EconomicMicrobiology 4 4 4+2
+DSC-6EnzymeTechnology&ProteinEngineering 4 4 4+2
+SEC SEC-3PharmaceuticalMicrobiology&Drug
+Development4 4 4+2
+ElectiveDSE-3 4 4 4+2
+4Core
+courseDSC-7Dissertation
+3216
+DSC-8SeminarPresentation 4
+DSC-9Reviewofpublishedresearchpaper/Article 4
+TotalCredit96
+Note:DSC–DisciplineSpecificCore,DSE-–DisciplineSpecificElective,SEC-SkillEnhancementCourse
+
+==== PAGE 4 ====
+E.EvaluationScheme
+M.Sc.Microbiology
+Evaluation Criteria TheoryPracticalDissertationSeminar/
+Reviewof
+published
+research
+paper
+InternalContinuous&
+Comprehensive
+Evaluation(CCE)40 60 140 60
+Attendance 10 10 10 10
+Assignment 20 ---- ---- ----
+InternalPracticalTest
+andViva–Voce/---- 70 ---- ----
+Internalassessment ---- ---- 50 30
+ExternalExternalEvaluation 30 60 100 50
+Total100 200 300 150
+
+==== PAGE 5 ====
+F.Syllabus
+Semester1
+PrinciplesofMicrobiology&MicrobialDiversity
+Nameoffaculty:Science Department:Microbiology
+Program:M.ScMicrobiologySem-I Type:DSC-1
+Subject:PrinciplesofMicrobiology&MicrobialDiversity
+Credit:4+2 Totallearninghours:60
+Coursedescription:Thiscourseintroducesstudentsofdiversefieldsofbiologicalscience,to
+thefundamentalsofmicrobiology.Itfurnishestheknowledgeabouthistoricalaspects,
+structural,technicalandappliedaspects,aswellasphylogeneticaspectsrelatedwith
+microorganisms.Furthermore,italsoprovidesin-depthinformationaboutdiversegroupsof
+microorganismsincludingthoselivinginextremeconditions.
+Studentlearningoutcome:Oncompletionofthissubject,studentswilllearnabout
+Structureandmicroscopicobservationofvariousmicroorganisms,howmicrobescan
+growandhowtheycanbecontrolled.
+Classificationofmicroorganisms,phylogeneticgroupsofmicrobes.
+Properties,reproductionandcultivationofviruses,fungi,algaeandprotozoa.
+Howmicrobessurviveunderextremeconditions.
+Unit-1:IntroductiontoMicrobiology&Staining&MicroscopicTechniques
+(Duration:09Hrs)
+1.1Historicalbreakthroughofmicrobiology
+1.2Briefsurveyofmicroorganisms
+1.3BiologyofProcaryotic&EucaryoticCell
+1.4Staining&Microscopy
+Unit-2:FundamentalsofBacterialGrowth&it’sControl (Duration:10Hrs)
+2.1BacterialGrowth:GrowthCurve,Reproduction&Growthmeasurement
+2.2Techniquesofcultivation&isolationofmicroorganisms.
+2.3PhysicalandChemicalMethodsforcontrolofmicroorganisms.
+2.4Antimicrobialagents&DevelopmentofResistance
+2.5Maintenance&preservationofpurecultures
+Unit-3:MicrobialTaxonomy (Duration:06Hrs)
+3.1ClassificationofProkaryoticorganisms&theConceptofBacterialSpeciation
+3.2BacterialNomenclature
+3.3CultureCollections:AnEssentialResourceforMicrobiology
+3.4Prokaryoticdomain
+
+==== PAGE 6 ====
+3.5Classificationandidentificationofprokaryoticorganisms
+3.6Numericalandpolyphasictaxonomy
+Unit-4:BacterialSystematics (Duration:07Hrs)
+4.1Bergey’sManual:PastandCurrentStatus
+4.2PhylogeneticgroupsofBacteria:Proteobacteria,Firmicutes,Actinobacteria
+4.3PhylogeneticgroupsofArchaea
+Unit-5:Virology (Duration:07Hrs)
+5.1Properties,Structure&MorphologyofViruses.
+5.2ViralReplicationCycle:LyticandLysogenic
+5.3BaltimoreClassificationofViruses
+5.4VirusCultivation&Assay
+Unit-6:Mycology (Duration:07Hrs)
+6.1Properties&StructureofFungi
+6.2NutritionalRequirements
+6.3FungalReproduction
+6.4Nomenclature&ClassificationofFungi
+Unit-7:Phycology&Protozoology (Duration:08Hrs)
+7.1Properties&TypesofAlgae
+7.2AlgalReproduction&Diversity
+7.3AlgalPhotosynthesis
+7.4PropertiesandClassificationofProtozoa
+7.5GeneralMorphologyandReproductionofProtozoa
+Unit-8:Extremophiles (Duration:11Hrs)
+8.1MolecularPhysiology,Adaptation&Applicationsof:
+8.1.1Hyperthermophiles
+8.1.2Psychrophiles
+8.1.3Barophiles
+8.1.4Halophiles
+8.1.5Acidophiles
+8.1.6Alkalophiles
+ReferenceBook:
+RonaldM.Atlas.PrinciplesofMicrobiology.2ndEd.McGrawHillEdu.ISBN:978-
+93-392-1987-1
+ALCAMO.FundamentalsofMicrobiology.6thEd.Jones&BartlettPublishers.
+ISBN:0-7637-1067-9
+Davidwhite.ThePhysiology&BiochemistryofProkaryotes.2ndEd.Oxford
+UniversityPress.ISBN:0-19-512579-7
+
+==== PAGE 7 ====
+Bergey’sManualofSystematicBacteriology.2ndEd.VolI.Springer.ISBN:0-387-
+98771-1
+TeriShors.UnderstandingViruses.3rdEd.Jones&BartlettLearning.ISBN:9781-
+2840-25927
+Fields.Virology.5thEd.VolI.ISBN:0-7817-6060-7
+J.Webster&R.Weber.IntroductiontoFungi.3rdEd.CambridgeUniversityPress.
+ISBN:978-0-521-72700-6
+GeetaSumbali.TheFungi.2ndEd.NarosaPublishers.ISBN:978-81-8487-037-4
+J.W.Deacon.ModernMycology.3rdEd.BlackwellScience.ISBN:0-632-03077-1
+Graham,Graham&Wilcox.Algae.2ndEd.BenjaminCummings.ISBN:0-321-
+55965-7
+MichaelJ.Pelczar,JR.E.C.S.Chen&NoelR.Krieg.Microbiology.5thEd.Tata
+McGrawHillPublishingCompanyLtd.ISBN:978-0-07-462320-6
+Willey,SherwoodandWoolverton.Prescott’sMicrobiology9thEd.McGrawHill
+EducationISSN:978-981-4581-56-1.
+FurtherReading
+R.L.Kotpal.Protozoa.ISBN:81-7133-879-8
+Calkins,GaryN.Protozoology.NewYorkLea&Febiger.ISBN:9780260805966
+K.Horikoshi&W.D.Grant.Extremophiles.Wiley-Liss.ISBN:0-471-02618-2
+D.L.Hawksworth.Biodiversity:MeasurementandEstimation.Chapman&Hall.
+ISBN:041275220-4
+OladeleOgunseitan.MicrobialDiversity.BlackwellPublishers.ISBN:0-632-04708-9
+ListofPractical
+1)Determinethegenerationtimeandspecificgrowthrateofbacterialculture.
+2)Onestepgrowthcurveofbacteria.
+3)Isolation&cultivationoffungifromdifferentnaturalsources.
+4)Isolation&cultivationofalgaefromenvironmentalsamples.
+5)Isolationofprotozoafromsoil.
+************
+
+==== PAGE 8 ====
+Agriculture&EnvironmentalMicrobiology
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-I Type:DSC-2
+Subject:Agriculture&EnvironmentalMicrobiology
+Credit:4+2 Totallearninghours:60
+Coursedescription:
+Thiscoursewillprovidecompleteknowledgeaboutimportanceofmicrobialcommunity
+withinagricultureandenvironmentalparameters.Withdetailexplanationaboutuseof
+microbestosolverelatedproblems,includingtreatmentpollutioncontaminatedsoilandwater,
+likebioremediation,biodegradationforbetterenvironment.Thispaperwillalsoexplainplant
+growthpromotion,improvementinnutrientavailability,controlofplantpathogens,
+knowledgeaboutdrinkingwaterandwastewatertreatment.Paperwillcriticallydiscussthe
+needforagriculturalandenvironmentalmicrobiologywiththeirexpandedusesand
+limitations,clarifyingapplianceofmicroorganismsinvariedfieldsofagriculturaland
+environmentalmicrobiology.
+Studentlearningoutcome:
+Importanceanduseofmicrobesinagricultureandenvironmentalfields
+Howtosolveagricultureandenvironmentrelatedproblemswithrelatedapplications
+ofdifferentmicrobes
+Howtosubstitutechemicalfertilizersandpesticideswithmicrobialoriginsources
+Improvementinplantgrowth,qualityofdrinkingwater,wastewaterandreuseof
+wastewater,tofulfildemandofwaterinsociety.
+Unit-1:SoilMicrobiology (Duration:08Hrs)
+1.1Microorganisminsoilenvironment
+1.2DecompositionoforganicmatterandBiochemicalcycles
+1.3MiningMicrobiology
+Unit-2:AgricultureMicrobiology (Duration:08Hrs)
+2.1MicrobialBiofertilizers&Rhizobialinoculants
+2.2Ectomycorrhizalfungi&Arbuscularmycorrhizalfungi
+2.3Endophytesforsustainableagriculture
+2.4ProductionofMicrobialInsecticides
+2.4Biopesticides
+Unit-3:Plantpathology (Duration:06Hrs)
+3.1Plantdiseases:Typesandcontrolmeasures
+3.2RoleofNanoparticlesinPlants
+3.3ToxicityofNanomaterialstoPlants
+
+==== PAGE 9 ====
+Unit-4:Biodegradation (Duration:08Hrs)
+4.1GrowthlinkedBiodegradation:Acclimation,Detoxication,Activation,Kinetics
+4.2BioavaibilityandCometabolism
+4.3Inoculation
+Unit-5:Bioremediation (Duration:08Hrs)
+5.1ManagementandRemediationofsoilsproblem
+5.2BioremediationTechnologies:InSitu&ExSitu
+5.3BioremediationofmetalsandInorganicpollutants
+Unit-6:Treatmentofpollutants (Duration:08Hrs)
+6.1Pesticides
+6.2TextileEffluent
+6.3Nuclearwaste
+6.4Foodanddairywaste
+6.5Sugaranddistillerywaste
+6.6PharmaceuticalsandHospitalwastetreatment
+Unit-7:WaterandWasteWaterTreatment (Duration:08Hrs)
+7.1DrinkingWater
+7.2Constituentofwastewater
+7.3Biologicaltreatmentofwastewater
+7.4WastewaterReclamationandReuse
+7.5PublichealthandenvironmentalissuesinwaterReuse
+Unit-8:AquaticMicrobiology (Duration:06Hrs)
+8.1AlgalBlooms
+8.2MicrobialMats
+8.3Biofilms
+ReferenceBook:
+BhoopanderGiri,RamPrasad,QiangSheng,Wu,AjitVarma.Biofertilizersfor
+sustainableAgricultureandEnvironment.Springer.(2019).ISBN978-3-030-18932-7,
+ISBN978-3-030-18933-4(Ebook)
+G.RangaswamiandD.J.Bagyaraj.AgricultureMicrobiology2ndedition.Prentice
+HallofIndiaprivateLimitedNewDelhi110001(2009)ISBN9788120306684.
+ManzerH.Siddiqui·MohamedH.Al-WhaibiFirozMohammadNanotechnologyand
+PlantSciencesNanoparticlesandTheirImpactonPlants..(2015)ISBN978-3-319-
+14502-0(eBook)ISBN.SpringerChamHeidelbergNewYorkDordrechtLondon
+978-3-319-14501-3
+MartinAlexander.BiodegradationandBioremediation2ndEditionAcademicpress
+AnImprintofElsevier.ISBN13:978-0-12-049861-1;ISBN-10:12-049861-8
+
+==== PAGE 10 ====
+MetcalfandEddyWasteWaterEngineeringTreatmentandReuse.McGrawHill
+Education(India)4thedition(2003).ISBN13:978-0-07-049539-5;ISBN10:0-07-
+049539-4
+MukeshDobleandAnilKumar.BiotreatmentofIndustrialEffluentsButterworth-
+HeinemannAnImprintofElsevier.(2005)ISBN978-0-7506-7838-4
+PradiptaKumarMohapaatra.TextbookofEnvironmentalBiotechnologyI.K.
+InternationalPublishingHousePvtltd.(2006)ISBN81-88237-54-X
+T.M.SchmidtandM.Schaechter.TopicsinEcologyandEnvironmentalMicrobiology
+EditedbyAcademicPress(2012).ISBN;978-0-12-383878-0
+FurtherReading:
+EveRiser–RobertsRemediationofPetroleumContaminatedSoils.Biological,
+PhysicalandChemicalProcesses.LewisPublihers.1998ISBN0-87371-858-5
+SoliJArceivalaShyamRAsolekar.WasteWaterTreatmentforPollutionControland
+Reuse3rdeditionMcGrawHillEducationIndiaPvtLtd(2007).ISBN(13):978-0-07-
+0620995
+ListofPractical
+1)SpectrophotometricanalysisofBioremediationofpolycyclicaromatic
+Hydrocarbonsbybacteria
+2)DeterminationofBiochemicaloxygendemand(BOD)
+3)DeterminationofTotalSuspendedSolidsTSSandTDS
+4)IsolationofCyanobacteriafromsoil/waterfrompaddyfield
+5)Bio-oxidationanddeterminationofoxidationrate:Fe,Cu,S(Anyone)
+************
+
+==== PAGE 11 ====
+MolecularBiology&GeneticEngineering
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-I Type:SEC-1
+Subject:MolecularBiology&GeneticEngineering
+Credit:4+2 Totallearninghours:60
+Coursedescription:
+Thesubjectoffersthein-depthknowledgeoftheconcepts,tools,techniquesandprocess
+relatedtoMolecularbiologyandrecombinantDNAtechnology.
+Studentlearningoutcome:
+●Understandcentraldogmaoflifeandcomparethemolecularbiologicalprocesses
+amongprokaryoticandeukaryoticcell.
+●Understandstepsofgenecloning
+●Explainthequantification,decoding,cloningandmodificationofgeneandgenome
+●ExplainthefeaturesofvarioustypesofEnzymesandgenecloningvectors
+●Applicationofgeneticengineeringtovariousfield
+Unit1:IntroductiontoMolecularBiology:DNAandRNA (Duration:08Hrs)
+1.1TheMolecularNatureofGenes
+1.2Semiconservativenatureofreplication:BacterialReplication
+1.3EukaryoticandArchaealDNAReplication;BreakageandRepairofDNAStrands
+1.4AnEarlyRNAWorld,TheStructureofRNA,ClassesofRNA,SynthesisofanRNA
+MoleculefromaDNATemplate;BacterialTranscription;EukaryoticandArchaeal
+Transcription
+1.5RNAMoleculesandRNAProcessing:capping,elongation,andtermination,RNA
+processing,RNAediting,splicing,andpolyadenylation,structureandfunctionof
+differenttypesofRNAs,RNAtransport.
+Unit2:ProteinsynthesisandPostTranscriptionalModifications(Duration:08Hrs)
+2.1Proteinsynthesisandprocessing:Ribosome,formationofinitiationcomplex,
+initiationfactorsandtheirregulation,Elongationandelongationfactors,Termination.
+2.2Geneticcode
+2.3AminoacylationoftRNA,tRNA-identity,aminoacyltRNAsynthetase,and
+translationalproof-reading,translationalinhibitors,
+2.4Post-translationalmodificationofproteins.
+Unit-3:GeneRegulation (Duration:06Hrs)
+3.1Controlofgeneexpressionattranscriptionandtranslationlevelforprokaryotes;
+3.2Regulatingtheexpressionofphages,viruses
+3.3Controlofgeneexpressionattranscriptionandtranslationlevelforeukaryotes
+
+==== PAGE 12 ====
+Unit-4:IntroductionandMolecularToolsforGeneticEngineering(Duration:08Hrs)
+4.1Generalrequirementsforperformingageneticengineeringexperiment;
+4.2EnzymesusedinRecombinantDNAtechnology:restrictionendonucleasesand
+methylases;DNAligase,Klenowenzyme,T4DNApolymerase,polynucleotide
+kinase,alkalinephosphatase;DNAligase;linkers;adaptors;homopolymerictailing;
+4.3labellingofDNA:nicktranslation,randompriming,radioactiveandnon-radioactive
+probes,
+4.4hybridizationtechniques:northern,southern,south-westernandfar-westernand
+colonyhybridization,fluorescenceinsituhybridization
+Unit-5:VectorsforGeneCloning (Duration:08Hrs)
+5.1VectorusedinGenecloning:Plasmid,Bacteriophage,M13,
+5.2Yeastcloningvector
+5.3GiantvectorBAC,HACPAC
+5.4VectorforPlantTiplasmid
+5.5Vectorofanimalcell
+Unit-6:GeneCloningStrategiesandPCRTechniques (Duration:08Hrs)
+6.1JoiningofDNAfragment
+6.2IntroductionofDNAinhostcell
+6.3ConstructionofGenomicandcDNAlibrary
+6.4Techniquesforselection,screeningandcharacterizationoftransformants
+6.5Isolationandamplificationofspecificnucleicacidsequences,
+6.6PCR,RTPCRandqRTPCRvariantofPCR,FactorsaffectingPCRamplification.
+Unit-7:ToolsforAnalysingGeneExpression (Duration:07Hrs)
+7.1MethodsforanalysisofgeneexpressionatRNAandproteinlevel
+7.2Largescaleexpression,suchasmicroarray-basedtechniques
+7.3Invitromutagenesisanddeletiontechniques
+7.4Geneknockoutinbacterialandeukaryoticorganisms
+Unit-8:ApplicationsofRecombinantDNATechnology (Duration:07Hrs)
+8.1DNAFingerprinting&DNAForensics
+8.2GeneTherapy
+8.3Recombinantproducts:hormonesandvaccines
+8.4TransgenesisinplantsGenetransfertoplants,Plantsasbioreactor
+8.5Transgenicanimals:Retroviralvectormethod,Cre-loxPrecombinationsystem
+8.6Safetyregulationsrelatedtogeneticengineering
+ReferenceBook:
+Brown,T.A.(2020).GenecloningandDNAanalysis:anintroduction.JohnWiley&
+Sons,ISBN9781405181730.
+SmitaRastogiandNeelamPathak,(2009)GeneticEngineering,OxfordUniversity
+Press;Illustratededition,ISBN0195696573.
+Lewin,B.(2008).genesIX.2008.JonesBarlettPubl.ISBN0763740632
+
+==== PAGE 13 ====
+MolecularBiology,RobertF.Weaver,McGraw-HillHigherEducation,ISBN
+0073525324.
+Primrose,S.B.,&Twyman,R.(2009).Principlesofgenomeanalysisandgenomics.
+JohnWiley&Sons,ISBN9781405101202
+Watson,J.D.(2004).Molecularbiologyofthegene.PearsonEducationIndia,ISBN
+9332585474
+Glick,B.R.,&Patten,C.L.(2017).Molecularbiotechnology:principlesand
+applicationsofrecombinantDNA(Vol.34).JohnWiley&Sons,ISBN-1555812244.
+FurtherReading
+Chandar,N.,&Viselli,S.(2012).Cellandmolecularbiology.LippincottWilliams&
+Wilkins,ISBN978781792103.
+Chaudhuri,K.(2013).RecombinantDNAtechnology.TheEnergyandResources
+Institute(TERI),ISBN9788179933206.
+Malathi,V.(2013).Essentialsofmolecularbiology.Pearson,ISBN-108131773213
+Mitra,S.(1996).Geneticengineering:principlesandpractice.McGraw-Hill
+Education,ISBN978-9339203535.
+Nicholl,D.S.(2008).Anintroductiontogeneticengineering.CambridgeUniversity
+Press,ISBN9780521850063.
+Pal,J.K.,&Ghaskadbi,S.S.(2009).FundamentalsofMolecularBiology.Oxford
+UniversityPress,ISBN9780195697810.
+Pierce,B.A.(2012).Genetics:aconceptualapproach.Macmillan,ISBN
+9781319297145.
+PrincipleofGenetics,Tamrine,TataMcGrawHill
+Rastogi,S.C.(2006).Cellandmolecularbiology.NewAgeInternational,ISBN
+8122414877.
+RecombinantDnaTechnologyandGeneticEngineeringPaperback,KRajagopa,
+McGrawHillEducation
+Reece,R.J.(2004).Analysisofgenesandgenomes(pp.88-95).Hoboken,NJ:John
+Wiley&Sons,ISBN9780071077798.
+Verma,P.S.,&Agarwal,V.K.(2004).CellBiology,Genetics,MolecularBiology,
+EvolutionandEcology:EvoloutionandEcology.S.ChandPublishing,ISBN
+9788121924429.
+ListofPractical
+1)IsolationofGenomicDNAfrombacteriaandfungi.
+2)Isolationofplasmid.
+3)RFLP
+4)DNAamplificationbyPCR
+5)StudyofTransformationinE.coli/Yeast
+6)RNAisolationfromyeast
+
+==== PAGE 14 ====
+FoodChemistry
+Nameoffaculty:Science Department:Chemistry
+Program:M.Sc.Sem-I Type:DSE-1
+Subject:FoodChemistry
+Credit:04(T)+02(P) Totallearninghours:60
+Coursedescription:
+Thiscoursepresentsconciseandrelevantinformationonthecompositionoffoodsandthereactions
+theyundergoduringprocessingandstorage.Thecoursewilldealwiththechemistryofthe
+principalcomponentsoffoods,theirpropertiesandinteractions.Thiswillprovidebasicinformation
+regardingthefoodanalysisalso.
+Studentlearningoutcome:
+Attheendofthecoursestudentswillbeableto:
+Explaintheimportanceofwaterforstabilityandqualityoffoods.
+Understandtherelationshipbetweennutritionandhumanwellbeing
+Knowthemajorandminorcomponentsoffoods
+Knowcompositionandpropertiesoffood
+Explainthebasicstructuresoffoodconstituents
+Understandthebasicchemicalreactionfoodconstituentsundergoduringprocessing
+Identifyadditivesaddedtofoodsfordifferentpurposes
+Unit1WaterinFood (06Hrs)
+1.1Moistureinfoods,definitionofwaterinfood,Waterasanutrient
+1.2Typesofwaterandtheirspecificfunction
+1.1Sorptionphenomenon
+1.2Wateractivityandfoodstability
+1.3Wateractivityandpackaging
+1.6Wateractivityandspoilage
+Unit2Carbohydrates (10Hrs)
+2.1Definition,classificationandphysicalproperties
+2.2Nutritiverolesofcarbohydrate
+2.3Sweetnessofsugars,relationofstructuretosweetness
+2.4Importantcarbohydratesinfood
+
+==== PAGE 15 ====
+(glucose,sucrose,starch,agar,glycogen,cellulose,pectin,gumsandresins)
+2.5Carbohydrates:digestion,absorption,metabolism(glycolysis,citricacidcycle,
+glycogenesis,Glycogenolysis,Gluconeogenesis,hexosemonophosphatepathway)
+2.6Retrogradationandstaling
+2.7Modifiedcellulosesandstarches
+2.8Pecticsubstancesanddietaryfibre
+2.9NonenzymaticbrowningandMailardreaction
+Unit3Lipids (08Hrs)
+3.1Characteristicsandclassification
+3.2Physicalproperties-meltingpoint,softeningpoint,specificgravity,
+refractiveindex,smoke,flashandfirepoint,turbiditypoint
+3.1Chemicalproperties-reichertmeisselvalue,polenskevalue,iodinevalue,
+peroxidevalue,saponificationvalue
+3.4Effectoffryingonfats
+3.5Changesinfatsandoils-rancidity,lipolysis,flavorreversion
+3.6Auto-oxidation,factoraffectingrateofoxidationanditsprevention,
+Methodsofmeasuringlipidoxidation-solidfatindex,peroxidevalue,thiobarbituric
+acidtest,anisidinevalue,Kreistest,oxiranetest
+3.7Technologyofediblefatsandoils-Refining,HydrogenationandInteresterification
+Unit4Proteins (08Hrs)
+4.1Proteinclassificationandstructure
+4.2Natureoffoodproteins(plantandanimalproteins)
+4.3Denaturationofproteinanditsimplications
+4.4Functionalpropertiesofproteins(organoleptic,solubility,viscosity,bindinggelation/
+texturization,emulsification,foaming)
+4.5Supplementaryvalueoffoodproteins
+4.6Modificationoffoodproteininprocessingandstorageanditsimplications
+4.7Reactionofproteininfood(Reactionwithlipids,sulphitesenzymatichydrolysis,
+plasteinreaction)
+Unit5Minerals (04Hrs)
+5.1Mineralfunctions,sources
+
+==== PAGE 16 ====
+5.2Solubilityandbioavailabilityofminerals
+5.3Nutritionalaspectsofminerals
+5.4Fortification:Ironsourcesusedinfortification
+Unit6Vitamin (06Hrs)
+6.1Classification,stability,toxicityandsources
+6.2Distributioninfoods,lossduringprocessing
+6.3Mechanismofdegradation
+6.4Functionsanddeficiencydiseasescausedbyfollowingvitamins:
+6.4.1Fatssolublevitamins–VitaminA,D,EandK
+6.4.2Watersolublevitamins–VitaminCandB-complex
+Unit7Foodadditives (08Hrs)
+7.1Definition,needandclassificationoffoodadditives
+7.2Permittedfoodadditivesandtheirrole
+7.2.1Preservatives-NaturalandArtificial(Class-Iandclass-IIpreservatives)
+7.2.2Antioxidants,Chelatingagents,Colouringagents
+7.2.3Curingagents,Emulsions
+7.2.4Flavorsandflavorenhancers
+7.2.5Non-nutritivesweeteners
+7.2.6pHcontrolagents
+7.2.7Stabilizerandthickeners
+7.2.8Humectants,Anti-cakingagents
+7.2.9Firmingagent,Clarifyingagent,Flourbleachingagents
+Unit8FoodAnalysis (10Hrs)
+8.1AnalysisofChemicalAdditivesinfoods
+8.1.1Divisionofcolouradditives
+8.1.2Chromatographicidentificationofcolours,quantitativeestimationofaddeddyesin
+foods(TitaniumTrichlorideMethod)
+8.2Chemicalpreservativesandsyntheticsweeteningagents(Organic-etherextractable
+andnon-etherextractable)
+8.2.1AnalysisofSO2&SodiumBenzoate(ChemicalMethods),
+SorbicAcid(Chromatography)
+8.3TypesofAntioxidantsusedinFoods
+
+==== PAGE 17 ====
+8.3.1AnalysisofButylatedHydroxyToluene(BHT)(Spectrophotometry)
+8.4Moistureanalysisinfood
+8.5Commonadulterantsinfood
+8.6Pesticideanalysisoffoodproducts
+Reference:
+1.Fennema'sfoodchemistry,Damodaran,S.,Parkin,K.L.,&Fennema,O.R.,2007,CRC
+press.
+2.Foodscience,Potter,N.N.,&Hotchkiss,J.H.,2012,SpringerScience&Business
+Media.
+3.Principlesoffoodchemistry,DeMan,J.M.,Finley,J.W.,Hurst,W.J.,&Lee,C.Y.
+2018,Springer.
+4.Foodchemistry,Aurand,L.W.,Woods,A.E.,&Wells,M.R.,1987,Springer,
+Dordrecht.
+5.FoodChemistry,Meyer,L.H.,1982,AVIPublisingCompany.
+6.Foodsfactsandprinciples,N.ShakuntalaManay,M.ShdaksharaSwamy,2008,Newage
+InternationalPublisher,NewDelhi.
+7.IntroductiontoChemicalAnalysisofFoods,S.Suzanna&Nielsen,CBSPublishers&
+Distributor.
+8.Foodchemistry,Belitz,H.D.,Grosch,W.,&Schieberle,P.,2004,Springer,Berlin,
+Heidelberg.
+LaboratoryPractical
+1.SeparationofAminoAcidsusingThinLayerChromatography.
+2.EstimationofVitaminCbyIodometricTitration.
+3.PreparationofLineweaverBurkPlotforAmylazeEnzyme.
+4.QualitativeAnalysisofCarbohydrates.
+5.DeterminationofpH,TurbidityandTDSofwatersample.
+6.DeterminationofD.O.andConductivityofwatersample.
+7.Preparationofp-NitroChlorobenzenefromAcetanilide.
+8.PreparationofEosinfromPhthalicAcid.
+9.DeterminationofZn+2/Cu+2byComplexometrictitration.
+10.GravimetricestimationofNiasNi(DimethylGlyoxime)2/BaasBaSO4.
+11.DeterminationofCODofwatersamplebyredoxtitration.
+
+==== PAGE 18 ====
+12.Analysisoffats/oils–Anytwoofthefollowing:
+Acidvalue,Iodinenumber,ReichertMeisselnumberandSaponificationvalueof
+fats
+13.Determinationofriboflavinfromcurryleaves(fluorimetricmethod).
+14.Determinationofsaltcontentincommercialtablebutter.
+15.DeterminationofMoistureinfoodsample.
+References:
+1.StandardMethodsforExaminationofWater&Wastewater,AndrewD.Eaton,
+LenoreS.Clesceri,EugeneW.Rice,ArnoldGreenberg,23rdEdition,2017,published
+byAPHA,AWWA,WEF.
+2.OfficialMethodsofAnalysis,Dr.WilliamHarwitz,Dr.GeorgeWLatimer,
+18thEdition,2005,publishedbyAssociationofOfficiatingAnalyticalChemists
+(AOAC).
+3.AnalyticalTechniquesinAgriculture,BiotechnologyandEnvironmentalEngineerin;
+A.Nag;1stEdition,2006,PrenticeHallofIndia.
+4.LaboratoryManualinBiochemistry–J.Jayaraman,2011,NewAgePublication.
+5.Manualofanalysisoffruitsandvegetableproducts,Centralfoodtechnological
+researchinstitute,Mysore,S.Ranganna,1977,TataMcGrawHillpublishing
+companyLtd,NewDelhi.
+6.BiochemicalMethods,S.Sadasivam,andA.Manikam,2ndEdition,1996,NewAge
+International(p)Ltd.PublishersandTamilNaduAgriculturalUniversity(Coimbatore).
+7.Laboratorytechniquesinfoodanalysis,D.Pearson,1973,JohnWiley&Sons,New
+York.
+8.AnalyticalChemistry,H.Kaur,1stEdition,2013,PragatiPrakashan.
+
+==== PAGE 19 ====
+EnergyandEnvironment
+CourseTitle EnergyandEnvironment
+Coursecredit04+02
+CourseHrs 60
+Course
+ObjectiveThestudentsareexpectedtounderstandtheimportanceofenergy
+conservationandbecomecapabletoidentifythetechnologiesfor
+effectiveutilizationofrenewableenergysources.
+Course
+ObjectiveAfterlearningthesubject,studentswillbeabletounderstand,
+Importanceofrenewableenergysources.
+Applicationofdifferentrenewableenergysources.
+Impactofenergyonecology,societyandenvironment.
+EnergyPolicyofIndiaandourenergyfuture.
+Theneed,importanceandscopeofnon-conventionaland
+alternativeenergy.
+CoursecontentUnit-1:Introduction:
+Energy,Unitsofenergy,Lawofconservationofenergy,Scenarioof
+renewableandnon-renewableenergysources,Needsofrenewable
+energy,advantagesandlimitationsofrenewableenergy,presentenergy
+scenarioofconventionalandREsources.
+Unit-2:SolarEnergy:
+Sunassourceofenergy:solarenergypotentialinIndia,Nationalsolar
+mission,solarradiationanditsspectralcharacteristics,solarradiation
+outsidetheEarth’satmosphereandattheEarth’ssurface,flatplateand
+concentratingcollectors,solarthermalpowergeneration,fundamentals
+ofsolarphotovoltaicconversion.
+Unit-3:WindEnergy:
+Windpoweranditssources,modernwindenergy-modernwindturbines,
+windenergyestimation,typesofwindenergysystems,siteselection,
+detailsofwindturbinegenerator.
+Unit-4:BioEnergy:
+Typesofbiogasplants,biogasgeneration,factorsaffectingbiogas
+generation,advantagesanddisadvantagesofbiomassenergy,biomass
+
+==== PAGE 20 ====
+gasification,typesofgasification.
+Unit-5:Oceanthermalenergy:
+Oceanthermalenergyconversionprincipal,energyfromtides,tidal
+powerplants,singleanddoublebasinplants,siterequirements,
+advantagesandlimitations.
+Unit-6:Energy,environmentandsociety:
+Impactofenergyuseontheenvironment,fossilfuelburningandrelated
+issuesofairpollution,globalwarming,greenhouseeffect,nuclear
+energyandrelatedissuesofradioactivewaste,socialinequalitiesrelated
+toenergyproduction,distributionanduse.
+Unit-7:Energy,ecologyandenvironment:
+Energy-production,transformationandutilization,associated
+environmentalimpacts:Nuclearaccidents,pollution,constructionof
+dams,overconsumptionofenergyanditsimpactontheenvironment,
+economyandglobalchange.
+Unit-8:Energypolicyandourenergyfuture:
+EnergystatisticsinIndiaandworld,importanceofenergyconservation,
+India’sEnergyStrategy(NationalEnergyPolicy),energyaudit
+definition,energymanagementsystem,typesofenergyaudit,Fueland
+energysubstitutioninfuture.
+ReferenceBooks 1.SolarEnergy:PrinciplesofThermalcollectionandstorage,
+S.P.SukhatmeandJ.K.Nayak,McGraw-HillEducation.
+2.Elliott,D.1997.SustainableTechnology,Energy,Societyand
+Environment.NewYork,RoutledgePress.
+3.SathyajithMathew.2006.Windenergy:fundamental,resources
+analysisandeconomics.SpringerBerlinHeidelberg,The
+NetherlandISBN:139783540309055.
+4.M.V.R.Koteswara.Rao,“EnergyResources:Conventional&
+Non-conventional”BSPPublications,2006.
+5.Craig.J.R.,Vaughan,D.J.,Skinner.B.J.1996.Resourcesofthe
+Earth:Origin,useandenvironmentalimpact.(2ndedition).
+Prenticehall,NewJersey.
+
+==== PAGE 21 ====
+6.GodfreyBoyle,“RenewableEnergyPowerforASustainable
+Future,”OxfordUniversityPress.
+Practical/
+Demonstration
+ofEquipments1.DeterminationofcalorificvaluebyBombCalorimeter.
+2.SolarradiationmeasurementmethodsusingPyrheliometerand
+Pyranometer.
+3.VI–characteristicsofsolarPVsystem
+4.VI–characteristicsofThermister.
+
+==== PAGE 22 ====
+LaboratorysafetyandManagement
+NameofFaculty:Science Department:EnvironmentalScience
+Program:M.Sc. TypeofSubject:Theory
+Subject:LaboratorysafetyandManagement
+Semester-1(DSE)
+StudentLearningOutcomes(SLOs):
+Beawareofthefactorsthatcanleadtoanaccident.
+Discusstoxicology,industrialhygiene,sourcemodels,dispersionmodels,,firesandfire
+prevention,explosionsandexplosionprevention,electrostatics,pressurereliefsystems,
+runawayreactions,andriskanalysisastheyapplytochemicalprocesssafety,andbeable
+tosolvecorrespondingproblems.
+Discussthenatureoftheaccidentprocessandmethodsusedinaccidentinvestigation,
+inherentlysaferdesignstrategies,andthevariousstrategiesandgovernmentalregulations
+relevanttoprocesssafetymanagement.
+ReferencesandTextbooks:(WithAuthor,Edition,Publishers,ISBN)
+1.IndustrialHygiene&ChemicalSafety-M.H.Fulekar:I.K.InternationalPublishingHouse,
+NewDelhi.
+2.IndustrialHygieneReferenceAndStudyGuide-AllanK.Fleeger,DeanLillquist,AIHA,
+01-May-2006
+3.PersonalProtectiveEquipment-GuidetoPorts/DockWorkers-M.H.Fulekar:
+GovernmentofIndia’sPublication
+4.FundamentalsofIndustrialHygiene-BarbaraA.Plog,PatriciaJ.Quinlan,NationalSafety
+CouncilPress,2002
+5.Occupationalsafetymanagementandengineering,WillieHammer,DennisPrice,Prentice
+Hall,2001
+6.IndustrialSafetyandHealthManagement,C.RayAsfahl,DavidW.Rieske,PrenticeHall,
+31-Jul-2009
+7.FundamentalsofOccupationalSafetyandHealth,MarkA.Friend,JamesP.Kohn,
+GovernmentInstitutes,16-Aug-2010
+8.Handbookofoccupationalsafetyandhealth,LouisJ.DiBerardinis,JohnWiley,1999
+9.OccupationalHygiene.BlackwellScience,Harrington,J.M.&K.Gardiner.1995,Oxford.
+
+==== PAGE 23 ====
+10.IndustrialHygieneEvaluationMethods.MichealS.Bisesi.CRCPress,28-Aug-2003
+Unit-1:IntroductionofIndustrialHygiene(7Lecture)
+1.1Definition,scopeandapplications
+1.2OccupationalEnvironmentalStress:Physical&Chemical
+1.3Airbornechemicals:Dustoraerosols(respirableandnonrespirable,inhalableandtotal
+dust),gases,fumes,vapours,mistandsmoke.
+1.4Conceptofthresholdlimitingvalues
+UNIT-2:Biosafety(7Lecture)
+2.1Introduction;HistoricalBackround
+2.2IntroductiontoBiologicalSafetyCabinetsandtypes
+2.3PrimaryContainmentforBiohazardsandBiosafetyLevelsofSpecificMicroorganisms
+2.4RecommendedBiosafetyLevelsforInfectiousAgentsandInfectedAnimals
+UNIT-3SafetyPrecautions(7Lecture)
+3.1Precautions:Processandoperationsinvolvingexplosives,flammables,toxicsubstances,
+dusts,vapors,cloudformation&combating.
+3.2Safetyprecautionsfortransportationforhazardouschemicals;Handlingandstorageof
+hazardouschemicals.
+3.3Respiratorypersonalprotectiveequipment(RPPE)&nonrespiratorypersonalprotective
+equipment(NRPPE):headprotection,earprotection,faceandeyeprotection,hand
+protection,footprotectionandbodyprotection.
+UNIT-4FireandExplosion(7Lecture)
+4.1Firephenomena,classificationoffireandextinguishers.
+4.2Statutoryandotherstandards.
+4.3Fireprevention&protectionsystem.
+4.4Explosionphenomena,explosioncontroldevices,fireawareness.
+UNIT-5ElectricalSafety:(7Lecture)
+5.1ElectricityandHazardous,Indianstandards.
+5.2Effectsofelectricalparametersonhumanbody.
+5.3Safetymeasuresforelectricworks.
+
+==== PAGE 24 ====
+UNIT-6NoiseandVibration:(7Lecture)
+6.1Noise:generation,typesandpermissiblelimit
+6.2measurementandevaluationofnoise
+6.3controlmethods:controlofsource,isolation,soundproofingandpracticingaspectsof
+controlofnoise
+6.4vibration:generation,typesandcontrol
+Unit-7Hazards&Riskidentification,Assessmentandcontroltechniques:(7Lecture)
+7.1Hazards,Risks&detectiontechniques,Preliminaryhazardanalysis(PHA)&hazard
+analysis(HAZAN)
+7.2Failuremodeeffectanalysis(FMEA),Hazardandoperability(HAZOP)study.
+7.3Hazardranking(DOW&MONDindex),Faulttreeanalysis,Eventtreeanalysis(ETA)
+7.4Majoraccidenthazardcontrol,onsiteandoff-siteemergencyplans.
+Unit-8Storagehazards(7lecture)
+8.1safetymeasuresforstorageofflammableliquids/solvents,acidandalkali,chlorineand
+ammonia
+8.2safetyofstoringgascylinders,colorcoding,markingandensuringsafeconnectionof
+cylinder
+8.3designofstorageshedorgo-down,retentionbasin,catchpotordumpvessel.Safe
+placementofcontainers.
+Practicals:
+1.PreparationofMaterialSafetyDataSheetforsomecommonchemicals.
+2.ToneutralizethegivensampleusingNaOH/HCL/CaCO3
+3.DeterminationofCO2fromtheatmospherebyvolumetricmethodinaworkplace
+Environment.
+4.EstimateNoiseLevelsatdifferentlocations.
+
+==== PAGE 25 ====
+Bioethics&Biosafety
+NameofFaculty:Science Department:Biotechnology
+Program:M.Sc.Sem-I Type:DSE-1
+Subject:Bioethics&Biosafety
+Credit:04 TotalLearningHours:60
+CourseDescription:ThiscourseintroducesstudentstobasicconceptsofBioethics&Biosafety.It
+willalsoinculcatetheimportance,need&applicationsoftheseareasinthestudentsofanyapplied
+sciencebranch.Itwillprovideinformationaboutrules,regulations,laws,acts&protocols
+regardingbioethics&biosafetytobefollowedindifferentfieldsofscience.
+StudentLearningOutcome:
+Aftercompletionofthecourse,studentswillbe:
+1)StudentwillbeabletoappreciatetheimportanceofBioethics&Biosafety
+2)Studentwillbeabletoimplementnecessarybioethicsrules&regulationswhereverneededin
+practice
+3)Studentwillbeabletoidentifytheneedofsafety&willtoexecuteitinpracticallife.
+Unit1Introduction(07Hours)
+1.1History&DefinitionsofEthics&bioethics
+1.2History&DefinitionsofSafety&Biosafety
+1.3ApplicationsofBioethics
+1.4ApplicationsofBiosafety
+1.5EnvironmentEthics
+Unit2Ethical,Legal,SocialIssues–I(09Hours)
+2.1PrenatalDiagnosis&Geneticmanipulation
+2.2Biotechnology
+2.3GeneticallymodifiedOrganism:Foods&Crops
+2.4StemCellResearch
+2.5Organtransplantation&Xenotransplantation
+
+==== PAGE 26 ====
+Unit3Ethical,Legal,SocialIssues–Ii(09Hours)
+3.1Biodiversity&Resourcemanagement
+3.2Human&animalCloning
+3.3AnimalTesting&AnimalsinResearch
+3.4TestingofDrugsonHumanVolunteers
+3.5AssistedReproductiveTechnologies(ART)
+Unit4HazardousMaterials–Handling&Disposal(07Hours)
+4.1Hazards&Biohazards(biologicalagents)withtheirtypes/categories
+4.2Disposalofchemicalwastes&hazardouswastes
+4.3MaterialSafetyDatasheet(MSDs)
+4.4Controllingtheexposuretohazardoussubstances
+4.5Duties,immunization&firstaidofemployees
+Unit5RiskAssessment&Containment(07Hours)
+5.1RiskAssessment
+5.2ContainmentLevels
+5.3ContainmentinAnimallab
+5.4ContainmentinPlanttissuecultureLab
+5.5ContainmentinMicrobiologicallab
+Unit6Biosafety(07Hours)
+6.1RiskAssessmentofPlannedintroduction&Biotechnologyproducts
+6.2Plannedintroduction&FieldtrialsofGMplants
+6.3PlannedintroductionofGEorganisms
+6.4Biosafetyduringindustrialproduction
+6.5Risk&SafetymanagementinART&stemcellresearch
+Unit7Regulations&Guidelines–I(07Hours)
+7.1NIHguidelines
+7.2ICHInternationalCommunityHarmonizationguidelines
+7.3RegulatoryFrameworkforGEPlantsinIndia
+7.4IndianBiosafetyguidelines
+7.5LaboratoryBiosafetyManualofWHO
+
+==== PAGE 27 ====
+Unit8Regulations&Guidelines–Ii(07Hours)
+8.1CartagenaProtocol
+8.2ARTregulationBill
+8.3NationalRegulatoryBodiesforBiosafetyinIndia
+8.4EthicalGuidelinesforBiomedicalresearchinvolvinghumansubjects
+8.5NationalGuidelinesforStemCellResearch
+ReferenceBooks
+Bioethics&BiosafetybyMKSateesh,IKInternationalPub.Ltd
+BiotechnologyExpandingHorizonsbyBDSingh,KalyaniPub.
+WebResources
+BiosafetyresourcebookbyFAOhttp://www.fao.org/3/i1905e/i1905e00.htm
+BiosafetyManualbyWHO
+https://www.who.int/csr/resources/publications/biosafety/Biosafety7.pdf
+ICMRBioethicsUnithttps://ethics.ncdirindia.org/
+Practical
+1)CasestudyonBioethics
+2)ProjectonAnalysisofBiosafetymeasures/FirstaidofanyInstitute/lab/Industrialunit
+3)Visittoanindustrytostudysafetymeasures

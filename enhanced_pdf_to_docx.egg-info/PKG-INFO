@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: enhanced-pdf-to-docx
+Version: 1.0.0
+Summary: Convert PDF to DOCX with preserved formatting, similar to ilovepdf
+Author: PDF Tools Team
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Office/Business
+Classifier: Topic :: Utilities
+Requires-Python: >=3.7
+Requires-Dist: PyPDF2>=3.0.1
+Requires-Dist: python-docx>=1.0.1
+Requires-Dist: pdf2docx>=0.5.6
+Requires-Dist: pandas>=2.0.3
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

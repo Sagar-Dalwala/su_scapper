@@ -1,0 +1,514 @@
+---- PDF METADATA ----
+Author: Admin
+Creator: Microsoft® Word 2016
+CreationDate: D:20220429141906+05'30'
+ModDate: D:20220429141906+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 11
+
+==== PAGE 1 ====
+ 
+ 
+ 
+SEMESTER -V 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 2 ====
+Program: B.Sc.  (Sem -V) Type:  Theory  
+Subject:  DSC -9-Organic Chemistry -3: Study of Natural & Synthetic Product in Organic                                           
+                Chemistry  
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This course provide basic information regarding natural organic products like carbohydrate, lipids, 
+amino acids and protein, alkaloids, steroids and enzymes.  
+Student learning outcome:   
+Student will learn following : 
+• Carbohydrates, Lipids , Amino acid, Protein and Peptides  
+• Nucleic acid , Alkaloids and Terpenes   
+• Enzymes , Vitamins and hormones  
+• Steroids  
+ 
+Unit-1       Carbohydrates                         05Hrs)  
+1.1       Occurrence, classification and their biological importance  
+1.2       Monosaccharides – constitution and configuration of glucose and fructose  
+1.3       Mutarotation  
+1.4       Haworth Projection and conformational structure  
+1.5       Killiani – Fischer synthesis and Ruff degradation  
+1.6       Disaccharides  
+1.7       Polysaccharides  
+ 
+Unit -2      Lipids                                (05 Hrs)  
+2.1 Introduction  
+2.2 Classification  
+2.3 Oils and fats  
+2.4 Common fatty acids – Omega and trans fatty acid  
+2.5 Hydrogenation  
+2.6 Saponification value, acid value  
+2.7 Iodine number  
+2.8 Biological importance of triglycerides, phospholipids  and glycolipids  
+Unit -3      Amino acid, Protein and Peptides                                        (08 Hrs)  
+3.1 Classification  
+3.2 Zwitterion structure and isoelctric point  
+3.3 Study of primary, secondary, tertiary and quaternary structure of proteins  
+     3.4       Determination of primary structure of peptides  
+     3.5       Synthesis of peptide using N -protecting, C -Protecting and C - activating group  
+     3.6       Merrifield Solid phase synthesis  
+ 
+Unit - 4       Nucleic A cid:                       (08 Hrs)  
+4.1 Component of  Nucleic acid – Adenine, Guanine, Thymine and Cytosine  
+4.2 Nomenclature of nucleosides and nucleotides  
+4.3 Structure of polynucleotides  
+4.4 Structure of DNA -Watson -Crick model  
+4.5 Types of RNA, Genetic code  
+4.6 Biological role of  DNA and RNA – Replication, Transcr iption and Translation  
+
+==== PAGE 3 ====
+Unit -5        Alkaloids and Terpenes:                      (10 Hrs)  
+5.1 Natural occurrence  
+5.2 General structural feature, isolation and their physiological action  
+5.3 Hoffmann’s exhaustive methylation  
+5.4 Emde’s modification  
+5.5 Structure elucidation an d synthesis of Hygrine and Nicotine  
+5.6 Medicinal importance of Nicotine, Hygrine, Quinine, Morphene, Cocaine and 
+Reserpine  
+5.7 Occurrence and classification of terpenes  
+5.8 Isoprene rule  
+5.9 Elucidation of structure and synthesis of Citral, Neral and α -terpineol  
+Unit -6         Enzymes                         (08 Hrs)  
+6.1 Introduction, classification and characteristic of enzymes  
+6.2 Salient features of active site  
+6.3 Mechanism of enzyme action – e.x trypsin  
+6.4 Factors affecting enzyme actions  
+6.5 Coenzyme and cofactors and their rol e in biological reaction  
+6.6 Specificity of enzyme action – Stereospecificity  
+6.7 Enzyme inhibiters and their importance  
+6.8 Phenomena of inhibition – competitive, uncompetitive and non -competitive 
+inhibition – allosteric inhibition  
+Unit -7        Vitamins and hormones                                   (08 Hrs)  
+7.1 Introduction of vitamin  
+7.2 Source of Vitamin  
+7.3 Classifications of Vitamin – Water Soluble, Fat Soluble  
+7.4 Structure and Action of Vitamins in human body  
+7.5 Hormones Introduction and overview  
+7.6 Biosynthesi s of hormones  
+7.7 Hormone receptors  
+7.8 Mechanism of hormonal action  
+Unit -8        Steroids                          (08 Hrs)  
+8.1 Introduction  
+8.2 Nomenclature of steroids  
+8.3 Cholesterol  
+8.4 Colour Reactions  
+8.5 Some reactions of steroids  
+8.6 Stigmasterol  
+8.7 β-Sitotsterol  
+8.8 Bile Acids  
+8.9 Ergosterol , Diosgenin, Solasodine, Hecogenin  
+ 
+ 
+
+==== PAGE 4 ====
+Reference Book:  
+1. Organic Chemistry, Volume -1,2, I.L.Finar, 6 th Edn., 2002, , Pearson  
+2. Organic Chemistry, Seventh Edition, By R.T.Morrison, R.N.Boyd , S.K. 
+Bhattacharjee 2010, Pearson  
+3. Advance Organic Chemistry, Arun Bahl and B S Bahl, 2012, S.Chand  
+4. Organic Chemistry, W.H. Perkin and F. S. Kipping, 2012, Nabu Press  
+5. Hormones , Anthony W. Norman and Gerald Litwack , 2nd Edn., 1997, Academic 
+press  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 5 ====
+ 
+ 
+Program: B.Sc.  (Sem -V) Type:  Theory  
+Subject: DSC -10- Physical Chemistry -IV:  Surface Chemistry & Colloid Science  
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description: This Course Paper proposes to teach about: Distribution law and its 
+applications, catalysis, adsorption, adsorption isotherms, colloids, emulsions, gels, associated 
+colloids, sols - characteristics, types, theories and applications.  
+Student learning outcome:  After completing this cours e, the students will be able to learn: 
+Explanation - Modifications and limitations of distribution law, determination of equilibrium 
+constant, characteristics -properties , types and theories of catalysis, adsorption, colloids, emulsions, 
+gels, associated col loids, sols, mechanisms of adsorption isotherms and applications of above all 
+topics in various fields.  
+ 
+Unit 1: Distribution Law:              (04Hrs)  
+       1.1    Nernst distribution law  
+       1.2    Solubility and distribution law  
+       1.3    Explanation and limitations of distribution law  
+       1.4    Modifications in distribution law  
+1.5    Henry’s law  
+1.6    Determination of equilibrium constant from distribution co -efficient  
+1.7    Extraction and multiple extractions  
+1.8    Applications of  distribution law  
+1.9    Numerical  
+ 
+Unit 2: Catalysis               (04 Hrs)  
+2.1    Types of catalysis  
+2.2    Characteristics of catalytic reactions  
+2.3    Promoters  
+2.4    Catalytic poisoning  
+ 
+Unit 3  Types of Catalysis             (08 Hrs)  
+3.1    Autocatalysis  
+3.2    Negative catalysis  
+3.3    Acid -base catalysis  
+3.4    Enzyme catalysis  
+ 
+Unit 4: Theories of Catalysis            (12 Hrs)  
+4.1    Intermediate compound formation theory  
+4.2    Adsorption theory  
+4.3    Hydrogenation of Ethylene in presence of Nickle  
+4.4    Activation energy and catalysis  
+ 
+Unit 5: Adsorption              (04 Hrs)  
+5.1    Mechanism of adsorption  
+5.2    Types of adsorption  
+
+==== PAGE 6 ====
+5.3    Characteristics of adsorption,  
+5.4    Adsorption in gases by soilds  
+5.5    Physical adsorption and chemical adsorption   
+Unit 6: Adsorption Isotherm            (12 Hrs)  
+6.1    Langmuir  
+6.2    Freundlich  
+6.3    Adsorption of solutes from solutions  
+6.4    Applications of adsorption  
+6.5    Ion exchange adsorption  
+6.6    Applications of ion exchange adsorption  
+ 
+Unit 7: Colloids              (08 Hrs)  
+7.1    Types of colloidal systems  
+7.2    Lyophilic and Lyophobic colloids  
+7.3    Characteristics and comparision  of Lyophilic and Lyophobic colloids  
+7.4    Preparation and purification of Lyophilic and Lyophobic colloids  
+7.5    Origin of charge on sol particles and it’s stability  
+7.6    Types, preparation and properties of emulsions  
+7.7    Types and properties of ge ls  
+7.8    Associated colloids: A soap micelle – Cleansing action of soap and detergents  
+ 
+Unit 8:  Properties of Sols:           (08 Hrs)  
+8.1    Optical properties - Tyndal effect  
+8.2    Kinetic properties - Brownian movement  
+8.3    Electrical properties - Electrical double layer  
+8.4    Flocculation values and gold numbers  
+8.5    Origin of charge on sol particles  
+8.6    Stability of sols  
+8.7    Applications of colloids  
+ 
+Reference Books:  
+ 
+1. Essentials of Physical Chemistry; 1st Revised Edition, Arun Bahl, B.S. Bahi, G.D. 
+Tuli; 2008, Reprint 2016, S. Chand and Company Limited  
+2. Physical Chemistry, 10th Edition, Atkins P. W. and De Paula J., 2014, Oxford 
+University Press  
+3. Physical Chemistry , 4th Edition, Castellan, G. W., 2004, Narosa  Publishers  
+4. Physical Chemistry ; 3rd  Edition , Engel, T. & Reid, P., 2012,  Prentice -Hall 
+5. Chemistry concepts and applications, Zundhal, S.S.,  2011,  Cengage India  
+6. Physical Chemistry , Ball D. W., 2012,  Cengage India  
+7. Physical Chemistry , 3rd Edition,  Mortimer, R . G., 2009,  Elsevier  
+8. Physical Chemistry , 6th Edition, Levine, I. N., 2011,  Tata McGraw -Hill 
+9. Physical Chemistry , 2nd Edition , Metz, C. R ., 2009,  Tata McGraw -Hill 
+10. A Text Book of Physical Chemistry; 5th Edition, K.K. Sharma, L.K. Sharma, 2012 , 
+Vikas Publishing House.  
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 7 ====
+ 
+Program: B.Sc.  (Sem -V) Type:  Theory  
+Subject:  SEC -3-Instrumentation and Techniques  
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This course is concerned with the theory and practice of instrumental methods for the separation, 
+identification and quantitative analysis.  
+Student learning outcome:  
+Upon completion of this course, students will:  
+• Integrate a fundamental understanding of the underlining principles.  
+• Use key instrumental techniques for separation and analysis.  
+• Distinguish between qualitative and quantitative measurements and be able to effectively 
+compare and critically select method s for analyses.  
+ 
+Unit -1 Introduction to Instrumental M ethods                                                          (04 Hrs)  
+1.1   Classification of analytical methods  
+1.2   Types of instrumental techniques  
+1.3    Basic functions of instrumentation  
+1.4    Instruments for analysis  
+     1.5   Factors affecting the choice of technique  
+ 
+Unit -2   Potentiometry                                                                                                  (08 Hrs)  
+    2.1    General principle  
+    2.2    Reference electrode: Calomel electrode and silver/silver chloride electrode  
+    2.3    Membrane indicator elec trode  
+          2.3.1    Types of membrane  
+          2.3.2     Glass electrode for pH measurement  
+          2.3.3     Other ion selective electrodes  
+    2.4    Bio-catalytic membrane electrode  
+ 
+  Unit -3    Optical Methods of A nalysis                                                                       (10 Hrs)  
+      3.1    Origin of spectra, interaction of radiation with matter, Beer -Lambert’s  law  
+      3.2    UV-Visible Spectrometry: Basic principle, instrumentation (single and doub le beam  
+                instrument), application  
+      3.3    Infrared Spectrometry: Basic principle, instrumentation (single and double beam   
+               instrument), sampling technique, application  
+      3.4    Atomic absorption spectrometry: Basi c principles of instrumentation, choice of   
+              flame  and burner designs, techniques of atomization and sample introduction  
+ 
+ Unit -4 Thermo -Analytical Instruments                                                                     (06 Hrs)  
+       4.1    Theory of thermogravimetry (TG)  
+       4.2    Basic principle of instrumentation  
+
+==== PAGE 8 ====
+       4.3    Techniques for quantitative estimation of Ca and Mg from mixture  
+       4.4    Applications and limitations  
+ 
+Unit -5   Chromatography: I                                                                                        (09 Hrs)  
+       5.1    Classification  
+       5.2    Principle and efficiency of the technique  
+       5.3    Paper Chromatography: Principles, procedure s, developments of chromatogram -    
+                ascending, descending and radial, applications  
+       5.4    Thin layer Chromatography (TLC): Advantages, principles, adsorbents and        
+                 solvents preparation of plates development of the chromatogram,  spot detection,   
+                 applications  
+ 
+Unit -6   Chromatography: II                                                                                       (10 Hrs)  
+       6.1    Gas chromatography: Principles,  stationary and mobi le phases, column, detectors  
+                (TCD, ECD, FID), application and limitation  
+       6.2    HPLC: Basic principle, instrumentation, detectors, application  
+       6.3    Ion exchange chromatography  
+       6.4   Gel filtration chromatography  
+ 
+Unit -7   Electrophoresis                                                                                               (07 Hrs)  
+       7.1    Introduction  
+       7.2    Types of electrophoresis  
+       7.3    Principle  
+       7.4    Application  
+Unit -8   Radiochemical I nstruments                                                                           (06 Hrs)  
+         8.1    Fundamentals of radiochemical methods  
+         8.2    Measurement of alpha particles  
+         8.3    Measurem ent of beta particles  
+         8.4    Measurement of gamma radiation  
+         8.5    Isotope dilution method: Principle and application  
+ 
+ 
+Reference Books:  
+1. Basic Concepts of Analytical Chemistry, S.M. Khopkar,2008, New age international   
+Publication  
+      2. Elementary organic spectroscopy, Y.R. Sharma, 2013, S. Chand publication  
+      3. Instrumental Methods of Analysis , Willard, H.H , 7th Edn., CBS  
+      4. Principles of Instrumental Analysis, Skoog, Holler F.J. Stanley R. Crouch, 2016,    
+          Cengage Learning  
+      5. Quantitative analytical chemistry , James S. Fritz George H. Schenk , 1974, Allyn and    
+            Bacon  
+      6. Instrumental methods of Chemical analysis by Gurdeep R.Chatwal , 2014, Himalaya   
+    Publication House  
+ 
+ 
+ 
+ 
+
+==== PAGE 9 ====
+Program: B.Sc.  (Sem -V) Type:  Theory  
+Subject: DSE -5-Bioinformatics and Chemoinformatics  
+Credit: 02 Total learning hours: 30 
+Course description: The objectives of this course are to provide students with the theory and 
+practical experience of the use of common Bioinformatics tools which facilitate investigation of 
+molecular biology and evolution -related  concepts.  
+This course for chemistry, biochemistry and bioinformatics students introduces the small -
+molecule -ligand -oriented in silico physical chemistry aspects of rational drug design.  
+Topics include Introduction to subject, information regarding basic database and application of 
+cheminformatics.   
+Student learning outcome:  
+• Able to gain basic idea of Computer and Bioinformatics  
+• Able to understand what is Database and how it is managed?  
+• Can gain knowledge of NCBI and other Bioinformatics concepts.  
+• Able to understand aim of Bioinformatics, its scope and use for biotechnology research  
+• Able to Describe the principles of cheminformatics  
+• Able i nvestigate chemicals and materials that are not practical for laboratory analysis  
+• Able to practise computer assisted structure elucidations  
+ 
+Unit -1 Introduction to Computer & Bioinformatics                                                 (04 Hrs)  
+1.1   MS-WORD, EXCEL, Microsoft PowerPoint, Adobe Photoshop  
+1.2   Introduction & History of Bioinformatics  
+1.3   Area and Scope of Bioinformatics  
+1.4   Biological databases, Primary & Secondary Database, DNA and Protein Structure    \     
+  and sequence Database, Metabolic Pathway Database  
+ 
+Unit -2  Bioinformatics Tools                                                                                        (04 Hrs)  
+      2.1   Sequence alignment: Pairwise alignment techniques Global alignment,  Local  
+              Alignment  
+      2.2   Pairwise alignment techniques - continued, Significance of alignment - Z-score, P -  
+               score, E -value  
+      2.3    Different types of BLAST and FASTA  
+      2.4    Multiple sequence Alignment -Dynamic Pro graming Sequence alignment, ClUSTAL     
+               W, HMM  
+ 
+UNIT -3  Bioinformatics Software & Program                                                           (04 Hrs)  
+3.1    Concept of dendrograms and its interpretation, Phylogenetic analysis -Maximum    
+         Parsimony and UPGMA methods  
+3.2    Phylogenetic trees:  Rooted and unrooted trees  
+3.3    Phylogeny programs: PHYLIP, PAUP, MEGA.  
+3.4    3D structure viewers (Rasmol, SPDBv, Chime, Cn3D, PyMol)  
+ 
+Unit -4  Organization  of Bioinformatics in India                                                       (03 Hrs)    
+4.1    BTIS  
+4.2    Protein structure prediction server, Conformational epitope prediction server  
+4.3    Genomics and Proteomics server  
+4.4    Indian IT Companies involved in Bioinformatics Initiatives  
+ 
+ 
+
+==== PAGE 10 ====
+Unit: 5 Introduction to Cheminformatics                                                                  (04 Hrs)  
+5.1    History and evolution of cheminf ormatics  
+5.2    Use of cheminformatics  
+5.3    Prospects of cheminformatics  
+5.4    Molecular modelling and structure elucidation  
+Unit: 6 Chemical Databases                                                                                        (04 Hrs)  
+6.1    CHEMDB  
+6.2    KEGG LIGAND  
+6.3    CSD  
+6.4    CAS REGISTRY  
+6.5    BIOMETA DB  
+6.6    National Cancer Institute Database(NCI), PubChem, chEMBL, DrugBank, etc.  
+ 
+Unit -7 Molecular Drawing and Interactive Visualization                                         (03 Hrs)  
+7.1 ChemDraw  
+7.2 MarvinSketch  
+7.3 ORTEP  
+7.4 Chimera      
+Unit -8 Application of Cheminformatics                                                                     (04 Hrs)  
+8.1   Prediction of properties of compounds  
+8.2    Linear Free Energy Relations;  
+8.3    Quantitative Structure -Property Relations  
+8.4    Model Building  
+8.5    Structure -Spectra correlations  
+ 
+ 
+Reference books:  
+1. Bioinformatics: Sequence and genome analysis , Mount, D. W., 2001,  Cold Spring 
+Harbor, NY: Cold Spring Harbor Laboratory Press.  
+2. Introduction to bioinformatics, Attwood TK, Parry -Smith DJ. Essex, 1999, GB: 
+Pearson Education  
+3. Bioinformatics: Principles and Applications , Ghosh Z. and Bibekanand  M., 2008,  
+Oxford University Press  
+4. An introduction to Chemoinformatics, Andrew  R. Leach & Valerie, J. Gillet, 2007,   
+Springer: The Netherlands.  
+5. Chemoinformatics: A text -book, Gasteiger, J. & Engel, T., 2003, Wiley -VCH.  
+6. QSAR & Molecular Modeling, Gupta, S. P., 2011 , New Delhi: Anamaya Pub.  
+7. Molecular Modelling for Beginners, Alan Hinchliffe, 2003, John -Wiley   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 11 ====
+ 
+Chemistry Lab -Semester -V 
+ 
+1. To determine the molecular condition of Benzoic acid in its solution in Kerosene by 
+the  method of partition coefficient  
+2. Verify the Langmuir isotherms for adsorption of acetic acid on activated charcoal  
+3. Verify the Freundlich isotherms for adsorption of metal on natural adsorbent  
+4. Determination of pH of soil/aerated drinks/fruit juices/shampoos/soaps  
+5. Verification of Lambert -Beer's law and determination of concentration of a coloured 
+species (CuSO 4/KMnO 4/K2Cr2O7) 
+6. Separation and identification of the monosaccharides present in the given mixture 
+(glucose & fructose) by paper chromatography/Separation of green leaf pig ments/o -
+and p -nitrophenol/ Sudan yellow and Sudan Red using TLC  
+7. Analysis of pre -recorded IR spectroscopic data of organic compounds  
+8. Organic Estimation (Any t wo) 
+1) Vitamin -C  
+2) Gycine  
+3) Aniline/Phenol  
+9. Organic Preparation(Single Step):  
+1)  Preparation of m -dintrobenz ene from nitrobenzene.  
+2)  Preparation of benzoic acid from benzaldehyde.  
+3) Preparation of p -aminobenzoic acid from p -nitrobenzoic acid.  
+ 
+Reference Books:  
+1. Advanced Physical Chemistry, J.B. Yadav, 14th Edition, 1995, Goel Publishing 
+House.  
+2. Experiments in Physical Chemistry 8th Ed.; Garland, C. W.; Nibler, J. W. & 
+Shoemaker, D. P.  McGraw -Hill: New York (2003).  
+3. A Text Book on Chemistry Practical; 1st Edition, Bidhan Chandra Ray, Satyanarayan 
+Das, Reprint  2017, NCBA.  
+4. Vogel, A.I. Quantitative Organic Analysis, Part 3, ,2012, Pearson  
+ 
+ 
+ 
+ 

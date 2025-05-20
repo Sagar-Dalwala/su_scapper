@@ -1,0 +1,582 @@
+---- PDF METADATA ----
+Author: Admin
+Creator: Microsoft® Word 2016
+CreationDate: D:20220429111543+05'30'
+ModDate: D:20220429111543+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 12
+
+==== PAGE 1 ====
+SEMESTER -II  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 2 ====
+ 
+ Unit -1 Structure and Structural Theories of Organic C ompounds                        (07Hrs)  
+        1.1    Introduction  
+        1.2    Structures and properties of molecules  
+        1.3    Isomerism  
+        1.4    Shapes of atomic orbital  
+        1.5    Molecular orbital  
+        1.6    The covalent bond  
+        1.7    Types of MOs  
+        1.8    Hybridization  
+        1.9    Hydrogen bond  
+        1.10  Polarity of bonds and molecules and dipole moment  
+ 
+    Unit-2 Organic Reactions and their Mechanisms                    (07Hrs ) 
+2.1   Introduction  
+2.2   Types of organic reactions  
+2.3   Types of reaction intermediates  
+2.4    Electron delocalization  
+2.5    Types of reagents and organic reactions  
+2.6    Organic acids and bases & their strength  
+2.7    Thermodynamics  of organic reactions  
+2.8    Kinetics of organic reactions  
+2.9    Effect of catalyst on the kinetics of a reaction  
+            2.10  IUPAC Nomenclature of organic compounds  
+ 
+  Unit -3 Alkanes and Alkyl Halides                                  (08Hrs ) 
+ Alkanes:  
+3.1    Introduction  
+3.2    Nomenclature  Program: B.Sc.  (Sem -II)  Type:  Theory  
+Subject:  DSC -3-Organic Chemistry -I:  Fundamentals Of Organic Chemistry  
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This course provides a systematic study of the theories, principles, and techniques of basic organic 
+chemistry. Topics include structure and structural theories of organic compounds, organic reactions 
+and their mechanisms, study of ali phatic and aromatic hydrocarbons and stereochemistry.  
+Student learning outcome:  
+Students will be able:  
+• To describe structure of organic compounds.  
+• To explain organic reactions and their mechanisms.  
+• To use organic nomenclature . 
+• To identify functional groups . 
+• To describe alkanes, alkenes, and alkynes . 
+• To describe isomerism in alkenes and cyclic compounds  
+• To explain the properties of organohalogen compounds and benzene and its derivatives  
+
+==== PAGE 3 ====
+3.3    Substitution reactions of methane  
+3.4    Structural isomerism in alkane  
+3.5    Homologous series  
+3.6    General Method of preparation of the alkanes  
+3.7    General Physical properties of the alkanes  
+3.8    General Ch emical properties of the alkanes  
+3.9    Some Individual alkanes: Methane, Ethane, Propane  
+Alkyl halides  
+3.10    Introduction  
+3.11    Nomenclature  
+3.12    Method of Preparation  
+3.13    Physical Properties  
+3.14    Chemical Properties -Substitution Reaction (SN1&SN2), Elimination Reaction  
+            (E1&E2)  
+3.15    Monohalogen, Dihalogen, Trihalogen and Polyhalogen Derivatives  
+ 
+  Unit - 4 Alkenes, Dienes and Alkynes                      (08Hrs)  
+ Alkenes  
+4.1     Introd uction  
+4.2.    Nomenclature  
+4.3     Method of Preparation -Saytzeff Rule  
+4.4     Physical Properties  
+4.5     Chemical Properties -Markoynikov Rule  
+4.6     Some alkenes: Ethylene, Propylene  
+ Dienes  
+  4.7    Classification of Dienes  
+  4.8    1, 3-butadiene: Preparation and Properties  
+ Alkynes  
+  4.9       Acidity of Alkynes  
+  4.10    Nomenclature  
+  4.11    Method of preparation  
+  4.12    Physical and Chemical Properties  
+  4.13    Acetylene  
+ 
+ Unit - 5 Aryl halides & Aromatic Compounds                     (08Hrs)  
+ Aryl halides  
+5.1    Introduction  
+5.2   Method of Preparation  
+5.3   Physical Properties  
+5.4   Chemical Properties - 1) Reactions involving Halogen Atom  
+    2) Reactions involving Aromatic Ring  
+5.5   Chlorobenzene, Chlorotouene  
+5.6    Arylalkyl Halides, Arylmagnesium Halides  
+Aromatic Compounds  
+5.7   Introduction  
+5.8   Sources of aromatic compounds: Coal, Petroleum  
+5.9   Nomenclature  
+ 
+  Unit - 6 Cycloalkanes and Benzene & its Homologous          (08Hrs ) 
+  Cycloalkanes:  
+6.1     Introduction  
+
+==== PAGE 4 ====
+6.2     Nomenclature  
+6.3     Physical Properties  
+6.4     Method of Preparation  
+6.5     Chemical Reactions  
+6.6     Cyclopropane aaand Cyclobutane preparation  
+6.7     Bayer’s Strain Theory and its limitations  
+6.8     Theory of Strainless ring  
+6.9      Conformations of Cycloalkanes  
+ Benzene & its Homologous  
+6.10     Nomenclature  
+6.11     Structure of Benzene  
+6.12     Resonance Energy of Benzene  
+6.13     Aromaticity  
+6.14     Benzene, Toluene, Xylene, Cumene, Styrene  
+6.15     Futuristic Material Fullerenes  (Bucky Balls), Carbon Nanotubes (Bucky  tubes)  
+ 
+ Unit- 7 Polynuclear Hydrocarbons                       (07Hrs ) 
+7.1      Introduction  
+7.2      Classification  
+7.3      Nomenclature  
+7.4      Synthesis, Chemical Reactions and Uses: Naphthalene, Anthracene, Phenanthrene  
+7.5      Derivatives of Naphthalene, Anthracene, Phenanthrene  
+ 
+Unit - 8 Stereo Chemistry             (07Hrs ) 
+8.1     Introduction  
+8.2     Isomerism and its classification  
+8.3     Geometrical isomerism: cis -trans and syn -anti isomerism E/Z notations with      
+          C.I.P rules.  
+8.4     Conformational isomerism in alkanes (Ethane, Propane and n -butane) with                      
+          energy profile diag rams   
+8.5 Optical Isomerism: Optical activity, specific  rotation, chirality/asymmetry, 
+enantiomers, molecules with two or more chiral centers, distereo isomers, meso  
+structures, racemic mixtures and resolution, relative and absolute configuration, 
+D/L, R/S and E/Z designations.  
+8.6     Fischer, Newmann and Sawhorse Projection formulae and their inter                            
+                 conversions  
+ 
+Reference B ooks:  
+  
+1. Organic Chemistry, Volume -1,2, I.L.Finar, 6 th Edn., 2002, , Pearson  
+2. Organic Chemistry, Seventh Edition, By R.T.Morrison, R.N.Boyd, S.K. Bhattacharjee 
+2010, Pearson  
+3. Advance Organic Chemistry, Arun Bahl and B S Bahl, 2012, S.Chand  
+4. Organic Chemistry, W.H. Perkin and F. S. Kipping, 2012, Nabu Press  
+ 
+ 
+ 
+ 
+
+==== PAGE 5 ====
+ 
+Unit 1: Chemical E quilibri um             (04 Hrs)  
+1.1 Concepts and characteristics  
+1.2 The law of chemical equilibrium  
+1.3 The Le Chatelier’s principle  
+1.3.1 Effects of change of temperature, pressure and concentration  
+1.4 Applications of the law of chemical equilibrium  
+1.4.1 Chemical equilibria in homogeneous systems  
+1.4.2 Chemical equilibria in heterogeneous systems  
+1.5 Numerical  
+ 
+Unit 2: Solubility              (04 Hrs)  
+     2.1 Solubility  and solubility product  
+     2.2 Com mon ion effect  
+     2.3 Applications of solubility product  
+2.3.1  Determination of solubility of sparingly soluble salt  
+2.3.2  Fractional precipitation  
+2.3.3  Qualitative analysis  
+2.3.4  Salting out of soap  
+     2.4 Numerical  
+ 
+Unit 3:   Phase Equilibria             (08 Hrs)  
+     3.1 Phase and components, Degree of freedom (F)  
+     3.2 Gibb’s phase rule: derivation, reduced phase rule and phase diagram  
+     3.3 One component system: phase diagram of Water, Carbon Dioxide and Sulfur  
+     3.4 Two component system: eutectic behaviour  
+Phase diagram of Lead -Silver, Zinc -Magnesium, Ferric Chloride -Water,  
+Sodium -Potassium, Sodium Sulfate -Water  
+     3.5 Method of construction of a phase diagram: cooling curve, heating curve, lever rule  
+     3.6 Phase diagram of liquid -liquid systems: Phenol -Water and Sodium Chloride -Wate   
+ 
+Unit 4: Hydrolysis              (06 Hrs)  
+     4.1 Hydrolysis, s alt hydrolysis, hydrolysis constants  
+     4.2 Relation between degree of hydrolysis  Program: B.Sc.  (Sem -II) Type:  Theory  
+Subject: DSC -4-Physical Chemistry -I-Chemical Equilibrium and Electrochemistry  
+Credit: 04 (T) + 02(P)  Total learning hours: 60 
+Course description: This Course Paper proposes to teach about: The chemical equilibrium, 
+solubility, phase equilibria, hydrolysis, pH metric titrations, electrolytes and electrolysis, behav iour 
+of ions in aqueous solutions, conductance  and conductometric titrations, characteristics of above all 
+and their applications.  
+Student learning outcome:  After completing this course, the students will be able to learn: Concepts 
+and characteristics, va rious laws, principles, rules, derivations, measurements, determinations, and 
+calculations related to chemical equilibrium, solubility, phase equilibria, hydrolysis, pH metric 
+titrations, electrolytes and electrolysis, behaviour of ions in aqueous solution s, conductance and 
+conductometric titrations.  
+
+==== PAGE 6 ====
+     4.3    Hydrolysis constant and pH of solutions of   
+   (a) Salts of weak acid and strong base   
+   (b) Salts of strong acid and weak base  
+   (c) Salts of weak acid and weak base  
+     4.4    Significance of the Hend erson -Hasselback equation  
+     4.5    Numerical  
+ 
+Unit 5:  Electrochemistry             (04 Hrs)  
+      5.1    Principle: Faraday’s law  
+      5.2    Electrochemical cell  
+      5.3    Electrode Potential: Nernst’s equation  
+      5.4    Potentiometric titrations  
+      5.5    Numerical  
+ 
+Unit 6:  pH metric  Titrations             (06 Hrs)  
+      6.1    Principle of pH measurements  
+      6.2    Acid -base titration curves  
+         6.2.1  pH curve for a strong acid –strong base titrations  
+         6.2.2  pH curve for a weak acid –strong base titrations  
+         6.3.3  pH curve for a strong acid –weak base titrations  
+      6.4    Numerical  
+ 
+Unit 7: Electrolyt es             (12 Hrs)   
+      7.1      Ions in solutions  
+      7.2      Metalic  conductance  
+      7.3      Electrolytic conductance  
+      7.4      Classification of electrolytes  
+      7.5      Electrolysis:  Product formation of electrolysis  
+      7.6      Migration of ions : Hittorf’s rule  
+      7.7      Transport  number of ions and   its determination by moving boundry method.   
+      7.8      Factors affecting transport numbers  
+      7.9      Kohlraush law of ionic conductance  
+      7.10    Application of Kohlraush law to   
+                 (a) Determination of deg ree of dissociation of weak electrolyte.  
+                 (b) Determination of equivalent conductivity of weak electrolyte at infinite       
+                      dilution.  
+                 (c) Determination of solubility and solubility product of sparingl y soluble salts.  
+                 (d) Determination of ionic product of water  
+    7.11    Numerical  
+ 
+Unit 8: Electrolytic Conductance            (12 Hrs)  
+1.1   Electrical conductance, specific conductance, equivalent conductance, molar    
+conductance  
+      8.2    Cell constant, Determination of Cell constant  
+      8.3    Effect of dilution on concentration - Ostwald’s di lution law and its limitations  
+      8.4    Factors affecting conductance of electrolytic solutions  
+      8.5    Conductometric titrations: advantages, procedures and precautions  
+      8.6    Principle and types of conductometric titrations:  
+    (a) strong acid v/s strong base (b) strong acid v/s we ak base  
+   (c) weak acid v/s strong base  (d) weak acid v/s weak base  
+
+==== PAGE 7 ====
+   (e) weak acid and strong base mixture v/s strong base  
+   (f) Precipitation titrations  
+    8.7 Numerical  
+ 
+Reference Books:  
+ 
+1.  Essentials of Physical Chemistry, Arun Bahl, B.S. Bahi, G.D. Tul i, 1st Revised Edition   
+    2008, Reprint 2016 , S. Chand and Company Limited.  
+2. An Introduction to Physical Chemistry,  Ishwar Das, Archana Sharma, Namita Rani     
+    Agrawal, 3rd Revised Edition, 2012, New Age International Publishers.  
+3. Text book of Engineering Chemistry by Shashi Cha wla, Dhanpat Rai and Company, 3rd  
+     Edition, 2003, Dhanpat rai and co. pvt. ltd.   
+4. Textbook of Physical Chemistry,  M.V. Sangaranarayanan, V. Mahadevan, 1st Edition,     
+    2011, Universi ty Press (India) Pvt. Ltd.  
+5. Physical C hemistry for S.Y.B.Sc. Sem -4, Dr. Hemangi Desai,  2017, New Popular   
+    Prakashan,                                 
+6. Elements of Physical Chemistry; 2nd Edition,  Samuel Glasstone, David Lewis, 1960 , The  
+MacMillan Company of India Ltd.  
+7. A Te xt Book of Physical Chemistry A. S. Negi & S.C. Anand, 1st Edition, 1999 , New  
+    Age International.  
+8. Text Book of Physical Chemistry, P. L. Soni and O. P. Dharmraj, 19th Edition, 1992, S.  
+    Chand and Company.  
+9. Text book of Physical Chemistry, S.C.Khetarpal and Yogeshwar Sharma, 1st Edition,  
+    2001, S. Chand and Company.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 8 ====
+Unit -1 The Genesis of Polymers                       (04 Hrs)  
+     1.1 A Brief History  
+     1.2 Monomer: Basic concept, Types, Functionality, Purification  
+     1.3 Polymer: Basic concept, Types of Polymer structure, Effect of functionality, IUPAC 
+nomenclature of polymer  
+    1.4 Classification of Polymers  
+    1.5 Chemistry of Polymerization  
+ 
+Unit-2 Molecular Weight and Size             (04Hrs ) 
+     2.1 “Average” molecular weight  
+     2.2 Number -Average and Weight -average molecular weights  
+     2.3 Molecular weight and Degree of Polymerization  
+     2.4 The Practical significance of Polymer molecular weight  
+ 
+Unit-3 Kinetics of Polymerization             (03Hrs) 
+     3.1 Introduction  
+     3.2 Free-radical Chain Polymerization  
+     3.3 Cationic Polymerization  
+     3.4 Anionic Polymerization  
+ 
+Unit-4 Copolymerization              (03Hrs ) 
+     4.1 Introduction  
+     4.2 Kinetics of Copolymerization  
+     4.3 Free-radical Copolymerization  
+     4.4 Ionic Copolymerization  
+ 
+Unit-5 Polymer Structure and Physical Properties          (04Hrs ) Program: B.Sc.  (Sem -II) Type:  Theory  
+Subject:   DSE -2- Polymer Chemistry  
+Credit: 02 (T) Total learning hours: 30 
+Course description:  
+The course gives a general introduction to polymers. Focus is placed on the classification and 
+systematics of polymers. It also deals with the polymerization techniques, kinetics of polymerization, 
+molecular w eight and size, polymer structures and physical properties, polymer reaction, polymer 
+solutions and individual polymers . 
+Student learning outcome:  
+Students will be able:  
+• To understand the Chemistry of polymers.  
+• To recognize the types of polymers, the significance and determination of their molecular 
+mass and understand the relationships between polymer molecular weight, molecular weight 
+distribution, and the properties of polymeric materials.  
+• To acknowledge in detail the mechanisms of the reactions tha t lead to the formation  
+• To understand different levels of polymer structure.  
+• To apprehend an overview of polymer reactions and reactivity of polymers.  
+• To understand factors that influences the degradation of polymers.  
+• To learn about the properties of poly mers in solution and biopolymers.  
+
+==== PAGE 9 ====
+     5.1 Polymer Microstructure  
+     5.2 Glass Transition Temperature  
+     5.3 Crystallinity in Polymer  
+     5.4 Viscoelasticity  
+ 
+Unit-6 Polymer Reactions              (04Hrs ) 
+     6.1 Introduction  
+     6.2 Hydrolysis, Acidolysis, Aminolysis, Hydrogenation  
+     6.3 Addition and Substitution Reactions  
+     6.4 Cyclization Reactions  
+ 
+Unit-7 Polymer Solutions              (04Hrs ) 
+     7.1 Polymer Dissolution  
+     7.2 Thermodynamics of Polymer Dissolution  
+     7.3 The Flory -Huggins Theory of Polymer Solution  
+     7.4 Nature of Polymer Molecules in Solution  
+ 
+Unit-8 Individual Polymers              (04Hrs ) 
+      8.1 Hydrocar bon Plastics and Elastomers:Polyethylene, Polypropylene, Polyisoprene,  
+           Polybutadiene  
+      8.2 Carbon -Chain Polymers:Polystyrene,Polyacrylonitrile, Polyesters, PVC, PFC  
+      8.3 Hetero Chain Thermoplastics: Polyamide, Polypeptides, Cellulosic Polymers  
+      8.4 Inorganic Polymers and Biopolymers  
+ 
+Reference books:  
+1. Polymer Science, V R Gowarikar, N V Vishwanathan, Jaydev Sreedhar, 1987, Wiley –
+Blackwell  
+2. Text Book of Polymers Vol I to III, M S Bhatnagar, 2004, S. Chand Publ ication  
+3. Text Book of Polymer Science, F W Billmeyer, 2007, Wiley  
+4. Principles of Polymerization, George Odian, 2004, Wiley -Interscience  
+5. Introductory Polymer Chemistry, S Misra, 1994, Wiley –Blackwell  
+6. Text Book of Polymer Science, P L Nayak and S Lenka, 2001,  Kalyani Publishers  
+7. Polymer Science and Technology, A Ghosh, 2001, Tata McGraw Hill Education  
+8. Polymer Chemistry, M G Arora and M Singh, 2003, Anmol Publisher  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 10 ====
+ 
+Unit -1 Solid Electrolyte                                                                                                  (04Hrs)  
+1.1   Introduction  
+1.2   Characteristics and advantage  
+1.3   Types of solid electrolyte  
+1.4 Application of solid electrolyte  
+ 
+Unit -2 Molecular Material                                                                                             (04Hrs)  
+      2.1   Molecular material and fullerides  
+      2.2   One-dimensional metals  
+      2.3   Molecular magnets  
+       
+Unit -3 Composites                                                                                                         (04Hrs)  
+      3.1   Definition, General characteristics and classification  
+      3.2   Role of matrix in composites  
+      3.3   Fibre-reinforced composites         
+      3.4   Applications of composites        
+ 
+Unit -4 Nanomaterial                                                                                                     (04Hrs)  
+      4.1   Definition and types of nano -mater ials 
+      4.2   Size dependent properties  
+      4.3   Carbon nanotubes  
+      4.4   Bio-inorganic nanomaterials and composites  
+ 
+ Program: B.Sc.  (Sem -II) Type:  Theory  
+Subject:  :  DSE -2- Chemistry of N ew Material  
+Credit: 02 (T) Total learning hours: 30 
+Course description:  
+This course provides an overview of novel material like composites, solid electrolytes, liquid crystal, 
+self-healing materials, and nanomaterial.  
+This course emphasises on the introduction and application of modern material.  
+Student learning outcome:  
+Upon completion of this course, students will:  
+• Have understanding of importance and types of inorganic solid s like electrolytes, , molecular 
+compounds  
+• Get information regarding types, properties and classification of nanoparticles, preparation 
+of metallic nanoparticles  
+• Know about carbon nanotubes as well as bio -nano material  
+• Get insight of characteristics of al loys, their classification and some application  
+• Find information regarding the various types of composites as engineering materials and 
+environmental effects on composites  
+• Be able to discuss the synthesis and properties of speciality polymers  
+• Get knowledge  about liquid crystal and some of the properties of liquid crystals  
+• Be familiar with new idea of self -healing materials and mechanism  
+
+==== PAGE 11 ====
+ 
+Unit -5 Organic Conductors                                                                                          (03Hrs)  
+      5.1   Conducting polymers - Introduction, conduction mechanism  
+      5.2   Electrically conducting organic solids  
+      5.3   Polyacetylene, po lyparaphenylene and polypyrole  
+      5.4   Applications  
+ 
+Unit -6 Liquid Crystal                                                                                                     (04Hrs)  
+      6.1   Mesomorphic behaviour  
+      6.2   Thermotropic liquid cry stal  
+      6.3   Optical properties of liquid crystals  
+      6.4   Optical storage memory switches and sensors  
+ 
+Unit -7 Alloys  for Mechanical Construction                                                                 (04Hrs)                                                           
+      7.1   Classification of alloys  
+      7.2   Copper, aluminum and their alloys like duralumin, brasses and bronzes  
+      7.3   High speed tool steel  
+      7.4   Super alloys   
+ 
+Unit -8 Self -healing Material                                                                                         (03Hrs)  
+       8.1   History  
+       8.2   Self-healing cementitious material  
+       8.3   Autonomic, autogenic and bio -based healing  
+       8.4 Various Self-healing materials (Introduction only)  
+ 
+Reference Books:  
+1. Solid electrolytes and their applications , Subbarao, E. (Ed.). 2012, Springer Science & 
+Business Media  
+2. Self‐healing materials,  Advanced Materials , 22(47), 5424 -5430, Hager, M. D., Greil, 
+P., Leyens, C., van der Zwaag, S., & Schubert, U. S. (2010).  
+3. Self-healing materials: fundamentals, design strategies, and applications  (pp. 138 -
+217), Ghosh, S. K. (Ed.), 2009, Weinheim:  Wiley -vch 
+4. Inorganic solids: an introduction to concepts in solid -state structural chemistry , 
+Adams, D. M. (1974), John Wiley & Sons  
+5. Introduction to Nanotechnology , Charles P. Poole Jr.,  Frank J. Owens, 2003, John 
+Wiley & Sons  
+6. Shriver and Atkins' inorganic  chemistry , Atkins, P., & Overton, T., 2010,  Oxford 
+University Press, USA.   
+7. Descriptive inorganic, coordination, and solid state chemistry , Rodgers, G. E., 2011, 
+Cengage Learning.  
+8. Principles of the solid state , Keer, H. V., 1993,   New Age International  
+9. Introduction to Solids, Azároff, L. V., 1961, American Journal of Physics , 29(9), 647 -
+647 
+10. Materials Science and Engineering, V. Raghavan, 6th edition, 2015, PHI publication  
+11. A textbook of engineering chemistry , DARA, S. S., 2008,  S. Chand Publishing  
+12. Liquid Crystal -Applications And Uses (Volume 1)  (Vol. 1), Bahadur, B. (Ed.),1990, 
+World scientific  
+ 
+
+==== PAGE 12 ====
+ 
+ 
+ 
+Chemistry Lab -Semester -II 
+ 
+1. Determination of cell constant and calibration of conductivity meter and determination 
+of the normality and amount of the strong acid solution by conductometric titration 
+against strong base solution.  
+2. Determination of the solubility and solubility product of sparingly soluble salt PbSO 4 
+by conductivity measurements.  
+3. Standardization of pH meter and determination of the normality and amount of the acids 
+(mixture of strong and weak acid) solution by pH metric titration against strong base 
+solution.  
+4. Determination of formal reduction potential of ferrous -ferric system and concentration 
+of Fe++ potentiometrically  
+5. Qualitative analysis of unknown organic compounds containing monofunctional groups 
+(carbohydrates, aryl halides, aromatic hydrocarbons, nitro compounds, amines and amides) and 
+simple bifunctional groups, for e.g. salicylic acid, cinnamic acid, nitrophenols etc.  (Minim um 
+seven)  
+ 
+ 
+Reference Books:  
+1. Advanced Physical Chemistry; J.B. Yadav, 14th Edition, 1995, Goel Publishing House.  
+2. Laboratory Manual on Engineering Chemistry;3rd Edition, S.K.Bhasin, Sudha Rani, 
+2011, Dhanpatrai Publishing Company.  
+3. Experiments in Physical Chemistry 8th Ed.; Garland, C. W.; Nibler, J. W. & 
+Shoemaker, D. P.  McGraw -Hill: New York (2003).  
+4. A Text Book on Chemistry Practical; 1st Edition,  Bidhan Chandra Ray, Satyanarayan 
+Das, Reprint 2017, NCBA.  
+5. Vogel, A.I. Quantitative Organic Analysis , Part 3,  ,2012,  Pearson  
+6. Practical Organic Chemistry, Mann, F.G. & Saunders, B.C., 2009, Pearson Education  
+ 
+ 
+ 
+ 
+ 

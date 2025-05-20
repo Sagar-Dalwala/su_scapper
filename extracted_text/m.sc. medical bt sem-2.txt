@@ -1,0 +1,14 @@
+---- PDF METADATA ----
+Title: IndirectObject(26, 0, 2503449300944)
+Producer: IndirectObject(27, 0, 2503449300944)
+Creator: IndirectObject(28, 0, 2503449300944)
+CreationDate: IndirectObject(29, 0, 2503449300944)
+ModDate: IndirectObject(29, 0, 2503449300944)
+Keywords: IndirectObject(30, 0, 2503449300944)
+AAPL:Keywords: IndirectObject(31, 0, 2503449300944)
+---- END METADATA ----
+
+Total Pages: 1
+
+==== PAGE 1 ====
+SARVAJANIK UNIVERSITY FACULTY OF SCIENCE Shree Ramkrishna Institute of Computer Education & Applied Sciences, Surat  Titles of Papers in Syllabus of M.Sc. Medical Biotechnology Semester-2 Sr. No. Paper Type Paper Code Title of Paper 1. Discipline Specific Core Course DSC-3 Clinical Microbiology & Serology DSC-4   Cancer & Stem Cell biology 2. Discipline Specific Elective DSE-2                             Select from "*" 3. Skill Enhancement Course SEC 2 Instrumentation and Analytical Techniques * Elective (Open Course Pool) For DSE-2: Select any one from following: Forensic Chemistry & Toxicology / Bioinformatics / IPR / Biostatistics  

@@ -1,0 +1,133 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426100216Z
+---- END METADATA ----
+
+Total Pages: 4
+
+==== PAGE 1 ====
+SRKI
+BachelorofScienceComputerScience
+75
+FacultyofScience
+ShreeRamkrishnaInstituteofComputerEducation&AppliedSciences,Surat
+B.Sc.ComputerScience
+SEMESTER-6
+
+==== PAGE 2 ====
+SRKI
+BachelorofScienceComputerScience
+76
+Course:601Projectwork
+CourseCode
+CourseTitle DCS-11,DCS-12,DSE-6:Projectwork
+Credit 20
+TeachingperWeek 24hours
+Minimumweeksper
+Semester15(Projectwork,Self-Study,examination,preparation,holidaysetc.)
+LastReview/
+Revision---
+PurposeofCourse StudentswillgettrainedinindustrialpracticesandactivitiesofSoftware
+Engineering
+CourseObjective Toexposestudentstoindustrialpracticesandactivitiesofsoftware
+engineeringandtrainthemaboutthesame.
+Pre-requisite KnowledgeofAdvancedProgramming,LatestTechnologiesandToolsand
+SoftwareEngineering.
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletostart
+professionalcareerand/orresearchworkinthefieldofInformation
+Technology.
+CourseContent Entiresemesterisallocatedforafull-timeprojectwork.Allthestudentshave
+toundergoaprojectpreferablyinanindustryoranyreputedinstitute.The
+studentsmustpreparedocumentationoftheprojectworkdoneasperthe
+softwareEngineeringGuidelines.Attheendofthesemester,thestudents
+havetosubmittheirprojectreportinboundedformtotherespective
+institution.Theprojectpresentationandviva–voicewillbeconductedonthe
+basisofit.
+Thestudentshavetosubmitthefollowingreportstotheirrespective
+institution:
+1.ProjectJoiningReport
+2.Appropriatenameoftheproject
+3.MonthlyProgressReportdulysignbytheconcernexternal
+guide
+4.ProjectCompletionCertificate
+5.Institution/CollegeCertificate
+6.SoftwareCodingdeclaration…(ifindustry/organizationdoesn’tpermit
+studentstosubmitthesourcecode)(Tobesubmittedatthetimeofjoining
+projecttraining)
+7.AttendanceReport
+Withoutsuchreportsstudentwillnotbeallowedtoappearinhis/herfinal
+ProjectPresentationandViva-Voice.
+TeachingMethodologyProjectguidance,reviewofwork
+EvaluationMethod 70%Internalassessmentisbasedonprojectpresentationand/or
+demonstrationandviva-voceexamination,ProjectprogressReview
+30%assessmentisbasedProjectPresentationand/ordemonstrationandviva-
+voceexaminationattheendofsemester.
+
+==== PAGE 3 ====
+SRKI
+BachelorofScienceComputerScience
+77
+Course602:Seminar/ResearchReview:Emergingtrends,technologiesandtoolsincomputerscience
+andIT
+CourseCode
+CourseTitle DSE-6::Emergingtrends,technologiesandtoolsincomputer
+scienceandIT
+Credit 4
+TeachingperWeek 2hours
+Minimumweeksper
+Semester15(Projectwork,Self-Study,examination,preparation,holidays
+etc.)
+LastReview/Revision---
+PurposeofCourse Seminarpresentation:
+Thepurposeofthecourseistomakestudentcapableofgaining
+additionalknowledge(besidesthecurricula)inthefieldof
+informationtechnologybyselflearningpracticesandpresenting
+and/ordemonstratingit.
+OR
+ReviewofResearchpaper:
+Thepurposeofareviewpaperistosuccinctlyreviewrecent
+progressinaparticulartopic.Overall,thepapersummarizesthe
+currentstateofknowledgeofthetopic.Itcreatesanunderstanding
+ofthetopicforthereaderbydiscussingthefindingspresentedin
+recentresearchpapers
+CourseObjective AdditionalknowledgebuildinginthefieldofInformation
+Technologyusingself-learningpracticeandresearchpaper
+reviews.
+Pr-requisite BasicKnowledgeofInformationTechnologytheories,
+activities,methods,techniques&tools
+CourseOutcome Seminarpresentation:
+Aftercompletionofthiscourse,thestudentwillhavegained
+furtherknowledge(besidesthecurricula)inthefieldof
+informationtechnologybyselflearningpracticesandwillbe
+capableofpresentingand/ordemonstratingit.
+OR
+Reviewofresearchpaper:
+Thestudentwillbenefitwithresearchpaperreviews
+Tohelpimprovewritingandresearchskills
+Toprofessionalizethegraduateexperience.
+Toinformafuturecareerpath
+CourseContent Inthispaperstudentswillhavetoselectanytopicrelatedto
+informationtechnologyfield–preferablybasedonthecurrent
+trendsandtechnologiesfortheseminar.Individualstudentis
+requiredtoprepareaseminarreport.Attheendofthesemester
+studenthastosubmitseminarreportwithsatisfactorydetailstudy
+intheboundedformtotherespectiveinstitution.Theseminar
+presentationandvivavoicewillbeconductedonthebasisof
+selectedtopicattheendofthesemester.
+
+==== PAGE 4 ====
+SRKI
+BachelorofScienceComputerScience
+78
+Thestudentshavetosubmitthefollowingdocumentstotheir
+respectiveinstitution:
+1.NameandabstractoftheTopicselected.
+2.MonthlyProgressReportdulysignedbytheconcerninternal
+guide
+3.WorkCompletionCertificatebyinternalguide
+4.Institution/CollegeCertificate
+TeachingMethodologySeminarguidance,review
+EvaluationMethod 70%Internalassessmentisbasedonseminarpresentationand/or
+demonstrationandviva-voiceexamination.
+30%assessmentisbasedseminarPresentationand/or
+demonstrationandviva-voceexaminationattheendofsemester.

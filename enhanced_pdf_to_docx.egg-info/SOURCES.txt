@@ -1,0 +1,11 @@
+README.md
+setup.py
+enhanced_pdf_to_docx/__init__.py
+enhanced_pdf_to_docx/batch.py
+enhanced_pdf_to_docx/converter.py
+enhanced_pdf_to_docx.egg-info/PKG-INFO
+enhanced_pdf_to_docx.egg-info/SOURCES.txt
+enhanced_pdf_to_docx.egg-info/dependency_links.txt
+enhanced_pdf_to_docx.egg-info/entry_points.txt
+enhanced_pdf_to_docx.egg-info/requires.txt
+enhanced_pdf_to_docx.egg-info/top_level.txt

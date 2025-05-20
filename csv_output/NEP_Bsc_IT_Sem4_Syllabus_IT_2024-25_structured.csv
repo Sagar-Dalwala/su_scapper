@@ -1,0 +1,21 @@
+section,subsection,content
+Course Title,,Content      Unit 1: Testing for Applications                                                                                          [8 hrs]
+Objectives,,"of Testing  
+2.2 Testing Principles  
+2.3 Central Iss ue in Testing, Testing Activities  
+2.4 Testing Approaches - Whitebox, Blackbox and Grey box  
+2.5 Levels of testing: Unit, Integration, System and Acceptance"
+Unit,Unit 2,Software Testing Oracles                                                                                         [6 hrs]
+Unit,Unit 3,Test Automation Tools - I                                                                                      [8 hrs]
+Unit,Unit 5,Network Management Concepts                                                                       [8 Hrs]
+Unit,Unit 6,Network Management Models                                                                           [8 Hrs]
+Unit,Unit 1,Testing for Applications                                                                                          [8 hrs]
+Unit,Unit 4,Test Automation Tools - II                                                                                     [8 hrs]
+Unit,Unit 7,Configuring servers with Server OS                                                                 [8 Hrs]
+Unit,Unit 8,Network Security                                                                                                 [8 Hrs]
+Assessment,,is based on end semester written examination
+References,,"Literature  1. Data communications and network Behrouz A Forouzan, McGraw Hill  
+2. Data communications and networks, Achyut S Godbole, McGraw Hill  
+3. Fundamentals of computer networks, Sudakshina Kundu, PHI  
+4. Data communications and networking, Jain, BPB  
+5. Introduction to networking, McMahon, McGraw Hill"

@@ -1,0 +1,110 @@
+page,content_type,content
+1,text,FacultyofScience
+2,text,A.AboutM.Sc.MicrobiologyProgramme
+3,text,D.M.Sc.MicrobiologyCourseStructure
+4,text,E.EvaluationScheme
+5,text,F.Syllabus
+6,text,SeminarPresentation
+7,text,Reviewofpublishedresearchpaperarticle
+1,table," Unnamed: 0                                                                                                                                                                                                                                                                                                       Unnamed: 1  Unnamed: 2
+        NaN Faculty of Science\rSHREERAMKRISHNA INSTITUTEOFCOMPUTER\rEDUCATIONANDAPPLIEDSCIENCES, SURAT\rM.Sc. Microbiology\rSyllabus\r(Effective from 2021)\rM.T.B College Campus, B/h P.T.Science College, Opp. Chowpati,\rAthwalines, Surat-395001 Gujarat, India\rContact: 7228018498, 728018499. Email: info@srki.ac.in         NaN
+        NaN                                                                                                                                                                                                                                                                                                              NaN         NaN
+        NaN                                                                                                                                                                                                                                                                              SHREERAMKRISHNA INSTITUTEOFCOMPUTER         NaN
+        NaN                                                                                                                                                                                                                                                                               EDUCATIONANDAPPLIEDSCIENCES, SURAT         NaN
+        NaN                                                                                                                                                                                                                                                                                                              NaN         NaN"
+2,table,"Faculty of Science\rSHREERAMKRISHNA INSTITUTEOFCOMPUTER\rEDUCATIONANDAPPLIEDSCIENCES, SURAT\rM.Sc. Microbiology\rSyllabus\r(Effective from 2021)\rM.T.B College Campus, B/h P.T.Science College, Opp. Chowpati,\rAthwalines, Surat-395001 Gujarat, India\rContact: 7228018498, 728018499. Email: info@srki.ac.in
+                                                                                                                                                                                                                                                                                                             NaN
+                                                                                                                                                                                                                                                                             SHREERAMKRISHNA INSTITUTEOFCOMPUTER
+                                                                                                                                                                                                                                                                              EDUCATIONANDAPPLIEDSCIENCES, SURAT"
+3,table,"Unnamed: 0                 M.Sc. Microbiology
+       No.                           Contents
+         A About M.Sc. Microbiology Programme
+         B                Programme Objective
+         C                        Eligibility
+         D                   Course Structure
+         E                  Evaluation Scheme
+         F                           Syllabus"
+4,table,"                                                                                                       Sem                               Course\rType Course\rCode                                       Paper Title Hours/Week Credi\rt Unnamed: 0
+                                                                                                       NaN                                        NaN          NaN                                               NaN         Th       Pr        NaN
+                                                                                                         1                               Core\rcourse        DSC-1 Principles of Microbiology & Microbial\rDiversity          4        4        4+2
+                                                                                                       NaN                                        NaN        DSC-2          Agriculture & Environmental Microbiology          4        4        4+2
+                                                                                                       NaN                                        SEC        SEC-1           Molecular biology & Genetic Engineering          4        4        4+2
+                                                                                                       NaN                                   Elective        DSE-1                                               NaN          4        4        4+2
+                                                                                                         2                               Core\rcourse        DSC-3                 Microbial Physiology & Metabolism          4        4        4+2
+                                                                                                       NaN                                        NaN        DSC-4             Immunology and molecular pathogenesis          4        4        4+2
+                                                                                                       NaN                                        SEC        SEC-2         Instrumentation and analytical techniques          4        4        4+2
+                                                                                                       NaN                                   Elective        DSE-2                                               NaN          4        4        4+2
+                                                                                                         3                               Core\rcourse        DSC-5                             Economic Microbiology          4        4        4+2
+                                                                                                       NaN                                        NaN        DSC-6           Enzyme Technology & Protein Engineering          4        4        4+2
+                                                                                                       NaN                                        SEC        SEC-3   Pharmaceutical Microbiology & Drug\rDevelopment          4        4        4+2
+                                                                                                       NaN                                   Elective        DSE-3                                               NaN          4        4        4+2
+                                                                                                         4                               Core\rcourse        DSC-7                                      Dissertation         32       16        NaN
+                                                                                                     DSC-8                       Seminar Presentation            4                                               NaN        NaN      NaN        NaN
+                                                                                                     DSC-9 Review of published research paper/Article            4                                               NaN        NaN      NaN        NaN
+                                                                                              Total Credit                                         96          NaN                                               NaN        NaN      NaN        NaN
+Note: DSC – Discipline Specific Core, DSE - – Discipline Specific Elective, SEC - Skill Enhancement Course                                        NaN          NaN                                               NaN        NaN      NaN        NaN"
+5,table," Semester                                                                                            DSE (Any one to be opt)
+        1            1.Food Chemistry\r2.Energy and Environment\r3.Laboratory safety and management\r4.Bioethics & Biosafety
+        2                       1.Forensic Chemistry & Toxicology\r2.Bioinformatics & Other “OMICS”\r3.IPR\r4.Biostatistics.
+        3 1.Forensic biology and DNA typing\r2.Research Methodology\r3.Bioentrepreneurship\r4.Application of Green Chemistry"
+6,table,"M.Sc. Microbiology                                    Unnamed: 0 Unnamed: 1 Unnamed: 2   Unnamed: 3                                      Unnamed: 4
+        Evaluation                                      Criteria     Theory  Practical Dissertation Seminar/\rReview of\rpublished\rresearch\rpaper
+          Internal Continuous &\rComprehensive\rEvaluation (CCE)         40         60          140                                              60
+               NaN                                    Attendance         10         10           10                                              10
+               NaN                                    Assignment         20       ----         ----                                            ----
+               NaN    Internal Practical Test\rand Viva – Voce /       ----         70         ----                                            ----
+               NaN                           Internal assessment       ----       ----           50                                              30
+          External                           External Evaluation         30         60          100                                              50
+             Total                                           100        200        300          150                                             NaN"
+7,table,"                                                  Name of faculty: Science Department:Microbiology
+                                                     Program:M.Sc. Microbiology Sem-IV Type: DSC-7
+                                                                             Subject: Dissertation
+                                                                  Credit: 16 Total learning hours:
+                                                                               Course description:
+  The aim of the dissertation is to develop inclination towards research.The dissertation presents
+      a major piece of guided independent research on a topic agreed between the student and their
+supervisor. It typically involves a literature review and an appropriate form of critical analysis
+    of sources of primary and /or secondary data; it may involve field and/or laboratory work. The
+    dissertation must show evidence of wide reading and understanding, of critical analysis and/or
+                                                  appropriate use of advanced research techniques.
+                                                                         Student learning outcome:
+                       Upon successful completion, students will have the knowledge and skills to:
+                           Plan and engage in an independent and sustained critical investigation
+                Systematically identify relevant theory and concepts, relate these to appropriate
+                     methodologies and evidence, apply appropriate techniques and draw appropriate
+                                                                                       conclusions
+             Appropriately apply qualitative and/or quantitative evaluation processes to original
+                                                                                              data
+            Understand and apply ethical standards of conduct in the collection and evaluation of
+                                                                          data and other resources
+               Communicate research concepts and contexts clearly and effectively both in writing
+                                                                                       and orally."
+8,table,"                                                Name of faculty: Science Department:Microbiology
+                                                   Program:M.Sc. Microbiology Sem-IV Type: DSC-8
+                                                                   Subject: Seminar Presentation
+                                                                 Credit: 4 Total learning hours:
+                                                                             Course description:
+    The study aims to reveal how the students improved their academic presentation skills and to
+       improvement with influences of students’ scientific and language backgrounds. This course
+       engages students in critical inquiry through reading, discussion, oral presentations, and
+    writing, emphasizing an in-depth exploration of the writing process from generating ideas to
+                                                                      polishing the final draft.
+As academic presentation skills are crucial to research and are a generic skill that PG students
+        in science must acquire, we propose that existing student seminar programmes can be used
+                             effectively as an active training programme to improve such skills.
+                                                                       Student learning outcome:
+                     Upon successful completion, students will have the knowledge and skills to:
+                  Students will demonstrate the ability to perform close and critical readings.
+        Students will develop ability to comprehends the relevant topic and effectively explain
+                                                                                             it.
+               Students will demonstrate the ability to follow discussions, oral arguments, and
+            presentations, noting main points or evidence and tracking threads through different
+                                                                                       comments.
+         Students will be able to challenge and offer substantive replies to others' arguments,
+                                                              comments, and questions logically."
+9,table,"                                                                                                                                                                                                                                                                                                                                                                                                                                  Name of faculty: Science Department:Microbiology
+                                                                                                                                                                                                                                                                                                                                                                                                                         Program:M.Sc. Microbiology Sem-IV             Type: DSC-9
+                                                                                                                                                                                                                                                                                                                                                                                                       Subject: Review of published research paper/article                     NaN
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 Credit: 4   Total learning hours:
+Course description:\rThe objective of a literature review is to provide a critical evaluation of the data available\rfrom existing studies. The study of published research article is a survey of previously\rpublished research work on a topic. Study of research articles can identify potential research\rareas to be explored and gives new dimensions to the state of the knowledge along with open\rdevelopment of mind set for critical thinking.                     NaN
+                                                                                   Student learning outcome:\rStudents will demonstrate the ability to identify the disciplinary context for different\rkinds of writing, including both informal writing and formal writing.\rStudents will demonstrate the ability to perform critical readings of their own writing\rand the writing of others.\rStudents will demonstrate the ability to proofread.                     NaN"

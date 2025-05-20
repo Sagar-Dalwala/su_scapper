@@ -1,0 +1,674 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+7,text,SRKI
+8,text,SRKI
+9,text,SRKI
+10,text,SRKI
+11,text,SRKI
+12,text,SRKI
+13,text,SRKI
+14,text,SRKI
+15,text,SRKI
+16,text,SRKI
+17,text,SRKI
+18,text,SRKI
+1,table," Unnamed: 0        Unnamed: 1  Unnamed: 2   Unnamed: 3                        Unnamed: 4                           Unnamed: 5                                                                         Unnamed: 6              Unnamed: 7              Unnamed: 8      Unnamed: 9     Unnamed: 10             Unnamed: 11             Unnamed: 12     Unnamed: 13     Unnamed: 14  Unnamed: 15  Unnamed: 16  Unnamed: 17  Unnamed: 18  Unnamed: 19  Unnamed: 20  Unnamed: 21  Unnamed: 22  Unnamed: 23  Unnamed: 24
+        NaN Program Structure         NaN   Semester 5                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN Course\rCode                               NaN                                Title                                                                                NaN Teaching Hrs. per\rWeek                     NaN Course\rCredits             NaN University\rExamination                     NaN Internal\rMarks             NaN Total\rMarks          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                               Theory                                                                                NaN               Practical                     NaN             NaN             NaN                Duration                     NaN           Marks             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                  ife Skills/ NCC/NSS                                                                                NaN                       2                     NaN             NaN             NaN                       2                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN       BIT501                               NaN  SC-9 Mobile Application\revelopment                                                                                NaN                       4                     NaN             NaN             NaN                       4                     NaN             NaN             NaN           30          NaN         70.0          NaN        100.0          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN       BIT502                               NaN              SC-10 Operating Systems                                                                                NaN                       4                     NaN             NaN             NaN                       4                     NaN             NaN             NaN           30          NaN         70.0          NaN        100.0          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN       BIT503                               NaN EC 3-Introduction to Bigdata\rnd IOT                                                                                NaN                       4                     NaN             NaN             NaN                       4                     NaN             NaN             NaN           30          NaN         70.0          NaN        100.0          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN       BIT504                               NaN         SE-5 Digital Marketing &\rEO                                                                                NaN                       2                     NaN             NaN             NaN                       2                     NaN             NaN             NaN           30          NaN         70.0          NaN        100.0          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN              SE-5 Cloud Computing                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN SE-5 Enterprise Resource\rlanning                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN      ransdisciplinary Open\rlectives                                                                                NaN                       2                     NaN             NaN             NaN                       2                     NaN             NaN             NaN          NaN          NaN        100.0          NaN        100.0          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN       BIT505                               NaN                          Practical-5                                                                                NaN                     NaN                     NaN              12             NaN                       6                     NaN             NaN             NaN           50          NaN        100.0          NaN        150.0          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                      24                     NaN             NaN             NaN          NaN          NaN          NaN          NaN        650.0          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                       Semester -6                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                      Course\rCode                                  NaN                                                                              Title                     NaN Teaching Hrs. per\rweek             NaN Course\rCredits                     NaN University\rExamination             NaN Internal\rMarks          NaN Total\rMarks          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                             Theory                     NaN               Practical             NaN             NaN                     NaN                Duration             NaN           Marks          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                              Life Skills/ NCC/ NSS                     NaN                       2             NaN             NaN                     NaN                       2             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                            BIT601                                  NaN                                           DSC 11, 12 , SEC-4\rProject / Internship                     NaN                     NaN             NaN              24                     NaN                      18             NaN             NaN          NaN        15\r0          NaN        300.0          NaN        450.0          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                            BIT602                                  NaN DSE-6 Seminar : Emerging\rtrends, technologies and tools\rin Computer Science & IT                     NaN                     NaN             NaN               2                     NaN                       2             NaN             NaN          NaN           30          NaN         70.0          NaN        100.0          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                             Transdisciplinary Open                     NaN                       2             NaN             NaN                     NaN                       2             NaN             NaN          NaN          NaN          NaN        100.0          NaN        100.0          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                           Elective                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                      24             NaN             NaN          NaN          NaN          NaN          NaN          NaN        650.0          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN
+        NaN               NaN         NaN          NaN                               NaN                                  NaN                                                                                NaN                     NaN                     NaN             NaN             NaN                     NaN                     NaN             NaN             NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN          NaN"
+3,table,"Transdisciplinary Open
+                   NaN
+              Elective
+                   NaN"
+4,table,"           Course Code                                                                   DSC-9
+          Course Title                                          Mobile Application Development
+                Credit                                                                       4
+     Teaching per Week                                                                   4 Hrs
+     Minimum weeks per      15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                     NaN
+Last Review / Revision                                                                       -
+     Purpose of Course               To introduce the most demanding and developing mobile app
+                   NaN              technology. Fundamentals of android open source technology
+      Course Objective     To make students understand fundamentals of mobile app technology.
+                   NaN       To make students understand various inbuilt features of android.
+                   NaN             To make students understand the android design essentials.
+                   NaN  4. To make students understand android user interface design basics .
+          Pr-requisite     Fundamentals of web technologies and fundamentals related to mobile
+                   NaN                                                                     OS.
+       Course Out come  Students will have knowledge about android which is widely used Mobile
+                   NaN     OS and open source technology and its concepts. Various features of
+                   NaN       android like Application Design Essentials, User Interface Design
+                   NaN   Essentials, Use of Common Android APIs, data storage using SQLite and
+                   NaN                                          deploying Android application.
+        Course Content                                         Unit-1 :Introduction to Android
+                   NaN                                              1.1 Android - Architecture
+                   NaN                                      1.2 Android Application Components
+                   NaN                             1.3 Android Application Directory Structure
+                   NaN                                                                     NaN
+                   NaN                          Unit-2 : Android Application Design Essentials
+                   NaN          2.1 Understanding the IDE –  Emulator/ AVD, logcat,Gradle, SDK
+                   NaN                                         2.2. Android Activity Lifecylce
+                   NaN                            2.3 Application Context and Activity Context
+                   NaN                       2.4 Android Manifest File and its common settings
+                   NaN                                            2.5 Intent and Intent Filter
+                   NaN                                                                     NaN
+                   NaN                       Unit-3 : Android User Interface Design Essentials
+                   NaN              3.1 UI elements – EditText, TextView, Button, RadioButton,
+                   NaN                                                      CheckBox, listview
+                   NaN                              3.2 Designing User Interfaces with Layouts
+                   NaN                                                  3.2.1 Relative Layouts
+                   NaN                                                    3.2.2 Linear Layouts
+                   NaN                                                3.2.3 Constraint Layouts
+                   NaN                                                                     NaN
+                   NaN                                   Unit-4 : Advanced Designing Interface
+                   NaN                                                             4.1 WebView
+                   NaN                                                          4.2 SearchView
+                   NaN                                                             4.3 Spinner
+                   NaN                                                       4.4, Recyclerview
+                   NaN                                                                     NaN
+                   NaN                                           Unit-5 : Menus and Dialog Box
+                   NaN                      5.1 Menus – Context menu, Pop-up menu, Option menu
+                   NaN                                  5.2 Toast Message and Alert Dialog box"
+5,table,"                    Unnamed: 0                                                                                                                                                                                                                                                                   Unit-6 : Using Sharedprefernces\r6.1 Purpose of Shred Preferences\r6.2 Shared Preference Modes\r6.3 Writing to shared Preferences\r6.4 Methods of editor class\r6.5 Reading from Shared Preference\r\rUnit-7 : Preserving and Saving data in Local Database\r7.1 Introduction to SQLite\r7.2 SqliteOpenHelper Class\r7.3 SQlite Methods - ExecSQL, Rawquery, Insert, Update, Delete\r\rUnit 8: SqlServer connection with android app\r8.1 Connecting to the MS Sql Server\r8.2 Storing and Retrieving data in MS Sql Server                                               Unnamed: 1
+Text and Reference\rLiterature 1.\rProfessionalAndroid4ApplicationDevelopmentRetoMeier,\rWROX Publication-2015\r2.\rProfessionalAndroid4ApplicationDevelopmentRetoMeier,\rWROX Publication-2015\r3.\rAndroidforProgrammers-AnAppDrivenApproach,Deitel,\rDeitel,\rDeitel and Morgano, Pearson Publication-2012\r4.\rAndroid Programming Unleashed, Harwani, Pearson Publication-\r2013\r5.\rProfessional Android Programming-with MONO McClure,\rBlevins, Croft, Dick and Hardy, Wiley India-2012\r6.\rAndroid application development for java programmer, James C\rSheusi,\rCenage Learning-2013\r7.\rAndroid Essentials, Chris Haseman, Apress Publication, 2009\r8.\rBeginning Android, Mark L Murphy, Wiley India Pvt Ltd, 2009\r9.\rPro Android, Sayed Y Hashimi and Satya Komatineni, Wiley India\rPvtLtd, APress-2009 1.\rProfessionalAndroid4ApplicationDevelopmentRetoMeier,
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         WROX Publication-2015                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2.\rProfessionalAndroid4ApplicationDevelopmentRetoMeier,                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         WROX Publication-2015                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         3.\rAndroidforProgrammers-AnAppDrivenApproach,Deitel,                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Deitel,                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Deitel and Morgano, Pearson Publication-2012                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              4.\rAndroid Programming Unleashed, Harwani, Pearson Publication-                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          2013                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       5.\rProfessional Android Programming-with MONO McClure,                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              Blevins, Croft, Dick and Hardy, Wiley India-2012                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              6.\rAndroid application development for java programmer, James C                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       Sheusi,                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          Cenage Learning-2013                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               7.\rAndroid Essentials, Chris Haseman, Apress Publication, 2009                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               8.\rBeginning Android, Mark L Murphy, Wiley India Pvt Ltd, 2009                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            9.\rPro Android, Sayed Y Hashimi and Satya Komatineni, Wiley India                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           PvtLtd, APress-2009                                                      NaN
+          Teaching Methodology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          The course is composed of Lectures, assignments and a group project.                                                      NaN
+                           NaN                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           NaN                                                      NaN
+             Evaluation Method                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           70% Internal assessment is based on class attendance, participation,\rclass test, quiz, assignment, seminar, internal examination etc.\r30% assessment is based on end semester written examination                                                      NaN"
+6,table,"                                                              Course Code                                                                                                                                                                                                                                                                    DSC-10
+                                                             Course Title                                                                                                                                                                                                                                                         Operating Systems
+                                                                   Credit                                                                                                                                                                                                                                                                         4
+                                                        Teaching per Week                                                                                                                                                                                                                                                                     4 Hrs
+                                              Minimum weeks per\rSemester                                                                                                                                                                                                        15 (Including Class work, examination, preparation, holidays etc.)
+                                                  Last Review /\rRevision                                                                                                                                                                                                                                                                         -
+                                                        Purpose of Course                                                                                                                                                                                              Conceptualize the students with the theoretical concepts of Operating System
+                                                         Course Objective           Familiarizationwithdifferentobjectivesofoperatingsystemcomponentslike\rprocess management and inter-process communication; Experiments on process\rscheduling and other operating system tasks through simulation/implementation\runder a simulated environment
+                                                             Pr-requisite                                                                                                                                                                                                                Fundamentals of Computer Organization and Operating System
+                                                          Course Out come \rDescribe the various components of Operating Systems.\r\rCase study of Unix operating systems to analyze the different services provided\rby UNIX Operating System\r\rDesign and implement various system calls and concurrent processes requiring\rsynchronization.
+                                                           Course Content                                                                                                                                                                                                                                        Unit- 1: Operating System Concepts
+                                                                      NaN                                                                                                                                                                                                                           1.1. Operating system fundamental and its types
+                                                                      NaN                                                                                                                                                                                                                                       1.2. Components of operating system
+                                                                      NaN                                                                                                                                                                                                                                     1.3. BIOS, Booting process and kernel
+                                                                      NaN                                                                                                                                                                                                                                       1.4. Functions of operating systems
+                                                                      NaN                                                                                                                                                                                                                  1.5. Interrupt and System call, Data bus and Address bus
+                                                                      NaN                                                                                                                                                                                                                                                                       NaN
+                                  Unit- 2: I/O Device and File Management                                                                                                                                                                                                                                                                       NaN
+                                                                      NaN                                                                                                                                                                                                    2.1  I/O Devices, Device controllers and drivers, DMA, Programmed I/O,
+                                                                      NaN                                                                                                                                                                                                                                    Interrupt    driven I/O, I/O using DMA
+                                                                      NaN                                                                                                                                                                                                                                                 2.2 Disk space Management
+                                                                      NaN                                                                                                                                                                                                      2.3 Allocation and Disk Arm Scheduling Methods (FCFS, SSTF, SCAN, C-
+                                                                      NaN                                                                                                                                                                                                                                                                     SCAN)
+                                                                      NaN                                                                                                                                                                                                                                        2.4 Drivers for different devices.
+                                                                      NaN                                                                                                                                                                                                                                                                       NaN
+                                                 Unit- 3: Files structure                                                                                                                                                                                                                                                                       NaN
+                                                                      NaN                                                                                                                                                                                          3.1 File storage mechanism, File allocation table, Directory and File structure,
+Attributes, Types, Access, Operations, Protection, and sharing and remote                                                                                                                                                                                                                                                                       NaN
+                                                                  access.                                                                                                                                                                                                                                                                       NaN
+     3.2 File system management and optimization - Disk space management,                                                                                                                                                                                                                                                                       NaN
+                        backup, consistency, Performance, Defragmentation                                                                                                                                                                                                                                                                       NaN
+                                                                      NaN                                                                                                                                                                                                                                                                       NaN
+                                               Unit- 4: Memory Management                                                                                                                                                                                                                                                                       NaN
+                                                                      NaN                                                                                                                                                                                                2.1 Address space, Contiguous and non contiguous allocation, Managing free
+                                                                    space                                                                                                                                                                                                                                                                       NaN"
+7,table,"                                                                                                                                                                                             Unnamed: 0                                                                 Unnamed: 1  2.2 Virtual\rmemory-Paging,Pagesize,Pagetable,Pagefault,Demand
+                                                                                                                                                                                                    NaN                     Paging,Pagereplacementalgorithms(FIFO,LRU,2ndChanceNRU                                                             NaN
+                                                                                                                                                                                                    NaN                                                      Optimal), Shared page                                                             NaN
+                                                                                                                                                                                                    NaN  2.3 Segmentation - Implementation of pure segmentation, segmentation with                                                             NaN
+                                                                                                                                                                                                    NaN                                                                    paging.                                                             NaN
+                                                                                                                                                                                                    NaN                                                                        NaN                                                             NaN
+                                                                                                                                                                            Unit- 5: Process Management                                                                        NaN                                                             NaN
+                                                                                                                                                                                                    NaN                       5.1 Process, Process states, PCB, Process scheduling                                                             NaN
+                                                                                                                                                                                                    NaN                                                  5.2 Scheduling Algorithms                                                             NaN
+                                                                                                                                                                                                    NaN          5.3 Study of Round-robin, FCFS, SJF, SRTF and priority algorithms                                                             NaN
+                                                                                                                                                                                                    NaN                                                   5.4 Overview of deadlock                                                             NaN
+                                                                                                                                                                                                    NaN                            5.5 Deadlock avoidance, prevention and recovery                                                             NaN
+                                                                                                                                                                                                    NaN                                5.6 Overview of Inter process communication                                                             NaN
+                                                                                                                                                                                                    NaN    5.7 Deadlocks - Overview of Deadlock Avoidance, Prevention and Recovery                                                             NaN
+                                                                                                                                                                                                    NaN                                                                        NaN                                                             NaN
+                                                                                                                                                  Unit- 6: Security and Protection in operating systems                                                                        NaN                                                             NaN
+6.1 Main features of security and protection\r6.2 Different security concerns\r6.3 Ways available in OS to protect the the system\r6.4 Inbuilt security features of operating system.\r6.5 Group policy                               6.1 Main features of security and protection                                                             NaN
+                                                                                                                                                                                                    NaN                                            6.2 Different security concerns                                                             NaN
+                                                                                                                                                                                                    NaN                         6.3 Ways available in OS to protect the the system                                                             NaN
+                                                                                                                                                                                                    NaN                         6.4 Inbuilt security features of operating system.                                                             NaN
+                                                                                                                                                                                                    NaN                                                           6.5 Group policy                                                             NaN
+                                                                                                                                                                                                    NaN                                                                        NaN                                                             NaN
+                                                                                                                                                         Unit- 7: Introduction to Unix operating system                                                                        NaN                                                             NaN
+                                                                                                                                                                                                    NaN                                7.1 Introduction: History of Unix, features                                                             NaN
+                                                                                                                                                                                                    NaN                                    7.2 Unix system architecture and kernel                                                             NaN
+                                                                                                                                                                                                    NaN    7.3 Unix command format, Unix internal and external commands, Directory                                                             NaN
+                                                                                                                                                                                                    NaN            commands, File related commands, Disk related commands, general                                                             NaN
+                                                                                                                                                                                                    NaN                                                                 utilities.                                                             NaN
+                                                                                                                                                                                                    NaN                                                                        NaN                                                             NaN
+                                                                                                                                 Unit- 8: File, Process and memory management in Unix operating systems                                                                        NaN                                                             NaN
+                                                                                                                                                                                                    NaN 8.1 Unix File System: Boot inode, super and data block, in-core structure,                                                             NaN
+                                                                                                                                Directories, conversion of pathname to inode, inode to a new file, Disk                                                                        NaN                                                             NaN
+                                                                                                                                                                                      block allocation.                                                                        NaN                                                             NaN
+                                                                                                                        8.2 Process Management in unix: Process state and data structures of a Process,                                                                        NaN                                                             NaN
+                                                                                                                              User vs, kernel node, context of a Process, background processes, Process                                                                        NaN                                                             NaN
+                                                                                                                                       scheduling commands, Process terminating and examining commands.                                                                        NaN                                                             NaN
+                                                                                                                          8.3 Storage Management in unix: Formatting, making file system, checking disk                                                                        NaN                                                             NaN
+                                                                                                                             space, mountable file system, disk partitioning, file compression. Special                                                                        NaN                                                             NaN
+                                                                                                                             Tools and Utilities: Filters, Stream editor SED and AWK, Unix system calls                                                                        NaN                                                             NaN
+                                                                                                                                  and library functions, Processes, signals and Interrupts, storage and                                                                        NaN                                                             NaN
+                                                                                                                                                                                compression facilities.                                                                        NaN                                                             NaN
+                                                                                                                                                                  8.4 Basic shell Programming concepts.                                                                        NaN                                                             NaN"
+8,table,"         Text and                                                          1. Silberschatz, Korth, Sudarshan  ,Database       System Concepts, McGraw-Hill
+        Reference                                                          computer science series       NaN        NaN          NaN       NaN         NaN
+       Literature                                                                              NaN       NaN        NaN          NaN       NaN         NaN
+              NaN                2. C J Date, An introduction to Database Systems, Addition-Wesley       NaN        NaN          NaN       NaN         NaN
+              NaN                                                                              NaN       NaN        NaN          NaN       NaN         NaN
+              NaN                               3. Nilesh shah, Database System using Oracle, PHI.       NaN        NaN          NaN       NaN         NaN
+              NaN        4. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database Systems,       NaN        NaN          NaN       NaN         NaN
+              NaN                                                                   Addison-Wesley       NaN        NaN          NaN       NaN         NaN
+              NaN                                                         5. Hector Gracia-Molina,   Jeffrey D. Ullman, and Jennifer    Widom,    Database
+              NaN                                                  System Implementation, Pearson.       NaN        NaN          NaN       NaN         NaN
+              NaN                                   6. Ivan Bayross, SQL, PL/SQL, BPB Publications       NaN        NaN          NaN       NaN         NaN
+              NaN                         7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill       NaN        NaN          NaN       NaN         NaN
+              NaN                                                                              NaN       NaN        NaN          NaN       NaN         NaN
+         Teaching             The course is composed of Lectures, assignments and a group project.       NaN        NaN          NaN       NaN         NaN
+      Methodology                                                                              NaN       NaN        NaN          NaN       NaN         NaN
+              NaN                                                                              NaN       NaN        NaN          NaN       NaN         NaN
+Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,       NaN        NaN          NaN       NaN         NaN
+              NaN                             quiz, assignment, seminar, internal examination etc.       NaN        NaN          NaN       NaN         NaN
+              NaN                      30% assessment is based on end semester written examination       NaN        NaN          NaN       NaN         NaN"
+9,table,"               Course Code                                                                         SEC-5
+              Course Title                                               Introduction to Bigdata and IoT
+                    Credit                                                                             4
+         Teaching per Week                                                                         4 Hrs
+Minimum weeks per Semester            15 (Including Class work, examination, preparation, holidays etc.)
+    Last Review / Revision                                                                             -
+         Purpose of Course            To provide comprehensive knowledge about data science and big data
+          Course Objective        To provide the student sufficient knowledge about fundamental concepts
+                       NaN                                    of big data, data analysis and processing.
+              Pr-requisite                       Knowledge about database system and processing concepts
+           Course Out come                      After having completed the course the student will gain:
+                       NaN                        Understanding of BIG DATA Fundamentals and Principals
+                       NaN                                       Knowledge of Big Data Analysis Process
+                       NaN                                Technical know-hows about big data processing
+                       NaN                                        Learning of Big Data Technology stack
+            Course Content                                             Unit 1 Basic Concepts of Big Data
+                       NaN                         1.1 Concepts and Terminology -Datasets, Data Analysis
+                       NaN 1.2 Type of Data Analytics - Descriptive, Diagnostic, Predictive, Perspective
+                       NaN     1.2 Big Data Characteristics - Volume, Velocity, Variety, Veracity, Value
+                       NaN       1.3 Different Types of Data- Structured, Semi-Structured, Unstructured,
+                       NaN                                                                      Metadata
+                       NaN                                     1.4 Big Data Application and Case Studies
+                       NaN                                       1.5 Big Data vs Traditional Data Mining
+                       NaN                                                       1.6 Big Data Concerns –
+                       NaN                                                        1.6.1 Data Procurement
+                       NaN                                                            1.6.2 Data Privacy
+                       NaN                                                           1.6.3 Data Security
+                       NaN                                                         1.6.4 Data Provenance
+                       NaN                                                                           NaN
+                       NaN                                           Unit 2 Big Data Development process
+                       NaN                                               2.1 Big Data Analytics Lifecyle
+                       NaN                                                2.1.1 Business Case Evaluation
+                       NaN                                                     2.1.2 Data Identification
+                       NaN                                            2.1.3 Data Acquisition & Filtering
+                       NaN                                                         2.1.4 Data Extraction
+                       NaN                                             2.1.5 Data Validation & Cleansing
+                       NaN                                       2.1.6 Data Aggregation & Representation
+                       NaN                                                           2.1.7 Data Analysis
+                       NaN       2.1.8 Data Visualization - Features of Data Visualization tools for Big
+                       NaN                                                                          Data
+                       NaN                                         2.1.9 Utilization of Analysis Results
+                       NaN              2.2 Case Study of Big Data - traffic monitoring such big systems
+                       NaN                                                                           NaN
+                       NaN                                           Unit 3 Big Data Analysis Techniques
+                       NaN                                                     3.1 Quantitative Analysis
+                       NaN                                                     3.2 Quantitative Analysis"
+10,table,"      Unnamed: 0                        3.3 Statistical Analysis - A/B Testing, Simple and multiple
+             NaN                                                      Corelation, Linear Regression
+             NaN                                  3.4 Machine Learning- Supervised and Unsupervised
+             NaN                    3.5 Semantic Analysis – NLP,  Text Analysis, Sentiment Analysis
+             NaN                 3.6 Visual Analysis – HeatMaps, Time Series Plots, Network Graphs,
+             NaN                                                               Spatial Data Mapping
+             NaN                                                                                NaN
+             NaN                                                    Unit 4 The Bigdata Technologies
+             NaN                                    4.1 Bigdata and Distrubted Computing Challenges
+             NaN                                                            4.2 Hadoop Fundamentals
+             NaN                                                           4.2.1 Features of Hadoop
+             NaN                                                         4.2.2 Advantages of Hadoop
+             NaN                                                                     4.2.3 Versions
+             NaN                                                   4.3 Overview of Hadoop Ecosystem
+             NaN                                                       4.4 Hadoop versus SQL, RDBMS
+             NaN                                                   4.5 Cloud based Hadoop Solutions
+             NaN                                                                                NaN
+             NaN                                      Unit 5 Introduction to The Internet of Things
+             NaN                                     5.1 The Internet of Things Conceptual Overview
+             NaN                                                              5.2 Components of IoT
+             NaN                                                         5.3 Characteristics of IoT
+             NaN                                       5.4 Challenges in realizing IoT applications
+             NaN                           5.5 Big Data Anaytics as Complementary Technology of IoT
+             NaN                                                                                NaN
+             NaN                                                   Unit 6 Embedded Computing Basics
+             NaN                                                     6.1 Embedded system components
+             NaN              6.2 Flavours of Microcontroller : 8-bit microcontroller: 8051, 32 bit
+             NaN                                                               microcontroller: ARM
+             NaN                                                        6.3 System on chips concept
+             NaN                                                   6.4 Embedded system applications
+             NaN                                                                                NaN
+             NaN                                                         Unit 7 Overview of Arduino
+             NaN                                                        7.1 Introduction to Arduino
+             NaN                                                            7.2 Flavours of Arduino
+             NaN                                                    7.3 Components of Arduino board
+             NaN                                               7.4 Arduino Power supply, Breadboard
+             NaN                                                                                NaN
+             NaN                                                    Unit 8 Programming with Arduino
+             NaN                                                 8.1 Installing Arduino Desktop IDE
+             NaN                       8.2 Installing Board drivers, configuring board type, sketch
+             NaN                                             8.3 Hardware interfacing & programming
+             NaN                                                      8.3.1. LED on/off using timer
+             NaN                                                        8.3.2. Working with sensors
+             NaN                                            8.3.3. Arduino Traffic Light Controller
+             NaN                                                                                NaN
+             NaN          1. Big Data Fundamentals : Concepts, Drivers & Techniques ,by Thomas Erl,
+Reference books:                                      Wajid Khattak, Paul Buhler Publisher :Pearson
+             NaN            2. Big data and Analytics , Seema Acharya, Subhashini Chellappan, Wiley
+             NaN 3. Big Data : Principal and Practice of scalable real time data systems by  Nathan
+             NaN                                     Marz, James Warren Publisher : Dreamtech Press
+             NaN                   4. Hadoop The Definitive Guide by Tom White Publisher : O’relliy"
+11,table,"          Unnamed: 0                       5. BIG DATA by Viktor Mayor Schonberger and Kenneth Cukier
+                 NaN                                                          Publisher : John Murray
+                 NaN             6. INTERNET OF THINGS by Sandeep Vishwakarma, Kiran Gurbani,  Nitesh
+                 NaN                                     Shukla Publisher : Himalaya Publishing House
+                 NaN                          7. IoT & Applications I.A. Dhotre Technical Publication
+                 NaN           8. Designing the Internet of Things Adrian McEwen and Cassimally Wiley
+                 NaN             9. The Internet of Things Connection objects to web Edited by Hakima
+                 NaN                                                                    Chauchi Wiley
+                 NaN                   10. Introduction to Embedded System -By Shibu K V , McGrawHill
+                 NaN           11. Getting Started with Internet of Things –By Cuno Pfister, O’Reilly
+                 NaN               12. Learning Internet of Things-By Peter Waher , Packt Publication
+                 NaN        13. Internet of Things : A Hands on Approach – By Arshdip Bahga and Vijay
+                 NaN                                                                        Madisetti
+                 NaN   14. ""The Internet of Things: Enabling Technologies, Platforms, and Use Cases"",
+                 NaN                                  by Pethuru Raj and Anupama C. Raman (CRC Press)
+                 NaN                                                                              NaN
+Teaching Methodology             The course is composed of Lectures, assignments and a group project.
+                 NaN                                                                              NaN
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class test,
+                 NaN                             quiz, assignment, seminar, internal examination etc.
+                 NaN                      30% assessment is based on end semester written examination"
+12,table,"           Course Code                                                                     DSE-5
+          Course Title                                                   Digital Marketing & SEO
+                Credit                                                                         2
+     Teaching per Week                                                                     2 Hrs
+     Minimum weeks per        15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                       NaN
+Last Review / Revision                                                                         -
+     Purpose of Course             To provide comprehensive knowledge about theory behind Search
+                   NaN                            Engine Optimization and search engine working.
+      Course Objective To provide the student sufficient knowledge to learn steps, need ,execute
+                   NaN  and evaluate the Search Engine Optimization initiatives and prepare them
+                   NaN                                                    for Digital Marketing.
+          Pr-requisite                    Fundamental Knowledge about Web Development, Searching
+                   NaN                                                Technologies and Metadata.
+       Course Out come      After completion of this course, the student will gain comprehensive
+                   NaN   knowledge of Search engines and their working and various search engine
+                   NaN optimization techniques and will be ready to work in the field of Digital
+                   NaN                                                                 Marketing
+        Course Content                                                                       NaN
+                   NaN                                        Unit 1 Search Engine and Ecommerce
+                   NaN                                              1.1 Mission of Search Engine
+                   NaN                1.2 Human Goals of Searching, Determining searcher intent.
+                   NaN                             1.3 Challenges for Marketer and search engine
+                   NaN                                                      1.3.1 People search,
+                   NaN                                1.3.2 Search engine drive ecommerce on web
+                   NaN               1.4 Eye Tracking:- User Scans Results pages, Click Tracking
+                   NaN                                                                       NaN
+                   NaN                                Unit 2 Search Engine Basic, SEO objectives
+                   NaN                                                        2.1 SEO Objectives
+                   NaN                                            2.2 Anatomy of a Search Engine
+                   NaN                                                     2.2.1 Query interface
+                   NaN                                       2.2.2 Crawlers, spiders, and robots
+                   NaN                                                           2.2.3 Databases
+                   NaN                                                                       NaN
+                   NaN                                         Unit 3:  Site Development Process
+                   NaN                                                                       NaN
+                   NaN                                3.1.  Identifying Site Development Process
+                   NaN                              3.1.1 Defining Site information Architecture
+                   NaN                      3.1.2 Auditing current site and Identify SEO problem
+                   NaN                      3.1.3 Identifying Current Server Statistics Software
+                   NaN                                            3.1.4 Determine Top Competitor
+                   NaN                                              3.2 Theory of Keyword Search
+                   NaN                                              3.2.1 Keyword Research Tools
+                   NaN                           3.2.2 Leveraging of Long Tail of Keyword Demand
+                   NaN                   3.2.3.Keyword Demand :- Seasonality, Trending, Seasonal
+                   NaN                                                               Fluctuation"
+13,table,"      Unnamed: 0                       Unit 4 Tracking the Result and Measuring Success
+             NaN                                   4.1 Measuring Success of SEO Process
+             NaN                                           4.2 Measuring Search Traffic
+             NaN            4.3 SEO Tools - Google Webmaster Tools and Google Analytics
+             NaN                                                                    NaN
+             NaN                           Unit 5: Google Webmaster and analytics tools
+             NaN        5.1. Google Webmaster Tools - Webmaster Tools Setup, Dashboard,
+             NaN  The “Site configuration” Section, The “Your site on the web” Section,
+             NaN                                                The Diagnostics Section
+             NaN       5.2. Google Analytics- Installation and Setup, Navigating Google
+             NaN          Analytics, Dashboard, Traffic Sources, Content, Goals, Google
+             NaN                                                 Analytics Shortcomings
+             NaN                                                                    NaN
+             NaN                                  Unit 6 Digital Marketing Fundamentals
+             NaN                6.1 Marketing v/s Sales, Inbound v/s Outbound marketing
+             NaN         6.2 Content marketing, Strategic flow for marketing activities
+             NaN                                                    Understanding Leads
+             NaN                                    6.3 Facebook Marketing Fundamentals
+             NaN                          6.3.1 Profiles and Pages, Business Categories
+             NaN       6.3.2 Creating Facebook Pages, Page Info and Settings , Facebook
+             NaN                                     Page Custom URL, Invite Page Likes
+             NaN                       6.3.3 Facebook Events, Facebook Insights Reports
+             NaN                                                6.4 Affiliate marketing
+             NaN                                                                    NaN
+             NaN                                               Unit 7 YouTube Marketing
+             NaN                                                         7.1 Video Flow
+             NaN                                   7.2 Google Pages for YouTube Channel
+             NaN                      7.3 Verify Channel and Linking Custom Channel URL
+             NaN         7.4 Uploading Videos, Uploading Defaults Creator Library, Live
+             NaN                                    Broadcasting and Practical Examples
+             NaN                                                                    NaN
+             NaN                                                Unit 8: Email Marketing
+             NaN                                                 8.1.  Email Marketing,
+             NaN                          8.2. Content writing,Email Software and Tools
+             NaN                                                                    NaN
+             NaN       1. The Art of SEO : Mastering Search Engine Optimization by Eric
+Reference books:     Enge, Stephan Spencer, Rand Fishkin, Jessie C Stricchiola O‟REILLY
+             NaN                                                Publication 2nd edition
+             NaN       2. The Art of SEO : Mastering Search Engine Optimization by Eric
+             NaN      Enge,Stephan Spencer, Rand Fishkin, Jessie C Stricchiola O‟REILLY
+             NaN                                                Publication 3nd edition
+             NaN 3. SEO Search Engine Optimization Bible by Jerri L Ledford 2nd Edition
+             NaN                                                            Wiley,India
+             NaN 4. SEO Warrior : Essential Techniques for Increasing Web Visibility by
+             NaN                                   John I Jerkovic O‟ReillyPublictation
+             NaN     5. Search Engine Optimization For Dummies by Peter Kent John Wiley
+             NaN                                                    and Son 5th Edition
+             NaN       6. Digital Marketing -by Seema Gupta. McGrawHill, Second Edition
+             NaN      7. The Art of Digital Marketing: The Definitive Guide to Creating
+             NaN      Strategic, Targeted,and Measurable Online Campaigns by Ian Dodson
+             NaN                                                    , Wiley Publication
+             NaN   8. Digital Marketing For Dummies by Russ Henneberry, Ryan Deiss, For"
+14,table,"          Unnamed: 0                                                  Dummies Publication
+Teaching Methodology The course is composed of Lectures, assignments and a group project.
+   Evaluation Method 70% Internal assessment is based on class attendance, participation,
+                 NaN     class test, quiz, assignment, seminar, internal examination etc.
+                 NaN          30% assessment is based on end semester written examination"
+15,table,"           Course Code                                                                     DSE-5
+          Course Title                                              Enterprise Resource Planning
+                Credit                                                                         2
+     Teaching per Week                                                                     2 Hrs
+     Minimum weeks per        15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                       NaN
+Last Review / Revision                                                                         -
+     Purpose of Course     Purpose of the management information system is to increase the value
+                   NaN and profits of the business. To make effective decisions within a shorter
+                   NaN          period of time with timely and appropriate information manage by
+                   NaN                                                                 managers.
+      Course Objective                                      To learn the basic concepts of ERP.
+                   NaN                             To learn different technologies used in ERP.
+                   NaN           To learn the concepts of ERP Manufacturing Perspective and ERP
+                   NaN                                                                  Modules.
+                   NaN                                    To learn what are the benefits of ERP
+                   NaN                              To study and understand the ERP life cycle.
+                   NaN                                To learn the different tools used in ERP.
+          Pr-requisite                                             Concept of Information System
+       Course Out come                                    Understand the basic concepts of ERP.
+                   NaN                             Identify different technologies used in ERP.
+                   NaN                   Understand and apply the concepts of ERP Manufacturing
+                   NaN                                              Perspective and ERP Modules.
+                   NaN                                              Discuss the benefits of ERP
+                   NaN                             Understand and implement the ERP life cycle.
+                   NaN                                       Apply different tools used in ERP.
+   Course Description:    The course gives students an idea about Enterprise Data Management and
+                   NaN  ERP. ERP life cycle and various case study gives the understanding about
+                   NaN        ERP. Also brief idea about E-business provides the knowledge about
+                   NaN                                                          business design.
+        Course Content                       Unit 1: An Overview of Enterprise resource planning
+                   NaN           1.1 Enterprise – An Overview Integrated Management Information,
+                   NaN                                                    1.2 Business Modeling,
+                   NaN                                                 1.3 Integrated Data Model
+                   NaN                                                        1.4 ERP Life Cycle
+                   NaN                                                                       NaN
+                   NaN                                                 Unit 2:  ERP Technologies
+                   NaN                               2.1 Business Processing Reengineering(BPR),
+                   NaN                     2.2 Data Warehousing, Data Mining, On-line Analytical
+                   NaN                                                         Processing(OLAP),
+                   NaN                                  2.5 MIS - Management Information System,
+                   NaN                                        2.6 DSS - Decision Support System,
+                   NaN                                    2.7 EIS - Executive Information System
+                   NaN                                                                       NaN
+                   NaN                                                       Unit 3: ERP Modules
+                   NaN                                        3.1 Supply Chain Management (SCM),"
+16,table,"          Unnamed: 0                              3.2 Customer Relationship Management(CRM),
+                 NaN                                                  3.3 Plant Maintenance,
+                 NaN                                                 3.4 Quality Management,
+                 NaN                                               3.5 Materials Management.
+                 NaN                                    Unit 4:ERP Manufacturing Perspective
+                 NaN                                4.1 MRP - Material Requirement Planning,
+                 NaN                                             4.2 BOM - Bill Of Material,
+                 NaN                              4.3 MRP - Manufacturing Resource Planning,
+                 NaN                             4.4 DRP – Distributed Requirement Planning,
+                 NaN                             4.5 PDM - Product Data Management. Finance,
+                 NaN                                                                     NaN
+                 NaN                                                    Unit 5: EPR Security
+                 NaN                                            5.1 Managing ERP Securities:
+                 NaN                                     5.1.1 Types of ERP security Issues,
+                 NaN                                           5.1.2 System Access security,
+                 NaN   5.1.3 Data Security and related technology for managing data security
+                 NaN                                                                     NaN
+                 NaN                               Unit 6:  Extended ERP and security issues
+                 NaN                           6.1 Enterprise application Integration (EAI),
+                 NaN                                                    6.2 Open source ERP,
+                 NaN                                                           6.3 Cloud ERP
+                 NaN                                                                     NaN
+                 NaN                                        Unit 7:  E-Commerce to EBusiness
+                 NaN     7.1 E-Business structural transformation, Flexible Business Design,
+                 NaN                                                     Customer Experience
+                 NaN     7.2 Enterprise resource planning the E-business Backbone Enterprise
+                 NaN                                                  architecture, planning
+                 NaN                     7.2 E- Governance, Developing the E-Business Design
+                 NaN                                   Unit 8:  Cases of ERP for Enterprises
+                 NaN                                                        8.1 Cases of ERP
+                 NaN                         8.2 Oracle ERP Implementation at Maruti Suzuki.
+                 NaN                   8.3 Need of ERP for Small and Medium size enterprises
+                 NaN      1. V.K. Garg & N.K. Venkatakrishnan, Enterprise Resource Planning:
+    Reference books:                                         concepts & practices, by ; PHI.
+                 NaN   2. Supply Chain Management Theories & Practices: R. P. Mohanty, S. G.
+                 NaN                                            Deshmukh, – Dreamtech Press.
+                 NaN       3. Enterprise wide resource planning: Theory & practice: by Rahul
+                 NaN                                                            Altekar, PHI
+                 NaN         4. Customer Relationship Management, Concepts and cases, Second
+                 NaN                                                                Edition.
+                 NaN        5. Enterprise Resource Planning - Alexis Leon, Tata McGraw Hill.
+                 NaN      6. Enterprise Resource Planning – Diversified by Alexis Leon, TMH.
+                 NaN 7. Enterprise Resource Planning - Ravi Shankar & S. Jaiswal , Galgotia.
+Teaching Methodology    The course is composed of Lectures, assignments and a group project.
+   Evaluation Method    70% Internal assessment is based on class attendance, participation,
+                 NaN        class test, quiz, assignment, seminar, internal examination etc.
+                 NaN             30% assessment is based on end semester written examination"
+17,table,"           Course Code                                                                DSE 5
+          Course Title                                                      Cloud Computing
+                Credit                                                                    2
+     Teaching per Week                                                                2 Hrs
+     Minimum weeks per   15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                  NaN
+Last Review / Revision                                                                  NaN
+     Purpose of Course The course gives students an idea about Cloud Computing fundamentals
+                   NaN                                             and Cloud Based Systems.
+      Course Objective    To provide comprehensive knowledge of cloud computing and aspects
+                   NaN                                                       related to it.
+         Pre-requisite         Basic understanding of operating system and computer network
+       Course Out come After completion of this course, the student will gain comprehensive
+                   NaN           knowledge of Cloud based systems and aspects related to it
+        Course Content                               Unit 1 Introduction to Cloud Computing
+                   NaN                              1.1 Overview, Roots of Cloud Computing,
+                   NaN                                       1.2 Layers and Types of Cloud,
+                   NaN                   1.3 Benefits and Disadvantages of Cloud Computing,
+                   NaN                                 1.4 Cloud Infrastructure Management,
+                   NaN                                             1.5 Challenges and Risks
+                   NaN                                                                  NaN
+                   NaN                                            Unit 2 Cloud Fundamentals
+                   NaN                          2.1 Cloud characteristics-On Demand Service
+                   NaN                                       2.2 Ubiquitous Network Access,
+                   NaN         2.3 Location Independent Resource Pooling, Rapid Elasticity.
+                   NaN           2.4 Cloud Types-Public, Private, Hybrid, Community, Shared
+                   NaN                                           Private, Dedicated Private
+                   NaN                                                                  NaN
+                   NaN                                    Unit 3 Cloud Computing Essentials
+                   NaN                          3.1 Cloud Computing Architectural Framework
+                   NaN                                          3.2 Cloud Deployment Models
+                   NaN                                3.3 Virtualization in Cloud Computing
+                   NaN                               3.4 Parallelization in Cloud Computing
+                   NaN                                     3.5 Security for Cloud Computing
+                   NaN                                                                  NaN
+                   NaN                                          Unit 4 Cloud Service Models
+                   NaN                             4.1 Exploring the Cloud Computing Stack,
+                   NaN                                      4.2 Infrastructure as a Service
+                   NaN                                            4.3 Server virtualization
+                   NaN                                           4.4 Storage virtualization
+                   NaN                                           4.5 Network virtualization
+                   NaN                                     4.6 Platform as a Service (PaaS)
+                   NaN                                                          4.6.1 Azure
+                   NaN                                                   4.6.2 Goole AppEng
+                   NaN                                                         4.6.3 Hadoop"
+18,table,"          Unnamed: 0                                                           4.6.4 SalesForce
+                 NaN        4.7 Software as a Service (SaaS)-Characteristics, Open SaaS and SOA
+                 NaN                                                       4.7.1 Cloud services
+                 NaN                                                           4.7.2 Web portal
+                 NaN                                                              4.7.3. Web OS
+                 NaN                                                                        NaN
+                 NaN                                          Unit 5 Other Cloud Service Models
+                 NaN                                           5.1 Identity as a Service(IDaaS)
+                 NaN                                       5.2 Network Identity Service Classes
+                 NaN       5.3 IDaaS Interoperability-user authentication, Authorization MarkUp
+                 NaN                                                                  Languages
+                 NaN                                          5.4 Compliance as a Service(CaaS)
+                 NaN                                                                        NaN
+                 NaN                                      Unit 6 Abstraction and Virtualization
+                 NaN                           6.1 Introduction to Virtualization Technologies,
+                 NaN                                     6.2 Load Balancing and Virtualization,
+                 NaN                                            6.3 Understanding Hyper visors,
+                 NaN                                                6.4 Types of Virtualization
+                 NaN                             6.5 Virtualization of CPU, Memory, I/O Devices
+                 NaN                               6.6 Virtual Clusters and Resource management
+                 NaN                                                                        NaN
+                 NaN                                           Unit 7 Cloud Resource Management
+                 NaN                                       7.1 Inter Cloud Resource Management,
+                 NaN                  7.2 Resource Provisioning and Platform Deployment, Global
+                 NaN                                              Exchange of  Cloud Resources.
+                 NaN                  7.3 Administrating the Clouds, Cloud Management Products,
+                 NaN                                        Emerging Cloud Management Standards
+                 NaN                                                                        NaN
+                 NaN                                                      Unit 8 Cloud Security
+                 NaN                8.1 Security Overview, Cloud Security Challenges and Risks,
+                 NaN                                       8.2 Software-as-a- Service Security,
+                 NaN                   8.3 Cloud computing security architecture: Architectural
+                 NaN           Considerations, General Issues Securing the Cloud, Securing Data
+                 NaN                                                                        NaN
+      Reference Book       1.Cloud Computing: Principles and Paradigms - R. Buyya et al - Wiley
+                 NaN                                                                       2010
+                 NaN    2.Cloud Computing : Principles Systems and Application - L Gillam et al
+                 NaN                                                            - Springer 2010
+                 NaN                   3.Cloud Computing Bible - Sosinsky - Wiley - India, 2011
+                 NaN        4.Cloud Computing Second Edition Dr. Kumar Saurabh - Wiley - India,
+                 NaN                                                                       2012
+                 NaN         5.Cloud Computing - Insight into New Era Infrastructure - Dr Kumar
+                 NaN                                                 Saurabh - Wiley India 2012
+Teaching Methodology                     Discussion, Independent Study, Seminars and Assignment
+   Evaluation Method 70% Internal assessment is based on class attendance, participation, class
+                 NaN                 test, quiz, assignment, seminar, internal examination etc.
+                 NaN                30% assessment is based on end semester written examination"
+19,table,"     Course Code                                                                       Unnamed: 0
+    Course Title                                                                      Practical-5
+          Credit                                                                               12
+    Teaching per                                                                         12 Hours
+            Week                                                                              NaN
+   Minimum weeks               15 (Including Class work, examination, preparation, holidays etc.)
+    per Semester                                                                              NaN
+   Last Review /                                                                              ---
+        Revision                                                                              NaN
+      Purpose of    The purpose of course is to make students aware with practical implementation
+          Course                                            of concept learnt in theory subjects.
+             NaN       To provide Fundamental knowledge of practical implementation based on DSC-
+Course Objective                                                                              NaN
+             NaN                                                               9,DSC-10 and SEC-3
+   Pre-requisite                                                                              ---
+             NaN       Student should be able to demonstrate skills mentioned in DSC-9,DSC-10 and
+ Course Out come                                                                              NaN
+             NaN                                                               SEC-3 practically.
+        Teaching         demonstration  of laboratory work and Practical assignments  are provide
+     Methodology                                                                              NaN
+             NaN 70% Internal assessment is based on class attendance, participation, class test,
+      Evaluation                                                                              NaN
+             NaN                             quiz, assignment, seminar, internal examination etc.
+          Method                                                                              NaN
+             NaN                      30% assessment is based on semester end written examination"

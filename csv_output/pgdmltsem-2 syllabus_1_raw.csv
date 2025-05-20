@@ -1,0 +1,159 @@
+page,content_type,content
+1,table,"Post Graduate Diploma in Medical Laboratory Technology             Unnamed: 0
+                                                   No.               Contents
+                                                     A About PGDMLT Programme
+                                                     B    Programme Objective
+                                                     C            Eligibility
+                                                     D       Course Structure
+                                                     E      Evaluation Scheme
+                                                     F               Syllabus"
+2,table,"    he program allows students to learn the manner and usage of laboratory related
+                echniquesandmachineries.Thestudentsalsogettolearntoanalyse,testand
+xamine laboratory samples in-which is used for the purpose providing the necessary
+                  edical assistance and care for the patients facing any sickness."
+3,table,"                                                                                                        Sem Course\rType                              Course\rCode                                               Paper Title Hour/Week Credi\rt Unnamed: 0
+                                                                                                        NaN          NaN                                       NaN                                                       NaN        Th       Pr        NaN
+                                                                                                          1 Core\rcourse                                     DSC-1 Principles of Clinical Bacteriology,\rVirology & Mycology         4        4        4+2
+                                                                                                        NaN          NaN                                     DSC-2                            Clinical Pathology &Immunology         4        4        4+2
+                                                                                                        NaN          SEC                                     SEC-1                               Histopathology&Parasitology         4        4        4+2
+                                                                                                        NaN     Elective                                     DSE-1                                                       NaN         4        4        4+2
+                                                                                                          2 Core\rcourse                                     DSC-3                                     Clinical Biochemistry         4        4        4+2
+                                                                                                        NaN        DSC-4           Haematology & Blood Transfusion                                                         4         4      4+2        NaN
+                                                                                                        SEC        SEC-2 Instrumentation and analytical techniques                                                         4         4      4+2        NaN
+                                                                                                   Elective        DSE-2                                       NaN                                                         4         4      4+2        NaN
+                                                                                               Total Credit           48                                       NaN                                                       NaN       NaN      NaN        NaN
+Note: DSC – Discipline Specific Core, DSE - – Discipline Specific Elective, SEC - Skill\rEnhancement Course          NaN                                       NaN                                                       NaN       NaN      NaN        NaN"
+4,table," Semester                                                                                    DSE (Any one to be opt)
+        1 1. Food Chemistry\r2. Energy and Environment\r3. Laboratory safety and management\r4. Bioethics& Biosafety
+        2           1. Forensic Chemistry & Toxicology\r2. Bioinformatics & Other “OMICS”\r3. IPR\r4. Biostatistics."
+5,table,"Evaluation                                     Criteria Theory Practical
+  Internal Continuous\r&Comprehensive\rEvaluation (CCE)     40        60
+       NaN                                   Attendance     10        10
+       NaN                                   Assignment     20      ----
+       NaN   Internal Practical Test\rand Viva – Voce /   ----        70
+       NaN                          Internal assessment   ----      ----
+  External                          External Evaluation     30        60
+     Total                                          100    200       NaN"
+6,table,"                                             Name of faculty: Science Department: Microbiology
+                                                             Program: PGDMLT Sem-II Type:DSC-3
+                                                                 Subject:Clinical Biochemistry
+                                                          Credit: 4+2 Total learning hours: 60
+Course description:The main aim of the subject is to inform the knowledge about carbohydrates,
+          proteins and lipids.Also add the understanding of enzymes, hormones and vitamins.The
+               information regarding various function tests will enhance the depth of subject.
+                                                                     Student learning outcome:
+       • Demonstrate theory and practical skills to analyze various clinical patients’ samples
+         • Able to estimate different components which are the cause of the disease or are the
+                                                                diagnostic/prognostic markers.
+                 • Understand the basic information about various clinically important enzymes
+                                • Learn special biochemical investigations e.g. LFT, RFT, etc."
+7,table,"                                                                     Name of faculty: Science             Department: Microbiology
+                                                                       Program: PGDMLT Sem-II                           Type:DSC-4
+                                                     Subject: Haematology & Blood Transfusion                                  NaN
+                                                                                  Credit: 4+2             Total learning hours: 60
+                                             Course description: Haematology section includes various topics like blood formation,
+knowledge of different types of anaemia and leukaemia. Also include coagulation mechanism and                                  NaN
+disorder. Blood transfusion has been organised to provide knowledge about screening of donor,                                  NaN
+                                          blood components and various transfusion reactions.                                  NaN
+                                                                    Student learning outcome:                                  NaN
+    • Carry out routine clinical laboratory investigation in haematology or related to blood.                                  NaN
+  • Provide technical help for selected sophisticated haematological techniques with adequate                                  NaN
+                                                             knowledge of various principles.                                  NaN
+       • Understand the skill of blood collection from donors and preventive measures against                                  NaN
+                                                   communicable diseases. They should be able to perform different investigations,
+                                                             preservation and interpretation.                                  NaN"
+8,table,"                                                 Name of faculty: Science Department: Chemistry
+                                                            Program:  PGDMLT  Sem-II Type:SEC-2
+                                              Subject:Instrumentation and Analytical Techniques
+                                                           Credit: 4+2 Total learning hours: 60
+  Course description:  This Course Paper proposes to teach about Principle, Instrumentation and
+  Applications of various spectroscopy and chromatographic techniques, advanced instrumentation
+                                                   techniques, chemical sensors and biosensors.
+                                                                      Student learning outcome:
+                                     At the end of the course students will be able to... Learn
+• The History, origin, laws, principles, theories, instrumental set up, its’ working mechanism,
+     various components and it’s working pattern, procedure of analysis and applications in the
+                                                               various field of analysis about:
+                                                                         • Visible Spectroscopy
+                                                               • Atomic Absorption Spectrometry
+                                                                • Optical Emission Spectrometry
+                                                          • Advanced Instrumentation Techniques
+                                                                           • Gas Chromatography
+                                                       • High Performance Liquid Chromatography
+                                                • Ion Exchange and Ion Exclusion Chromatography
+                                                              • Chemical Sensors and Biosensors"
+9,table,"    5.2              Classification -GSC and GLC & its applications
+    5.3                     Components of instruments: carrier gas,
+    NaN        sample injection system, stationary and mobile phase
+    5.4                                 Columns - packed column and
+    NaN                         capillary column - WCOT, SCOT, PLOT
+    5.5                              Detectors - FID, TCD, ECD, ASD
+    5.6                  Principle and applications of GC-HS, GC-MS
+    NaN                                                         NaN
+Unit 6:          High Performance Liquid Chromatography(Duration: 0
+    6.1                   Introduction, principle and types of HPLC
+    6.2                            Components of instruments: pumps
+    NaN high pressure, pneumatic, syringe, reciprocating, hydraulic
+    6.3                                     Sample injection system
+    6.4                                                      Column
+    6.5  Detector: ultra violet light absorption, refractive index,
+    NaN                                evaporative light scattering
+    6.6        Selective applications in separation and estimations
+    6.7                         Principle and applications of LC-MS"
+10,table,"                       8.3.1Electrochemical sensors
+                    8.3.1.1Coulometry&Potentiometry
+                   8.3.1.2Conductimetry&Amperometry
+                   8.3.1.3Polarography& Voltammetry
+8.3.2Solid state electrode & Mass sensitive sensors
+             8.3.3Optical sensors & Thermal sensors
+            8.3.4Biosensors&Biocatalytic biosensors"
+11,table,"                                                       Name of faculty: Science Department: Chemistry
+                                                                  Program: PGDMLT  Sem-II Type: DSE-2
+                                                              Subject:Forensic Chemistry & Toxicology
+                                                      Credit: 04(T) + 02 (P) Total learning hours: 60
+    Course description: This course paper intends to deal about theForensic Toxicology, the branch of
+  science that applies the principles and knowledge of toxicology to issues and problems in the field
+          of law. To achieve this, techniques of analytical chemistry are combined with principles of
+toxicology to address issues related to the toxic effects of substances on humans that are germane to
+     judicial proceedings. Analytical chemistry deals with the techniques and methods for determining
+                       the identity and relative amounts of unknown components in a sample of matter.
+                                                                            Student learning outcome:
+                                           At the end of the course students will be able to learn...
+                                                                  • Forensic chemistry and its scope,
+                                              • Examination of petroleum products, fires, explosives,
+             • Types of forensic toxicology, analysis, extraction, isolation and clean up procedures,
+                       • Forensic examination of metallic poison and various organic-toxic compounds."
+12,table,"                                                                       Name of faculty: Science      Department: Microbiology
+                                                                        Program: PGDMLT  Sem-II                   Type: DSE-2
+                                                        Subject: Bioinformatics & Other “OMICS”                           NaN
+                                                                                  Credit: 04+02      Total learning hours: 60
+                                             Course description: The paper mainly emphasizes on study concept development and
+application of omics and Bioinformatics. The objective of the paper is to introduce students to                           NaN
+ the rapidly evolving field of bioinformatics. Explain the different NGS study designs, outline                           NaN
+                                  the application areas of comparative genomics and proteomics.        Describe some relevant
+                  databases, sequence alignment methods and various bioinformatics application.                           NaN
+      Student learning outcome: After learning this course students will be able to understand.                           NaN
+                     • Concept, Mechanism and application genomics, Proteomics and metagenomics                           NaN
+      • Student will be utilized the available biological database, online resources and tools.                           NaN
+      • Student will be able to understand and perform the bimolecular structure visualization,                           NaN
+                                             sequences alignment, modelling and drug discovery.                           NaN"
+13,table,"             Name of Faculty: Science Department:Environmental Science
+              Program: PGDMLT  Sem-II           Type of Subject:Theory
+Subject: Intellectual Property Rights                              NaN
+                          Semester: 3                              NaN"
+14,table,"                                                                      Name of faculty: Sciences Unnamed: 0                     Department: Microbiology
+                                                                       Program:  PGDMLT  Sem-II        NaN                                  Type: DSE-2
+                                                                         Subject: Biostatistics        NaN                                          NaN
+                                                                                  Credit: 04+02        NaN                     Total learning hours: 60
+                                                                            Course description:        NaN                                          NaN
+                                                       The course deals with the application of        NaN statistical principles to uncover biological
+                                                      phenomena. It also deals with statistical   concepts           and terminology and basic analytic
+techniques. The course also explain the use of computer tools and software to solve statistical        NaN                                          NaN
+                                                                                          data.        NaN                                          NaN
+                              Student learning outcome: By the end of the course, student will;        NaN                                          NaN
+                                    • Recognize the importance of data, data collection methods        NaN                                          NaN
+                                  • Able to express data by suitable type of graphs and diagram        NaN                                          NaN
+                   • Able to perform various statistical tests to get inference from data sets.        NaN                                          NaN
+                       • Able to calculate measures of central tendency and dispersion of data.        NaN                                          NaN
+                                  • Able to perform students t-test, chi-square test, and ANOVA        NaN                                          NaN
+                        • Understand about software packages and computer tool to analyse data.        NaN                                          NaN"

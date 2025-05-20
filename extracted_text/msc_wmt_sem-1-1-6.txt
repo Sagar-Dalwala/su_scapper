@@ -1,0 +1,219 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220509112159Z
+---- END METADATA ----
+
+Total Pages: 6
+
+==== PAGE 1 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+1
+FacultyofScience
+ShreeRamkrishnaInstituteofComputer
+Education&AppliedSciences,Surat
+M.Sc.WebandMobileTechnology
+
+==== PAGE 2 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+2
+MasterofScienceWebandMobileTechnology2021-22
+Introduction:
+MScWebandMobileDevelopmentTechnologyisaimedatprovidingfirmgroundingin
+strategicwebdevelopmentskills,withaspecificfocusonmobiledevelopmentanduser
+experience.
+Theprogrammeaimstoempoweryoutounderstandthecurrentshapeofemergingtechnologies
+inweb,mobileandcloudandtodeveloplifelonglearningskills.
+Thisprogrammefocusesonmobiledevelopmentandwebdevelopmentskillsneededtosucceed
+inthecuttingedgeoftechnology.Youwillstudythecoreskillsrequiredtogainadeep
+understandingofcontemporarywebandmobiledevelopment,industrypracticeandanalysis
+whichformsthebasisofnextgenerationtechnologies.
+ObjectiveoftheProgramme:
+TheObjectiveoftheprogrammeistoimpartknowledgeoffundamentalsand/orlatesttheories,
+concepts,methods,techniquesandtoolsrelatedtovariousareasofwebandmobileApplications
+specificallyintheareaofMobilebased,cloudbased,WebbasedApplicationDevelopment.
+ProgramOutcome:
+Atthesuccessfulcompletionoftheprogram,studentswillbeabletostarttheircareerinthefield
+ofwebandmobileapplicationdevelopmentintheSoftwareindustry.
+EligibilityCriteria:
+Anycandidatewhohaspassed-
+Bechlor’sdegreeinComputerScience/ComputerApplications/InformationTechnology/
+CyberSecurity/DataScience/IoT/Bigdata/AI/ComputerEngineering/Electronics
+Engineering/ElectronicsandCommunicationengineeringoranequivalentexamination.OR
+Thecandidatewhohaspassedequivalentexamfromothersubjectsorboardsneedtoavail
+eligibilitycertificateforthisprogrammefromtheBoardofEquivalence(BoE)oftheSarvajanik
+University.
+
+==== PAGE 3 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+3
+SemesterwisecoursegroupwisecreditallocationforPostGraduateProgramme
+(AnnexureI)
+Semester DSC SEC DSE PracticalTotal
+No.of
+CoursesCreditNo.of
+CoursesCredit No.of
+CourseCreditNo.of
+CourseCredit
+Th. Th. Th.
+1 2 8 1 4 1 4 1 824
+2 2 8 1 4 1 4 1 824
+3 2 8 1 4 1 4 1 824
+4 2 16 1 4 1 4 1 -24
+Total084004 16 04 16 042496
+EvaluationScheme:
+SemesterSubjectgroupInternal ExternalGrand
+Total CCEAttend.Assign.Internal
+Exam/
+Viva-
+VoceTotal
+Int.
+1DSC-1 4010 20 7030 100
+DSC-2 4010 20 7030 100
+SEC-1 4010 20 70 30 100
+DSE-1 4010 20 7030 100
+Practical 6020 - 60 14060 200
+Total420180600
+2DSC-3 4010 20 7030 100
+DSC-4 4010 20 7030 100
+SEC-2 4010 20 70 30 100
+DSE-2 4010 20 7030 100
+Practical 6020 - 60 14060 200
+Total420180600
+3DSC-5 4010 20 7030 100
+DSC-6 4010 20 7030 100
+SEC-3 4010 20 70 30 100
+DSE-3 4010 20 7030 100
+Practical 6020 - 60 14060 200
+Total420180600
+4DSC-7 15050 - 150 350150 500
+DSE-4 3010 - 30 70 30 100
+Total420180600
+
+==== PAGE 4 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+4
+M.Sc.WMTProgrammesubjectlist:(Annexure-2)
+SemPapertypePaperNo. PaperTitle
+1CorecourseDSC-1FundamentalsofDataScience
+DSC-2WebProgramming-1
+SkillEnhancement
+CourseSCE-1AdvancedDatabaseTechnologies
+Professional
+ElectiveDSE-11.CyberSecurityandForensics-1
+2.WebEngineering
+3.DistributedandParallelComputing
+4.FoundationofAdvancedComputing
+5.FundamentalsofAI
+2CorecourseDSC-3MobileApplicationDevelopment-1
+DSC-4WebProgramming-2
+SkillEnhancement
+CourseSCE-2AdvancedCloudProgramming
+Professional
+ElectiveDSE-21.CyberSecurityandForensics-2
+2.UI/UXdevelopment
+3.Researchincomputing
+4.MachineLearning
+5.AdvancedPythonProgramming
+3CorecourseDSC-5MobileApplicationDevelopment-2
+DSC-6AdvanceJavaScriptFrameworks
+SkillEnhancement
+CourseSEC-31.DataVisualization
+2.BlockchainTechnology
+3.ComputationalLinguistic
+4.SocialMediaMiningandAnalytics
+5.GameDevelopment
+Professional
+ElectiveDSE-31.Bigdata&Analytics
+2.ArtificialNeuralNetworkandDeepLearning
+3.InternetofThings
+4.CyberLawandPractices
+4Corecourse DSC-7Project/Dissertation
+Professional
+ElectiveDSE-4SeminarPresentation/Reviewofpublishedresearch
+paper
+
+==== PAGE 5 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+5
+NameofProgram MasterofScienceWebandMobileTechnology
+Abbreviation M.Sc.WMT
+Duration 2Years
+ObjectiveofProgram TheObjectiveoftheprogramistoimpartknowledge
+offundamentalsand/orlatesttheories,concepts,
+methods,techniquesandtoolsrelatedtovariousareas
+ofwebandmobileApplicationsspecificallyinthearea
+ofMobilebased,cloudbased,WebbasedApplication
+Development.
+ProgramOutcome Atthesuccessfulcompletionoftheprogram,students
+willbeabletostarttheircareerinthefieldofweband
+mobileapplicationdevelopmentintheSoftware
+industry.
+ProgramStructure
+Semester1
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPractical Dura
+tionMarks
+DCS-1
+Fundamentalsof
+Datascience4 4 30 70 100
+DSC-2Web
+Programming-14 4 30 70 100
+SEC-1
+Advanced
+Database
+Technologies4 4 30 70100
+DSE-1Elective4 4 30 70100
+Practical 16 8 14060 200
+16 24 600
+NOTE:Followingsubjectsarelistedaselectivesubjectsofsemester.
+ELECTIVESUBJECTS
+1CyberSecurityandForensics-1
+2WebEngineering
+3DistributedandParallelComputing
+4FoundationofAdvancedComputing
+5FundamentalsofAI
+
+==== PAGE 6 ====
+SRKI
+MasterofScienceWebandMobileTechnology
+6
+Semester2
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+Examinatio
+nInternal
+MarksTotal
+Marks
+TheoryPractical Dura
+tionMarks
+DSC-3Mobile
+Application
+Development–14 4 30 70 100
+DSC-4Web
+Programming-24 4 30 70 100
+SEC-2Advanced
+Cloud
+Programming4 4 30 70 100
+DSC-2Elective4 4 30 70100
+Practical 16 8 14060 200
+16 24 600
+NOTE:Followingsubjectsarelistedaselectivesubjectsofsemester.
+ELECTIVESUBJECTS
+1CyberSecurityandForensics-2
+2UI/UXdevelopment
+3Researchincomputing
+4MachineLearning
+5AdvancedPythonProgramming

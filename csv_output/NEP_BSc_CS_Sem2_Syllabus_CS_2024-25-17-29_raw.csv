@@ -1,0 +1,218 @@
+page,content_type,content
+1,table,"      Course                                                                     Unnamed: 0
+        Code                                                                            NaN
+Course Title                                Major : Object Oriented Programming Methodology
+      Credit                                                     3 (Theory) + 1 (Practical)
+    Teaching                                               3hrs (Theory) + 2hrs (Practical)
+    per Week                                                                            NaN
+     Minimum             15 (Including Class work, examination, preparation, holidays etc.)
+   weeks per                                                                            NaN
+    Semester                                                                            NaN
+ Last Review                                                                            ---
+  / Revision                                                                            NaN
+         NaN   To develop the understanding of object-oriented programming concepts through
+  Purpose of                   programming using java as the computer programming language.
+      Course                                                                            NaN
+         NaN            ● To learn inheritance, polymorphism, abstraction and encapsulation
+         NaN                                         ● To understand the utility of package
+      Course                                                  ● To learn exception handling
+   Objective                                                                            NaN
+        Pre-                                                             Programming basics
+   requisite                                                                            NaN
+         NaN  At the end of the course, student is expected to have understanding about the
+  Course Out concepts of object-oriented programming, inheritance, polymorphism, interfaces
+        come                                                                   and packages
+         NaN              Unit 1 Introduction to Object oriented programming in java[8 hrs]
+         NaN                                               1.1  Object oriented programming
+         NaN                                 1.2  Structured vs object-oriented programming
+         NaN                                     1.3  Object oriented programming languages
+         NaN           1.4  Overview of object-oriented programming features – data hiding,
+         NaN                          abstraction, encapsulation, inheritance, polymorphism
+         NaN                                                       1.5  Classes and objects
+         NaN                                    1.6  Class attributes/variables and methods
+         NaN                                                     1.7  Calling class methods
+         NaN                     1.8  Calling user defined class methods without parameters
+      Course     1.9  Calling user defined class methods with primitive datatype parameters
+     Content              1.10 Calling user defined class methods with object as parameters
+         NaN                            1.11 Access modifiers and its usage for data hiding
+         NaN                                                                            NaN
+         NaN                Unit 2 Object - construction, accessibility and clean-up[7 hrs]
+         NaN                                                  2.1 Constructor and its types
+         NaN                                                      2.1.1 Default constructor"
+2,table,"                     Unnamed: 0 2.1.2 Parameterized constructor\r2.1.3 Copy constructor\r2.2 Garbage collection in java\r2.3 new() and finalize() methods\r2.4 static keyword – static variables and methods\r2.5 this keyword\r2.6 Array of objects\r\rUnit 3 Exception handling in java                                                                 [6 hrs]\r3.1 Need of exception handling\r3.2 Types of exceptions\r3.3 Try... catch block\r3.4 Finally clause\r3.5 Throw clause\r3.6 Throws clause\r\rUnit 4 Inheritance                                                                                           [7 hrs]\r4.1 Importance of inheritance in object-oriented programming\r4.2 Types of inheritance\r4.2.1\rSingle\r4.2.2\rMultilevel\r4.2.3\rHierarchical\r4.2.4     Multiple (using interface)\r4.2.5     Hybrid\r4.3 Use of super keyword\r4.4 Order of calling constructors\r\rUnit 5 Polymorphism                                                                                    [4 hrs]\r5.1 Method overloading\r5.2 Method overriding and dynamic binding\r5.3  Using Final keyword to prevent overriding and inheritance\r\rUnit 6 Encapsulation and packages in java                                                [7 hrs]\r6.1 Significance of Encapsulation\r6.2 What is a package?\r6.3 Importance of package\r6.4 Creating and accessing package in java\r6.5 Adding classes to package\r6.6 Inbuilt packages – Java.util, Java.lang, Java.io                                                           Unnamed: 1
+                      Practical                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    List of practical will be prepared at the beginning of each semester List of practical will be prepared at the beginning of each semester
+Text and\rReference\rLiterature                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  6.\rThe Complete Reference Java2 Herbert Schildt TMH, New Delhi\r7.\rMastering JAVA2 John Zukowski BPB\r8.\r3. Teach Yourself Java2 platform in 21 days Lamey & Cadenhead Teach\rMedia\r9.\rJava in Nut shell - O’Relly Publication\r10. Java Language Reference - O’Relly Publication                                                                  NaN
+          Teaching\rMethodology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    Discussion, Independent Study, Seminars and Assignment, Internal Project Development\rPractical Assignments80%(Approximately weekly)                                                                  NaN"
+3,table,"2.1.2 Parameterized constructor\r2.1.3 Copy constructor\r2.2 Garbage collection in java\r2.3 new() and finalize() methods\r2.4 static keyword – static variables and methods\r2.5 this keyword\r2.6 Array of objects\r\rUnit 3 Exception handling in java                                                                 [6 hrs]\r3.1 Need of exception handling\r3.2 Types of exceptions\r3.3 Try... catch block\r3.4 Finally clause\r3.5 Throw clause\r3.6 Throws clause\r\rUnit 4 Inheritance                                                                                           [7 hrs]\r4.1 Importance of inheritance in object-oriented programming\r4.2 Types of inheritance\r4.2.1\rSingle\r4.2.2\rMultilevel\r4.2.3\rHierarchical\r4.2.4     Multiple (using interface)\r4.2.5     Hybrid\r4.3 Use of super keyword\r4.4 Order of calling constructors\r\rUnit 5 Polymorphism                                                                                    [4 hrs]\r5.1 Method overloading\r5.2 Method overriding and dynamic binding\r5.3  Using Final keyword to prevent overriding and inheritance\r\rUnit 6 Encapsulation and packages in java                                                [7 hrs]\r6.1 Significance of Encapsulation\r6.2 What is a package?\r6.3 Importance of package\r6.4 Creating and accessing package in java\r6.5 Adding classes to package\r6.6 Inbuilt packages – Java.util, Java.lang, Java.io                                                           Unnamed: 0
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   List of practical will be prepared at the beginning of each semester List of practical will be prepared at the beginning of each semester"
+4,table,"  Course Code                                                         Unnamed: 0
+ Course Title                              Major: Database Management Systems-II
+       Credit                                         3 (Theory) + 1 (Practical)
+ Teaching per                                   3hrs (Theory) + 2hrs (Practical)
+         Week                                                                NaN
+Minimum weeks 15 (Including Class work, examination, preparation, holidays etc.)
+ per Semester                                                                NaN
+Last Review /                                                                ---
+     Revision                                                                NaN
+   Purpose of                This course imparts the knowledge of Procedural SQL
+       Course                                                                NaN"
+5,table,"Course Objective                                                                To give exposure of
+             NaN                                                        ● SQL Joins and SubQueries,
+             NaN                                                        ● PL/SQL for handling data,
+             NaN                                                  ● Transaction Management concepts
+    Pr-requisite                             Understanding of basic Database concepts, DDL, and DML
+ Course Out come                                                           Students will be able to
+             NaN                                         ● Efficiently use PL/SQL for handling data
+             NaN                ● Create and invoke user defined procedures, functions and triggers
+  Course Content                                                  Unit 1 SQL Query Functions[6 hrs]
+             NaN                                            1.1. Numeric, String and Date functions
+             NaN                                                           1.2. Aggregate Functions
+             NaN                                                 1.3. Sorting and Grouping the data
+             NaN                                                                                NaN
+             NaN                                            Unit 2 Data from multiple tables[5 hrs]
+             NaN                                                     2.1. Joins: Inner, Outer, Self
+             NaN                                                                   2.2  Sub-queries
+             NaN                                                                                NaN
+             NaN                              Unit 3  Procedural SQL  and Exception Handling[8 hrs]
+             NaN                                                        3.1. PL/SQL Block Structure
+             NaN                                    3.1.1. Using Variables, Constants and Data Type
+             NaN                              3.1.2. Control Statements :IF...THEN statement, Loop,
+             NaN                                                             FOR...Loop, While Loop
+             NaN                                     3.2. User-Defined RECORD and TABLE data types.
+             NaN                                                                    3.3. Exceptions
+             NaN                         3.3.1.  User defined Exceptions and Pre-defined Exceptions
+             NaN                                                        3.3.2.  Handling Exceptions
+             NaN                                                         3.3.3.  Raising Exceptions
+             NaN                                                            3.4. Working with Views
+             NaN                                                                                NaN
+             NaN                                                Unit 4 Cursors and functions[6 hrs]
+             NaN                                       4.1. Concept of Cursors and types of Cursors
+             NaN                                                                     4.2. Functions
+             NaN                                                          4.2.1. Built-in functions
+             NaN                                                      4.2.2. User defined functions
+             NaN                                                                                NaN
+             NaN                                      Unit 5  Stored Procedures and Triggers[7 hrs]
+             NaN                                               5.1 Stored Procedure with parameters
+             NaN                                                                       5.2 Triggers
+             NaN                                                    5.2.1 Triggers and its benefits
+             NaN                                5.2.2  Types of Triggers: Before and After Triggers
+             NaN                                                                                NaN
+             NaN                                  Unit 6 Transaction Management and Packages[5 hrs]
+             NaN                                                6.1 Transaction and System Concepts
+             NaN                                          6.2. Desirable Properties of Transactions
+             NaN                                                    6.3 Commit, Savepoint, Rollback
+             NaN                                                                                NaN
+       Practical               List of practical will be prepared at the beginning of each semester
+        Text and 1. Silberschatz, Korth, Sudarshan ,Database System Concepts,  McGraw-Hill computer"
+6,table,"Reference\rLiterature science series\r2. C J Date, An introduction to Database Systems, Addition-Wesley\r3. Nilesh Shah, Database System using Oracle, PHI.\r4. Ramez\rElmasri&ShamkantB.Navathe,FundamentalsofDatabaseSystems,\rAddison-Wesley\r5. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database System\rImplementation, Pearson.\r6. Ivan Bayross, SQL, PL/SQL, BPB Publications\r7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill                                                           Unnamed: 0
+                  NaN                                                                                                                                                                                                                                                                                                                                                                                                                                 science series                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                              2. C J Date, An introduction to Database Systems, Addition-Wesley                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                                             3. Nilesh Shah, Database System using Oracle, PHI.                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                             4. Ramez\rElmasri&ShamkantB.Navathe,FundamentalsofDatabaseSystems,                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                                                                                 Addison-Wesley                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                5. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database System                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                                                                       Implementation, Pearson.                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                                                 6. Ivan Bayross, SQL, PL/SQL, BPB Publications                                                                  NaN
+                  NaN                                                                                                                                                                                                                                                                                                                                                                                       7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill                                                                  NaN
+            Practical                                                                                                                                                                                                                                                                                                                                                                           List of practical will be prepared at the beginning of each semester List of practical will be prepared at the beginning of each semester
+Teaching\rMethodology                                                                                                                                                                                                                                                                                                          Discussion, Independent Study, Seminars and Assignment, Internal Project\rDevelopment\rPractical Assignments80%(Approximately weekly)                                                                  NaN
+   Evaluation\rMethod                                                                                                                                                                                                                                            50% Internal assessment is based on class attendance, participation, class test, quiz,\rassignment, seminar, internal examination etc.\r50% assessment is based on end semester written examination                                                                  NaN"
+7,table,"science series\r2. C J Date, An introduction to Database Systems, Addition-Wesley\r3. Nilesh Shah, Database System using Oracle, PHI.\r4. Ramez\rElmasri&ShamkantB.Navathe,FundamentalsofDatabaseSystems,\rAddison-Wesley\r5. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database System\rImplementation, Pearson.\r6. Ivan Bayross, SQL, PL/SQL, BPB Publications\r7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill
+                                                                                                                                                                                                                                                                                                                                                                                                                                science series
+                                                                                                                                                                                                                                                                                                                                                                             2. C J Date, An introduction to Database Systems, Addition-Wesley
+                                                                                                                                                                                                                                                                                                                                                                                            3. Nilesh Shah, Database System using Oracle, PHI.
+                                                                                                                                                                                                                                                                                                                                                                            4. Ramez\rElmasri&ShamkantB.Navathe,FundamentalsofDatabaseSystems,
+                                                                                                                                                                                                                                                                                                                                                                                                                                Addison-Wesley
+                                                                                                                                                                                                                                                                                                                                                               5. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database System
+                                                                                                                                                                                                                                                                                                                                                                                                                      Implementation, Pearson.
+                                                                                                                                                                                                                                                                                                                                                                                                6. Ivan Bayross, SQL, PL/SQL, BPB Publications
+                                                                                                                                                                                                                                                                                                                                                                                      7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill"
+9,table,"                Course\rCode                                                                                                                                                                                                                                                                              Unnamed: 0
+               Course\rTitle                                                                                                                                                                                                                                               Minor: Emerging Technologies in Computing
+                      Credit                                                                                                                                                                                                                                                                               4(Theory)
+          Teaching\rper Week                                                                                                                                                                                                                                                                                   4 Hrs
+Minimum\rweeks per\rSemester                                                                                                                                                                                                                      15 (Including Class work, examination, preparation, holidays etc.)
+    Last\rReview /\rRevision                                                                                                                                                                                                                                                                                       -
+          Purpose of\rCourse The aim of this course is to introduce to the students about the emerging\rtechnologies and upcoming areas of computer science and information\rtechnology. Students will become\rfamiliar with special branches of the field which are future specialization\rareas of their learning.
+           Course\rObjective                                                 To Gain understanding about special branches of the IT field.\rTo Gain knowledge AI, Data Science, Information and Cyber Security and\rWeb Mobile technologies.\rTo Understand application areas and future prospects of same branches.
+                Pr-requisite                                                                                                                                                                                                                                                                                     NIL
+            Course Out\rcome                                                             At the end of the course, student is expected to have understanding about\rthe introductory ideas of AI, Data Science, Information and Cyber\rSecurity, Web Mobile technologies, Cloud Computing and IoT.\ras fields of IT."
+10,table," Practical                                                                                -                                                               Unnamed: 0
+  Text and                                                                               1.       Emerging Technologies in Computing -Theory, Practice, and Advances
+ Reference                                                                               2.                                Pramod Kumar, Anuradha Tomar, R. Sharmila
+Literature                                                                               3.                                     Emerging Technologies in Computing -
+       NaN                                                                               4. Introduction to Artificial Intelligence by Rajendra Akerkar, PHI, ISBN :
+       NaN                                                                              NaN                                                                      NaN
+       NaN                                                                              NaN                                                      978- 81-203- 2864-8
+       NaN                                                                               5.   Introducing Data Science - Big data, machine learning, and more, using
+       NaN                                                                              NaN                                                             Python tools
+       NaN                                                                               6.               A Complete Overview On: Web-development Ayush Mauryavanshi
+       NaN                                                                              NaN                                                                 (Author)
+       NaN                                                                               7.             Developing inclusive Mobile Apps - Building Apps for IOS and
+       NaN                                                                              NaN                                          Android by Rob Whitaker, Apress
+       NaN                                                                               8.                      Cyber security, Nina Godbole, Sunit Belapure, Wiley
+       NaN                                                                               9.                         Introduction to computer security by Matt Bishop
+       NaN                                                                              10.                    Cryptography and network security by William Stalling
+  Teaching                           Discussion, Independent Study, Seminars and Assignment                                                                      NaN
+Methodolog                                                                              NaN                                                                      NaN
+         y                                                                              NaN                                                                      NaN
+Evaluation 50% Internal assessment is based on class attendance, participation, class test,                                                                      NaN
+    Method                             quiz, assignment, seminar, internal examination etc.                                                                      NaN
+       NaN                      50% assessment is based on end semester written examination                                                                      NaN"
+11,table,"                Course\rCode                                                                                                                                                        Unnamed: 0
+                Course Title                                                                                                                                           SEC: Web Designing – II
+                      Credit                                                                                                                                          1(Theory) + 1(Practical)
+          Teaching\rper Week                                                                                                                                1 Hrs (Theory) + 2 Hrs (Practical)
+Minimum\rweeks per\rSemester                                                                                                15 (Including Class work, examination, preparation, holidays etc.)
+     Last Review\r/ Revision                                                                                                                                                                 -
+          Purpose of\rCourse The purpose of the course is to make students capable of developing web\rapplications interface using latest designing frameworks, UI/UX tools and\rtechnologies.
+           Course\rObjective                                                                                          To provide knowledge of web design concepts and most recent UI/UX\rtools
+                Pr-requisite                                                                                                                                                               NIL
+            Course Out\rcome                             After completion of this course, the students will be capable of developing\reffective and interactive front end for web applications"
+12,table,"    Course                                                           Unnamed: 0
+   Content                      Unit 1: Introduction to Design Framework[8 hrs]
+       NaN             1.1 Bootstrap Basics, Need, Advantages and Disadvantages
+       NaN                                  1.2 Bootstrap Grid System Structure
+       NaN        1.3 Bootstrap Basic Classes – Tables, Forms, Buttons, Images,
+       NaN               Helper classes, Responsive Utilities, Bootstrap Layout
+       NaN                                                          Components-
+       NaN         Dropdowns, Button Groups, Dropdown Button Pagination, Alerts
+       NaN                           1.4 Overview of Bootstrap design framework
+       NaN                                Unit 2: Fundamentals of JQuery[8 hrs]
+       NaN                                 2.1 Introduction to JQuery, features
+       NaN                                                 2.2 JQuery Structure
+       NaN               2.3 JQuery Attributes, Traversing, DOM methods, Events
+       NaN                                                 2.4 JQuery Utilities
+       NaN                                                  2.5 JQuery with CSS
+       NaN                                    2.6 Overview of JQuery UI widgets
+       NaN                                                                  NaN
+       NaN                                Unit 3:  Introduction to UI/UX[8 hrs]
+       NaN                                      3.1 Basic Concept of UI and UX.
+       NaN                                     3.2 Difference between UI and UX
+       NaN                                                   3.3 Need for UI/UX
+       NaN                                 3.4 Roles and Responsibilities of UX
+       NaN                                                   3.5 Good vs Bad UX
+       NaN             3.6 UI Design Fundamentals - Layouts, Typography, Colour
+       NaN                                      3.7 Wireframing and Prototyping
+       NaN                                                                  NaN
+       NaN                                      Unit 4: Figma Essentials[8 hrs]
+       NaN                  4.1 Set up your account, teams, projects, and files
+       NaN            4.2 Basic Tools:  Frames, Grid, Shape Tools and Alignment
+       NaN                             4.3 Working with Text, Colour and Styles
+       NaN                                            4.4 Setting up Components
+       NaN            4.5 Working with Images: Importing and Customizing Images
+ Practical List of practical will be prepared at the beginning of each semester
+  Text and     1.jQuery, jQuery UI and jQuery Mobile, Adriaan de Jonge, Pearson
+ Reference                        2.Jquery and Jquery UI, Jay Balchand, Pearson
+Literature                                  3.Jquery in Action, Dreamtech Press
+       NaN                       4.Jumpstart Bootstrap, Syed Fazle Rahman , SPD
+       NaN                                                                  NaN
+       NaN           5.Extending Bootstrap, Christoffer Niska, Packt Publishing
+       NaN 6.Learning Web Development with React and Bootstrap by Harmeet Singh
+       NaN                             7.UI is communication By Everett N McKay
+       NaN                       8.The UX Book , By Rex Hartson and Pardha Pyla
+       NaN    9.Designing and Prototyping Interfaces with Figma – Fabio Staiano
+       NaN                                                                  NaN
+       NaN                                                     Online resource:
+       NaN                               1.https://designcode.io/figma-handbook
+       NaN                                             2.https://www.figma.com/"

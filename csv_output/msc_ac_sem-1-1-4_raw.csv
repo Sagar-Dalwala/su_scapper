@@ -1,0 +1,80 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+1,table,"Semester Unnamed: 0    DSC Unnamed: 1    SEC Unnamed: 2  DSE Unnamed: 3     Practical  Total
+     NaN     No. of Credit     No. of Credit     No. of  NaN     Credit No. of Credit    NaN
+     NaN    Courses    Th.    Courses    Th.     Course  NaN        Th.        Course    NaN
+       1          2      8          1      4          1  NaN          4           1 8   24.0
+       2          2      8          1      4          1  NaN          4           1 8   24.0
+       3          2      8          1      4          1  NaN          4           1 8   24.0
+       4          1    NaN         20    NaN          1  NaN          4           1 -   24.0
+   Total         08     40         04     16         04  NaN         16         04 24   96.0"
+2,table," Semester Subject group    Internal Unnamed: 0 Unnamed: 1 Unnamed: 2  External Grand
+      NaN           NaN CCE Attend.    Assign.   Internal      Total       NaN Total
+      NaN           NaN         NaN        NaN      Exam/       Int.       NaN   NaN
+      NaN           NaN         NaN        NaN      Viva-        NaN       NaN   NaN
+      NaN           NaN         NaN        NaN       Voce        NaN       NaN   NaN
+      NaN         DSC-1       40 10         20        NaN         70      30.0   100
+      NaN         DSC-2       40 10         20        NaN         70      30.0   100
+      1.0         SEC-1       40 10         20        NaN         70      30.0   100
+      NaN         DSE-1       40 10         20        NaN         70      30.0   100
+      NaN     Practical       60 20          -         60        140      60.0   200
+      NaN           NaN         NaN        NaN      Total        420     180.0   600
+      NaN         DSC-3       40 10         20        NaN         70      30.0   100
+      NaN         DSC-4       40 10         20        NaN         70      30.0   100
+      2.0         SEC-2       40 10         20        NaN         70      30.0   100
+      NaN         DSE-2       40 10         20        NaN         70      30.0   100
+      NaN     Practical       60 20          -         60        140      60.0   200
+      NaN           NaN         NaN        NaN      Total        420     180.0   600
+      NaN         DSC-5       40 10         20        NaN         70      30.0   100
+      NaN         DSC-6       40 10         20        NaN         70      30.0   100
+      3.0         SEC-3       40 10         20        NaN         70      30.0   100
+      NaN         DSE-3       40 10         20        NaN         70      30.0   100
+      NaN     Practical       60 20          -         60        140      60.0   200
+      NaN           NaN         NaN        NaN      Total        420     180.0   600
+      NaN         DSC-7      150 50          -        150        350     150.0   500
+      NaN         DSE-4       30 10          -         30         70      30.0   100
+      4.0           NaN         NaN        NaN        NaN        NaN       NaN   NaN
+      NaN           NaN         NaN        NaN      Total        420     180.0   600"
+3,table," Sem  Paper type Paper No.                                                     Paper Title
+ NaN Core course     DSC-1                                    Fundamentals of Data Science
+ NaN         NaN     DSC-2                                              Fundamentals of AI
+ NaN       Skill       NaN                                                             NaN
+ NaN Enhancement     SEC-1                                  Advanced Database Technologies
+ 1.0         NaN       NaN                                  Cyber Security and Forensics-1
+ NaN  Discipline       NaN                                               Web Programming-1
+ NaN    Specific     DSE-1                                                 Web Engineering
+ NaN    Elective       NaN                              Distributed and Parallel Computing
+ NaN         NaN       NaN                                Foundation of Advanced Computing
+ NaN Core course       NaN                                                             NaN
+ NaN         NaN     DSC-3                              Mobile Application Development - 1
+ NaN         NaN     DSC-4                                                Machine Learning
+ NaN       Skill       NaN                                                             NaN
+ NaN Enhancement     SEC-2                                     Advanced Python Programming
+ 2.0         NaN       NaN                                1.Cyber Security and Forensics-2
+ NaN  Discipline       NaN                                             2.UI/UX development
+ NaN    Specific     DSE-2                                    3.Advanced Cloud Programming
+ NaN    Elective       NaN                                         4.Research in Computing
+ NaN         NaN       NaN                                    5.Web Programming - 2 NodeJS
+ NaN         NaN     DSC-5                                               Bigdata Analytics
+ NaN Core course       NaN                                                             NaN
+ NaN         NaN     DSC-6                     Artificial Neural Network and Deep Learning
+ NaN       Skill       NaN                           1. Mobile Application Development - 2
+ 3.0 Enhancement    SEC -3                                      2. Cyber Law and Practices
+ NaN      Course       NaN                                           3. Internet of Things
+ NaN         NaN       NaN                                1. Advanced JavaScript Framework
+ NaN  Discipline       NaN                                           2. Data Visualization
+ NaN    Specific     DSE-3                                        3. Blockchain Technology
+ NaN    Elective       NaN 4. Computational Linguistic5. Social Media Mining and Analytics
+ NaN         NaN       NaN                                             6. Game Development
+ NaN Core course     DSC-7                                                             NaN
+ NaN         NaN     DSC-8                                                             NaN
+ NaN       Skill       NaN                                                             NaN
+ NaN         NaN       NaN                                          Project / Dissertation
+ NaN Enhancement     SEC-4                                                             NaN
+ 4.0      Course       NaN                                                             NaN
+ NaN  Discipline       NaN                                                             NaN
+ NaN    Specific     DSE-4               Seminar Presentation/Review of published research
+ NaN    Elective       NaN                                                           paper"

@@ -1,0 +1,100 @@
+page,content_type,content
+1,text,No. of
+2,text,Sarvajanik University
+3,text,Sarvajanik University
+4,text,Sarvajanik University
+5,text,Sarvajanik University
+6,text,Sarvajanik University
+7,text,Sarvajanik University
+8,text,Sarvajanik University
+9,text,Sarvajanik University
+10,text,Skill Enhancement Course: Soap and Detergent Making
+12,text,Sarvajanik University
+13,text,Sarvajanik University
+14,text,Sarvajanik University
+15,text,Sarvajanik University
+1,table,"B.Sc. (Hons) BT/CHE/ENV/MB     Unnamed: 0 Unnamed: 1         Unnamed: 2           Unnamed: 3     Unnamed: 4  Unnamed: 5     Unnamed: 6 Unnamed: 7     Unnamed: 8 Unnamed: 9    Unnamed: 10 Unnamed: 11    Unnamed: 12 Unnamed: 13  Unnamed: 14
+         CREDIT FRAME WORK            NaN        NaN                NaN                  NaN            NaN         NaN            NaN        NaN            NaN        NaN            NaN         NaN            NaN         NaN          NaN
+                  Semester         Majors     Minors Skill\rEnhancement Ability\rEnhancement  Multidiscipl. Value Added Total\rCredits        NaN            NaN        NaN            NaN         NaN            NaN         NaN          NaN
+                       NaN         Theory        Lab                NaN                  NaN            NaN         NaN            NaN        NaN            NaN        NaN            NaN         NaN            NaN         NaN          NaN
+                       NaN No. of\rPapers    Credits            Lab Hrs         Lab\rCredits No. of\rPapers     Credits No. of\rPapers    Credits No. of\rPapers    Credits No. of\rPapers     Credits No. of\rPapers     Credits          NaN
+                         1              1          4                  8                    4              1           4              1          3              1          2              1           3              1           2         22.0
+                         2              1          4                  8                    4              1           4              1          3              1          2              1           3              1           2         22.0
+                         3              1          4                  8                    4              1           4              1          3              1          2              1           3              1           2         22.0
+                         4              3         12                  8                    2              1           4            NaN        NaN              1          2            NaN         NaN            NaN           2         22.0
+                         5              2          8                  8                    4              1           6        Intrnsp          4            NaN        NaN            NaN         NaN            NaN         NaN         22.0
+                         6              3         12                  8                    4              1           6            NaN        NaN            NaN        NaN            NaN         NaN            NaN         NaN         22.0
+            Total after 3y             11         44                 48                   22              6          28            3+1        9+4              4          8              3           9              3           8        132.0
+                         7              3         12                  8                    4              1           6            NaN        NaN            NaN        NaN            NaN         NaN            NaN         NaN         22.0
+              8 (Research)              1          4                NaN                  NaN              1           6            NaN         12            NaN        NaN            NaN         NaN            NaN         NaN         22.0
+                8 (Honors)              3         12                  8                    4              1           6            NaN        NaN            NaN        NaN            NaN         NaN            NaN         NaN          NaN
+            Total after 4y             17         68                 20                   30              8          40              3        9+4              4          8              3           9              3           8        176.0"
+2,table,"                                                             Faculty: Science Department: All  Unnamed: 0
+                                                            Program: B.Sc. (Hons) Type: Minor         NaN
+                                  Subject: Foundation Minors in Applied Sciences-1 Credits: 4         NaN
+                                                                                  Semester: 1         NaN
+    Course description:The objectives of this course are to provide students with fundamental         NaN
+                         scientific knowledge of basics of Agriculture & Forestry, Analytical chemistry &
+         Instrumentation, Forensic science, Industrial Fermentation, Medical Lab Technology &         NaN
+Occupational Health concepts. It will help students in creating a strong foundation necessary         NaN
+                                                                   for science based careers.         NaN
+                                                                    Student Learning Outcome:         NaN
+           ●Obtained ideas on various branches Agriculture & Forestry, Analytical chemistry &         NaN
+           Instrumentation, Forensic science, Industrial Fermentation, Medical Lab Technology         NaN
+                                                              & Occupational Health concepts.         NaN
+                    ●Students will be acquainted with the historical account and development.         NaN
+        ● Able to learn scientific principles and scope of Agriculture & Forestry, Analytical         NaN
+          chemistry & Instrumentation, Forensic science, Industrial Fermentation, Medical Lab         NaN
+                                                            Technology & Occupational Health.         NaN
+     ●Will be aware of general characteristics and able to gather knowledge about Agriculture         NaN
+             & Forestry, Analytical chemistry & Instrumentation, Forensic science, Industrial         NaN
+                                  Fermentation, Medical Lab Technology & Occupational Health.         NaN"
+3,table,"●                                                     Henry Lee’s Crime Scene Handbook:Henry C Lee
+●                                                                Forensic Biology:Shrikant H. Lade
+●                                   Crime Scene Processing and Laboratory Work Book : Patric Jones
+● Forensic Science: An Introduction to Scientific and Investigative Techniques 3rd ed. : Stuart H."
+4,table,"                                                           Faculty: Science Department: All Unnamed: 0
+                                                          Program: B.Sc. (Hons) Type: Major        NaN
+                                Subject: Foundation Majors in Applied Sciences-1 Credits: 4        NaN
+                                                                                Semester: 1        NaN
+  Course description:The objectives of this course are to provide students with fundamental        NaN
+       scientific knowledge of basic Biotechnological, Chemistry, Environmental Science and        NaN
+Microbiology  concepts. It will help students in creating a strong foundation necessary for        NaN
+                                                                     science based careers.        NaN
+                                                                  Student Learning Outcome:        NaN
+        ●Obtained ideas on various branches Biotechnology, Chemistry, Environmental Science        NaN
+                                                                          and Microbiology.        NaN
+                  ●Students will be acquainted with the historical account and development.        NaN
+                          ● Able to learn scientific principles and scope of Biotechnology, Chemistry,
+                                                    Environmental Science and Microbiology.        NaN
+               ●Will be aware of general characteristics and able to gather knowledge about        NaN
+                          Biotechnology, Chemistry, Environmental Science and Microbiology.        NaN"
+5,table,"                                                             Faculty: Science Department: All       Unnamed: 0
+                                                            Program: B.Sc. (Hons) Type: Major              NaN
+                                         Subject: Foundation Laboratory in Applied Credits: 4              NaN
+                                                                                   Sciences-1              NaN
+                                                                                  Semester: 1              NaN
+Course description:The objectives of this practical course is  to introduce and explain basic              NaN
+                                 skills of Biotechnological, Chemistry, Environmental Science and Microbiology
+                                                                                  techniques.              NaN
+                                                                    Student Learning Outcome:              NaN
+          ●Practical part of the paper will help to understand various laboratories and their              NaN
+                                                                            fundamental work.              NaN
+     ● It will also help in development of  basic preparation & handling skills of glasswares              NaN
+             and instruments available in Biotechnology, Chemistry, Environmental Science and              NaN
+                                                                   Microbiology laboratories.              NaN"
+6,table,"      Faculty: Science                Department: All
+Program: B. Sc. (Hons) Type: Skill Enhancement Course
+ Subject: Arogya Mitra                     Credits: 3
+           Semester: 1                            NaN"
+7,table,"     Faculty: Science Title: Soap and Detergent Making
+Program: B.Sc. (Hons)                  Total Credit: 3
+          Semester: 1   Type: Skill Enhancement Course"
+8,table,"       Faculty: Science                  Department: All
+ Program: B. Sc. (Hons) Type: Ability Enhancement Course
+Subject: MIL Gujarati-1                       Credits: 2
+            Semester: 1                              NaN"
+9,table,"                             Faculty: Science                Department: All
+                        Program: B.Sc. (Hons) Type: Value Added Course (VAC)
+Subject: Indian Knowledge System (Foundation)                     Credits: 2
+                                  Semester: 1                            NaN"

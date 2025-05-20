@@ -1,0 +1,623 @@
+---- PDF METADATA ----
+Author: Admin
+Creator: Microsoft® Word 2016
+CreationDate: D:20220429141051+05'30'
+ModDate: D:20220429141051+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 14
+
+==== PAGE 1 ====
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER -IV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 2 ====
+Program: B.Sc.  (Sem -IV) Type:  Theory  
+Subject: DSC -7-Physical Chemistry -II: Chemical Kinetics & Thermodynamics  
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This Course Paper proposes to teach about: The chemical kinetics, order of reaction, theories of 
+reaction rate, kinetics of complex and chemical reactions, applications of chemical kinetics, 
+thermodynamics equilibrium and processes, work and energy, entropy, enthalpy, free energy, laws 
+of thermodynamics, important equations their derivations and applications.  
+Student learning outcome:  
+After completing this course, the students will be able to learn: Order, molecularity, rate of 
+chemical reactions – factors affecting it, kinetics and theories of complex and chemical reactions 
+and applications in various fields, objectives and li mitations of thermodynamic processes, laws of 
+thermodynamics and its’ significance, enthalpy, entropy, free energy, various isotherms, equations 
+and their applications.  
+ 
+Unit 1: Introduction to Chemical Kinetics       (06Hrs)  
+       1.1   Chemical kinetics and its scope  
+       1.2   Macroscopic and microscopic kinetics  
+       1.3   Slow and fast reactions  
+       1.4   Rate of reaction  
+       1.5   Factors affecting rate of reaction  
+       1.6   Velocity constant or rate constant  
+ 
+Unit 2: Order & Molecularity of Chemical Reaction     (06Hrs)  
+       2.1   Molecularity of reaction  
+       2.2   Order of reaction with examples  
+        2.2.1    Zero order reactions and Kinetics  
+        2.2.2    Pseudo first order reaction  
+       2.2.3    First orde r reactions and Kinetics  
+        2.2.4    Second order reactions and Kinetics  
+        2.2.5    Third order reactions and Kinetics  
+        2.2.6     Kinetics of Nth order reactions  
+       2.3    Half-life and mean life.  
+       2.4   Order and molecularity of simple reactions  
+       2.5   Order and molecularity of complex reactions  
+       2.6   Numerical  
+ 
+Unit 3:  Theories of Reaction Rate        (10Hrs)  
+       3.1   Collision theory of reaction rate and limitation  
+       3.2   Effect of increase  of temperature on reaction rate  
+       3.3   Transition state theory  
+       3.4   Activation energy and catalyst  
+       3.5   Lindemann mechanism  
+       3.6   Numerical  
+ 
+
+==== PAGE 3 ====
+Unit 4:  Kinetics of Comple x and Chemical Reactions          (10Hrs)  
+4.1   Consecutive reactions  
+4.2    Parallel or side reactions  
+     4.3    Reversible or opposing reactions  
+     4.4    Mich aaelis -Menten relationship for Enzyme reaction      
+     4.5   Chain reactions    
+     4.6   Branching reactions  
+     4.7   Explosive reactions  
+     4.8   Influence of ionic strength  
+     4.9  Numerical  
+ 
+Unit 5:  Applications o f Chemical Kinetics           (04 H rs) 
+     5.1 Polymer Science  
+     5.2 Chemical Engineering  
+     5.3 Environment Science  
+     5.4 Biological Science  
+ 
+Unit 6 : Thermodynamics -I            (06 H rs) 
+     6.1 Introduction  
+     6.2 Objectives and limitations  
+     6.3 Types of systems and properties  
+     6.4 State functions and thermodynamics equilibrium  
+     6.5 Thermodynamic processes  
+     6.6 The nature of energy, work, heat and temperature  
+     6.7 Internal energy: characteristics  
+     6.8 Exothermic and endothermic reactions  
+ 
+Unit 7: Thermodynamics -II            (12 H rs) 
+     7.1 The Zeroth  law of thermodynamics  
+     7.2 First law of thermodynamics and its’ significance  
+     7.3 P-V work and Enthalpy  
+     7.4 Standard heat enthalpy and enthalpy of formation  
+     7.5 Applications of first law of thermodynamics  
+     7.6 Bond energy and enthalpy  
+     7.7 The spontaneous process and criterion of spontaneity  
+     7.8 The Entropy and entropy change  
+     7.9 Second law of thermodynamics  
+     7.11 Free energy and standard free energy changes and significance  
+     7.12 Absolute entropies and third law of thermodynamics  
+ 
+Unit 8: Thermodynamics -III           (06 H rs) 
+     8.1 Free Energy:  
+8.1.1  Helmholtz Free Energy  
+8.1.2  Gibb’s Free Energy  
+     8.2 Free Energy Functions:  
+8.2.1  Helmholtz Free Energy Functions  
+8.2.2  Gibb’s Free Energy Functions  
+     8.3 Van’t Hoff Isotherm  
+8.3.1  Derivation of the relation between ΔG and Kp  
+     8.4 Clapeyron Equation: Derivation  
+
+==== PAGE 4 ====
+8.4.1  Solid -liquid equilibrium  
+8.4.2  Liquid -gas equilibrium  
+     8.5 Clapeyron -Clausius Equation: Integration form  
+      8.5.1  Applications: Determination of M.W. from  
+       8.5.1.1  Molal elevation constant  
+       8.5.1.2  Molal depression constant  
+     8.6 Numerical  
+ 
+Reference Books:  
+ 
+1. Advanced Physical Chemistry;  Gurdeep Raj , 20th Edition, 2017 , Krishna Prakashan  
+2. Essentials of Physical Chemistry, Arun Bahl, B.S. Bahi, G.D. Tuli;  1st Revised Edition    
+    2008, Reprint 2016,  S. Chand and Company Limited.  
+ 3. Textbook of Physical Chemistry, K.K. Sharma and L.K. Sharma,  4th Edition, 2005,  
+     Vikas Publication,  
+4. Physical Chemis try for S.Y.B.Sc. Sem -4, Dr. Hemangi Desai ,et.al,  1st Edition,(2017),  
+    New Popular Prakashan,  
+5 Text Book of Chemistry, P.Bahadur and P. Bahadur,  6th Edition, 2001, Krishna Prakashan       
+    Media  (P) Ltd.  
+6. Textbook of Physical Chemistry,  M.V. Sangaranarayanan, V. Mahadevan,  1st Edition,     
+    2011, University Press (India) Pvt. Ltd.  
+7. Principles of Physical Chemistry, Late B.R. Puri, L.R. Sharma, Madan S. Pathania,       
+    1st Revised Edition, 2013, Vishal Publishing Company.  
+8. Text Book of Engineering Chemistry, P.C. Jain and Monica Jain, 2016,  Dhanpatrai  
+     Publishing Company.  
+9.  Text Book of Engineering Chemi stry, Dr. Rajshree Khare, Katson Books.  
+10. Molecular Thermodynamics , Mc Quarrie, D. A. & Simon, J. D., 1st Edition, 2004 ,Viva  
+     Books.  
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 5 ====
+ 
+Program: B.Sc.  (Sem -IV) Type:  Theory  
+Subject:  DSC -8- Inorganic Chemistry -III 
+Credit: 04 (T) + 02 (P) Total learning hours: 60 
+Course description:  
+This course provides an overview of d and f -block elements, many important aspects of 
+coordination compounds, inorganic polymers, non -aqueous solvents and some ceramics.  
+Course comprises of information abo ut coordination compounds and organometallic compounds as 
+well as basics of inorganic polymers and cages.  
+Student learning outcome:  
+Upon completion of this course, students will:  
+• Have a deep knowledge regarding lanthanide and actinide elements  
+• Be able to understand various theories related to coordination compounds  
+• Have systematic understanding organometallic compounds  
+• Come to know about pros and cons of radioactivity  
+• Get an idea regarding inorganic cages and metal clusters  
+• Be familiar with solvent  other than water  
+ 
+ 
+Unit -1 Chemistry of d - and f - Block E lements                                                          (10 Hrs)  
+        1.1 Transition Elements:  
+         1.1.1  General comparison of 3d, 4d and 5d elements in term of electronic                  
+                     configuration, oxid ation states, redox properties, coordination chemistry  
+        1.2 Lanthanide and Actinides:  
+         1.2.1  General Comparison on E lectronic configuration, oxidation states,  colour,   
+                     spectral and magnetic properties; lanthanide contraction,  separation of            
+                     lanthanides (ion -exchange method only)  
+ 
+Unit -2 Coordination C hemistry -II                                                                              (11 Hrs)  
+        2.1 Elementary Crystal Field Theory: splitting of dn configurations in octahedral, square   
+              planar and tetrahedral fields  
+        2.2 Cr ystal  field stabilization energy (CF SE) in weak and strong fields, pairing energy  
+        2.3 Spectrochemical series  
+        2.4 Jahn- Teller distortion  
+        2.5 Octahedral site stabilization energy (OSSE)  
+        2.6 Metal -ligand bonding (MO concept, e lementary idea)  
+ 
+Unit -3 Organometallic Compounds -II                                                                       (10 Hrs)  
+      3.1 Metal Alkyls: Important structural features of methyl lithium (tetramer)         
+            and Trialkyl Aluminiu m (dimer)  
+      3.2 Concept of multicentre bonding in these compounds  
+      3.3 Ferrocene: Preparation, physical properties and reactions (acetylation,  alkylation,  
+
+==== PAGE 6 ====
+           metallation, Mannich Condensation  
+      3.4 Structure and aromaticity of ferroce ne 
+      3.5 Comparison of aromaticity of ferrocene and reactivity with that of         
+           Benzene  
+ 
+Unit -4 Inorganic P olymers                                                                                          (06 Hrs)  
+       4.1 Overview of polymers  
+       4.2 Types of inorganic polymers  
+       4.3 Comparison with organic polymers  
+       4.4 Synthesis, structural aspects an d applications  
+             Silicones and siloxanes  
+             Borazines,  
+             Phosphazenes  
+             Polysulphates  
+ 
+Unit -5 Radioactivity                                                                                                      (08 Hrs)  
+      5.1 Nuclear stability and nuclear binding energy  
+      5.2 Nuclear forces: meson exchange theory  
+      5.3 Nuclear models (elementary idea): Con cept of nuclear quantum number, magic   
+            numbers  
+      5.4 Nuclear Reactions : Artificial radioactivity, transmutation of elements, fission, fusion          
+            and spallation  
+     5.5 Nuclear energy and power generation  
+     5.6 Hazards of radiation and safety measures  
+ 
+Unit -6 Cages and Metal Clusters                                                                              (05 Hrs)  
+       6.1 Cages  
+       6.2 Boron cage compounds  
+       6.3 Metal clusters: Metal -metal bonds  
+       6.4 Framework bonding in metal clusters  
+       6.5 Synthesis of metal clusters  
+       6.6 Types of clusters viz. carbonyl clusters, Halide type clusters, Boron clusters and their          
+             applications  
+  
+Unit -7 Non -aqueous S olvents                                                                                       (05 Hrs)  
+      7.1 Classification of solvents  
+      7.2 Physical properties of a solvent for functioning as an effective reaction  medium  
+      7.3 General characteristics of solvents  
+      7.4 Study of solvents such as liquid NH 3, liquid SO 2 and DMSO  
+Unit -8 Ceramics                                                                                                           (05 Hrs)  
+      8.1 Important clays and feldspar, ceramic, their types and manufacture                    
+      8.2 High technology ceramics and their applications  
+      8.3 Superconducting and semiconducting oxides  
+ 
+ 
+ 
+ 
+
+==== PAGE 7 ====
+Reference books:  
+1. Advanced In organic Chemistry,  Satya Prakash Tuli, Basu & Madan 6th Edn,2000, S. 
+Chand and Company Limited.  
+2. Calcula tion of Analytical Chemistry, Hamilton, Simpson &Ellis 7th Edn., 1969, ACS 
+publication  
+3. Quantitative Inorganic Analysis, A.I Vogal , 5th Edn., 1989, Longman scientific and 
+technical Publication  
+4. Theoretical Inorganic Chemistry, Day, M.C. and Selbin, J ., 2008, East -West Press  
+5. Concise Inorganic  Chemistry, Lee J. D., Wiley India, 5th Edn., 2008, Oxford University 
+Press  
+6. Inorganic Chemistry – Principles  of structure and reactivity, Huheey J. E., Keiter E. A. 
+and Keiter R. L. , 4th Edn., 1997, Pearson  
+7. Principles of Inorganic Chemistry by Puri, Sharma, Kalia 33rd Edn.,2020, Vishal 
+Publishing Co.  
+8. Selected Topic in Inorganic Chemistry,  Malik, Tuli, Madan,  17th Edn., 2010, S. Chand  
+9. Basic Inorganic Chemistry, Cotton and Wilkinson , 3rd Edn., 1994, A John Wiley and 
+Sons  
+10. Inorganic and organometalic polymers, Ranald D. Archer, 2001 A John Wiley and Sons, 
+Inc. publication (USA)  
+11. Nuclear and Radiation Che mistry, Sharma B. K, 1987, Goel Publishing House  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 8 ====
+Program: B.Sc.  (Sem -IV) Type:  Theory  
+Subject: SEC -2: Green Chemistry  
+Credit: 04 (T) + 02(P)  Total learning hours: 60 
+Course description: This course provides an overview of fundamental topics in green chemistry. 
+Green Chemistry is the design of chemical products and processes that reduce or eliminate the use 
+and generation of hazardous substances. While there are many mechanisms and tools available 
+to assess  the impact of materials and processes on human health and the environment, there are few 
+tools available to help  design and create  products  as such.  
+This course will present the fundamentals of the 12 principles of green chemistry, and explore 
+relevant examples of their practical use in commercial applications.  
+ This course will explore examples from a wide spectrum of industrial sectors including 
+construction, personal care, pharmaceuticals and electronics.  
+ Through examples, students will be presented with the premise that green chemistry offers 
+organizations a boost to innovation and faster time to market.  
+Student learning outcome: Upon completion of this course,  
+Students learn  the basic principles of  green  and sustainable chemistry  
+They must be able to do and understand stoichiometric calculations and relate them 
+to green  process metrics.  
+They learn alternative solvent media and energy sources for  chemical  processes.  
+Unit -1 Introduction to Green Chemistry                                                                    (02Hrs)                                
+      1.1   What is green chemistry?  
+1.2   Need for Green Chemistry  
+1.3   Goals of Green Chemistry  
+1.4   Limitation/Obstacles in the pursuit of the goals of Green Chemistry  
+ 
+Unit -2 Tools and Principles of Green Chemistry                                                       (0 3Hrs)            
+       2.1   Principles of Green chemistry with their explanation s 
+       2.2   Tools green chemistry  
+       2.2.1  Green starting materials & Reaction Media.  
+       2.2.2  Green catalysts  
+       2.2.3  Green reactions  
+       2.2.4  Green Reaction conditions  
+       2.2.5  Green chemical products  
+       2.2.6  Use of Renewable feed stock  
+ 
+Unit -3   Principles of Green Chemistry & Designing a Chemical synthesis -I         (04Hrs)        
+      3.1   Principles of Green Chemistry special emphasis on: Designing a Green Synthesis  
+              using these principles;  
+      3.2   Prevention of Waste/ by products; maximum incorporation of the materials used in  
+             the process into the final products, Atom Economy, calculation of atom economy of                 
+             the  rearrangement, addition, substitu tion and elimination reactions. Prevention/   
+             minimization of hazardous/ toxic products reducing toxicity. risk = (function) hazard   
+             exposure; waste or  pollution prevention hierarchy  
+     3.3   Green solvents supercritical fluid s, water as a solvent for organic reactions, ionic   
+             liquids  
+ 
+ 
+
+==== PAGE 9 ====
+Unit -4 Principles of Green Chemistry and Designing a Chemical synthesis -II          (12Hrs)  
+4.1   Energy requirements for reactions alternative sources of energy: use of microwaves   
+       and ultrasonic energy.  
+4.2   Selection of starting materials; avoidance of unnecessary derivatization careful use of    
+        blocking/protecting groups  
+4.3   Use of catalytic reagents (wherever possible) in preference to stoichiometric reagents;   
+        catalysis and green chemistry, comparison of heterogeneous and homogeneous   
+        catalysis, bio catalysis, asymmetric catalysis and photo catalysis.   
+4.4   Prevention of chemical accidents designing greener processes, inherent safer design,  
+        principle of ISD What you dont have cannot harm you, greener alternative to Bhopal  
+        Gas tragedy (safer route to carcarbaryl) and Flixiborough acci dent (safer route to    
+        and limitation.  
+4.5   Strengthening/ development of analytical techniques to prevent and minimize the    
+         generation of hazardous substances in chemical processes  
+ 
+Unit -5 Principles of Green Chemistry -II                                                                    (12Hrs)  
+5.1   Fluorous biphasic solvent, PEG, solvent less processes, immobilized solvents and        
+        how to compare greenness of solvents  
+5.2   Energy requirements for reactions – alternative  sources of energy: use of microwaves   
+        and ultrasonic energy  
+5.3   Selection of starting materials; avoidance of unnecessary derivatization – careful use             
+        Of blocking/protecting groups; use of catalytic reagents (wherever possib le) in   
+        preference to stoichiometric reagents; catalysis and green chemistry, comparison of         
+        heterogeneous and homogeneous catalysis, bio catalysis, asymmetric catalysis and      
+        photo catalysis. subdivision  of hazardous su bstances in chemical processes.  
+5.4    Ionic liquids as green solvents and use of bio -catalysis  
+ a) Ionic liquids as green solvents -green solvents, reactions in acidic ionic liquids and    
+ in neutral ionic liquids (Hydrogenation, Diels -Alder reaction, O -alkylation and N -  
+ alkylation).  
+ b) Biocatalysts in organic synthesis: Introduction,  
+ i) Biochemical Oxidation and reduction (microbial) -production of fine     
+     chemicals, vitamins and amino acids.  
+ii) By microorganisms - production of penicillins, streptomycin and   
+     chloramphenic  
+ 
+Unit -6 Waste Management & Application of Green Technology                            (03Hrs)  
+ 6.1   Sources and types of waste.  
+ 6.2   Waste treatment and disposal: Integrated waste Management & supercritical   
+         oxidation of  waste  
+1.1 Integrated waste management of plastics: Illustration of 4R’s  
+ 
+ 
+ Unit -7 Examples of  Green Synthesis/Reactions & Real World C ases-I             (15Hrs)  
+  7.1   Green Synthesis of the following compounds: adipic acid, catechol, disodium                   
+          iminodiacetate (alternative to Strecker synthesis)  
+  7.2   Microwave assisted reactions in water : Hoffmann e limination, hydrolysis,          
+
+==== PAGE 10 ====
+         oxidation, saponification reactions  
+  7.3   Microwave assisted reactions in organic solvents: Esterification reactions, Fries      
+         rearrangement, Ortho ester Claisen rearrangement, Diels -Alder reaction,      
+         decarboxylation.  
+  7.4   Microwave solvent free reactions (Solid state reactions): Deacetylation,                                            
+         deprotection,  saponification of  ester , alkylation of reactive methylene compounds,   
+         synthesis of nitriles from aldehydes, reductions.  
+  7.5   Ultrasound assisted reactions : Introduction,  substitution reactions, addition,   
+         oxidation, reduction reactions sono chemical Simmons -Smith Reaction               
+         (Ultrasonic  alternative to Iodine).  
+  7.6   Surfactants for carbon dioxide replacing smog producing and ozone depleting      
+           solvents with CO 2 for preci sion cleaning and dry cleaning of garments.  
+  7.7   Designing  of  environmentally safe marine antifoulant  
+ 
+Unit -8 Exam ples of Green Synthesis & S ome Real World C ases-II                    (09Hrs)  
+      8.1   Right fit pigment: synthetic azo pigments to replace toxic organic and inorganic   
+              Pigments, An efficient, green synthesis of a compostable and widely applicable    
+               plastic (poly lactic acid) made from corn.  
+      8.2   Health ier Fats and oil by Green Chemistry: Enzymatic Inter etherification for  
+              production of no Trans Fats and Oils  
+      8.3   Development of Fully Recyclable Carpet: Cradle to Cradle Carpeting.  
+      8.4   Future Trends in Green Chemistry Oxidat ion reagents and catalysts; Biomimetic,  
+              multifunctional reagents; Combinatorial green chemistry; Proliferation of solvent   
+              less  reactions ; co-crystal controlled solid state synthesis (C2S3); Green chemistry     
+              in  sustainable  development  
+ 
+Reference Books:   
+1. New Trends in Green Chemistry, V.K. Ahluwalia & M.R. Kidwai, 2005, Anamalaya   
+ Publishers   
+       2.  Introduction to Green Chemistry, A.S. Matlack, 2001, Marcel Dekker  
+  3. Real -World cases in Green Chemistry, . M.C. Cann & M.E. Connely, 2000,  America n   
+     Chemical Society, Washington   
+  4. Introduction to Green Chemistry, M.A. Ryan & M. Tinnesand, 2002, American      
+     Chemical Society, Washington  
+  5.  Green Chemistry Theory and Practice, P.T.Anatas and J.C. Warner, 1998, University                
+       Press  
+  6.  Green Chemistry, V.K. Ahluwalia, 2012, Narosa, New Delhi.  
+  7. Real world cases in Green Chemistry, M.C. Cann and M.E. Connelly, 2000, American        
+      Chemical Society   
+  8. Green Chemistry: Introductory Text, M.Lancaster, 2010, Royal Society of Chemistry  
+      (London)  
+  9.  Green Chemistry: Environmental friendly alternatives, R S Sanghli and M.M     
+       Srivastava, 2012, Narosa Publication  
+ 
+ 
+ 
+
+==== PAGE 11 ====
+Program: B.Sc.  (Sem -IV) Type:  Theory  
+Subject:  DSE -4-Nanoscience  and N anotechnology  
+Credit: 02 (T) Total learning hours: 30 
+Course description:  Nanoscience is the study of structures and molecules on the scale of 
+nanometers and the technology which utilizes it in practical applications is called nanotechnology. 
+Today, engineers and researchers are finding a wide variety of methods to deliberately  make 
+nanoscale materials to take the advantages of their enhanced properties such as higher strength, 
+lighter weight, high chemical reactivity, etc. also the nanotechnology offers more advances in 
+disease treatments, in imaging and diagnostics equipment, in energy efficient products such as fuel 
+and solar cells, etc. so in order to move towards the advanced materials and devices, students should 
+have the knowledge of nanoscience.  
+Student learning outcome: After learning the course,students should be able  : 
+• To understand the difference between bulk and nanoscale materials.  
+• To understand the basics of nanoscale science.  
+• To understand the synthesizing technique and difficulties to synthesize the nanomaterials so 
+they can get interest in the search of new composition techniques of nanomaterials.  
+• To understand the various applications of nanoscience and nanotechnology.  
+ 
+Unit -1  Fundamentals of Nanoscience  and Nanotechnology                                       (03 Hrs)  
+1.1 Introduction to the world of Nanoscience  
+1.2 Nano and Nature: Nanoscopic colors, Bioluminescence, Tribiology.  
+1.3 Introduction to hydrophilic and hydrophobic materials.  
+1.4 Time line of Nanotechnology in different centuries.  
+ 
+Unit -2: Nano scale Science (The big world of Nano scale)                                              (4 Hrs)  
+2.1 Interconversion of Units.  
+2.2 Introduction to surface area to volume ratio and aspect ratio.  
+2.3 Difference between surface area to volume ratio of bulk materials and nano materials 
+(sphere, rods, cubes)  
+2.4 Difference in aspec t ratio of bulk wire and nanowire.  
+2.5 Nanomaterial and wavelength of light.  
+ 
+Unit -3: Classification of Nano structured materials                                                       (4 Hrs)  
+3.1 Small things can make a big difference.  
+3.2 Classification of nanostructured materials (3D, 2D, 1D, 0D).  
+3.3 Relationship between dimension and shape of nanomaterials (Quantum dots, Quantum wires, 
+carbon nanotubes, Fullerenes).  
+3.4  Effect of size on electronic and optical properties.  
+
+==== PAGE 12 ====
+ 
+Unit -4: Fundamental of atomic structure and Bonding                                                 (3 Hrs)  
+4.1 Bohr’s atomic structure.  
+4.2 Bohr’s atomic radii, comparative size of nanomaterials and atomic size, electronic 
+configuration.  
+4.3 Types of energy levels  
+4.4 Bonding and electronic  structures of solids.  
+ 
+Unit -5: Concept of solid state physics and crystal structure                                          (4 Hrs)  
+5.1 Introduction.  
+5.2 Planes in the crystals and crystallographic directions.  
+5.3 Types of crystal structures.  
+5.4  Reciprocal lattice  
+ 
+Unit -6: Synthesis techniques                                                                                              (4 Hrs)  
+6.1 Introduction  
+6.2 Top-Down fabrication methods(concepts with examples only)  
+6.3 Bottom -Up fabrication methods(con cepts with examples only)  
+6.4  Chemical,Biological and  Self -assembly methods of synthesis  
+  
+Unit -7: Properties of Nano materials                                                                                (4 Hrs)  
+7.1 Introduction  
+7.2 Mechanical & Optical  properties  
+7.3 Electrical &  Magnetic  properties  
+7.4 Structural and Thermal properties  
+ 
+Unit -8: Applications and Future perspective of Nanoscience and Nanotechnology.   ( 4 Hrs ) 
+8.1 Introduction  
+8.2 Cosmetics & Domestic appliances  
+8.3 Nanobiotechnology and Medical fields  
+8.4 Environmental development  
+8.5 Food and Agriculture  
+ 
+Reference Books:  
+1. Nanoscience and Nanotechnology Fundanentals to Frontiers, M.S. Ramachandra Rao, 
+Shubra Singh2013, Wiley  
+2. Nanotechnology Principles and practicals, S.K. Kulkarni, 2017, C apital Publishi ng 
+Company  
+
+==== PAGE 13 ====
+3. Bio-nanotechnology: concepts and applications, Madhuri Sharon ,Maheshwar Sharon, 
+2013, CRC Press  
+4. Introduction to nanoscience and nanotechnology, Boca Raton, G.L. Hornyak, H.F. 
+Tibbals, J. Dutta , J. Moore, CRC Press  
+5. A textbook of Nanoscience and  Nanotechnology, B.S. Murty, 2012, Orient 
+Blackswan Private Limited - New Delhi  
+6. Environmental Nanotechnology, M. H. Fulekar, Bhawana Pathak, 2018, CRC Press  
+7. A textbook of Nanoscience and Nanotechnology, T. Pradeep , 2012, Tata McGraw 
+Hill Education Private Limited.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 14 ====
+Chemistry Lab -Semester -IV 
+ 
+1. Determination of the rate -constant (K) for the hydrolysis of methyl acetate catalysed 
+by HCl.  
+2. Determination of the order of reaction and rate -constant(K) for the hydrolysis of ester    
+            (ethyl acetate) by NaOH  
+3. To determine the Heat of solution of organic acid (benzoic acid/ phthalic acid) by 
+finding the solubility of the acid at two diff erent temp  
+4. Vitamin -C clock reaction using vitamin -C tablet, tincture, hydrogen peroxide and 
+liquid laundry starch  
+5. Preparation of biodiesel from waste vegetable oil  
+6. Detection of elements in organic compounds by green method (Sodium carbonate 
+method)  
+7. Qualit ative inorganic analysis (Minimum five) 
+Analysis of mixture salt containing two anions and two cations (From two different 
+groups) from the following:  
+Anions : Carbonate, Sulphate, Chloride, Bromide, Nitrate, Borate, P hosphate  
+Cations: Copper, Iron, Aluminium, Zinc, Manganese, Calcium, Strontium, B arium,   
+                Potassium and A mmonium.  
+ 
+ 
+Reference Books:  
+ 
+1. Advanced Physical Chemistry, J.B. Yadav, 14th Edition, 1995, Goel Publishing 
+House.  
+2. Experiments in Physical Chemistry 8th Ed.; Garland, C.  W.; Nibler, J. W. & 
+Shoemaker, D. P.  McGraw -Hill: New York (2003).  
+3. A Text Book on Chemistry Practical; 1st Edition, Bidhan Chandra Ray, Satyanarayan 
+Das, Reprint 2017, NCBA.  
+4. Vogel, A.I. Quantitative Organic Analysis, Part 3, ,2012, Pearson  
+5. Greener approa ches to undergraduate chemistry experiment., Kirchoff, M.; Ryan, 
+M.A. 2002, American Chemical Society, Washington DC.  
+6. Green Chemistry Experiments: A monograph, Sharma, R.K.; Sidhwani, I.T.; 
+Chaudhari, M.K. 2013, I.K. International Publishing House Pvt Ltd . New Delhi.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

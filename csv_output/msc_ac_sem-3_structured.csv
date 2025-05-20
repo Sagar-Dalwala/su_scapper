@@ -1,0 +1,12 @@
+section,subsection,content
+Course Title,,Thepurposeofthecourseistomakestudentscapableof
+Objectives,,Theobjectiveofthesecourseistoenablestudentstolearnpractical
+Unit,Unit 1,IntroductiontoAngular
+Unit,Unit 2,AngularBasics
+Unit,Unit 3,IntroductiontoReact
+Unit,Unit 4,ReactBasics
+Unit,Unit 5,ReactRouting
+Unit,Unit 6,ReactFormsandIntroductiontoRedux
+Unit,Unit 7,React–ReduxandHooks
+Unit,Unit 8,ReactBootstrapFramework
+References,,"Literature1.GameDevelopmentwithUnity,MichelleMenard,Delmar"

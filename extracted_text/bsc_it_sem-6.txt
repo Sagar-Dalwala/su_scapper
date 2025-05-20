@@ -1,0 +1,157 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426101228Z
+---- END METADATA ----
+
+Total Pages: 3
+
+==== PAGE 1 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+73 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Faculty of Science  
+ 
+Shree Ramk rishna  Institute of Computer Education & 
+Applied Sciences, Surat  
+ 
+B.Sc. Information Technolog y 
+ 
+SEMESTER - 6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 2 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+74 
+ 
+ 
+601: Project  
+ 
+Course Code    601: DSC 11, 12 , SEC-4 
+Course Title  Project  
+Credit  18 
+Teaching per Week  24 hours (i.e. 2 Students / hour / Week)  
+Minimum weeks per 
+Semester  15 (Project work, Self -Study, examination, preparation, holidays etc.)  
+Last Review / Revision  --- 
+Purpose of Course  Students will get trained in industrial practices and activities of Software  
+Engineering  
+Course Objective  To expose students to industrial practices and activities of software 
+engineering and train them about the same.  
+Pr-requisite  Knowledge of Advanced Programming, Latest Technologies and Tools 
+and Software Engineering.  
+Course Out come  After completion of this  course, the student will be capable to start 
+professional career and/or research work in the field of Information  
+Technology.  
+Course Content  Entire semester is allocated for a full -time project work. All the  students 
+have to undergo a project preferably in an industry or any reputed 
+institute. The students must prepare documentation of the project work 
+done as per the software Engineering Guidelines. At the end of the 
+semester, the students have to submit their project report in bounded 
+form to the respec tive institution. The project presentation and viva – 
+voice will be conducted on the basis of it.  
+The students have to submit the following reports to their respective 
+institution:  
+1. Project Joining Report  
+2. Appropriate name of the project  
+3. Monthly Pro gress Report duly sign by the concern external  
+guide  
+4. Project Completion Certificate  
+5. Institution/College Certificate  
+6. Software Coding declaration (if industry/organization doesn’t  permit 
+students to submit the source code) ( To be submitted at the t ime of 
+joining project training)  
+7. Attendance Report  
+Without such reports student will not be allowed to appear in his/her 
+final Project Presentation and Viva -Voice.  
+ 
+Teaching Methodology   
+ Project guidance, review  
+ 
+Evaluation Method  70% Internal assessment is based on project presentation and/or 
+demonstration and viva -voice examination.  
+30% assessment is based Project Presentation and/or demonstration and 
+viva-voice examination at the end of semester.  
+ 
+ 
+ 
+ 
+
+==== PAGE 3 ====
+SRKI  
+Bachelor of Science Information Technology
+ 
+75 
+ 
+ 602: Seminar Presentation/Review of published research paper  
+ 
+************* ************  Course Code    602  DSE -6 
+Course Title  Seminar Presentation/Review of published research paper  
+Credit  2 
+Teaching per Week  2 hours (i.e. 2 Students / hour / Week)  
+Minimum weeks per 
+Semester  15 (Project work, Self -Study, examination, preparation, holidays etc.)  
+Last Review / Revision  --- 
+Purpose of Course  The purpose of the course is to make student capable of gaining 
+additional knowledge (besides the curricula) in the field of information 
+technology by self learning practices and presenting and/or 
+demonstrating it.  
+OR 
+The purpose of a review paper is to succinctly review recent progress in 
+a particular topic . Overall, the paper summarizes the current state of 
+knowledge of the topic. It creates an understanding of the topic for the 
+reader by discussing the findings presented in recent research papers  
+Cours e Objective  Additional knowledge building in the field of Information Technology 
+using self -learning practice and research paper reviews.  
+Pr-requisite  Basic Knowledge of Information Technology theories,  
+activities, methods, techniques & tools  
+Course Out come  After completion of this course, the student will have gained further 
+knowledge (besides the curricula) in the field of information technology 
+by self learning practices and will be capable of presenting and/or 
+demonstrating it.   
+OR 
+ The student will  benefit with research paper reviews  
+ To help improve writing and research skills  
+ To professionalize the graduate experience.  
+ To inform a future career path  
+Course Content  In this paper students will have to select any topic related to  information 
+technology field – preferably based on the current trends and 
+technologies for the seminar. Individual student is required to prepare a 
+seminar report. At the end of the semester student has to submit seminar 
+report with satisfactory detail stud y in the bounded form to the 
+respective institution. The seminar presentation and viva voice will be 
+conducted on the basis of selected topic at the end of the semester.  
+The students have to submit the following documents to their  respective 
+institution:  
+1. Name and abstract of the Topic selected.  
+2. Monthly Progress Report duly signed by the concern internal guide  
+3. Work Completion Certificate by internal guide  
+4. Institution/College Certificate   
+Teaching Methodology  
+ Seminar guidance, review  
+ 
+Evaluation Method  70% Internal assessment is based on seminar presentation and/or 
+demonstration and viva -voice examination.  
+30% assessment is based seminar Presentation and/or demonstration and 
+viva-voice examination at the end of semester.  

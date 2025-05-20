@@ -1,0 +1,148 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220509111445Z
+---- END METADATA ----
+
+Total Pages: 4
+
+==== PAGE 1 ====
+SRKI
+MasterofScienceAdvancedComputing
+1
+FacultyofScience
+ShreeRamkrishnaInstituteofComputer
+Education&AppliedSciences,Surat
+M.Sc.AdvancedComputing
+
+==== PAGE 2 ====
+SRKI
+MasterofScienceAdvancedComputing
+2
+MasterofScienceAdvancedComputing2021-22
+Introduction:
+Thedemandsofourglobal,data-intensive,knowledgebasedeconomyiscreatingaskillsgap
+andmakingnowtheperfecttimetogaintheskillsnecessarytomeetdemand.Thiscourseis
+aimedatstudentswhohaveasubstantialbackgroundincomputingandwanttostudyadvanced
+computingconceptsandstateofthearttechnologiesinmoredepth.
+Thistaughtpostgraduatecourseoffersyoutheopportunitytostudyawidevarietyoftopicsindepth
+inArtificialIntelligence,NLP,DataScience,BigData,DataAnalyticsetc.withdedicatedexperts.
+Theprogrammeissuitableforstudentswhoareprimarilyinterestedinacareerorientatedtowards
+developmentandapplicationsinindustry,aswellasitisaimedatstudentsinterestedinaresearch
+careereitherintheindustrialoracademicsector.
+Objectivesoftheprogramme:
+TheObjectiveoftheprogramistoimpartknowledgeoffundamentalsand/orlatesttheories,
+concepts,methods,techniquesandtoolsrelatedtovariousareasofAdvancedComputerScience.
+ApplicationsandInformationTechnologyandspecificallyintheareaofDataScience,Cloud
+based,WebbasedApplicationDevelopment,MachineLearning,DeepLearningandIntelligent
+Systems.
+ProgrammeOutcome:
+Atthesuccessfulcompletionoftheprogram,studentswillbeabletostarttheircareerinthefield
+ofArtificialIntelligence,DataScienceandResearchDomainsofComputerScience.
+EligibilityCriteria:
+AcandidateBechlor’sdegreeinComputerScience/ComputerApplications/
+InformationTechnology/CyberSecurity/DataScience/IoT/Bigdata/AI/Computer
+Engineering/ElectronicsEngineering/ElectronicsandCommunicationengineeringor
+anequivalentexamination.
+Thecandidatewhohaspassedequivalentexamfromothersubjectsorboardsneedto
+availeligibilitycertificateforthisprogrammefromtheBoardofEquivalence(BoE)of
+theSarvajanikUniversity.
+
+==== PAGE 3 ====
+SRKI
+MasterofScienceAdvancedComputing
+3
+SemesterwisecoursegroupwisecreditallocationforPostGraduateProgramme
+(AnnexureI)
+Semester DSC SEC DSE Practical Total
+No.of
+CoursesCreditNo.of
+CoursesCreditNo.of
+CourseCreditNo.of
+CourseCredit
+Th. Th. Th.
+1 2 8 1 4 1 4 1 8 24
+2 2 8 1 4 1 4 1 8 24
+3 2 8 1 4 1 4 1 8 24
+4 1 20 1 4 1 - 24
+Total 08 40 04 16 04 16 04 24 96
+EvaluationScheme:
+SemesterSubjectgroupInternal ExternalGrand
+Total CCEAttend.Assign.Internal
+Exam/
+Viva-
+VoceTotal
+Int.
+1DSC-1 401020 7030100
+DSC-2 401020 7030100
+SEC-1 401020 7030 100
+DSE-1 401020 7030100
+Practical 6020-60 14060200
+Total420180 600
+2DSC-3 401020 7030100
+DSC-4 401020 7030100
+SEC-2 401020 7030 100
+DSE-2 401020 7030100
+Practical 6020-60 14060200
+Total420180 600
+3DSC-5 401020 7030100
+DSC-6 401020 7030100
+SEC-3 401020 7030 100
+DSE-3 401020 7030100
+Practical 6020-60 14060200
+Total420180 600
+4DSC-7 15050-150350150500
+DSE-4 3010-30 7030 100
+Total420180 600
+
+==== PAGE 4 ====
+SRKI
+MasterofScienceAdvancedComputing
+4
+M.Sc.AdvancedComputingProgrammeSubjectList:(Annexure-2)
+Sem PapertypePaperNo.PaperTitle
+1CorecourseDSC-1FundamentalsofDataScience
+DSC-2FundamentalsofAI
+Skill
+EnhancementSEC-1AdvancedDatabaseTechnologies
+Discipline
+Specific
+ElectiveDSE-1CyberSecurityandForensics-1
+WebProgramming-1
+WebEngineering
+DistributedandParallelComputing
+FoundationofAdvancedComputing
+2CorecourseDSC-3MobileApplicationDevelopment-1
+DSC-4MachineLearning
+Skill
+EnhancementSEC-2AdvancedPythonProgramming
+Discipline
+Specific
+ElectiveDSE-21.CyberSecurityandForensics-2
+2.UI/UXdevelopment
+3.AdvancedCloudProgramming
+4.ResearchinComputing
+5.WebProgramming-2NodeJS
+3CorecourseDSC-5BigdataAnalytics
+DSC-6ArtificialNeuralNetworkandDeepLearning
+Skill
+Enhancement
+CourseSEC-31.MobileApplicationDevelopment-2
+2.CyberLawandPractices
+3.InternetofThings
+Discipline
+Specific
+ElectiveDSE-31.AdvancedJavaScriptFramework
+2.DataVisualization
+3.BlockchainTechnology
+4.ComputationalLinguistic
+5.SocialMediaMiningandAnalytics
+6.GameDevelopment
+4CorecourseDSC-7
+Project/DissertationDSC-8
+Skill
+Enhancement
+CourseSEC-4
+Discipline
+Specific
+ElectiveDSE-4SeminarPresentation/Reviewofpublishedresearch
+paper

@@ -1,0 +1,1185 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426102731Z
+---- END METADATA ----
+
+Total Pages: 29
+
+==== PAGE 1 ====
+SRKI
+MasterofScienceAdvancedComputing
+55
+FacultyofScience
+ShreeRamkrishnaInstituteofComputerEducation&
+AppliedSciences,Surat
+M.Sc.AdvancedComputing
+SEMESTER-3
+
+==== PAGE 2 ====
+SRKI
+MasterofScienceAdvancedComputing
+56
+Semester3
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPractical DurationMarks
+DSC-5:BigdataAnalytics4 4 3070100
+DSC-6:ArtificialNeural
+NetworkandDeepLearning4 4 3070100
+SEC-3Elective-1 4 4 3070100
+DSE-3Elective-2 4 4 3070100
+Practical 88 14060200
+16 24 600
+NOTE:Followingsubjectsarelistedaselectivesubjectsofsemester.
+ELECTIVESUBJECTS
+SEC-31.MobileApplicationDevelopment-2
+2.CyberLawandPractices
+3.InternetofThings
+DSE-31.AdvancedJavaScriptFramework
+2.DataVisualization
+3.BlockchainTechnology
+4.ComputationalLinguistic
+5.SocialMediaMiningandAnalytics
+6.GameDevelopment
+
+==== PAGE 3 ====
+SRKI
+MasterofScienceAdvancedComputing
+57
+DSC-5:BigDataAnalytics
+CourseCode
+CourseTitle BigDataAnalytics
+Credit 4
+TeachingperWeek 4Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableof
+understandingandimplementationofbigdatatechnologies.
+CourseObjective Tolearnaboutfundamentalofbigdataanalytics.
+Tolearnpythonprogrammingwithadvancedlibrariesforimplementing
+bigdataprojects.
+Pre-requisite FundamentalofDataScienceandPythonProgramming
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletounderstandbig
+dataplatforms,architecture,conceptsofmapreduceandparallel
+programmingwithspark.
+CourseContent Unit1IntroductiontoBigDataPlatformandFrameworks
+1.1ChallengesofConventionalSystems,
+1.2IntelligentDataAnalysis,NatureofData,
+1.3AnalyticProcessesandTools,AnalysisvsReporting,
+1.4ModernDataAnalyticTools
+1.5TechnologyStackofBigData
+Unit2TheBigDataTechnologyLandscape
+2.1ApplicationsonBigDataUsingPigandHive,
+2.2DataProcessingOperatorsinPig,HiveServices,HiveQL,
+2.3QueryingDatainHive,FundamentalsofHBaseandZooKeeper,
+2.4Visualizations,VisualDataAnalysisTechniques
+2.5InteractionTechniques,SystemsandApplications
+Unit3MapReduceFundamentals
+3.1TheMapReduceFramework;
+3.2UsesofMapReduce;
+3.3StoringDatainHadoop:IntroductionofHDFS,Architecture,
+HDFCFiles,Filesystemtypes,commands,
+3.4org.apache.hadoop.iopackage,HDF,HDFSHighAvailability
+3.5TechniquestoOptimizeMapReduceJobs
+Unit4HbaseFundamentals
+4.1IntroducingHBase,Architecture,
+4.2StoringBigDatawithHBase,InteractingwiththeHadoop
+Ecosystem
+4.3HBaseinOperationsProgrammingwithHBase
+4.4Installation,CombiningHBaseandHDFS
+Unit5ParallelProgrammingwithSpark
+5.1ComponentsoftheSparkunifiedstack,
+5.2ResilientDistributedDataset(RDD),
+
+==== PAGE 4 ====
+SRKI
+MasterofScienceAdvancedComputing
+58
+5.3ScalaandPythonoverview,
+Unit6Sparkapplicationprogramming
+6.1InitializeSparkwiththevariousprogramminglanguages,
+6.2CreateandrunaSparkstandaloneapplication,
+6.3IntroductiontoSparklibraries-Understandandusethevarious
+Sparklibraries,
+6.4SlidingWindowAnalytics,
+6.5MachineLearningwithSpark
+Unit7BigDataApplicationManagement
+7.1Designofzookeeper,
+7.2CQLcassendreaquerylanguage,
+7.3Kafakaforstreamingandrealtimedatamanagement,
+7.4Parameterservers,PageRankalgorithminBigdata,Sparkand
+GraphX
+7.5QueryEngineforManagingBigData
+Unit8BigdataCaseStudies
+8.1FlightDataAnalysisusingSparkandGraphX
+8.2TwitterSentimentAnalysisusingPYsAPRK
+TextandReference
+Literature1.LearningSpark:Lightning-FastBigDataAnalysis-HoldenKarauN
+AndyKowinskiO’rellyPublication
+2.Hadoop-ThedefinitativeGuideO’rellyPublication
+3.Spark-ThedefinitativeGuideO’rellyPublication
+4.KafkaThedefinitativeGuideO’rellyPublication
+5.BigData,BlackBook:CoversHadoop2,MapReduce,Hive,YARN,
+Pig,RandDataVisualization-DreamtechPublications
+6.AdvancedAnalyticswithSpark:PatternsforLearningfromDataat
+Scale,SandyRyzaO’rellyPublication
+7.https://towardsdatascience.com/sentiment-analysis-on-streaming-
+twitter-data-using-spark-structured-streaming-python-fc873684bfe3
+TeachingMethodologyDiscussion,IndependentStudy,SeminarsandAssignments
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,class
+test,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 5 ====
+SRKI
+MasterofScienceAdvancedComputing
+59
+DSC-6ArtificialNeuralNetworkandDeepLearning
+CourseCode
+CourseTitle ArtificialNeuralNetworkandDeepLearning
+Credit 4
+TeachingperWeek 4Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableofimplementing
+concepts,methodsandtoolrelatedtodeeplearning.
+CourseObjective Tolearnaboutfundamentalsofdeeplearning.
+TolearnandimplementdifferenttypesofDLmodels.
+ToimplementandevaluatevariouscasestudiesofDeepLearning.
+Pre-requisite OnlythoseStudentswhohavecompletedanyoneofthefollowingcourses
+1)PythonProgramming
+2)BasicsofMachineLearning
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletodevelopmodels
+andimplementdeeplearningalgorithmsandmodels.
+CourseContent Unit1IntroductiontoDeepLearning
+1.1AreviewofMachineLearning
+1.2BiologicalInspiration
+1.3ArtificialNeuralNetwork
+1.4ConceptofDeepLearning
+1.5ApplicationsofareasDeepLearning
+Unit2FoundationsofMathsandTechnhicalSetupwithPython
+2.1Scalars,Vectors,Matrices,TensorsHyperplanes
+2.2Products,Feature,SolvingSystemsofEquations
+2.3HyperparametersandConvergence
+2.4GradiantDecent
+2.5EvaluationMetrics
+2.6PythonLibrariesandSetupforDL-GPU,Keras,
+Tensorflow
+Unit3FoundationsofNeuralNetworks
+3.1AnatomyofNeuralNetwork:-DefiningANNinPython
+-layersandMultilayerPerceptron,weights,bias,Activation
+Function,Lossfunction,Epochs
+3.2Linearthresholdunits.Perceptrons:representational
+limitationandgradientdescenttraining.
+Unit4ArtificialNeuralNetworksanditsTypes
+4.1TypesofANN,FeedForwardNeuralNetwork,
+BackpropagationNeuralNetwork,
+4.2ErrorcalculationinANN
+4.3InputLayer,OutputLayer,HiddenLayersofDeepNeural
+
+==== PAGE 6 ====
+SRKI
+MasterofScienceAdvancedComputing
+60
+Network
+4.4ClassifyingmoviereviewsusingANN
+Unit5ConvolutionalNeuralNetworks
+5.1NeuronsinHumanVision
+5.2FiltersandFeatureMaps
+5.3FullDescriptionoftheConvolutionalLayer
+MaxPooling
+5.4FullArchitecturalDescriptionofConvolutionNetworks
+5.5MNISTwithConvolutionalNetworks
+5.6AcceleratingTrainingwithBatchNormalization
+5.7VisualizingLearninginConvolutionalNetworks
+5.8LearningConvolutionalFiltersforOtherProblemDomains
+Unit6DeepLearningforTextandSequences
+6.1Workingwithtextdata-onehotencoding,wordembedding
+6.2UnderstandingRecurrentandRecursiveNeuralNetworks
+6.3FeatureReduction/DimensionalityReduction
+6.4RecurrentNeuralNetworksandImplementation
+Unit7RNNForLanguageModelsandSequences
+7.1LanguageModelswithRNN
+7.2NamedEntityRecognition,
+7.3MachineTranslation,Parsing,SentimentAnalysis,Speech
+Recognition
+7.4IntroductiontoLSTMandGRU
+Unit8AdvancedTopicsinDeepLearning
+8.1AttentionMechanisms.
+8.2RecurrentModelsofVisualAttention
+8.3ApplicationtoImageCaptioning
+8.4AttentionMechanismsforMachineTranslation
+8.5GenerativeAdversarialNetworks(GANs)
+8.6TrainingaGenerativeAdversarialNetwork
+8.7UsingGANsforGeneratingImageData
+TextandReference
+Literature1.DeepLearningwithPython,ManningFranciCohlet
+2.FundamentalsofDeepLearning,Orelly,NikhilBuduma
+3.DeepLearning:APractitioner'sApproach,JoshPatterson,Adam
+GibsonO’rellyPublications
+4.NeuralNetworksandDeepLearning,ATextbook-Springer,Chru
+CAgrawal
+5.FundamentalsofDeepLearning-NikhilBuduma,O’relly
+Publications
+TeachingMethodologyDiscussion,IndependentStudy,SeminarsandAssignments
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 7 ====
+SRKI
+MasterofScienceAdvancedComputing
+61
+SEC-3Elective1:MobileApplicationDevelopment–2
+CourseCode
+CourseTitle MobileApplicationDevelopment-2
+Credit 4
+TeachingperWeek 4Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse ThepurposeofthiscourseistogiveexposureofFlutterframeworkformobile
+applicationdevelopment
+CourseObjective Thiscourseintroducesthefoundationofmobileapplicationdevelopmentusing
+flutterframeworktothestudents.Thecoursealsogivesstudentsanideaabout
+Google’sownlanguage,Dart.
+Pre-requisite SoundknowledgeonObjectOrientedProgrammingandbasicknowledgeon
+Androidframework
+CourseOutcome CourseOutcomeAfterhavingcompletedthecoursethestudentwillgain:
+1.SoundunderstandingofDartprogramming
+2.Proficiencyincrossplatformmobileapplicationdevelopment
+3.KnowledgeaboutFlutterframework.
+CourseContent Unit1FlutterIntroduction
+1.1FeaturesofFlutter
+1.2AdvantagesofFlutter
+1.3DisadvantageofFlutter
+1.4Flutterinstallation
+1.5CreatingabasicflutterapplicationintheAndroidStudio
+Unit2FoundationtoDartProgramming–part1
+2.1Importantconcepts
+2.2Keywords
+2.3Built-intypes-Numbers,Strings,Booleans,Lists,Sets,Maps
+2.4Variables-Defaultvalue,Latevariables,Finalandconst
+2.5Operators-arithmetic,relational,Typetestoperators,logical,bitwise
+Unit3FoundationtoDartProgramming–part2
+3.1Controlflowstatements
+3.2Exceptionhandling
+3.3Functions-Parameters,Themain()function,Functionsasfirst-class
+objects,Anonymousfunctions
+Unit4GettingstartedwithFlutter
+4.1Architectureofflutterframework-widgets,gestures,conceptsof
+state,Layers
+4.2Widgets-
+4.2.1Platformspecificwidgets
+
+==== PAGE 8 ====
+SRKI
+MasterofScienceAdvancedComputing
+62
+4.2.2Layoutwidgets
+4.2.3Platformindependent/basicwidgets
+4.3Layout-
+4.3.1Singlechildwidgets
+4.3.2Multichildwidgets
+4.4Statemanagement-
+4.4.1Applicationstatescopedmodel
+4.4.2NavigationandRouting
+4.5WritingAndroidSpecificCode
+Unit5FlutterWidgets
+5.1FlutterScaffold
+5.2FlutterContainer
+5.3FlutterRow&Column
+5.4FlutterText
+5.5FlutterTextField
+5.6FlutterButtons
+5.7FlutterCard
+5.8FlutterList
+5.9FlutterImagesandIcon
+Unit6SharedPreferencesinFlutter
+6.1Addthedependency.
+6.2SavedatainPreferences.
+6.3ReaddatafromPreferences.
+6.4RemovedatafromPreferences
+Unit7PersistdatawithSQLite
+7.1Addthedependency
+7.2AccessandmanipulatedatafromSQLite
+Unit8AdvancedProgramming
+8.1FlutterGooglemaps
+8.2FlutterInternationalization
+8.3PushNotifications
+ReferenceBook 1.WebURL:https://flutter.dev/docs/development
+2.BeginningFlutter:AHands-OnGuidetoAppDevelopmentbyMarcoL.
+Napoli
+3.BeginningAppDevelopmentwithFlutter:CreateCross-PlatformMobileApps
+byRapPayne
+4.FlutterforBeginnersbyAlessandroBiessek
+5.LearnGoogleFlutterFast:65ExampleAppsbyMarkClow
+6.FlutterinActionbyEricWindmill
+TeachingMethodology Discussion,IndependentStudy,SeminarsandAssignments
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 9 ====
+SRKI
+MasterofScienceAdvancedComputing
+63
+SEC-3Elective2:CyberLawandPractices
+CourseCode
+CourseTitle CyberLawandPractices
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/
+Revision-
+PurposeofCourseTomakestudentsawareaboutprovisionsofvariouslawsinITACTandits
+amendments.
+CourseObjectiveVariousfraudsaretakingplaceindifferentdomainsfrequently.Thecourseis
+specificallydesignedtoprovideknowledgeofprovisionsofvariouslawsand
+actsavailableinITact2000anditsamendments.
+Pre-requisite Basicknowledgeofcybersecurity.
+CourseOutcomeAttheendofthecourseitwillmakestudentenabletohaveknowledgeof
+provisionandavailabilityofvariousactandlawsavailabletofightagainst
+fraudsandcrimes.
+CourseContent Unit1.IntroductiontoCyberlaw
+1.1.Introductiontocyberlaw
+1.2.Challengestolaws
+1.2.1.Technology-neutralandtechnology-basedlaws
+1.2.2.Regulationversusfreedomontheinternet
+1.2.3.Internetcrimedifferentfromothertechnologycrimes
+1.3.Adjudication
+1.3.1.Adjudicatingofficer
+1.3.2.Cyberregulationsappellatetribunal
+Unit2ITAct2000
+2.1OverviewofITAct2000anditsamendments
+2.2CritiquesoftheI.T.Act
+2.3TerritorialeffectsofITAct
+2.4Digitalsignatures
+2.4.1Controllerofcertifyingauthorities
+2.4.2Licensetoissuedigitalsignaturecertificates
+2.4.3Legalrecognitionofdigitalsignatures
+Unit3OffencesandinvestigationandpenaltiesundertheITAct
+3.1Offences
+3.2Investigation
+3.3Penalties
+3.4Liabilityofnetworkserviceprovider
+3.5Amendmentstocertainstatutes
+3.5.1AmendmentstotheIndianpenalcode,1860
+3.5.2AmendmentstotheIndianevidenceact,1872
+Unit4E-governance
+4.1Legalrecognitionandretentionofelectronicrecords
+
+==== PAGE 10 ====
+SRKI
+MasterofScienceAdvancedComputing
+64
+4.2Useofelectronicrecordsanddigitalsignaturesin
+Governmentanditsagencies
+4.3Unitednationscommissiononinternationaltrade
+developmentandlaw
+4.4WorldTradeandworldintellectualpropertyorganization
+Unit5Telecomandinternetpolicyfordatatransmissionandsecurity
+1.1Broadbandpolicy
+1.2Policyfor.INinternetdomainname
+1.3Guidelinesforsettingupofinternationalgatewaysforinternet
+1.4Policyguidelinesonwebsitedevelopment,hostingand
+Maintenance
+1.5InformationtechnologySecurityGuidelines
+1.6SEBIguidelinesoninternet-basedtradingandservices
+1.7Guidelinesoninternet-basedecommerceandmcommerce
+basedservices
+Unit6Indianlaw
+6.1Lawforcyberstalking
+6.2Lawfordigitalforgery
+6.3Lawforonlinegambling
+6.4Lawforonlinesaleofillegalarticles
+6.5Lawforcyberpornography
+Unit7JurisdictioninCyberspace
+1.1Theoriesofjurisdictionincriminalcases
+1.2Generaljurisdictionincomputercrimes
+1.3Applicationof‘Effects’doctrineincomputercrimes
+1.4Conventiononcybercrime–councilofEurope
+Unit8OnlineDisputeResolution-ODR
+8.1FunctioningoftheOnlineDisputeResolution(ODR)system
+8.2KindsofdisputeshandledinanODRenvironment
+8.3CommunicationmodesinODR
+8.3.1E-mail
+8.3.2Discussionboards
+8.3.3Instantmessaging
+8.3.4Audioconferencing
+8.3.5Videoconferencing
+8.4TypesofODR
+8.4.1Blindbiddingorblindnegotiation
+8.4.2Onlinenegotiation
+8.4.3Onlinenegotiation-cum-mediation
+8.4.4Document/E-mailarbitrationfordisputesarisingfrom
+e-commercetransactions
+8.4.5Onlinearbitrationthroughvideo-conferencing.
+8.4.6Peerjuryandpaneljury
+8.5GeneratingE-confidence–disclosure-basedapproach
+8.6LegalconcernsinODR
+ReferenceBook 1.InvestigatingCyberLawandCyberEthics:Issues,ImpactsandPracticesby
+
+==== PAGE 11 ====
+SRKI
+MasterofScienceAdvancedComputing
+65
+AlfredaDudley,JamesBraman,GiovanniVincenti
+2.CyberLaws:AGuidetoCyberLaws,InformationTechnology,Computer
+Software,IntellectualPropertyRights,E-commerce,Taxation,Privacy,Etc.
+AlongwithPolicies,GuidelinesandAgreementsbyYatindrasingh
+3.CyberLawinIndiabyTalatFatima
+4.RegulationofCyberspace–MIR-12byIGNOU
+5.CyberLaw3.0:AnExhaustiveSectionWiseCommentaryonThe
+InformationTechnologyActAlongwithRules,Regulations,Policies,
+NotificationsEtcbyPawanDuggal
+Teaching
+MethodologyDiscussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 12 ====
+SRKI
+MasterofScienceAdvancedComputing
+66
+SEC-3Elective3:InternetofThings
+CourseCode
+CourseTitle InternetofThings
+Credit 4
+TeachingperWeek 4Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse ThepurposeofthiscourseistoimpartknowledgeonInternetofThings(IoT),
+whichrelatestothestudyofsensors,actuators,andcontrollers,amongother
+Things,IoTapplicationsandexamplesoverview(buildingautomation,
+transportation,healthcare,industry,etc.)
+CourseObjective ThiscourseisanintroductionforstudentstoIoT.Thecoursealsogivesstudents
+anideaaboutvariouscomponentsofIoTandexplainstheworkingofthem.The
+coursealsoexplainstheroleofembeddedsystemsinIoTecosystem.
+Pre-requisite FundamentalknowledgeofComputerOrganization,ComputerNetworksand
+Internet,Basicprogrammingknowledge
+CourseOutcome CourseOutcomeAfterhavingcompletedthecoursethestudentwillgain:
+1.UnderstandingaboutthearchitecturaldetailofIoT
+2.ExposuretoworkingwithArduino&Raspberypi
+3.KnowledgeaboutdomainspecificapplicationsofIoT
+CourseContent Unit1IntroductiontoTheInternetofThings
+1.1TheInternetofThingsoverview-HistoryofIoT,ComponentsofIoT,
+CharacteristicsofIoT,AboutObjects/thingsinIoT
+1.2EnablingTechnologiesofIoT
+1.2.1CloudComputing
+1.2.2BigDataAnalytics
+1.2.3WirelessSensorNetworks
+1.3NearFieldCommunication&RFID
+Unit2IoTArchitecture
+2.1M2MtoIoT
+2.1.1.IntroductionofM2M-ComponentsofM2M
+2.1.2.DifferencebetweenIoTandM2M
+2.2IoTReferenceModelorphysicaldesignandlogicaldesignofIoT
+2.3IoTReferenceArchitecture
+Unit3IoTApplicationAreas
+3.1IoTApplicationAreas
+3.1.1.HomeAutomation
+3.1.2.SmartCities
+3.1.3.SmartEnergy&SmartGrid
+3.1.4.SmartHealth
+3.1.5.SmartManufacturing
+3.1.6.SmartAgriculture
+
+==== PAGE 13 ====
+SRKI
+MasterofScienceAdvancedComputing
+67
+Unit4Arduino
+4.1IntroductiontoArduino
+4.2FlavorsofArduino
+4.3ArchitectureofArduinoboard
+4.4ArduinoToolchain
+4.4.1InstallingArduinoDesktopIDE
+4.4.2InstallingBoarddrivers,Configuringboardtype,uploadingthe
+Program
+Unit5RaspberryPi
+5.1Abouttheboard
+5.2InstallationofOperatingSystemonRaspberryPi
+5.3RaspbianOSpackageInstallationandupdatingprocess.
+5.4RaspberrypiinterfacesofDataTransfer
+5.5ReadinggeneralpurposeInput/Outputpin
+Unit6Hardwareinterfacing&programminginArduino
+6.1ControllingLEDwithArduino
+6.2InterfacingsensorswithArduino
+6.3Workingwithswitches
+6.4Serialdatatransfer
+Unit7DataDrivenApplicationUsingRaspberryPi
+7.1SelectingdatabaseforIoTapplications
+7.2Capturingdatafromsurroundingandstoringoncloud
+Unit8IoTandSecurityConcerns
+8.1Typesofsecurityattacks
+8.2Securityriskmitigation
+ReferenceBook 1.IoT&ApplicationsI.A.DhotreTechnicalPublication
+2.DesigningtheInternetofThingsAdrianMcEwenandCassimallyWiley
+3.TheInternetofThingsConnectionobjectstowebEditedbyHakimaChauchi
+Wiley
+4.IntroductiontoEmbeddedSystem-ByShibuKV,McGrawHill
+5.GettingStartedwithInternetofThings–ByCunoPfister,O’Reilly
+6.LearningInternetofThings-ByPeterWaher,PacktPublication
+7.InternetofThings:AHandsonApproach–ByArshdipBahgaandVijay
+Madisetti
+8."TheInternetofThings:EnablingTechnologies,Platforms,andUseCases",by
+PethuruRajandAnupamaC.Raman(CRCPress)
+9.RaspberryPiUserGuide–ByEbenUptonandGarathHalfacree,Wiley
+10.RaspberryPiforDummies,Wiley
+11.RaspberryPiIoTinC-ByHarryFairhead,I/OPress
+TeachingMethodology Discussion,IndependentStudy,SeminarsandAssignments
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 14 ====
+SRKI
+MasterofScienceAdvancedComputing
+68
+DSE-3Elective1:AdvanceJavascriptFrameworks
+CourseCode
+CourseTitle AdvancedJavaScriptFrameworks
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision
+PurposeofCourseThepurposeofcourseistomakestudentscapableofdevelopingeffectiveand
+interactivewebclientpartofwebapplications.
+CourseObjectiveToprovideFundamentalknowledgeofWebclientdevelopmenttechnologies
+Prerequisite BasicunderstandingofWeb,HTTP,HTML,JavaScriptandObjectOriented
+Concepts.
+CourseOutcomeAftercompletionofthiscourse,thestudentwillbecapableofdeveloping
+effectiveandinteractivewebclientpartofwebapplications.
+CourseContent Unit1:IntroductiontoAngular
+1.1FeaturesandAdvantagesofAngular
+1.2AngularArchitecture
+1.3AngularComponentsandDirectives
+Unit2:AngularBasics
+2.1DataBinding
+2.1.1OnewayDataBinding
+2.1.2TwowayDataBinding
+2.2Routing
+Unit3:IntroductiontoReact
+3.1BasicconceptofReact
+3.2DifferencebetweenAngularJSandReactJS
+3.3Reactfeatures
+Unit4:ReactBasics
+4.1ECMAScript
+4.2ReactwithJSX
+4.2.1ReactelementsasJSX
+4.3BasicReactComponents
+4.3.1Statelessfunctionalcomponent
+4.3.2Statefulcomponent
+4.3.3Higherordercomponent
+4.3.4Nestingcomponent
+4.4StateandpropsinReact
+Unit5:ReactRouting
+5.1LifecycleofReactJS
+5.1.1Mounting
+5.1.2Updating
+5.1.3Unmounting
+
+==== PAGE 15 ====
+SRKI
+MasterofScienceAdvancedComputing
+69
+5.2ReactRouting
+5.2.1Routerproperties
+5.2.2NestingRouter
+Unit6:ReactFormsandIntroductiontoRedux
+6.1ReactForms
+6.2IntroductiontoRedux
+6.3Reduxbuildingparts–State,Actions,Reducers
+6.4Conceptofthestore,Actioncreators,middleware
+Unit7:React–ReduxandHooks
+7.1Explicitlypassingthestore
+7.2PresentationalVscontainercomponent
+7.3TheReactReduxprovider
+7.4ReactReduxConnect
+7.5IntroductiontoHooks
+7.6Hooks-useStateHook,useEffectHook,customHooks
+Unit8:ReactBootstrapFramework
+8.1IntroductiontoReactBootstrapFramework
+8.2Layout–Gridstructure,GridAPI
+8.3Mediaobjects
+8.4Components–Accordion,Button,Dropdowns,Forms,Inputgroup,
+Carousel,Images,Table
+8.5Utilities-Transitions
+ReferenceBooks 1.ProAngularbyAdamFreeman–Apress
+2.BeginningAngularwithTypescriptbyGregLim
+3.LearningReact:LearningReact:FunctionalWebDevelopmentwithReact
+andRedux,O’Reilly
+4.LearningReact:ModernPatternsforDevelopingReactApps,O’Reilly
+5.FullstackReact:ThecompleteguidetoReactJSandFriends
+6.LearningReactbyKirupaChinnathambi
+TeachingMethodologyDiscussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 16 ====
+SRKI
+MasterofScienceAdvancedComputing
+70
+DSE-3Elective2:DataVisualization
+CourseCode
+CourseTitle DataVisualization
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision
+PurposeofCourseThepurposeofcourseistomakestudentcapabletodeveloptheirowndata
+visualizations,andlearntouseOpenSourcedatavisualizationtools,especially
+D3.js,Tableau..
+CourseObjectiveTounderstandtechnologicaladvancementsofdatavisualizationandvarious
+datavisualizationtechniques
+Pre-requisite WorkingknowledgeofProgrammingLanguageandDatabaseConceptsand
+JavaScript,
+HTML5
+CourseOutcomeThiscourseisallaboutdatavisualization,theartandscienceofturningdata
+intoreadablegraphics.We’llexplorehowtodesignandcreatedata
+visualizationsbasedondataavailableandtaskstobeachieved.
+CourseContent Unit1IntroductiontoDataVisualization
+1.1VisualizationProcess
+1.1.1FilteringandProcessing
+1.1.2TranslationandVisualrepresentation
+1.1.3Perceptionandinterpretation
+1.2Visualizationformats
+1.3Basicprinciplesfordatavisualization
+Unit2WorkingwithDataforVisualization
+2.1Datastorytelling
+2.2Workingwithdata
+2.2.1Datacleanup
+2.2.2ConceptofLoading,parsing,transformingthedata
+Unit3BasicsofDataVisualization
+3.1ReadingDatafromStandardtextfiles(.txt,.csv,XML)
+3.2workingwithData(Continuous,Statistical,Geo-spatial,
+Discrete)
+3.3TypesofDatabasesforvisualization–structured,semi-
+structured,unstructured
+3.4DisplayingJSONcontent
+Unit4BasicVisualizationHTML5Libraries
+4.1BasicHTML5DrawingCharts
+4.2HTML5–CANVAS/SVGCharts
+4.3UseofelementswithCSS
+4.4Styleproperties
+
+==== PAGE 17 ====
+SRKI
+MasterofScienceAdvancedComputing
+71
+4.5Strokeproperties
+Unit5VisualizationLibrary–GoogleChart
+5.1GoogleChartsAPIBasics
+5.2Variousgooglecharttypes
+5.2.1columnchart,barchart,linechart,bubblechart,piechart,
+ChartAnimations
+Unit6BasicVisualizationmethodswithD3.js
+6.1IntroductiontoD3.js
+6.2D3.jsFeatures,benefits
+6.3D3.jsAnimation
+6.4Drawingbasiccharts,graphs,geographics
+Unit7LoadingandfilteringexternaldatainD3.js
+7.1D3functionsforloadingData
+7.2UseofDataset
+7.3Casestudy:BarchartwithExternalData
+Unit8AdvancedDataVisualizationwithTableau
+8.1IntroductiontoTableau
+8.2Filters,DrillDownandUp
+8.3Forecasting,TrendLines,Clustering
+8.4Dashboard
+ReferenceBook 1.InteractiveDataVisualizationfortheWebbyScottMurray2ndEdition
+(2017)
+2.JonRaasch,GrahamMurray,VadimOgievetsky,JosephLowery,
+“JavaScriptandjQueryforDataAnalysisandVisualization”,WROX
+3.RitchieS.King,VisualstorytellingwithD3”Pearson
+4.D3.jsinActionbyElijahMeeks2ndEdition(2017)
+5.VisualStorytellingwithD3:AnIntroductiontoDataVisualizationin
+JavaScriptByRitchieS.King
+6.VisualizationAnalysis&DesignbyTamaraMunzner(2014)(ISBN
+9781466508910)
+7.InteractiveDataVisualizationfortheWebbyScottMurray2ndEdition
+(2017)
+8.ggplot2ElegantGraphicsforDataAnalysisbyHadleyWickham
+TeachingMethodologyDiscussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 18 ====
+SRKI
+MasterofScienceAdvancedComputing
+72
+DSE-3Elective3:BlockchainTechnology
+CourseCode
+CourseTitle BlockchainTechnology
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/
+Revision-
+PurposeofCourseConceptualizethestudentswiththetheoreticalconceptsofBlockchainanditsassociated
+areas.
+CourseObjectiveFamiliarizationwithdifferentobjectivesofblockchainmodelsofblockchain,mechanics
+ofbitcoin,alternativecoinandrecenttrends.Moreoveritcanbemoreconceptualized
+usingselectedcasestudies.
+Prerequisite FundamentalsofInformationSecurityconcepts.
+CourseOutcome DefineandExplainthefundamentalsofBlockchain
+Illustratethetechnologiesofblockchain
+Describevariousmodelsofblockchain.
+Casestudyofblockchaintoanalyzethedifferentissuesassociatedwithvariouscoins
+andcryptocurrencies.
+Familiarizethefunctional/operationalaspectsofcryptocurrency.
+UnderstandemergingabstractmodelsforBlockchain.
+Identifymajorresearchchallengesandtechnicalgapsexistingbetweentheoryand
+practiceincryptocurrencydomain.
+CourseContent IntroductiontoBlockchain,TransactionsandBlocks,MiningandConsensus,
+ConnectingtheDots,SmartContracts,BlockchainDevelopmentonEthereum,Creating
+aBlock,AddingtheHashFunctiontotheBlock,CreatingSmartContracts
+Unit1BlockchainFundamentals
+1.1.Definition
+1.2.HistoryofBlockchains
+1.3.HowtheBlockchainTechnologyWorks
+1.4.CryptographicKeys
+1.5.FeaturesofaBlockchain
+1.6.StructureofaBlockchain
+Unit2Pickingablockchain
+2.1Addsubstance
+2.2Determiningtheneeds
+2.3Definingthegoal
+2.4Drawingdecisiontree
+2.5Blockchainapplications
+2.6Blockchainlifecycle
+Unit3Managingbitcoinblockchain
+3.1Creatingfirstbitcoinwallet
+3.2Creatingsecondbitcoinwallet
+3.3Generatingbitcoinvanityaddress
+
+==== PAGE 19 ====
+SRKI
+MasterofScienceAdvancedComputing
+73
+3.4Transferringvanityaddress
+3.5Readingblockchainentryinbitcoin
+3.6Usingsmartcontractwithbitcoin
+3.7BuildingsmartbondCheckingstatusofthecontract
+3.8Miningforbitcoins
+Unit4EthereumBlockchain
+4.1HistoryofEthereum
+4.2Ethercryptocurrency
+4.3Miningforether
+4.4Ethereumwallet
+4.5Buildingandmanagingdecentralizedautonomousorganization–DAO
+4.6Managingsmartcontracts
+Unit5RippleandFactomBlockchain
+5.1Differencebetweenrippleandotherblockchains
+5.2Capacityofripple
+5.3Cautionwithripple
+5.4Factomblockchain
+5.5AuthenticatingdocumentsandbuildingidentitiesusingAPIs
+5.6PublishingonFactom
+Unit6DigiByte
+6.1Diggingintodigibyte
+6.2Fastblockchiang
+6.3MiningonDigibyte
+6.4Signingdocumentsondigibyte’sDiguSign
+Unit7Hyperledger
+7.1Fabric
+7.2BuildingsysteminFabric
+7.3Chaincodedevelopment
+7.4Sumeragi
+7.5Sawtooth
+Unit8IndustryImpacts
+8.1Financialtechnology
+8.2Realestate
+8.3Insurance
+8.4Government
+TextandReference
+books1.BlockchainfordummiesbyTianaLaurence–Wileypublication
+2.BlockchainfromconcepttoexecutionbyDebajaniMohanty–BPBPublication
+3.BlockchainbyexamplebyByBellajBadr,RichardHorrocks,Xun(Brian)Wu
+4.BlockchainforbeginnersbyKurtDugan
+5.BitcoinandCryptocurrencyTechnologies:AComprehensiveIntroductionbyArvind
+Narayanan,JosephBonneau,EdwardFelten,AndrewMiller,andStevenGoldfeder
+PrincetonUniversityPress,2016
+6.AnalysisofBlockchainprotocolinAsynchronousnetworksbyR.Passetal
+EUROCRYPT2017,(eprint.iacr.org/2016/454),Asignificantprogressand
+consolidationofseveralprinciples
+
+==== PAGE 20 ====
+SRKI
+MasterofScienceAdvancedComputing
+74
+7.BlockchainTechnology:CryptocurrencyandApplicationsS.Shukla,M.,Dhawan,S.
+Sharma,S.VenkatesanOxfordUniversity,Press2019
+8.Bitcoinandcryptocurrencytechnologies:acomprehensiveintroduction,Arvind
+Narayananet.Al.PrincetonUniversity,Press2016
+Blockchain:TheBlockchainforBeginnings,GuildtoBlockchainTechnologyand
+BlockchainProgramming’JoshThompsonCreateSpaceIndependentPublishing
+Platform2017
+Teaching
+MethodologyDiscussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,classtest,quiz,
+assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 21 ====
+SRKI
+MasterofScienceAdvancedComputing
+75
+DSE-3Elective4:ComputationalLinguistic
+CourseCode
+CourseTitle ComputationalLinguistic
+Credit 4
+TeachingperWeek 4Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableofimplementing
+concepts,methodsandtoolsofcomputationallinguistic.
+CourseObjective TolearnaboutfundamentalsofComputationalLinguistics.
+TolearnandimplementNLPConcepts.
+Pre-requisite FundamentalofAIandPythonProgramming
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletodevelop
+modelsandimplementpredictiveanalyticsonsocialmediaplatforms
+CourseContent Unit1IntroductiontoNLP
+1.1.Naturallanguagevs.programminglanguage
+1.2NLPtasksinsyntax,semantics,andpragmatics
+1.3.Practicalapplications
+Unit2LangaugeandComputer
+2.1Thelanguageoflocks
+2.2.Regularexpressions
+2.3.Asimplechatbot
+2.4Wordorderandgrammar
+2.5Theproblemofambiguity.
+2.6Theroleofmachinelearning.
+Unit3TokenizerandSentimentAnalyzer
+3.1Stemming
+3.2Buildingvocabularywithatokenizer
+3.2.1.Dotproduct
+3.2.2.Measuringbag-of-wordsoverlap
+3.2.3.Atokenimprovement
+3.2.4.Extendingvocabularywithn-grams
+3.2.5.Normalizingvocabulary
+3.3SentimentandText
+3.3.1NaiveBayesImplementation
+3..3.2VADER—Arule-basedsentimentanalyzer
+Unit4TF-IDFandTopicModelling
+4.1.Bagofwords
+4.2.Vectorizing
+4.3Vectorspaces
+4.4.Topicmodeling
+4.4.1.Relevanceranking
+
+==== PAGE 22 ====
+SRKI
+MasterofScienceAdvancedComputing
+76
+4.4.2.Tools
+Unit5Findingmeaninginwordcounts(semanticanalysis)
+5.1.Fromwordcountstotopicscores
+5.2.TF-IDFvectorsandlemmatization
+5.3.Topicvectors
+5.4.AnLDAclassifier
+5.5.Latentsemanticanalysis
+Unit6Informationextraction
+6.1.Namedentitiesandrelations
+6.1.1.Aknowledgebase
+6.1.2.Informationextraction
+6.2.Regularpatterns
+6.2.1.Regularexpressions
+6.2.2.InformationextractionasMLfeatureextraction
+6.3.Informationworthextracting
+6.3.1.ExtractingGPSlocations
+Unit7NamedentityextractionandQuestionanswering
+7.1Extractingrelationships(relations)
+7.2Part-of-speech(POS)tagging
+7.3Entitynamenormalization
+7.4Relationnormalizationandextraction
+7.5Wordpatterns
+7.6Segmentation
+7.7Sentencesegmentationwithregularexpressions
+Unit8DialogueEngines
+8.1.Languageskill
+8.1.1Modernapproaches
+8.1.2.Ahybridapproach
+8.2.Pattern-matchingapproach
+8.2.1.Apattern-matchingchatbotwithAIML
+8.2.2.Anetworkviewofpatternmatching
+8.3.Grounding
+8.4Retrieval(search)
+8.4.1.Thecontextchallenge
+8.4.2.Exampleretrieval-basedchatbot
+8.4.3.Asearch-basedchatbot
+8.5MachineTranslation-machinetranslationsystems,Statistical
+machinetranslation
+TextandReference
+Literature1.NaturalLanguageProcessingandInformationRetrieval-BybSiddiquiand
+Tiwari,OxfordUniversityPress
+2.SpeechandLanguageProcessing-ByJurafskyandMartin,Pearson
+Education
+3.NaturalLanguageProcessingwithPython.–AnalyzingTextwiththe
+NaturalLanguageToolkit.StevenBird,EwanKlein,andEdwardLoper,
+O’rellypublication
+
+==== PAGE 23 ====
+SRKI
+MasterofScienceAdvancedComputing
+77
+4.TheOxfordHandbookofComputationalLinguistics2ndedition
+EditedbyRuslanMitkov,OxfordPress
+5.TamingText:HowtoFind,Organize,andManipulateIt,GrantS.
+Ingersoll,ThomasS.Morton,DrewFarris,ManningPublication
+TeachingMethodology Discussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,class
+test,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 24 ====
+SRKI
+MasterofScienceAdvancedComputing
+78
+DSE-3Elective5:SocialMediaMiningandAnalysis
+CourseCode
+CourseTitle SocialMediaMiningandAnalysis
+Credit 4
+TeachingperWeek 4Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableofimplementing
+concepts,methodsandtoolrelatedtosocialmediaminingand
+unstructureddataanalysis.
+CourseObjective Tolearnaboutsocialmediaminingandchallengestoit
+Tolearnandimplementsocialdataprocessingandvisualizationroutines
+Toimplementandevaluatevariouscasestudiesofsocialmediaanalytics.
+Pre-requisite NIL
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletodevelopmodels
+andimplementpredictiveanalyticsonsocialmediaplatforms
+CourseContent Unit1IntroductiontoSocialMediaMininganditsChallenges:
+1.1WhatisSocialMediaMining
+1.2Users
+1.3SocialNetworks
+1.4Content
+1.5NewChallengesforMining
+Unit2BasicsofSocialDataAnalysis
+2.1SocialNetworks-BasicStructureandMeasures
+2.2BasicsofTextProcessingoverSocialData
+2.3InformationDiffusion
+2.4ExperimentalstudiesoverOSNs
+Unit3MethodsofSocialMediaAnalysis
+3.1TextProcessing
+3.3InformationExtractionfromUnstrcturedText
+3.3EntitylinkingandentityresolutionforSocialdata
+3.4TopicModels
+3.5BasicNLPMethods:Stemming,Tokenization,POS
+Tagging,
+Unit4SocialMediaMiningAlgorithms
+4.1DataMiningAlgorithms:ClassificationandClusteringfor
+SocialContent
+4.2Semi-supervisedLearning:HiddenMarkovmodels,
+K-NearestNeighbouring
+4.3SentimentAnalysisoverSocialMedia
+Unit5SocialMediaMiningTechniques
+5.1Content-basedRecommendation,
+
+==== PAGE 25 ====
+SRKI
+MasterofScienceAdvancedComputing
+79
+5.2CollaborativeFilteringRecommendation,
+5.3SocialNetworkAnalysis,
+5.4DetectingCommunityStructureinNetworks,the
+EvolutionofSocialNetworks
+Unit6AppliedSocialDataAnalytics
+6.1RecommendationSystems
+6.2SocialNetworkAnalysisusingGraph,RandomWalks
+6.3SentimentAnalysis
+6.4Communityidentificationandlinkprediction
+Unit7MiningTwitter:ExploringTrendingTopics
+7.1ExploringTwitter’sAPI
+7.1.1FundamentalTwitterTerminology
+7.1.2CreatingaTwitterAPIConnection
+7.1.3ExploringTrendingTopics
+7.1.4SearchingforTweets
+7.2DataAnalysis
+7.2.1ExtractingTweetEntities
+7.2.2AnalyzingTweetsandTweetEntitieswithFrequencyAnalysis
+7.2.3ComputingtheLexicalDiversityofTweets
+7.2.4ExaminingPatternsinRetweets
+7.2.5VisualizingFrequencyDatawithHistograms
+Unit8MiningGitHub:SoftwareCollaborationHabitsandBuildingInterest
+Graph
+8.1ExploringGitHub’sAPI
+8.1.1CreatingaGitHubAPIConnection
+8.1.2MakingGitHubAPIRequests
+8.2ModelingDatawithPropertyGraphs
+8.3AnalyzingGitHubInterestGraphs
+8.3.1SeedinganInterestGraph
+8.3.2ComputingGraphCentralityMeasures
+8.3.3ExtendingtheInterestGraphwith“Follows”EdgesforUsers
+8.3.4UsingNodesasPivotsforMoreEfficientQueries
+8.3.5VisualizingInterestGraphs
+TextandReference
+Literature1.MiningtheSocialWeb:DataMiningFacebook,Twitter,
+Linkedin,Google+,Github,andMore,2ndEdition,MatthewA.
+Russell.O'ReillyMedia,2013.
+2.JenniferGolbeck,Analyzingthesocialweb,MorganKaufmann,
+2013.
+3.CharuAggarwal(ed.),SocialNetworkDataAnalytics,Springer,
+2011.
+4.BorkoFurht,“HandbookofSocialNetworkTechnologiesand
+Applications”,1stEdition,Springer,2010.
+5.GuandongXu,YanchunZhangandLinLi,“WebMiningand
+SocialNetworking–Techniquesand
+
+==== PAGE 26 ====
+SRKI
+MasterofScienceAdvancedComputing
+80
+applications”,FirstEditionSpringer,2011.
+6.MaxChevalier,ChristineJulienandChantalSoulé-Dupuy,
+“CollaborativeandSocialInformation
+RetrievalandAccess:TechniquesforImproveduserModelling”,
+IGIGlobalSnippet,2009.
+7.CharuC.Aggarwal,“SocialNetworkDataAnalytics”,Springer
+TeachingMethodology Discussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+
+==== PAGE 27 ====
+SRKI
+MasterofScienceAdvancedComputing
+81
+DSE-3Elective6:GameDevelopment
+CourseCode
+CourseTitle GameDevelopment
+Credit 4
+TeachingperWeek 4Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Thegoalsofthiscoursearetoprovideintroductionstoeventdriven
+programming,gameenginescripting,gameengineclass
+structures,learningtoplanandtoreportonasignificant
+programmingproject,learntoworkinprogramminginteams,and
+learntousestandardgamedevelopmentenvironments,inparticular
+theUnity3ddevelopmentplatform.
+CourseObjective Tolearntheabilitytodesignanddevelop2Dgames.
+Tolearntheabilitytodesignanddevelop3Dgames.
+Toimplementthegamedesignanddevelopmentprocess.
+Pre-requisite OnlythoseStudentswhohavecompletedanyoneofthefollowingcourses
+1)LogicandReasoning
+2)C#Programming
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletodevelop2Dand
+3DgamesusingC#UnityFramework.
+CourseContent Unit1IntroductiontoGameEnginesandUnityDevelopmentEnvironment
+1.1GameEngineConcepts
+1.2DevelopmentTools
+1.3IDEbasics:ProjectView,Inspector,Toolbar,SceneView,Game
+View,AnimationView,
+1.4BasicUnityConcepts
+1.5Sprites
+Unit2BasicsofGameDevelopment
+2.1GameDesignStrategies
+2.2GameRequirements
+2.3GameMechanics
+2.4StorytellingandProgression
+2.5DesignDocuments
+Unit3ProgrammingPracticesforGameDevelopment
+3.1IntroductiontoScripting,CodingFundamentals,
+Loops,Functions
+3.2SimpleMovementandInput
+3.3PrimitiveDataandMath
+3.4DecisionsandFlowControl
+3.5OrganizingGameObjects
+Unit4AnimationinUnity
+4.1AnimationAPI
+4.2AnimationClass
+4.3CreatingtheAnimationStateManager
+
+==== PAGE 28 ====
+SRKI
+MasterofScienceAdvancedComputing
+82
+4.4CreatingAnimationinsideUnity
+4.5AddingAnimationEvents
+Unit5UnderstandingandManaging3Dcoordinatespace
+5.1Begintheproject:placeobjectsinthescene
+5.2Thescenery:floor,outerwalls,innerwalls
+5.3Lightsandcameras
+5.4UnderstandingCollisionandRigidbodies
+5.5Localvs.Globalcoordinatespace
+Unit6UsingTriggersandCreatingEnvironmentInteraction
+6.1TriggersandCollisions
+6.2SettingUpabasicTriggerObject
+6.3SettingUpotherkindsofTrigger
+6.4CompletedScripts
+Unit7GameDesignandMultimediaEffects
+7.1VirtualWorlds
+7.2ScrollingGame,AnimationandSoundEffects
+7.3AdvancedGamePhysics
+7.4MultipleScenes
+7.5AIandGames
+Unit8PublishingGames
+8.1SplashScreens,CreditScenesandIcons
+8.2PublishingtoPC,MacandLinuxComputers
+8.3PublishingtoSmartphones
+8.4PublishingtoGameConsolesComputingEthics
+andSociety
+TextandReference
+Literature1.GameDevelopmentwithUnity,MichelleMenard,Delmar
+CengageLearning
+2.UnityinAction,JosephHocking,ManningPublication
+3.UnityGameDevelopmentCookbook,ParisButtfield–addis,
+JonathonManning,TimNugentOrellyPublication
+4.Developing2DGameswithUnity:IndependentGame
+ProgrammingwithC#,JaredHalpernApressPublication
+5.ProUnityGameDevelopmentwithC#,AlanThorn,Apress
+Publication
+TeachingMethodology Discussion,IndependentStudy,SeminarsandAssignments
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonendsemesterwrittenexamination
+ReferenceLinks: https://www.csforallteachers.org/system/files/Unity_Game_Programming_Plann
+er_Syllabus.pdf
+https://docs.unity3d.com/Manual/index.html
+https://novicedock.com/learn/computer-science/unity-game-engine
+https://www.coursera.org/specializations/game-design-and-development
+https://learn.canvas.net/courses/3/assignments/syllabus
+http://www.cs.kent.edu/~ruttan/GameProg/
+
+==== PAGE 29 ====
+SRKI
+MasterofScienceAdvancedComputing
+83
+CourseCode
+CourseTitle Practical
+Credit 8
+TeachingperWeek 16Hrs
+MinimumweeksperSemester15(IncludingClasswork,examination,preparation,holidaysetc.)
+Review/Revision -
+PurposeofCourse Thepurposeofthecourseistomakestudentscapableof
+implementingconcepts,methods,toolsandtechniqueslearntin
+coursesofsemester3.
+CourseObjective Theobjectiveofthesecourseistoenablestudentstolearnpractical
+implementationofDSC-5,DSC-6,SEC-3andDSE-3.
+Pr-requisite Aspertheorypapersofsemester-3.
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapableof
+performingpracticalapplicationofsubjectsgiveninsemester3.
+CourseContent ThestudentswillberequiredtocarryoutpracticalonDSC-5,DSC-6,
+SEC-3andDSE-3usingthemethodsandtoolsdiscussedtherein.
+AJournalmustbepreparedforthepracticalworkdone.
+ReferenceBook .AsperpaperDSC-5,DSC-6,SEC-3andDSE-3
+TeachingMethodology LabWork
+EvaluationMethod 70%InternalassessmentisbasedonPracticalattendance,Problem
+Solving,internalexaminationetc.
+30%assessmentisbasedpracticalexaminationattheendofsemester.

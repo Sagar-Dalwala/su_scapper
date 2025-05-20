@@ -1,0 +1,633 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426100051Z
+---- END METADATA ----
+
+Total Pages: 17
+
+==== PAGE 1 ====
+SRKI
+BachelorofScienceComputerScience
+58
+FacultyofScience
+ShreeRamkrishnaInstituteofComputerEducation&AppliedSciences,Surat
+B.Sc.ComputerScience
+SEMESTER-5
+ProgramStructureSemester5
+Course
+CodeTitle TeachingHrs.per
+WeekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPractical DurationMarks
+LifeSkills/NSS/NCC 2 2
+BCS
+501DSC-9MobileApplication
+Development4 4 30 70100
+BCS
+502DSC-10OperatingSystems 4 4 30 70100
+BCS
+503SEC3-Introductionto
+BigdataandIOT4 4 30 70100
+BCS
+504DSE-5DigitalMarketing&
+SEO2 2 30 70100
+DSE-5CloudComputing
+DSE-5EnterpriseResource
+
+==== PAGE 2 ====
+SRKI
+BachelorofScienceComputerScience
+59
+Planning
+TransdisciplinaryOpen
+Electives2 2
+BCS
+505Practical-5 12 6 50100150
+24 650
+Semester-6
+Course
+CodeTitleTeachingHrs.perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPractical DurationMarks
+LifeSkills/NSS/NCC/
+NCC/NSS2 2
+BCS
+601DSC11,12,DSE6
+Project/Internship24 18 150300450
+BCS
+602DSE-6Seminar:Emerging
+trends,technologiesandtools
+inComputerScience&IT2 2 30 70100
+TransdisciplinaryOpen
+Electives2 2
+24 650
+
+==== PAGE 3 ====
+SRKI
+BachelorofScienceComputerScience
+60
+DSC-9:SmartDeviceProgramming
+CourseCode
+CourseTitle DSC-9:SMARTDEVICECOMPUTING
+Credit 4
+TeachingperWeek 4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision ---
+PurposeofCourse Tointroducethemostdemandinganddevelopingmobileapp
+technology.Fundamentalsofandroidopensourcetechnology
+CourseObjective 1.Tomakestudentsunderstandfundamentalsofmobileapptechnology.
+2.Tomakestudentsunderstandvariousinbuiltfeaturesofandroid.
+3.Tomakestudentsunderstandtheandroiddesignessentials.
+4.Tomakestudentsunderstandandroiduserinterfacedesignbasics.
+Pr-requisite Pre-requisiteFundamentalsofwebtechnologiesandfundamentals
+relatedtomobileOS.
+CourseOutcome StudentswillhaveknowledgeaboutandroidwhichiswidelyusedMobile
+OSandopensourcetechnologyanditsconcepts.Variousfeaturesof
+androidlikeApplicationDesignEssentials,UserInterfaceDesign
+Essentials,UseofCommonAndroidAPIs,datastorageusingSQLiteand
+deployingAndroidapplication.
+CourseContent Unit-1:IntroductiontoAndroid
+1.1Android-Architecture
+1.2AndroidApplicationComponents
+1.3AndroidApplicationDirectoryStructure
+Unit-2:AndroidApplicationDesignEssentials
+2.1UnderstandingtheIDE–Emulator/AVD,logcat,Gradle,SDK
+2.2.AndroidActivityLifecycle
+2.3ApplicationContextandActivityContext
+2.4AndroidManifestFileanditscommonsettings
+2.5IntentandIntentFilter
+Unit-3:AndroidUserInterfaceDesignEssentials
+3.1UIelements–EditText,TextView,Button,RadioButton,
+CheckBox,Listview,RecyclerView,Spinner
+3.2DesigningUserInterfaceswithLayouts
+3.2.1RelativeLayouts
+3.2.2LinearLayouts
+3.2.3ConstraintLayouts
+Unit-4:Programmingfordifferentdevices
+4.1AndroidTV,AndroidforCar,AndroidThings
+4.2Overviewofscreencompatibility
+4.3Supportdifferentpixeldensities
+Unit-5:MenusandDialogBox
+5.1Menus–Contextmenu,Pop-upmenu,Optionmenu
+5.2ToastMessageandAlertDialogbox
+Unit-6:UsingSharedpreferences
+
+==== PAGE 4 ====
+SRKI
+BachelorofScienceComputerScience
+61
+6.1PurposeofShredPreferences
+6.2SharedPreferenceModes
+6.3WritingtosharedPreferences
+6.4Methodsofeditorclass
+6.5ReadingfromSharedPreference
+Unit-7:PreservingandSavingdatainLocalDatabase
+7.1IntroductiontoSQLite
+7.2SqliteOpenHelperClass
+7.3SQliteMethods-ExecSQL,Rawquery,Insert,Update,Delete
+Unit8:SqlServerconnectionwithandroidapp
+8.1ConnectingtotheMSSqlServer
+8.2StoringandRetrievingdatainMSSqlServer
+TextandReference
+Literature1.Silberschatz,Korth,Sudarshan,DatabaseSystemConcepts,McGraw-Hill
+computerscienceseries
+2.CJDate,AnintroductiontoDatabaseSystems,Addition-Wesley
+Nileshshah,DatabaseSystemusingOracle,PHI.
+3.RamezElmasri&ShamkantB.Navathe,FundamentalsofDatabase
+Systems,Addison-Wesley
+4.HectorGracia-Molina,JeffreyD.Ullman,andJenniferWidom,Database
+SystemImplementation,Pearson.
+5.IvanBayross,SQL,PL/SQL,BPBPublications
+6.ScottUrman,Oracle9iPL/SQLprogramming,McGraw-Hill
+TeachingMethodology ThecourseiscomposedofLectures,assignmentsandagroupproject.
+EvaluationMethod 70%Internalassessmentisbasedonclassattendance,participation,
+classtest,quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 5 ====
+SRKI
+BachelorofScienceComputerScience
+62
+DSC-10:OperatingSystem
+CourseCode
+CourseTitle DCS-10OperatingSystems
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/
+Revision---
+PurposeofCourseConceptualizethestudentswiththetheoreticalconceptsofOperatingSystem
+CourseObjectiveFamiliarizationwithdifferentobjectivesofoperatingsystemcomponentslike
+processmanagementandinter-processcommunication;Experimentsonprocess
+schedulingandotheroperatingsystemtasksthroughsimulation/implementation
+underasimulatedenvironment
+Pre-requisite FundamentalsofComputerOrganizationandOperatingSystem
+CourseOutcomeDescribethevariouscomponentsofOperatingSystems.
+CasestudyofUnixoperatingsystemstoanalyzethedifferentservicesprovided
+byUNIXOperatingSystem
+Designandimplementvarioussystemcallsandconcurrentprocessesrequiring
+synchronization.
+CourseContentUnit-1:OperatingSystemConcepts
+1.1.Operatingsystemfundamentalanditstypes
+1.2.Componentsofoperatingsystem
+1.3.BIOS,Bootingprocessandkernel
+1.4.Functionsofoperatingsystems
+1.5.InterruptandSystemcall,DatabusandAddressbus
+Unit-2:I/ODeviceandFileManagement
+2.1I/ODevices,Devicecontrollersanddrivers,DMA,ProgrammedI/O,
+InterruptdrivenI/O,I/OusingDMA
+2.2DiskspaceManagement
+2.3AllocationandDiskArmSchedulingMethods(FCFS,SSTF,SCAN,C-
+SCAN)
+2.4Driversfordifferentdevices.
+Unit-3:Filesstructure
+3.1Filestoragemechanism,Fileallocationtable,DirectoryandFilestructure,
+Attributes,Types,Access,Operations,Protection,andsharingandremote
+access.
+3.2Filesystemmanagementandoptimization-Diskspacemanagement,
+backup,consistency,Performance,Defragmentation
+Unit-4:MemoryManagement
+2.1Addressspace,Contiguousandnoncontiguousallocation,Managingfree
+space
+
+==== PAGE 6 ====
+SRKI
+BachelorofScienceComputerScience
+63
+2.2Virtualmemory-Paging,Pagesize,Pagetable,Pagefault,Demand
+Paging,Pagereplacementalgorithms(FIFO,LRU,2ndChanceNRU
+Optimal),Sharedpage
+2.3Segmentation-Implementationofpuresegmentation,segmentationwith
+paging.
+Unit-5:ProcessManagement
+5.1Process,Processstates,PCB,Processscheduling
+5.2SchedulingAlgorithms
+5.3StudyofRound-robin,FCFS,SJF,SRTFandpriorityalgorithms
+5.4Overviewofdeadlock
+5.5Deadlockavoidance,preventionandrecovery
+5.6OverviewofInterprocesscommunication
+5.7Deadlocks-OverviewofDeadlockAvoidance,PreventionandRecovery
+Unit-6:SecurityandProtectioninoperatingsystems
+6.1Mainfeaturesofsecurityandprotection
+6.2Differentsecurityconcerns
+6.3WaysavailableinOStoprotectthethesystem
+6.4Inbuiltsecurityfeaturesofoperatingsystem.
+6.5Grouppolicy
+Unit-7:IntroductiontoUnixoperatingsystem
+1.1Introduction:HistoryofUnix,features
+1.2Unixsystemarchitectureandkernel
+1.3Unixcommandformat,Unixinternalandexternalcommands,Directory
+commands,Filerelatedcommands,Diskrelatedcommands,general
+utilities.
+Unit-8:File,ProcessandmemorymanagementinUnixoperatingsystems
+8.1UnixFileSystem:Bootinode,superanddatablock,in-corestructure,
+Directories,conversionofpathnametoinode,inodetoanewfile,Disk
+blockallocation.
+8.2ProcessManagementinunix:ProcessstateanddatastructuresofaProcess,
+Uservs,kernelnode,contextofaProcess,backgroundprocesses,Process
+schedulingcommands,Processterminatingandexaminingcommands.
+8.3StorageManagementinunix:Formatting,makingfilesystem,checkingdisk
+space,mountablefilesystem,diskpartitioning,filecompression.Special
+ToolsandUtilities:Filters,StreameditorSEDandAWK,Unixsystemcalls
+andlibraryfunctions,Processes,signalsandInterrupts,storageand
+compressionfacilities.
+8.4BasicshellProgrammingconcepts.
+
+==== PAGE 7 ====
+SRKI
+BachelorofScienceComputerScience
+64
+Textand
+Reference
+Literature1.Silberschatz,Korth,Sudarshan,DatabaseSystemConcepts,McGraw-Hill
+computerscienceseries
+2.CJDate,AnintroductiontoDatabaseSystems,Addition-Wesley
+3.Nileshshah,DatabaseSystemusingOracle,PHI.
+4.RamezElmasri&ShamkantB.Navathe,FundamentalsofDatabaseSystems,
+Addison-Wesley
+5.HectorGracia-Molina,JeffreyD.Ullman,andJenniferWidom,Database
+SystemImplementation,Pearson.
+6.IvanBayross,SQL,PL/SQL,BPBPublications
+7.ScottUrman,Oracle9iPL/SQLprogramming,McGraw-Hill
+Teaching
+MethodologyThecourseiscomposedofLectures,assignmentsandagroupproject.
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 8 ====
+SRKI
+BachelorofScienceComputerScience
+65
+SEC-3:IntroductiontoArtificialIntelligenceandIoT
+CourseCode
+CourseTitle SEC-3:IntroductiontoArtificialIntelligenceandIoT
+Credit 4
+TeachingperWeek4Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/
+Revision---
+PurposeofCourseThiscoursepresentstheblendofArtificialIntelligenceandInternetof
+Things.ArtificialIntelligencespansawidevarietyoftopicsatthe
+forefrontofcomputerscienceresearch,includingareaslikemachine
+learning,planning,computervision,naturallanguageprocessing,and
+manyothers.ItisthegoalofthiscoursetostudyArtificialIntelligencein
+today'senvironmentandtoinstillanunderstandingofrepresentationsand
+externalconstraintswiththeideaofenablingastudenttothinkcreatively.
+ThesubjectalsoextendsconceptsofInternetofThings.
+CourseObjectiveTheobjectivesareasfollows:
+1)TogiveinitialexposureofArtificialIntelligencetothestudents
+2)TomakestudentunderstandAIproblemsandproblemsolving
+approach
+3)TomakestudentlearnfundamentalAItechniquesandtheir
+applications
+Pr-requisite StudentsareexpectedtohaveunderstandingofComputerizedInformation
+System
+CourseOutcomeAfterhavingcompletedthecoursethestudentwillbeableto:
+1)describeconcepts,methods,andtheoriesofproblemsolvingapproach
+ofAI,solutionsearch,heuristics,gameplayingetc.
+2)describeconcepts,methods,andtheoriesknowledgerepresentationand
+reasoningsystems
+3)describeconceptsbehindvariousAItasklikeplanning,Decision
+makingandLearning
+4)describevariousTechniquesandApplicationAreasofAIincontextof
+ExpertSystems,ANN,MachineLearningandNLP
+CourseContent Unit1IntroductiontoArtificialIntelligence
+1.1Intelligence
+1.1.1Compositionofintelligence-Reasoning,Learning,
+ProblemSolving,Perception,LinguisticIntelligence
+1.2ArtificialIntelligence
+1.2.1PhilosophyandgoalsofAI
+1.2.2ApplicationsofAI
+1.3AIAgents&Environments–typesofagents,idealrational
+agent,structureofintelligentagents,SimpleTuringtest
+environment,environmentproperties
+
+==== PAGE 9 ====
+SRKI
+BachelorofScienceComputerScience
+66
+Unit2ProblemSolvingBySearch
+2.1ProblemFormulationandStateSpaceRepresentationof8-Puzzle,
+missionariesandcannibalsproblem,TravelingSalesmanproblem,
+RobotNavigationProblem,WaterJugProblem
+2.2SearchtechniquesforSolutionSearch-Conceptsofsearch
+strategies-uninformedsearch:BFS,DFS,informedsearch-Best
+FirstSearch
+2.3Introductiontoplanning,decisionmakingandlearningtasks.
+Unit3KnowledgeRepresentation&Reasoning
+3.1Knowledge-Basedagents,systems&MachineIntelligence
+3.2KnowledgeRepresentationTechniques-LogicalandProcedural
+RepresentationSchemesandInference,SemanticNetwork
+representation,ProductionRules
+3.3IntroductiontoKnowledgebasedReasoning,Forwardand
+BackwardChaining
+Unit4ExpertSystems&ANN
+4.1ExpertSystems
+4.1.1ExpertSystems–Characteristics&Applications
+4.1.2Rulebasedsystemarchitecture
+4.1.3ExamplesofExpertSystem,Advantagesand
+Limitations.
+4.2ArtificialNeuralNetwork
+4.2.1ArtificialNeuralNetworkStructuresandtheirLimitations,
+4.2.2Perceptrons&Multi-layerPerceptrons,
+4.2.3LearningANNstructures,ApplicationexamplesofANN
+4.3MachineLearning
+4.3.1MachineLearning–Types,Applications,LifeCycle
+4.3.2IntroductiontoClassification,Clustering
+4.3.3IntroductiontoDeepLearning
+4.4NaturalLanguageProcessing
+4.4.1Components,Applications,NLPProcess&Phases,
+DifficultiesinNLP
+Unit5IntroductiontoTheInternetofThings
+5.1TheInternetofThingsConceptualOverview
+5.2ComponentsofIoT
+5.3 CharacteristicsofIoT
+5.4 ChallengesinrealizingIoTapplications
+5.5 BigDataAnayticsasComplementaryTechnologyofIoT
+Unit6EmbeddedComputingBasics
+6.1Embeddedsystemcomponents
+6.2FlavoursofMicrocontroller:8-bitmicrocontroller:8051,32bit
+microcontroller:ARM
+6.3Systemonchipsconcept
+
+==== PAGE 10 ====
+SRKI
+BachelorofScienceComputerScience
+67
+6.4Embeddedsystemapplications
+Unit7OverviewofArduino
+7.1IntroductiontoArduino
+7.2FlavoursofArduino
+7.3ComponentsofArduinoboard
+7.4ArduinoPowersupply,Breadboard
+Unit8ProgrammingwithArduino
+8.1InstallingArduinoDesktopIDE
+8.2InstallingBoarddrivers,configuringboardtype,sketch
+8.3Hardwareinterfacing&programming
+8.3.1.LEDon/offusingtimer
+8.3.2.Workingwithsensors
+8.3.3.ArduinoTrafficLightController
+ReferenceBook 1.AFirstCourseinArtificialIntelligencebyDeepakKhemani,
+McGrawHill,ISBN:978-1-25-902998-1
+2.IntroductiontoArtificialIntelligenceandExpertSystembyDanW.
+Patterson,PHI,ISBN:978-93-325-5194-7
+3.ArtificialIntelligence–AModernApproach(2ndEdition2004)by
+StuartJ.RussellandPeterNorvig,PearsonEducation,ISBN:978-81-775-
+8367-0
+4.IntroductiontoArtificialIntelligencebyRajendraAkerkar,PHI,
+ISBN:978-81-203-2864-8
+3.ArtificialIntelligence-StructuresandStrategiesforComplexProblem
+Solving(4thEdition2004)byGeorgeF.Luger,PearsonEducation
+4.FoundationofArtificialIntelligenceandExpertSystemsbyV.S.
+Janakiraman,K.Sarukesi,P.Gopalakrishnan,McMillan(2002)
+6.ArtificialIntelligence:TheBasics(Paperback)byKevinWarwick,
+Publisher:Routledge;
+7.TheEssenceofArtificialIntelligence(Paperback)byAlisonCawsey
+Publisher:PrenticeHall
+8.“ArtificialIntelligence”-ByElaineRichAndKevinKnight(2nd
+Edition)TataMcgrawHill
+9.INTERNETOFTHINGSbySandeepVishwakarma,KiranGurbani,
+NiteshShuklaPublisher:HimalayaPublishingHouse
+10.IoT&ApplicationsI.A.DhotreTechnicalPublication
+11.DesigningtheInternetofThingsAdrianMcEwenandCassimally
+Wiley
+12.TheInternetofThingsConnectionobjectstowebEditedbyHakima
+ChauchiWiley
+13.IntroductiontoEmbeddedSystem-ByShibuKV,McGrawHill
+14.GettingStartedwithInternetofThings–ByCunoPfister,O’Reilly
+15.LearningInternetofThings-ByPeterWaher,PacktPublication
+16.InternetofThings:AHandsonApproach–ByArshdipBahgaand
+
+==== PAGE 11 ====
+SRKI
+BachelorofScienceComputerScience
+68
+VijayMadisetti
+17."TheInternetofThings:EnablingTechnologies,Platforms,andUse
+Cases",byPethuruRajandAnupamaC.Raman(CRCPress)
+Teaching
+MethodologyDiscussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod30%Internalassessmentisbasedonclassattendance,participation,class
+test,quiz,assignment,seminar,internalexaminationetc.
+70%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 12 ====
+SRKI
+BachelorofScienceComputerScience
+69
+DSE-5:ComputerGraphicsandAnimations
+CourseCode
+CourseTitle ComputerGraphicsandanimation
+Credit 2
+TeachingperWeek 2Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision -
+PurposeofCourse Totrainthestudentstoacquireskillsingeneratingmarketablecomputer
+graphicsandanimatedpictures,
+CourseObjective TounderstandtheconceptofcomputergraphicsandSkillsinGraphic
+Designing
+Tounderstandtheanimationtechniques.
+Pre-requisite ----
+CourseOutcome Studentsareabletounderstandtheconceptofgraphicsandanimation
+effectandimagemanipulationaftercompletionofcourse.
+CourseDescription: Computeranimationistheartofcreatingmovingimagesviatheuse
+ofcomputers.Itisasubfieldofcomputergraphicsandanimation.
+Increasinglyitiscreatedbymeansof3Dcomputergraphics,though
+2Dcomputergraphicsarestillwidelyusedforlowbandwidthandfaster
+real-timerenderingneeds.
+CourseContent
+Unit1:Introductiontocomputergraphics
+1.1.Definitioncomputergraphics
+1.2.PixelandFrameBuffer
+1.3.RasterandRandomScandisplay
+1.4.ApplicationsofComputerGraphics
+1.5.Aliasingandantialiasingmethods
+Unit2:2Dtransformation
+2.12-Dimensionaltransformation
+2.2.Translation,Rotation,Scaling,Reflection,Shear
+2.3.MatrixrepresentationandHomogeneousCoordinates.
+2.4.Compositetransformation
+Unit3:2Dviewing
+3.1Introductiontowindowandviewport
+3.2Viewingpipeline
+3.3Viewingcoordinatereferenceframe
+3.4Windowtoviewportcoordinatetransformation
+3.5Clippingoperations
+Unit4:3DConcepts
+4.1Threedimensionaldisplaymethods
+4.1.1Parallelandperspectiveprojections,DepthQueuing,Visible
+lineandsurfaceidentification,Surfacerendering,Exploadedand
+cutwaysviews,threedimensionandstereoscopicviews
+
+==== PAGE 13 ====
+SRKI
+BachelorofScienceComputerScience
+70
+Unit5:VisiblesurfaceDetections
+5.1.Backfacedetection
+5.2.Depthbuffermethod
+5.3.Scan-linemethod
+Unit6:VisualRealism
+6.1.LightSources:typesoflightsources,effectsoflight
+6.2.Illumination,Shading,Transparency,Shadow,
+6.3.Colors:modelandchangessetting
+Unit7:Animation
+7.1.BasicPrinciplesofcomputeranimation
+7.2.Typesofanimation
+7.3.Animationmethods-Principles,keyframe,Framebyframeanimation,
+masks,motion,dynamic,behavior,Workinginthetimeline,Working
+withsymbols,Shapetween,staggeringanimationeffect
+7.4.Morphing
+7.5.Animationtoolsfor2Dand3D
+7.6.GraphicsFileformatsfor2Dand3Dimage
+Unit8:DigitalImageProcessing
+8.1.DefiningDigitalImage
+8.2.Stepfordigitalimageprocessing
+8.3.basicconceptofimageprocessingtechniques
+Referencebooks: 1.ComputerGraphics–By-DonaldD.Hearn&M.PaulineBaker
+PEARSONPUBLICATION
+2.ComputerGraphics–ByZhigangXiangandRoyPlasock,Tata
+McGrawHill
+3.ComputerGraphicsbyDr.A.A.Desai
+4.ComputerGraphicsBy-RajeshMaurya–WileyPublications
+TeachingMethodology Discussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod 30%Internalassessmentisbasedonclassattendance,participation,class
+test,quiz,assignment,seminar,internalexaminationetc.
+70%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 14 ====
+SRKI
+BachelorofScienceComputerScience
+71
+DSE-5:CloudComputing
+CourseCode
+CourseTitle DSE-5:CloudComputing
+Credit 2
+TeachingperWeek 2Hrs
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/Revision ---
+PurposeofCourse ThecoursegivesstudentsanideaaboutCloudComputingfundamentals
+andCloudBasedSystems.
+CourseObjective Toprovidecomprehensiveknowledgeofcloudcomputingandaspects
+relatedtoit.
+Pre-requisite Basicunderstandingofoperatingsystemandcomputernetwork
+CourseOutcome Aftercompletionofthiscourse,thestudentwillgaincomprehensive
+knowledgeofCloudbasedsystemsandaspectsrelatedtoit
+CourseContent Unit1IntroductiontoCloudComputing
+1.1Overview,RootsofCloudComputing,
+1.2BenefitsandDisadvantagesofCloudComputing,
+1.3CloudInfrastructureManagement,
+1.4ChallengesandRisks
+Unit2CloudFundamentals
+2.1Cloudcharacteristics-OnDemandService
+2.2UbiquitousNetworkAccess,
+2.3LocationIndependentResourcePooling,RapidElasticity.
+2.4CloudTypes-Public,Private,Hybrid,Community,
+SharedPrivate,DedicatedPrivate
+Unit3CloudComputingEssentials
+3.1CloudComputingArchitecturalFramework
+3.2CloudDeploymentModels
+3.3VirtualizationinCloudComputing
+3.4ParallelizationinCloudComputing
+3.5SecurityforCloudComputing
+Unit4Virtualization
+4.1IntroductiontoVirtualizationTechnologies,
+4.2LoadBalancingandVirtualization,
+4.3UnderstandingHypervisors,
+4.4TypesofVirtualization
+4.4.1Servervirtualization
+4.4.2Storagevirtualization
+4.4.3Networkvirtualization
+
+==== PAGE 15 ====
+SRKI
+BachelorofScienceComputerScience
+72
+Unit5CloudServiceModels
+5.1ExploringtheCloudComputingStack,
+5.2InfrastructureasaService
+5.3PlatformasaService(PaaS)
+5.3.1Azure
+5.3.2GooleAppEng
+5.3.3Hadoop
+5.3.4SalesForce
+5.4SoftwareasaService(SaaS)-Characteristics,OpenSaaSand
+SOA
+5.4.1Cloudservices
+5.4.2Webportal
+5.4.3.WebOS
+Unit6OtherCloudServiceModels
+6.1IdentityasaService(IDaaS)
+6.2NetworkIdentityServiceClasses
+6.3IDaaSInteroperability-userauthentication,Authorization
+MarkUpLanguages
+6.4ComplianceasaService(CaaS)
+Unit7CloudResourceManagement
+7.1InterCloudResourceManagement,
+7.2ResourceProvisioningandPlatformDeployment,Global
+ExchangeofCloudResources.
+7.3AdministratingtheClouds,CloudManagementProducts,
+EmergingCloudManagementStandards
+Unit8CloudSecurity
+8.1SecurityOverview,CloudSecurityChallengesandRisks,
+8.2Software-as-a-ServiceSecurity,
+8.3Cloudcomputingsecurityarchitecture:Architectural
+Considerations,GeneralIssuesSecuringtheCloud,Securing
+Data
+ReferenceBook 1.CloudComputing:PrinciplesandParadigms-R.Buyyaetal-Wiley
+2010
+2.CloudComputing:PrinciplesSystemsandApplication-LGillametal
+-Springer2010
+3.CloudComputingBible-Sosinsky-Wiley-India,2011
+4.CloudComputingSecondEditionDr.KumarSaurabh-Wiley-India,
+2012
+5.CloudComputing-InsightintoNewEraInfrastructure-DrKumar
+Saurabh-WileyIndia2012
+
+==== PAGE 16 ====
+SRKI
+BachelorofScienceComputerScience
+73
+TeachingMethodology Discussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod 30%Internalassessmentisbasedonclassattendance,participation,class
+test,quiz,assignment,seminar,internalexaminationetc.
+70%assessmentisbasedonsemesterendwrittenexamination
+
+==== PAGE 17 ====
+SRKI
+BachelorofScienceComputerScience
+74
+CourseCode
+CourseTitle Practical-5
+Credit 10
+TeachingperWeek12Hours
+Minimumweeksper
+Semester15(IncludingClasswork,examination,preparation,holidaysetc.)
+LastReview/
+Revision---
+PurposeofCourseThepurposeofcourseistomakestudentsawarewithpracticalimplementation
+ofconceptlearntintheorysubjects.
+CourseObjectiveToprovideFundamentalknowledgeofpracticalimplementationbasedon
+DSC9,DSC10andSEC-3
+Pre-requisite ---
+CourseOutcomeStudentshouldbeabletodemonstrateskillsmentionedinDSC9,DSC10and
+SEC-3practically.
+CourseContent Aspertheorysubjectcontentofrelativesubject
+ReferenceBook
+Teaching
+MethodologyDiscussion,IndependentStudy,SeminarsandAssignment
+EvaluationMethod70%Internalassessmentisbasedonclassattendance,participation,classtest,
+quiz,assignment,seminar,internalexaminationetc.
+30%assessmentisbasedonsemesterendwrittenexamination

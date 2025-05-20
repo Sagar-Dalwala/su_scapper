@@ -1,0 +1,516 @@
+---- PDF METADATA ----
+Author: PCD
+CreationDate: D:20220426145440+09'24'
+Creator: WPS Writer
+ModDate: D:20220426145440+09'24'
+SourceModified: D:20220426145440+09'24'
+Trapped: /False
+---- END METADATA ----
+
+Total Pages: 18
+
+==== PAGE 1 ====
+FacultyofScience
+SHREERAMKRISHNAINSTITUTEOFCOMPUTEREDUCATION
+ANDAPPLIEDSCIENCES,SURAT
+B.Sc.Microbiology
+Syllabus
+(Effectivefrom2021)
+M.T.BCollegeCampus,B/hP.T.ScienceCollege,Opp.Chowpati,
+Athwalines,Surat-395001Gujarat,India
+Contact:7228018498,728018499.Email:info@srki.ac.in
+
+==== PAGE 2 ====
+A.AboutB.Sc.MicrobiologyProgramme
+TheDepartmentofMicrobiologyofSRKIatSarvajanikUniversityrunsafulltimethree-
+yearprogramofsixsemesters,leadingtoawardofBachelorofScience(B.Sc.)degreein
+Microbiology.Thecurriculumisdesignedtotrainthestudentsinbasicandadvancedareasof
+Microbiology,keepinginmindthelatestadvancesinthefield.Particularemphasisislaidon
+thepracticalaspectsofthefield.Studentsaretaughthowtoplanexperiments,performthem
+carefully,analyzethedataaccurately,andpresenttheresultsboth,qualitativelyand
+quantitatively.ThestudentsareofferedbasicandadvancedlevelcoursesinMicrobial
+Diversity,MicrobialPhysiology,Virology,Immunology,Enzymology,Environmental
+Microbiology,Molecularbiology,RecombinantDNAtechnology,IndustrialMicrobiology,
+FoodMicrobiologyetc.Duringtheprogrammestudentswerealsoexposingtoindustrialand
+relevantfieldvisit.
+B.ProgrammeObjective
+TheobjectiveoftheB.Sc.Microbiologyistoequipthestudentstogainfundamental
+knowledgeandanalyticalskillsatanadvancedlevelinthefieldofmicrobiology.
+Theprogramemphasizestoapplyknowledgeacquiredaboutprokaryoticand
+eukaryoticcellularprocesses,interactionofmicroorganismsamongthemselves,with
+physicalandchemicalagentsandhigherorderorganismsinenvironmentand
+biologicalsystemstovariousconditions.
+Thelaboratorytraininginadditiontotheoryisincludedsothatthestudentswill
+acquiretheskillstoqualifyforthepositionsinindustry,clinicallaboratoryorfor
+furthereducationinaMasterprogram.
+C.Eligibility
+Thecandidatemusthavepassed10+2oranequivalentexaminationwithBiologyas
+oneofthesubjects.ORVocationalcourseinHomeScienceORDiplomain
+Pharmacy.ORThecandidatewhohaspassedequivalentexamfromothersubjectsor
+boardsneedtoavaileligibilitycertificateforthisprogrammefromtheBoardof
+Equivalence(BoE)oftheSarvajanikUniversity.B.Sc.Microbiology
+No. Contents
+AAboutB.Sc.MicrobiologyProgramme
+BProgrammeObjective
+CEligibility
+DCourseStructure
+EEvaluationScheme
+FSyllabus
+
+==== PAGE 3 ====
+D.B.Sc.MicrobiologyCourseStructure
+Sem Course
+TypeCourse
+CodePaperTitle Hour/WeekCredit
+Th Pr
+1 Core
+courseDSC-1 Introductiontomicrobiology&Microscopy 4 4 4+2
+DSC-2 Cellstructure&Anatomy 4 4 4+2
+Elective DSE-1 Biochemistry&Enzymology 2 - 2
+TDE-1 TransdisciplinaryElective 2 - 2
+PAECC PAECC-1 ProfessionalCommunication 2 - 2
+LifeSkills LifeSkills-1LifeSkills/NCC/NSS 2 - 2
+2 Core
+courseDSC-3 Nutrition&Growthofmicroorganisms 4 4 4+2
+DSC-4 MicrobialDiversity 4 4 4+2
+Elective DSE-2 MicrobialEcology 4 - 4
+TDE-2 TransdisciplinaryElective 2 - 2
+PAECC PAECC-2 EnvironmentalScience(UGC) 2 - 2
+LifeSkills LifeSkills-2LifeSkills/NCC/NSS 2 - 2
+3 Core
+courseDSC-5 Controlofmicroorganisms 4 4 4+2
+DSC-6 MicrobialTaxonomy 4 4 4+2
+SEC SEC-1 AppliedEnvironmentalMicrobiology 4 4 4+2
+Elective DSE-3 Food&DairyMicrobiology 2 - 2
+TDE-3 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-3LifeSkills/NCC/NSS 2 - 2
+4 Core
+courseDSC-7 EnvironmentalBiotechnology 4 4 4+2
+DSC-8 MicrobialPhysiology&metabolism 4 4 4+2
+SEC SEC-2 Biofertilizers,Biopesticides&Mushroom
+cultivation4 4 4+2
+Elective DSE-4 Nanosciences&Nanotechnology 2 - 2
+TDE-4 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-4LifeSkills/NCC/NSS 2 - 2
+5 Core
+CourseDSC-9 MolecularBiology 4 4 4+2
+DSC-10 FundamentalsofImmunology 4 4 4+2
+SEC SEC-3 Instrumentation&Techniques 4 4 4+2
+Elective DSE-5 Haematology&Bloodbanking 2 - 2
+TDE-5 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-5LifeSkills/NCC/NSS 2 - 2
+6 Core
+CourseDSC-11 MicrobialTechnology 4 4 4+2
+DSC-12 Health&Epidemiology 4 4 4+2
+SEC SEC-4 Essentialskillsincomputing 4 4 4+2
+Elective DSE-6 RecombinantDNATechnology 2 - 2
+TDE-6 TransdisciplinaryElective 2 - 2
+LifeSkills LifeSkills-6LifeSkills/NCC/NSS 2 - 2
+TotalCredit 136
+Note:DSC–DisciplineSpecificCore,DSE–DisciplineSpecificElective,PAECC–ProfessionalAbility
+EnhancementCompulsoryCourse,SEC-SkillEnhancementCourse,TDE-TransdisciplinaryElective
+
+==== PAGE 4 ====
+E.EvaluationScheme
+B.Sc.Microbiology
+Evaluation Criteria Theory Practical
+Sem–I&IISem–IIItoVI
+InternalContinuous&
+Comprehensive
+Evaluation(CCE)40 30 40
+Attendance 10 10 10
+Assignment 20 --
+InternalPracticalTest
+andViva-Voce-- 30 50
+ExternalExternalEvaluation 30 30 50
+Total100 100 150
+
+==== PAGE 5 ====
+F.Syllabus
+Unit-1:FundamentalsofMicrobialControl (Duration:06Hrs)
+1.1PrinciplesofMicrobialControl
+1.2MicrobialDeathPattern
+1.3ConditionsInfluencingAntimicrobialAction
+1.4ModeofActionofAntimicrobialAgents
+Unit-2:PhysicalAgentsofMicrobialControl (Duration:09Hrs)
+1.1Heat
+1.2LowTemperature
+1.3Radiation
+1.4SonicandUltrasonicWaves,Filtration&OsmoticPressureNameoffaculty:Sciences Department:Microbiology
+Program:B.Sc.MicrobiologySem3 Type:DSC-5
+Subject:ControlofMicroorganisms
+Credit:04 Totallearninghours:60
+Coursedescription:Thecontrolofmicrobialgrowthisnecessaryinmanypracticalsituations,
+thussignificantadvancesinagriculture,medicine,andfoodsciencehavebeenmadethrough
+studyofthisareaofmicrobiology.Controlofmicroorganismsisessentialsoastopreventthe
+transmissionofdiseases&infection,stopdecompositionandspoilage,andpreventunwanted
+microbialcontamination.Therefore,controllingmicrobialgrowthisimportantinmedicalfield,
+pharmaceuticalandbiotechnologyindustries,academicresearch,andfoodindustry.Eversince
+microbeswereshowntocausediseases,differenttechniqueshavebeeninventedtocontroltheir
+spread.
+Studentlearningoutcome:
+Comparebetweendisinfectants,antiseptics,andsterilants.
+Describetheprinciplesofcontrollingthepresenceofmicroorganismsthroughphysical
+andchemicalagents,thatcaneliminateorsuppressmicrobiallife.
+Thebasisofchemotherapeuticcontrol.
+Modeofactionofnarrowandbroad-spectrumantibioticsongram-positiveandgram-
+negativebacteria.
+Mechanismfordevelopmentofantibioticresistanceandmicrobialsusceptibility.
+Methodsfordeterminationofmicrobialsusceptibility.
+
+==== PAGE 6 ====
+Unit-3:ChemicalAgentsofMicrobialControl-I (Duration:08Hrs)
+3.1ChoosingaMicrobicidalChemical
+3.2EvaluatingtheEffectivenessofChemicalAgents
+3.3MechanismsofActionofChemicalAgents
+3.4Acids&Alkalis
+3.5Alcohols
+3.6Soaps&Detergents
+Unit-4:ChemicalAgentsofMicrobialControl-II (Duration:09Hrs)
+4.1Heavymetals
+4.2Halogens
+4.3Phenols
+4.4OxidizingAgents
+4.5AlkylatingAgents
+4.6Dyes
+Unit-5:ChemotherapeuticAgents&Chemotherapy (Duration:07Hrs)
+5.1HistoryofChemotherapy
+5.2CharacteristicsofAntibioticsasChemotherapeuticAgents
+5.3AntifungalChemotherapeuticAgents
+5.1AntiparasiticChemotherapeuticAgents
+5.2AntiviralChemotherapeuticAgents
+Unit-6:AntibacterialChemotherapeuticAgents-I (Duration:07Hrs)
+6.1MechanismsofAntibacterialDrugAction&ItsSpectrum
+6.2BacterialCellWallInhibitingAntibiotics
+6.3CellMembraneDisruptingAntibiotics
+Unit-7:AntibacterialChemotherapeuticAgents-II (Duration:07Hrs)
+7.1NucleicAcidSynthesisInhibitingAntibiotics
+7.2ProteinSynthesisInhibitingAntibiotics
+7.3MetabolicPathwaysInhibitingAntibiotics
+7.4Antimetabolites
+
+==== PAGE 7 ====
+Unit-8:DevelopmentofAntibioticResistance&MicrobialSusceptibility
+(Duration:07Hrs)
+1.1ResistanceofMicroorganismstoAntibiotic
+1.2MechanismsforDevelopmentofAntibioticResistance
+1.3DeterminationofMicrobialSensitivitiestoAntimicrobialAgents
+ReferenceBooks:
+Black,J.G.,(2014).Microbiology,9thedition.(ISBN:978-1-118-74316-4)
+Talaro,K.P.,andChessB.,(2015).FoundationsInMicrobiology,9thedition.(ISBN:
+978–0–07–352260–9)
+Wiley,J.,&Sherwood,L.,(2015).Prescott,Harley,andKlein’sMicrobiology,9th
+edition.(ISBN:978-0-07-340240-6)
+Pelczar,ChanandKrieg,(2001).Microbiology-ConceptsandApplication,5thedition.
+(ISBN:978-0-07-462320-6)
+FurtherReading:
+TortoraG.J.,andFunkeB.R.(2016).MicrobiologyanIntroduction,12thEd.,
+BenjaminCummings.(ISBN:9780321929150)
+CowanM.K.andTalaroK.P.,(2014).Microbiology-AsystemsApproach,4th
+editionMcGrawHillHigherEducation.(ISBN:978-0073402437)
+Wiley,J.,&Sherwood,L.(2013).Prescott,Harley,andKlein’sMicrobiology,8th
+Ed.,McGraw-HillScience/Engineering/Math,(ISBN:9780071313674)
+PowarandDaginawala.(2019).GeneralMicrobiologyVol-I,2ndEd.Himalaya
+PublishingHouse,Mumbai.(ISBN:978-93-5024-089-2)
+Purohit,S.S.(2006).Microbiology-FundamentalsandApplications-7thEdition,
+AgrobiosPublications,Delhi.(ISBN:978-8177542592)
+Atlas.R.M.(1995).PrinciplesofMicrobiology,2ndEdition.Wm.C.Brown
+Publishers.(ISBN:9780815108894)
+ListofPracticals
+1)Effectofantisepticanddisinfectantonbacterialgrowthbydiscmethod
+2)EffectofHeavymetalongrowthofbacteria–Oligodynamicaction
+3)EffectofUVraysongrowthofbacteria
+4)EvaluationofDisinfectantbyPhenol-coefficientmethod
+5)AntibioticsusceptibilitytestbyKirby-bauermethod.
+************
+
+==== PAGE 8 ====
+Unit-1:PrinciplesofMicrobialTaxonomy (Duration:08Hrs)
+1.1IntroductiontoMicrobialTaxonomy
+1.2TaxonomicRanks
+1.3ClassicalandMolecularCharacteristics
+1.4Phylogenetictree
+1.5ConceptofMicrobialspecies
+1.6MicrobialPhylogeny:ThreeDomainsofLife
+Unit-2:TaxonomyofBacteria:Proteobacteria (Duration:08Hrs)
+2.1Bergey’sManualofSystematicBacteriology
+2.2ClassAlphaproteobacteria:PurplePhototrophicBacteriaandOrderRhizobiales
+2.3ClassBetaproteobacteria:OrderNeisserialesandOrderNitrosomonadales
+2.4ClassGammaproteobacteria:OrderEnterobacteriales
+2.5ClassDeltaproteobacteria:OrderBdellovibrionales
+2.6ClassEpsilonproteobacteriaNameoffaculty:Science Department:Microbiology
+Program:B.Sc.MicrobiologySem3 Type:DSC-6
+Subject:MicrobialTaxonomy
+Credit:04 Totallearninghours:60
+Coursedescription:
+Courseaimedtodeliverinsightsabouttools,techniques,strategiesandmethodologiesto
+classifythemicroorganisms.Coursewillalsoprovidedetailedknowledgeofbacterialand
+archaealgroupsandcomprehensiveknowledgeofprotozoa,fungi,algaeandvirus.
+Studentlearningoutcome:
+Bytheendofthiscourse,studentwill
+Acquiretheknowledgeaboutthebasisofmicrobialclassification.
+Developtheunderstandingaboutthreedomainsoflife
+Exploredetailedfeaturesandcharacteristicsofbacteria
+Learnarchaealtaxonomy,metabolismandfeaturesofarchaea.
+Understandtheclassification,majorfeaturesofimportantmembersofprotist,fungi,
+algaeandviruses.
+
+==== PAGE 9 ====
+Unit-3:TaxonomyofBacteria:DeeplyBranching,PhotosyntheticandNon-proteal
+Gramnegativebacteria (Duration:07Hrs)
+3.1DeeplyBranchingBacteria:DeinococcusandThermus
+3.2PhotosyntheticBacteria:Cyanobacteria
+3.3Chlamydias
+3.4Spirochaetes
+3.5BacteroidesandFlavobacterium
+Unit-4:TaxonomyofBacteria:LowandHighG+CGrampositiveBacteria
+(Duration:07Hrs)
+4.1NonsporulatingFirmicutes:Staphylococcus,MicrococcusandLactobacillus
+4.2Endospore-FormingFirmicutes:BacillusandClostridium
+4.3Mollicutes:Mycoplasma
+4.4Actinobacteria:CoryneformBacteria,MycobacteriumandActinomycetes
+Unit-5:TaxonomyofArchea (Duration:07Hrs)
+5.1ArchaealTaxonomy
+5.2ArchealMetabolism
+5.3PhylumCrenarchaeota
+5.4PhylumThaumarchaeota
+5.5PhylumEuryarchaeota
+Unit-6:TaxonomyofProtozoaandAlgae (Duration:07Hrs)
+6.1ClassificationofProtozoa
+6.2AlgalNomenclatureandbasisofalgalclassification
+6.3Classificationofalgae
+6.4Chlorophyta,Rhodophyta,Phaeophyta,Chrysophyta
+Unit-7:TaxonomyofFungi (Duration:08Hrs)
+7.1Classificationoffungiandtheirgeneralcharacteristics
+7.2Chytridiomycota
+7.3Zygomycota
+7.4Glomeromycota
+7.5Ascomycota
+
+==== PAGE 10 ====
+7.6Basidiomycota
+7.7Microsporidia
+Unit-8:TaxonomyofVirus (Duration:08Hrs)
+8.1ClassificationofVirus
+8.2RNAVirus:Generalcharacteristicsandimportantgroups
+8.3DNAVirus:Generalcharacteristicsandimportantgroups
+8.4Emergingviruses
+ReferenceBook:
+ Bauman,RobertW..Microbiology:WithDiseasesbyBodySystem,3rd
+Edition,UnitedKingdom:BenjaminCummings,2012.(ISBN:
+9780321712714)
+ Black,JacquelynG..,Black,LauraJ..Microbiology:Principlesand
+Explorations.10thEdition,UnitedKingdom:Wiley,2015.(ISBN:
+9781118743164)
+ MichaelT.Madigan,ThomasD.Brock,JohnM.Martinko,DavidP.Clark,
+BrockBiologyofMicroorganisms,13thEdition,Germany:Benjamin
+Cummings,2012.(ISBN:9780321649638)
+ Sharma,O.P..Algae.India:TataMcGrawHill,2011.(ISBN:9780070681941)
+ Sherwood,Linda.,Woolverton,ChristopherJ..,Willey,JoanneM..Prescott's
+Microbiology,10thEdition,Singapore:McGraw-HillEducation,2017.(ISBN:
+9789813151260)
+FurtherReading:
+Garrity,GeorgeM..Bergey'sManualofSystematicBacteriology:Thearchaea
+andthedeeplybranchingandphototrophicbacteria.UnitedStates:Springer,2001.
+(ISBN:9780387987712)
+Garrity,GeorgeM..Bergey'sManualofSystematicBacteriology:The
+proteobacteria.PartA.Introductoryessays.UnitedStates:Springer,2001.(ISBN:
+9780387241432)
+Garrity,GeorgeM..Bergey'sManualofSystematicBacteriology:The
+proteobacteria.PartB.TheGammaproteobacteria.UnitedStates:Springer,2001.
+(ISBN:9780387241449)
+
+==== PAGE 11 ====
+Garrity,GeorgeM..Bergey'sManualofSystematicBacteriology:The
+proteobacteria.PartC.TheAlpha-,Beta-,Delta-,andEpsilonproteobacteria.
+UnitedStates:Springer,2005.(ISBN:9780387241456)
+Gunsalus,RobertP..,Perry,JeromeJ..,Lory,Stephen.,Staley,JamesT..
+MicrobialLife,2ndEdition,UnitedKingdom:SinauerAssociates,2007.(ISBN:
+9780878936854)
+Ludwig,Wolfgang.,Garrity,George.,Krieg,NoelR..,Schleifer,Karl-Heinz.,
+Boone,DavidR..,Jones,Dorothy.,Rainey,FredA..,Castenholz,RichardW..,
+Bergey,DavidHendricks.Bergey'sManualofSystematicBacteriology:Volume3:
+TheFirmicutes.Germany:SpringerNewYork,2001.(ISBN:9780387684895)
+ListofPracticals
+1)Studyofvariousbiochemicaltestsforidentificationofbacteria
+2)Studyofextracellularenzymaticactivity:Amylase,Caseinase,Gelatinase,Lipase,
+DNAase
+3)Studyofintracellularenzymaticactivity:Deaminase,OrnithineDecarboxylase,
+Catalase,Dehydrogenase(Resazurinindicator),Oxidase.
+4)Studyofpureculturesofbacteria:GrampositiveandGramnegativebacteria.(Gram
+positivebacteria:Bacillussubtilis,Bacilluscereus,Bacillusmegaterium,
+Staphylococcusaureus,Staphylococcusepidermidis,GramNegativebacteria:
+Escherichiacoli,Enterobacteraerogenes,Proteusvulgaris,Pseudomonasaeruginosa,
+Serratiamarcescens)
+5)Isolationandidentificationofactinomycetesfromsoil.
+6)StudyofpermanentslidesofParasite/Protozoa(Entamoebahistolytica,Leishmania
+donovani,Giardialamblia/Giardiaintestinalis,Filarialworms,Trypanosoma
+gambiense).
+************
+
+==== PAGE 12 ====
+Unit-1:SoilMicrobiology
+1.1Historicalperspectiveandmodernenvironmentalmicrobiology
+1.2Soilasamicrobialenvironment
+1.3Microorganismsinsurfacesoils
+1.4Distributionofmicroorganismsinsoil
+1.5Microorganismsinsubsurfaceenvironment
+Unit-2:Aeromicrobiology
+2.1Importantairbornepathogensandtoxins
+2.2Aerosolsandtheirnature
+2.3Bioaerosolcontrol
+2.4Biosafetyinlaboratory
+Unit-3:AquaticMicrobiology
+3.1Introductiontoaquaticmicrobiology
+3.2MicrobialhabitatsintheAquaticEnvironments
+3.3AquaticEnvironments
+3.4AquaticmicrobesasfuturefoodsNameoffaculty:Science Department:EnvironmentalScience
+Program:B.Sc.Sem3 Type:SEC-1
+Subject:AppliedEnvironmentalMicrobiology
+Credit:04+02 Totallearninghours:60
+Studentlearningoutcome:
+Basicunderstandingofmicrobiologyofair,waterandsoil
+Knowingmicrobialhazardsofenvironmentalorigin
+Knowingtreatmentofdrinkingwater
+Havingbasicconceptofindicatormicroorganisms
+Learningsamplingandculturalmethodsforthedetectionofmicroorganismsin
+environmentalsamples
+
+==== PAGE 13 ====
+Unit-4:EnvironmentallyTransmittedPathogens
+4.1Environmentallytransmittedbacteria
+4.2Parasitology
+4.3Environmentallytransmittedviruses
+4.4Transportofpathogensinenvironment
+Unit-5:IndicatorMicroorganisms
+5.1Coliforms
+5.2FecalStreptococci
+5.3Otherpotentialindicatororganisms
+5.4Standardsandcriteriaforindicators
+Unit-6:DrinkingWaterTreatment
+6.1Watertreatmentprocesses
+6.2Watertreatmentrequirements
+6.3Waterdistributionsystems
+6.4Microbialgrowthindistributionsystems
+Unit-7:EnvironmentalSampleCollectionandProcessing
+7.1Samplingofsoilsandsediments
+7.2Samplingstrategiesandmethodsforwater
+7.3Devicesforcollectionofairsamples
+7.4Detectionofmicroorganismsonfomites
+Unit-8:CulturalMethodsforDetectionofMicroorganisms
+8.1Culturalmethodsforbacteria
+8.2Culturemediaforbacteria
+8.3Culturalmethodsforfungi
+8.4Culturalmethodsforalgaeandcyanobacteria
+
+==== PAGE 14 ====
+ReferencesBooks
+PepperIL,GerbaCP,GentryTJ,MaierRM,editors.Environmentalmicrobiology.
+Academicpress;2011Oct13.978-0123705198
+ListofPracticals
+1.Heterotrophicplatecountofsoils
+2.Studyofmicroorganismspresentinambientairbysettlingplatemethod
+3.EnumerationofcoliformsbyMPNmethod
+***************
+
+==== PAGE 15 ====
+Nameoffaculty:Science Department:Microbiology
+Program:B.Sc.MicrobiologySem3 Type:DSC-3
+Subject:FoodandDairyMicrobiology
+Credit:02 Totallearninghours:30
+Coursedescription:
+Thispapercoverstheprinciplesoffoodfermentationandtheroleofbeneficialmicrobes;the
+roleofmicroorganismsandfoodspoilage;pathogenicmicroorganisms,infectionand
+intoxication,theprinciplestocontrolmicrobialgrowth;aswellasfoodsafetyandquality
+management.Providestudentswiththeoreticalknowledgeandpracticalabilitiesrequiredto
+workinthefoodindustry,researchcenters,andfood-relatednationalandinternational
+organizations.
+Studentlearningoutcome:
+●Importantpathogensandspoilagemicroorganismsinfoodsandtheconditions,
+underwhichtheywillgrow,conditionsunderwhichtheimportantpathogensare
+commonlyinactivated,killedormadeharmlessinfood.
+●Principlesinvolvingfoodpreservationandunderstandtheroleandsignificanceof
+microbialinactivation,adaptationandenvironmentalfactorsongrowthand
+responseofmicroorganismsinvariousenvironments.
+●Principlesoffoodsciencetocontrolandassurethequalityoffoodproductsand
+safetystandardstobefollowedinafoodandDairyindustry.
+Unit-1:IntroductionandscopeofFoodMicrobiology (Duration:02Hrs)
+1.1Definitionoffood
+1.2BasicFoodcategoriesanditsgroup
+1.3Foodasasubstrateformicroorganisms
+Unit-2:Principlesoffoodpreservation-I (Duration:04Hrs)
+2.1IntroductiontoPrinciplesoffoodpreservation
+2.2Asepsis,RemovalofmicroorganismsandAnaerobicconditionfor
+preservation
+2.3Preservationbyuseofhightemperatureand
+2.4Preservationbyuseoflow-temperature
+Unit-3:Principlesoffoodpreservation-II (Duration:03Hrs)
+3.1Preservationbydrying
+
+==== PAGE 16 ====
+3.2Preservationbydryingradiation
+3.3PreservationbyfoodAdditives
+Unit-4:Microbialspoilageoffoods (Duration:06Hrs)
+4.1ContaminationandSpoilageoffood
+4.2SpoilageofCerealsandCerealProducts
+4.3SpoilageofVegetablesandfruits
+4.4Spoilageofcannedfoods
+4.5FoodinrelationtoDisease:FoodborneIllness
+4.6Food-bornepoisoning,InfectionandIntoxication
+Unit-5:UseofMicroorganismsAsFoodAndFoodSuppliments
+(Duration:04Hrs)
+5.1Singlecellprotein
+5.2Listoffermentedfoods
+5.3Productionofbreads
+Unit-6:Dairymicrobiology (Duration:06Hrs)
+6.1Definition,typesofMilkanditsClassification
+6.2Indianstandardsformarketmilk
+6.3MilkComponentsanditsnutritivevalue
+6.4TypesofMicroorganismspresentinRawMilk
+6.5Contamination,SpoilageandPreservationofmilkandmilkproducts
+6.6FermentedDairyProducts:FermentedmilksandCheese
+Unit-7:AdvancesinDairyTechnology (Duration:03Hrs)
+7.1Self-lifepredictingmethodsformilk
+7.2Microbialcontrolbynewnonthermalmethods
+7.3ConceptofProbiotics
+Unit-8:Microbialstandardsforfoodsafetyandqualitymanagement
+(Duration:02Hrs)
+8.1IndicatorsofFoodMicrobialQualityandsafety
+8.2HazardAnalysisandCriticalControlPoints(HACCP)
+
+==== PAGE 17 ====
+ReferenceBooks:
+DoyleM.P.andBuchananR.L.(2013),FoodMicrobiology:Fundamentalsand
+Frontiers,AmericanSocietyforMicrobiology;4thEd.
+Dubey,R.C.(2010).TextbookofBiotechnology,S.Chand.Multicolor1stEd.
+Frazier,W.C.andWesthoff,D.C.,(2014).FoodMicrobiology,5thEd.,TataMc-
+GrawHill,India.
+JamesM.Jay(2000)ModernFoodMicrobiology.6thEd.,ANASPEN
+PUBLICATION®AspenPublishers,Inc.Gaithersburg,Maryland.
+Manoranjan,K.(2002).FoodAnalysisandQualityControl,1stEd.,Agrotech
+PublishingAcademy.
+MicroorganismsinFoods7:MicrobiologicalTestinginFoodSafetyManagement,
+byInternationalCommissionfortheMicrobiologicalSpecificationsofFoods
+(ICMSF),Springer;1sted.(2012)(ISBN-13:978-1461352211).
+ModiH.A.(2009),DairyMicrobiology,pointerpublishers,ISBN-13:978-
+8179102893
+Robinson,R.K.(Ed.).(2005).Dairymicrobiologyhandbook:themicrobiologyof
+milkandmilkproducts.JohnWiley&Sons.
+SinghB.D.(2010),BiotechnologyexpandingHorizons,kalyanipublishers,ISBN-
+13:978-8127261535
+SukumarDe.(2013).OutlinesofDairyTechnology,Oxforduniversity.(ISBN:978-0-
+19561194-6
+Wiley,J.,Sherwood,L.&WoolvertonC.,(2017).Prescott,Harley,andKlein’s
+Microbiology,10thEd.,McGraw-HillScience/Engineering/Math.
+FurtherReading:
+Adams,M.R.,&Moss,M.O.(2003).Foodmicrobiology.PANIMAPUBLISHING
+CORPORATION;2ndEd.(ISBN-13:978-8186535370)
+Marth,E.H.,&Steele,J.(Eds.).(2001).Applieddairymicrobiology.CRCPress.
+Pelczar,M.J.,&Chan,E.C.S.(1998).Microbiology,5Ed.,Tata-McGraw-Hill.
+Purohit,S.S.,(2006).Microbiology:FundamentalsandApplications,7Ed.,Agrobios
+(India).
+
+==== PAGE 18 ====
+Spreer,E.(2017).Milkanddairyproducttechnology.Routledge.
+Walstra,P.,Walstra,P.,Wouters,J.T.,&Geurts,T.J.(2005).Dairyscienceand
+technology.CRCpress.

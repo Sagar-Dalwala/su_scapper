@@ -1,0 +1,868 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20240808060116Z
+---- END METADATA ----
+
+Total Pages: 16
+
+==== PAGE 1 ====
+SRKI  
+Bachelor of Science in Computer  Science  
+Bachelor of Science in Computer  Science  Honors  
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Faculty of Science  
+ 
+Shree Ramkrishna Institute of Computer Education & 
+Applied Sciences, Surat  
+ 
+B. Sc. (Computer Science ) 
+and 
+B. Sc. ( Computer Science  Honors)  
+ 
+With Effect From 2024  
+ 
+
+
+==== PAGE 2 ====
+SRKI  
+Bachelor of Science in Computer  Science  
+Bachelor of Science in Computer  Science  Honors  
+ 
+ 
+2 
+ 
+Bachelor of Science Computer Science   and  
+Bachelor of Science Computer Science  2024 -25 
+Introduction:  
+The B.Sc. in Computer Science  program welcomes students from a variety of academic backgrounds having 
+interest in pursuing study and career in the field of Information Technology. It will empower you to fulfil your 
+academic potential and help you gain the industry -specific and interpersonal skills you need to work as an IT 
+professional.  
+ 
+Your studies will combine theoretical principles with technical skills. The student will learn how Information 
+and Communications Technology (ICT) systems are developed, made live and managed. In addition, you will 
+gain a practical understanding of the lat est professional and ethical issues in the field.  
+ 
+The subject includes software development as well as its operations, support and systems administration. It 
+features a wide  variety  carefully designed courses that are based on web and mobile systems and technologies, 
+database systems, computer communication and networks, network security, software engineering and software 
+testing, system architecture, information systems, and human c omputer interaction, embedded systems and IOT.  
+ 
+The B.Sc. in Bachelor of Science program prepares students to meet the information and communication 
+technology needs of government, business, healthcare, universities, and other kinds of organizations.  
+Objectives of the programme:  
+Main objective of the program is to impart knowledge of fundamentals, latest theories, concepts, methods, 
+techniques and tools related to various areas of computer applications and information technology and 
+specifically in the area of mobile based, cloud based, web based application development, software engineering, 
+data management.  
+Eligibility Criteria:  
+● A candidate must have passed 10+2 in any stream with Mathematics / Physics / Electronics / Statistics / 
+Business maths/Accountancy as one of the subjects or an equivalent examination.  
+● The candidate who has passed equivalent exam from other subjects or boards need to avail eligibility 
+certificate for this programme from the Board of Equivalence (BoE) of the Sarvajanik University.
+
+==== PAGE 3 ====
+SRKI  
+Bachelor of Science in Computer  Science  
+Bachelor of Science in Computer  Science  Honors  
+ 
+ 
+3 
+ 
+Credit Structure: (Annexture -1) 
+ 
+Semester wise course group wise credit allocation for Under Graduate Programme  
+ 
+ 
+ 
+ 
+ 
+ 
+Semester   
+Major   
+Minor  Skill  
+Enhance 
+ment  Ability 
+Enhancement  Multidisci 
+plinary  Value 
+Added   
+ 
+ 
+ 
+Tota 
+l Cre 
+dits  Theory  Lab  N 
+o. 
+of 
+P 
+a 
+p 
+er 
+s  
+ 
+ 
+Credi 
+ts  
+ 
+No. 
+of 
+Pap 
+ers  
+ 
+ 
+Cre 
+dits  
+ 
+No. of 
+Paper 
+s  
+ 
+ 
+Credit 
+s  
+ 
+No. 
+of 
+Pape 
+rs  
+ 
+ 
+Cre 
+dits  
+ 
+No. 
+of 
+Pap 
+ers  
+ 
+ 
+Cre 
+dits  
+ 
+Major 
+no. of 
+Papers   
+Theo 
+ry 
+Hour 
+s  
+Theo 
+ry 
+Cred 
+its  
+ 
+Lab 
+Hrs  
+ 
+Lab 
+credi 
+t  
+Total 
+Maj 
+or 
+Cred 
+its 
+1 2 3+3 3+3 2 + 2  1 + 1  8 1 4 1 2 1 2 1 4 1 2 22 
+2 2 3 +3 3 + 3  2 + 2  1 + 1  8 1 4 1 2 1 2 1 4 1 2 22 
+ 
+3  
+3 3 + 3  
++ 3 3 + 3  
++ 3 2 + 2  
++ 2 1 + 1  
++ 1  
+12  
+0  
+0  
+1  
+2  
+1  
+2  
+1  
+4  
+1  
+2  
+22 
+ 
+4  
+3 3 + 3  
++ 3 3 + 3  
++ 3 2 + 2  
++ 2 1 + 1  
++ 1  
+12  
+1  
+4  
+1  
+2  
+1  
+2    
+1  
+2  
+22 
+ 
+5  
+3 3 + 3  
++ 3 3 + 3  
++ 3 2 + 2  
++ 2 1 + 1  
++ 1  
+12  
+2  
+8  
+1  
+2        
+22 
+
+==== PAGE 4 ====
+SRKI  
+Bachelor of Science in Computer  Science  
+Bachelor of Science in Computer  Science  Honors  
+ 
+ 
+4 
+ 
+ 
+ 
+6  
+ 
+3  
+3 + 3  
++ 3  
+3 + 3  
++ 3  
+2 + 2  
++ 2  
+1 + 1  
++ 1  
+ 
+12  
+ 
+1  
+ 
+4 Inte 
+rns 
+hip  
+ 
+4  
+ 
+1  
+ 
+2      
+ 
+22 
+Total  
+(After 
+3yrs)   
+ 
+16      
+ 
+64  
+ 
+6  
+ 
+24  
+5 + 
+I  
+10+ 
+4  
+ 
+5  
+ 
+10  
+ 
+3  
+ 
+12  
+ 
+4  
+ 
+8  
+ 
+132 
+7(Honors  
+)  
+4 3 + 3  
++ 3+3  3 + 3  
++ 3+3  2+2+  
+2+2 1+1+  
+1+1  
+16  
+1  
+4  
+1  
+2        
+22 
+8(Honors  
+)  
+4 3 + 3  
++ 3+3  3 + 3  
++ 3+3  2+2+  
+2+2 1+1+  
+1+1  
+16  
+1  
+4  
+1  
+2        
+22 
+7(Resear  
+ch)  
+3 3 + 3  
++ 3 3 + 3  
++ 3 2+2+  
+2 1+1+  
+1  
+12  
+1  
+4  
+RP  
+6        
+22 
+8(Resear  
+ch)  
+3 3 + 3  
++ 3 3 + 3  
++ 3 2+2+  
+2 1+1+  
+1  
+12  
+1  
+4  
+RP  
+6        
+22 
+Total 
+(After  
+4yrs)   
+ 
+24/22       
+96/8 
+8  
+ 
+8  
+ 
+32  
+ 
+7+I  
+18/2 
+6  
+ 
+5  
+ 
+10  
+ 
+3  
+ 
+12  
+ 
+4  
+ 
+8  
+ 
+176 
+
+==== PAGE 5 ====
+SRKI  
+Bachelor of Science in Computer  Science  
+Bachelor of Science in Computer  Science  Honors  
+ 
+ 
+5 
+ 
+ 
+Evaluation Scheme for Semester 1 and 2:  
+ 
+Semester  Subject group  Continuous Comprehensive 
+Evaluation  Semester 
+End 
+Examination  
+(SEE)  Grand 
+Total  CE Attend.  Assign.  Total 
+CEE  
+1 Major  30 10 10 50 50 100 
+Major  30 10 10 50 50 100 
+Major  30 10 10 50 50 100 
+SEC 15 05 05 25 25 50 
+Multidisciplinary  10 10 30 50 50 100 
+Ability 
+Enhancement 
+Course  15 05 05 25 25 50 
+Value Added 
+Course  15 05 05 25 25 50 
+    Total  275 275 550 
+2 Major  30 10 10 50 50 100 
+Major  30 10 10 50 50 100 
+Minor  30 10 10 50 50 100 
+SEC 15 05 05 25 25 50 
+Multidisciplinary  10 10 30 50 50 100 
+Ability 
+Enhancement 
+Course  15 05 05 25 25 50 
+Value Added 
+Course  15 05 05 25 25 50 
+Total  275 275 550 
+ 
+ 
+ 
+
+==== PAGE 6 ====
+SRKI  
+Bachelor of Science in Computer  Science  
+Bachelor of Science in Computer  Science  Honors  
+ 
+ 
+6 
+ 
+ 
+ 
+Faculty of Science  
+Shree Ramkrishna Institute of Computer Education & 
+Applied Sciences, Surat  
+ 
+B.Sc. Computer Science 
+SEMESTER - 1
+
+
+==== PAGE 7 ====
+  
+ Structured Programming Methodology  
+ 
+Course Code   
+Course Title  Major : Structured Programming Methodology  
+Credit  3 (Theory) + 1 (Practical)  
+Teaching per 
+Week  3hrs (Theory) + 2hrs (Practical)  
+Minimum 
+weeks per 
+Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / 
+Revision  --- 
+ 
+Purpose of 
+Course  The aim of this course is to introduce to the students the rudiments of 
+programming using java language. Students will become familiar with problem 
+solving techniques and algorithm development.  
+ 
+ 
+Course 
+Objective  To Gain knowledge about Programming languages, programming  
+       methodology.  
+To Gain knowledge about basic Java language syntax and semantics to write  
+       Java programs and use concepts such as variables, conditional and iterative  
+       execution methods etc.  
+To understand how to work with Arrays and Strings.  
+Pre-requisite  NIL 
+ 
+Course Out 
+come  At the end of the course, student is expected to have understanding about the 
+concepts of Programming languages, programming basics, Functions, Strings 
+and 
+Arrays, etc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Course 
+Content  Unit 1 Introduction to programming                                                    [6 hrs]  
+1.1 What is a program ? 
+1.2  Levels of programming languages  
+1.3  Programming methodologies – structured and object -oriented  
+1.4  Java History  
+       1.5  Features of Java, Bytecode, Steps of java program execution  
+ 
+Unit 2 Introduction to program design                                                  [6 hrs]  
+2.1 What is a Flowchart?  
+2.2 Flowchart symbols and its usage  
+2.3 What is an Algorithm?  
+         2.4 Characteristics of good algorithm  
+ 
+
+==== PAGE 8 ====
+  
+ Unit 3 Getting started with structured programming                         [6 hrs]  
+         3.1 Basic structure of program in java  
+         3.2 Variables, Datatypes, Keywords, Constants, Comments  
+         3.3 Printing output  
+         3.4 String literal  
+         3.5 Operators  
+3.5.1   Arithmetic Operators  
+3.5.2   Unary Operators  
+3.5.3  Relational Operators  
+3.5.4  Assignment Operators  
+                 3.5.5  Conditional Operators  
+3.6  Type casting  
+ 
+Unit 4 Control structures                                                                        [6 hrs]  
+4.1 Looping statements  
+                4.1.1  while Loop  
+                4.1.2  do -while Loop  
+                4.1.3 for Loop  
+         4.2 Various forms of if Statement  
+                4.2.1  If, else if, nested if  
+                4.2.2  Switch statement  
+              4.2.3  Break and Continue Statements  
+ 
+Unit 5 Introducing Functions                                                                   [7 hrs]  
+5.1 Inbuilt functions  
+5.2 User defined functions  
+                5.2.1  Function  declaration, definition and function calling  
+                5.2.2   Passing parameter to functions  
+                5.2.3   Returning values from functions  
+ 
+Unit 6 Strings and Arrays                                                                         [8 hrs]        
+6.1 String class  
+6.2 Inbuilt String methods  
+6.3 Operations on String without using inbuilt functions  
+6.4 Concept of Substring  
+6.5  6.5 Creating and accessing an array, array literal  
+6.6 Single Dimensional array  
+6.7 Multi -Dimensional array  
+6.8 Operations on Arrays  
+6.9 Passing array to the function  
+ 
+  Practical  List of practical will be prepared at the beginning of each semester  
+
+==== PAGE 9 ====
+  
+ Text and 
+Reference 
+Literature  
+ 1. The Complete Reference Java2 Herbert Schildt TMH, New Delhi  
+2. Mastering JAVA2 John Zukowski BPB  
+3. 3. Teach Yourself Java2 platform in 21 days Lamey & Cadenhead Teach  
+Media  
+4. Java in Nut shell - O’Relly Publication  
+5. Java Language Reference - O’Relly Publication  
+Teaching 
+Methodology  Discussion, Independent Study, Seminars and Assignment, Internal Project Development  
+Practical Assignments  80% (Approximately weekly)  
+ 
+Evaluation 
+Method  50% Internal assessment is based on class attendance, participation, class test, quiz, 
+assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+
+==== PAGE 10 ====
+  
+  
+Database Management System -I 
+ 
+Course Code   
+Course Title  Major:   Database Management Systems -I 
+Credit  3 (Theory) + 1 (Practical)  
+Teaching per 
+Week  3hrs (Theory) + 2hrs (Practical)  
+Minimum weeks 
+per Semester    15 (Including Class work, examination, preparation, holidays     etc.)  
+Last Review / 
+Revision  - 
+Purpose of Course  This course imparts the knowledge of Database Management system,         Entity 
+Relationship model, Relationship Model, SQL (DDL, DML and DCL).  
+Course Objective  To introduce the concept of database systems, modeling of data and to make 
+use of SQL for efficient storage and retrieval of data.  
+Prerequisite  Nil 
+Course Out come  Students will be able to  
+· Differentiate between database approach and conventional file processing 
+system  
+· Understand concepts of database  
+· Design an entity -relationship model based on user requirements  
+· Use SQL statements to store, modify and retrieve data from one or more Tables  
+
+==== PAGE 11 ====
+  
+ Course Content  Unit 1 Introduction to DBMS                                                            [6 hrs]  
+1.1 Fundamental concepts - data, information, database,  DBMS, table, row, 
+field 
+ 1.2 Need of Information - Business, Research, Governance  
+ 1.3 Requirement of DBMS  
+ 1.4 Levels of Abstraction in DBMS  
+ 1.5 Database Users and Administrator  
+ 
+Unit 2 Database Architecture and models                                           [ 5 hrs] 
+ 2.1 Database Architecture - Centralized database, Client -server, Parallel database, 
+Distributed database  
+ 2.2 Introduction to data models - Relational, E -R, Object -Oriented  
+Unit 3 Relational Database Design                                                       [7 hrs]                                 
+ 3.1 Structure of relational database.  
+ 3.2 Keys  
+ 3.3 E.F. Codd’s rule  
+ 3.4 Functional Dependency  
+ 3.5 Anomalies of DBMS  
+ 3.6 Normal Forms: 1NF, 2NF, 3NF, BCNF  
+ 
+Unit 4 Entity Relationship Model                                                     [7 hrs]                                 
+ 4.1 Basic concepts and symbols used in E -R notation  
+ 4.2 Mapping cardinalities  
+ 4.3 Types of attributes  
+ 4.4 Keys - Super key, candidate key, Primary key  
+ 4.5 Generalization, Specialization  
+ 4.6 Designing E -R diagram  
+ 
+Unit 5 DDL Statements and Indexing                                                [7 hrs]                           
+       5.1 Data Types of attributes  
+  5.2 Schema -based operations: Table Creation, Table structure  
+modifications and removal  
+ 5.3 Domain Constraints  
+ 5.4 Referential Integrity Constraints  
+ 5.5 Create, Alter and Drop Index  
+Unit 6 DML Statements                                                                    [8 hrs]                                              
+ 6.1 Data manipulation  
+ 6.2 Retrieving the data  
+ 6.3 Operators: IN, BETWEEN, LIKE, Relational, Arithmetic and  Logical 
+Operators  
+
+==== PAGE 12 ====
+  
+ Practical  List of practical will be prepared at the beginning of each semester  
+Text and 
+Reference 
+Literature  
+ 1. Silberschatz, Korth, Sudarshan ,Database  System Concepts,  McGraw -Hill 
+computer science series  
+2. C J Date, An introduction to Database Systems, Addition -Wesley  
+3. Nilesh shah, Database System using Oracle, PHI.  
+4. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database Systems, 
+Addison -Wesley  
+5. Hector Gracia -Molina, Jeffrey D. Ullman, and Jennifer Widom, Database 
+System Implementation, Pearson.  
+6. Ivan Bayross, SQL, PL/SQL, BPB Publications  
+7. Scott Urman, Oracle9i PL/SQL programming, McGraw -Hill 
+Teaching 
+Methodology  Discussion, Independent Study, Seminars and Assignment, Internal Project 
+Development  
+Practical Assignments  80% (Approximately weekly)  
+Evaluation 
+Method  50% Internal assessment is based on class attendance, participation, class test, quiz, 
+assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 13 ====
+  
+ Fundamentals of Computer Systems  
+Course Code   
+Course Title  Minor: Fundamentals of Computer Systems  
+Credit  4(Theory)  
+Teaching per 
+Week  4 Hrs  
+Minimum weeks 
+per Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / 
+Revision   - 
+Purpose of 
+Course  The purpose of course is to make students aware of the basic concept of 
+computer architecture and fundamentals regarding software development 
+process.  
+Course Objective  To provide Fundamental knowledge of computer hardware technologies and 
+its process, basic Web page design  
+Pre-requisite  Basic understanding of computers.  
+Course Out 
+come  After completion of this course, the student will get knowledge of computer 
+internal structure, memories, various operating systems and basic idea for 
+software development processes.  
+Course Content  Unit 1 Computer Organisation                                                      [7 hrs]  
+    1.1   Personal Computer, Workstation, Server, Mainframe, Super Computer, 
+Embedded System  
+     1.2   Basic building blocks – CPU, interconnection Bus, Input -Output  
+     1.3   Internal architecture of processor – Register, ALU, Control Unit, Program 
+Counter, Stack Pointer  
+     1.4   Inter connection Bus structure – Data Bus, Address Bus, Control Bus  
+     1.5   Processor Operations – Instruction cycle, Instruction fetch, Instruction 
+decode, instruction execute, Program flow control, Processor clock, Machine cycle 
+and T -state, interrupts and interrupt service routine  
+ 
+Unit 2 Basics of Operating System                                                   [3 hrs]  
+     2.1.Basic concept of Operating System  
+     2.2.Purpose of Operating System  
+     2.3.Types of Operating System  
+ 
+Unit 3 Memory Management                                                             [9 hrs]  
+     3.1.Types of Memory  
+     3.2.Processor - Memory interaction  
+     3.3.Secondary Memory, Direct Memory Access (DMA)  
+     3.4. I/O Device controllers, I/O Processors  
+     3.5.Virtual Memory  
+     3.6.Overview  of Memory management – addressing, allocation, garbage 
+collection, free memory list, paging, segmentation  
+     3.7.Boolean algebra  
+     3.8.Number System - Conversion of Numbers, Binary addition & subtraction, 
+ASCII and ANSI character code  
+ 
+ 
+Unit 4 Fundamentals of Computer Networking                              [4 hrs]  
+
+==== PAGE 14 ====
+  
+      4.1   Need for Computer Networking  
+     4.2   Types of Networks – LAN, MAN, WAN, Internet, Intranet  
+     4.3   Applications of Network  
+ 
+Unit 5 Fundamentals of Internet                                                       [ 6 hrs ] 
+     5.1   Overview of Internet, Intranet and types  
+     5.2   World Wide Web (WWW),  
+     5.3   Website Basics - WebPages(static and dynamic); HyperText,  
+    Web browser, Web Servers; Web Hosting, Web Portal, Domain name 
+server,  
+     5.4 Overview of Client & Server Side Scripting, Applications of Internet  
+ 
+Unit 6 Software Basics                                                                         [5 hrs]  
+     6.1   Types of Software  
+     6.2   Software development life cycle  
+     6.3   Software engineering practice – communication, planning, modelling, 
+constructions, deployment  
+     6.4   Software application architectures – Desktop applications, client -
+server/Web application, cloud application  
+ 
+Unit 7 Software Engineering                                                               [4 hrs]  
+     7.1   Various roles in software engineering  
+     7.2   Software quality attributes – FURPS  
+     7.3   Various programming methodologies – Structured, object oriented, event 
+driven, pair programming, extreme programming  
+     7.4   Coding standards and guidelines  
+ 
+Unit 8 Advance Processing System                                                     [4 hrs]  
+     8.1   Parallel Processing with Uniprocessor  
+     8.2   Pipeline computers, Array computers, Multiprocessor system  
+     8.3   Overview of SIMD, MIMD  
+Reference Book  1.       Computer Architecture: K M Hebbar  
+2.       Computer System Architecture: M. Morris Mano  
+3.       Introduction to computers: 4th Edition – Peter Norton  
+4.       Fundamentals of Computers: V. Rajaraman  
+5.       Computer Architecture and Organization - A Journey Through 
+Evolution: P. Chakraborty  
+6.       Computer Architecture and Organization: Subrata Ghosal  
+Teaching Methodology  Discussion, Independent Study, Seminars and Assignment  
+Evaluation Method  50% Internal assessment is based on class attendance, participation, class test, 
+quiz, assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+  
+
+==== PAGE 15 ====
+  
+  
+WEB DESIGNING - I 
+ 
+Course Code    
+Course Title  SEC - 1: Web Designing -I 
+Credit  1 (Theory) + 1 (Practical)  
+Teaching per  
+Week    1 hrs (Theory) + 2 hrs  (Practical)  
+Minimum weeks 
+per Semester  15 (Including Class work, examination, preparation, holidays etc.)  
+Last Review / 
+Revision  - 
+Purpose of 
+Course  The course gives students an idea about client server architecture and how to 
+design basic web page design and to make students capable of developing 
+effective and interactive web client parts of web applications.  
+Course 
+Objective  To provide fundamental knowledge of Web page design with   HTML5, CSS, 
+Javascript.  
+Pr-requisite  - 
+Course 
+Outcome      After completion of this subject, student will be able to  
+● The student will be capable of designing effective and interactive web pages using 
+HTML5, CSS, Javascript.  
+● Design front web designing.  
+Course 
+Description:  It is a Web application development platform for designing effective and interactive 
+web applications.  
+Course Content  Unit 1 Web designing Fundamentals                                                     [8 hrs]                                       
+1.1 Overview of Client & Server architecture  
+1.2 Website Basics - WebPages(static and dynamic)  
+1.3 Web browser, Web Servers; Web hosting, Web Portal, Domain name 
+server   
+Unit 2 Basic Web page designing with HTML 5                            [8 hrs]         
+2.1 HTML Structure  
+2.2 Basic HTML Tags – Formatting, Table, Headings  
+2.3 Other Tags – Ordered Lists, Unordered Lists, Links  
+2.4 Tables and Frame, Form Tags  
+2.5 HTML 5 - standard and custom attributes, events  
+2.6 Web Form 2.0, Web storage, Web SQL  
+2.7 SVG, Canvas, Embedding and Playing Audio & Video  
+Unit 3 Cascade Style Sheets                                                                     [8 hrs]           
+3.1 Introduction to CSS and Its types  
+3.2 Common Tasks with CSS -styling fonts, margins, links With Background 
+related tags, Border related tags, Font  
+related tags, Margin related tags, Text related tags, Page  
+related tags, List related tags, Colour tag, Layer tag, Size and location 
+
+==== PAGE 16 ====
+  
+ related properties.  
+3.3 Assigning classes  
+  
+Unit 4 JavaScript                                                                                     [8 hrs]                                 
+4.1 Structure of JavaScript  
+4.2 Data Types and Variables in JavaScript  
+4.3 Operators : Arithmetic Operator, Assignment Operator, Comparison 
+Operator, Logical Operator, Conditional Operator in JavaScript  
+4.4 Control Structure : If…Else, While, Do…While, For and Functions in 
+JavaScript  
+4.5 Handling events in JavaScript -Windows event, Event object  
+Text and 
+Reference 
+Literature  
+ 1. HTML5 Black Book: Covers CSS3, Javascript, XML, XHTML, Ajax, PHP and 
+Jquery, Dreamtech Press  
+2. WEB TECHNOLOGIES: HTML, JAVASCRIPT, PHP, JAVA, JSP, ASP.NET, 
+XML AND AJAX, BLACK BOOK: HTML, Javascript, PHP, Java, Jsp, XML 
+and Ajax, Black Book, Dreamtech Press  
+3. HTML5 and CSS3 made Simple, Ivan Byross, BPB  
+4. Pro HTML5 and CSS3 Design Patterns, Dionysios Synodinos,  Michael 
+Bowers and Victor Sumner, Pearson  
+5. HTML5 In easy steps, Mike McGrath, McGrawHill  
+6. Programming in HTML5 with JavaScript and CSS3 Training Guide, Johnson G, 
+PHI 
+7. JavaScript in easy Steps, Mike McGrath, McGrawHill.  
+ 
+Practical  List of practical will be prepared at the beginning of each semester  
+Teaching 
+Methodology  Discussion, Independent Study, Seminars and Assignment, Internal Project Development  
+Practical Assignments  80% (Approximately weekly)  
+Evaluation 
+Method  50% Internal assessment is based on class attendance, participation, class test, quiz, 
+assignment, seminar, internal examination etc.  
+50% assessment is based on end semester written examination  
+ 
+  
+ 

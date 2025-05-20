@@ -1,0 +1,345 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+1,table,"           Unnamed: 0     Unnamed: 1            Skill  Unnamed: 2 Unnamed: 3 Unnamed: 4
+         Value  Major          Minor  Ability Enhance  Multidisci        NaN        NaN
+                  NaN            NaN ment Enhancement     plinary      Added        NaN
+                  NaN            NaN              NaN         NaN        NaN        NaN
+               Theory          Lab N              NaN         NaN        NaN       Tota
+                  NaN            NaN              NaN         NaN        NaN        NaN
+             Semester             o.              NaN         NaN        NaN      l Cre
+                  NaN            NaN              NaN         NaN        NaN       dits
+                  NaN             of              No.         No.        No.        NaN
+No. of  Theo Theo Cre  Total P Credi    of Cre Credit      of Cre         of        NaN
+      Major ry ry Lab   Lab Maj a ts   Paper Pap dits s Pape dits   Pap dits        NaN
+     no. of Hour Cred       credi or                s         NaN        NaN        NaN
+                  Hrs              p              ers          rs        ers        NaN
+         Papers s its      t Cred er              NaN         NaN        NaN        NaN
+                  NaN            its              NaN         NaN        NaN        NaN
+                  NaN              s              NaN         NaN        NaN        NaN
+    1 2 3+3 3+3 2 + 2    1 + 1 8 1 4            1 2 1       2 1 4        1 2         22
+ 2 2 3 +3 3 + 3 2 + 2    1 + 1 8 1 4            1 2 1       2 1 4        1 2         22
+    3 + 3 3 + 3 2 + 2          1 + 1              NaN         NaN        NaN        NaN
+          3 3 + 3 + 3 + 2 + 1 12 0 0            1 2 1       2 1 4        1 2         22
+    3 + 3 3 + 3 2 + 2          1 + 1              NaN         NaN        NaN        NaN
+          4 3 + 3 + 3 + 2 + 1 12 1 4            1 2 1           2        1 2         22
+    3 + 3 3 + 3 2 + 2          1 + 1              NaN         NaN        NaN        NaN
+          5 3 + 3 + 3 + 2 + 1 12 2 8              1 2         NaN        NaN         22"
+2,table,"                   6     3   3 + 3\r+ 3 3 + 3\r+ 3.1 2 + 2\r+ 2 1 + 1\r+ 1      12  1  4 Inte\rrns\rhip     4.1  1.1    2  Unnamed: 0  Unnamed: 1  Unnamed: 2  Unnamed: 3  22
+Total\r(After\r3yrs)    16          NaN          NaN        NaN        NaN      64  6 24         5 +\rI  10+\r4  5.0 10.0         3.0        12.0         4.0         8.0 132
+         7(Honors\r)     4 3 + 3\r+ 3+3 3 + 3\r+ 3+3  2+2+\r2+2  1+1+\r1+1      16  1  4              1       2  NaN  NaN         NaN         NaN         NaN         NaN  22
+         8(Honors\r)     4 3 + 3\r+ 3+3 3 + 3\r+ 3+3  2+2+\r2+2  1+1+\r1+1      16  1  4              1       2  NaN  NaN         NaN         NaN         NaN         NaN  22
+       7(Resear\rch)     3   3 + 3\r+ 3   3 + 3\r+ 3    2+2+\r2    1+1+\r1      12  1  4             RP       6  NaN  NaN         NaN         NaN         NaN         NaN  22
+       8(Resear\rch)     3   3 + 3\r+ 3   3 + 3\r+ 3    2+2+\r2    1+1+\r1      12  1  4             RP       6  NaN  NaN         NaN         NaN         NaN         NaN  22
+Total\r(After\r4yrs) 24/22          NaN          NaN        NaN        NaN 96/8\r8  8 32            7+I 18/2\r6  5.0 10.0         3.0        12.0         4.0         8.0 176"
+3,table,"Unnamed: 0        Unnamed: 1 Continuous Comprehensive    Semester Unnamed: 2
+       NaN               NaN               Evaluation         End      Grand
+  Semester     Subject group                      NaN         NaN        NaN
+       NaN               NaN                    Total Examination      Total
+       NaN               NaN       CE Attend. Assign.         NaN        NaN
+       NaN               NaN                      CEE       (SEE)        NaN
+       NaN             Major              30 10 10 50          50        100
+       NaN             Major              30 10 10 50          50        100
+       NaN             Major              30 10 10 50          50        100
+       NaN               SEC              15 05 05 25          25         50
+         1 Multidisciplinary              10 10 30 50          50        100
+       NaN           Ability                      NaN         NaN        NaN
+       NaN       Enhancement              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN       Value Added                      NaN         NaN        NaN
+       NaN               NaN              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN               NaN                Total 275         275        550
+       NaN             Major              30 10 10 50          50        100
+       NaN             Major              30 10 10 50          50        100
+       NaN             Minor              30 10 10 50          50        100
+       NaN               SEC              15 05 05 25          25         50
+         2               NaN                      NaN         NaN        NaN
+       NaN Multidisciplinary              10 10 30 50          50        100
+       NaN           Ability                      NaN         NaN        NaN
+       NaN       Enhancement              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN       Value Added                      NaN         NaN        NaN
+       NaN               NaN              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN             Total                      275         275        550"
+4,table,"                                                                           Course Code
+                               Course Title Major : Structured Programming Methodology
+                                                     Credit 3 (Theory) + 1 (Practical)
+                                         Teaching per 3hrs (Theory) + 2hrs (Practical)
+                                                                                  Week
+            Minimum 15 (Including Class work, examination, preparation, holidays etc.)
+                                                                             weeks per
+                                                                              Semester
+                                                                     Last Review / ---
+                                                                              Revision
+               The aim of this course is to introduce to the students the rudiments of
+Purpose of programming using java language. Students will become familiar with problem
+                                  Course solving techniques and algorithm development.
+                            To Gain knowledge about Programming languages, programming
+                                                                          methodology.
+             To Gain knowledge about basic Java language syntax and semantics to write
+    Course Java programs and use concepts such as variables, conditional and iterative
+                                                      Objective execution methods etc.
+                                    To understand how to work with Arrays and Strings.
+                                                                     Pre-requisite NIL
+         At the end of the course, student is expected to have understanding about the
+  Course Out concepts of Programming languages, programming basics, Functions, Strings
+                                                                              come and
+                                                                          Arrays, etc.
+                                             Unit 1 Introduction to programming[6 hrs]
+                                                                1.1 What is a program?
+                                                  1.2  Levels of programming languages
+                       1.3  Programming methodologies – structured and object-oriented
+                                                                     1.4  Java History
+                                                                                   NaN
+                      1.5  Features of Java, Bytecode, Steps of java program execution
+                                                                                   NaN
+                                                                                   NaN
+                                          Unit 2 Introduction to program design[6 hrs]
+                                                              2.1 What is a Flowchart?
+                                                   2.2 Flowchart symbols and its usage
+                                                             2.3 What is an Algorithm?
+                                          Course 2.4 Characteristics of good algorithm
+                                                                               Content"
+5,table,"Unnamed: 0                   Unit 3 Getting started with structured programming [6 hrs]
+       NaN                               3.1 Basic structure of program in java     NaN
+       NaN              3.2 Variables, Datatypes, Keywords, Constants, Comments     NaN
+       NaN                                                  3.3 Printing output     NaN
+       NaN                                                   3.4 String literal     NaN
+       NaN                                                        3.5 Operators     NaN
+       NaN                                          3.5.1  Arithmetic Operators     NaN
+       NaN                                               3.5.2  Unary Operators     NaN
+       NaN                                          3.5.3  Relational Operators     NaN
+       NaN                                          3.5.4  Assignment Operators     NaN
+       NaN                                         3.5.5  Conditional Operators     NaN
+       NaN                                                    3.6  Type casting     NaN
+       NaN                                                                  NaN     NaN
+       NaN                                            Unit 4 Control structures [6 hrs]
+       NaN                                               4.1 Looping statements     NaN
+       NaN                                                    4.1.1  while Loop     NaN
+       NaN                                                 4.1.2  do-while Loop     NaN
+       NaN                                                       4.1.3 for Loop     NaN
+       NaN                                    4.2 Various forms of if Statement     NaN
+       NaN                                        4.2.1  If, else if, nested if     NaN
+       NaN                                              4.2.2  Switch statement     NaN
+       NaN                                 4.2.3  Break and Continue Statements     NaN
+       NaN                                                                  NaN     NaN
+       NaN                                         Unit 5 Introducing Functions [7 hrs]
+       NaN                                                5.1 Inbuilt functions     NaN
+       NaN                                           5.2 User defined functions     NaN
+       NaN         5.2.1  Function declaration, definition and function calling     NaN
+       NaN                                  5.2.2Passing parameter to functions     NaN
+       NaN                                 5.2.3Returning values from functions     NaN
+       NaN                                                                  NaN     NaN
+       NaN                                            Unit 6 Strings and Arrays [8 hrs]
+       NaN                                                     6.1 String class     NaN
+       NaN                                           6.2 Inbuilt String methods     NaN
+       NaN             6.3 Operations on String without using inbuilt functions     NaN
+       NaN                                             6.4 Concept of Substring     NaN
+       NaN              6.5  6.5 Creating and accessing an array, array literal     NaN
+       NaN                                         6.6 Single Dimensional array     NaN
+       NaN                                          6.7 Multi-Dimensional array     NaN
+       NaN                                             6.8 Operations on Arrays     NaN
+       NaN                                    6.9 Passing array to the function     NaN
+       NaN                                                                  NaN     NaN
+ Practical List of practical will be prepared at the beginning of each semester     NaN"
+6,table,"                                                                                  Text and 1.         The Complete Reference Java2 Herbert Schildt TMH, New Delhi
+                                                                                 Reference 2.                                   Mastering JAVA2 John Zukowski BPB
+                                                                                Literature 3. 3. Teach Yourself Java2 platform in 21 days Lamey & Cadenhead Teach
+                                                                                        Media                                                                 NaN
+                                                                                           4.                             Java in Nut shell - O’Relly Publication
+                                                                                           5.                       Java Language Reference - O’Relly Publication
+Teaching Discussion, Independent Study, Seminars and Assignment, Internal Project Development                                                                 NaN
+                                                            Methodology Practical Assignments                                          80% (Approximately weekly)
+       50% Internal assessment is based on class attendance, participation, class test, quiz,                                                                 NaN
+                                    Evaluation assignment, seminar, internal examination etc.                                                                 NaN
+                           Method 50% assessment is based on end semester written examination                                                                 NaN"
+7,table,"      Course Code                                                                      Unnamed: 0                                                                 Unnamed: 1 Unnamed: 2
+     Course Title                                                                             NaN                                      Major:  Database Management Systems-I        NaN
+           Credit                                                                             NaN                                                 3 (Theory) + 1 (Practical)        NaN
+     Teaching per                                                                             NaN                                           3hrs (Theory) + 2hrs (Practical)        NaN
+             Week                                                                             NaN                                                                        NaN        NaN
+    Minimum weeks                                                                             NaN          15 (Including Class work, examination, preparation, holidaysetc.)        NaN
+     per Semester                                                                             NaN                                                                        NaN        NaN
+    Last Review /                                                                             NaN                                                                          -        NaN
+         Revision                                                                             NaN                                                                        NaN        NaN
+Purpose of Course                                                                             NaN           This course imparts the knowledge of Database Management system,     Entity
+              NaN                                                                             NaN            Relationship model, Relationship Model, SQL (DDL, DML and DCL).        NaN
+ Course Objective                                                                             NaN To introduce the concept of database systems, modeling of data and to make        NaN
+              NaN                                                                             NaN                    use of SQL for efficient storage and retrieval of data.        NaN
+     Prerequisite                                                                             NaN                                                                        Nil        NaN
+  Course Out come                                                                             NaN                                                   Students will be able to        NaN
+              NaN                                                                               ·   Differentiate between database approach and conventional file processing        NaN
+              NaN                                                                             NaN                                                                     system        NaN
+              NaN                                               · Understand concepts of database                                                                        NaN        NaN
+              NaN                · Design an entity-relationship model based on user requirements                                                                        NaN        NaN
+              NaN · Use SQL statements to store, modify and retrieve data from one or more Tables                                                                        NaN        NaN"
+8,table,"                      Practical                                                                                                                                                                                                                                                                                                                                                                                                                                                                      List of practical will be prepared at the beginning of each semester  List of practical will be prepared at the beginning of each semester.1
+Text and\rReference\rLiterature 1. Silberschatz, Korth, Sudarshan ,Database System Concepts,  McGraw-Hill\rcomputer science series\r2. C J Date, An introduction to Database Systems, Addition-Wesley\r3. Nilesh shah, Database System using Oracle, PHI.\r4. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database Systems,\rAddison-Wesley\r5. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database\rSystem Implementation, Pearson.\r6. Ivan Bayross, SQL, PL/SQL, BPB Publications\r7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill                                                                     NaN
+          Teaching\rMethodology                                                                                                                                                                                                                                                                                                                                                                                                     Discussion, Independent Study, Seminars and Assignment, Internal Project\rDevelopment\rPractical Assignments80%(Approximately weekly)                                                                     NaN
+             Evaluation\rMethod                                                                                                                                                                                                                                                                                                                                       50% Internal assessment is based on class attendance, participation, class test, quiz,\rassignment, seminar, internal examination etc.\r50% assessment is based on end semester written examination                                                                     NaN"
+9,table,"     Course Code                                                                        Unnamed: 0
+    Course Title                                           Minor: Fundamentals of Computer Systems
+          Credit                                                                         4(Theory)
+    Teaching per                                                                             4 Hrs
+            Week                                                                               NaN
+   Minimum weeks                15 (Including Class work, examination, preparation, holidays etc.)
+    per Semester                                                                               NaN
+   Last Review /                                                                                 -
+        Revision                                                                               NaN
+      Purpose of           The purpose of course is to make students aware of the basic concept of
+          Course             computer architecture and fundamentals regarding software development
+             NaN                                                                          process.
+Course Objective            To provide Fundamental knowledge of computer hardware technologies and
+             NaN                                                its process, basic Web page design
+   Pre-requisite                                                 Basic understanding of computers.
+      Course Out       After completion of this course, the student will get knowledge of computer
+            come        internal structure, memories, various operating systems and basic idea for
+             NaN                                                   software development processes.
+             NaN                                               Unit 1 Computer Organisation[7 hrs]
+  Course Content             1.1Personal Computer, Workstation, Server, Mainframe, Super Computer,
+             NaN                                                                   Embedded System
+             NaN                 1.2Basic building blocks – CPU, interconnection Bus, Input-Output
+             NaN      1.3Internal architecture of processor – Register, ALU, Control Unit, Program
+             NaN                                                            Counter, Stack Pointer
+             NaN            1.4Inter connection Bus structure – Data Bus, Address Bus, Control Bus
+             NaN       1.5Processor Operations – Instruction cycle, Instruction fetch, Instruction
+             NaN decode, instruction execute, Program flow control, Processor clock, Machine cycle
+             NaN                             and T-state, interrupts and interrupt service routine
+             NaN                                                                               NaN
+             NaN                                          Unit 2 Basics of Operating System[3 hrs]
+             NaN                                             2.1.Basic concept of Operating System
+             NaN                                                   2.2.Purpose of Operating System
+             NaN                                                     2.3.Types of Operating System
+             NaN                                                                               NaN
+             NaN                                                   Unit 3 Memory Management[9 hrs]
+             NaN                                                               3.1.Types of Memory
+             NaN                                                3.2.Processor - Memory interaction
+             NaN                                  3.3.Secondary Memory, Direct Memory Access (DMA)
+             NaN                                       3.4. I/O Device controllers, I/O Processors
+             NaN                                                                3.5.Virtual Memory
+             NaN               3.6.Overview of Memory management – addressing, allocation, garbage
+             NaN                                collection, free memory list, paging, segmentation
+             NaN                                                               3.7.Boolean algebra
+             NaN         3.8.Number System - Conversion of Numbers, Binary addition & subtraction,
+             NaN                                                     ASCII and ANSI character code
+             NaN                                                                               NaN
+             NaN                                                                               NaN
+             NaN                                 Unit 4 Fundamentals of Computer Networking[4 hrs]"
+10,table,"          Unnamed: 0                                                  4.1Need for Computer Networking Unnamed: 1
+                 NaN                         4.2Types of Networks – LAN, MAN, WAN, Internet, Intranet        NaN
+                 NaN                                                       4.3Applications of Network        NaN
+                 NaN                                                                              NaN        NaN
+                 NaN                                                  Unit 5 Fundamentals of Internet   [ 6 hrs]
+                 NaN                                      5.1Overview of Internet, Intranet and types        NaN
+                 NaN                                                         5.2World Wide Web (WWW),        NaN
+                 NaN                     5.3Website Basics - WebPages(static and dynamic); HyperText,        NaN
+                 NaN                   Web browser, Web Servers; Web Hosting, Web Portal, Domain name        NaN
+                 NaN                                                                          server,        NaN
+                 NaN         5.4 Overview of Client & Server Side Scripting, Applications of Internet        NaN
+                 NaN                                                                              NaN        NaN
+                 NaN                                                           Unit 6 Software Basics    [5 hrs]
+                 NaN                                                             6.1Types of Software        NaN
+                 NaN                                               6.2Software development life cycle        NaN
+                 NaN           6.3Software engineering practice – communication, planning, modelling,        NaN
+                 NaN                                                        constructions, deployment        NaN
+                 NaN            6.4Software application architectures – Desktop applications, client-        NaN
+                 NaN                                        server/Web application, cloud application        NaN
+                 NaN                                                                              NaN        NaN
+                 NaN                                                      Unit 7 Software Engineering    [4 hrs]
+                 NaN                                         7.1Various roles in software engineering        NaN
+                 NaN                                           7.2Software quality attributes – FURPS        NaN
+                 NaN        7.3Various programming methodologies – Structured, object oriented, event        NaN
+                 NaN                                    driven, pair programming, extreme programming        NaN
+                 NaN                                               7.4Coding standards and guidelines        NaN
+                 NaN                                                                              NaN        NaN
+                 NaN                                                 Unit 8 Advance Processing System    [4 hrs]
+                 NaN                                         8.1Parallel Processing with Uniprocessor        NaN
+                 NaN                    8.2Pipeline computers, Array computers, Multiprocessor system        NaN
+                 NaN                                                        8.3Overview of SIMD, MIMD        NaN
+                 NaN                                              1.Computer Architecture: K M Hebbar        NaN
+      Reference Book                                   2.Computer System Architecture: M. Morris Mano        NaN
+                 NaN                          3.Introduction to computers: 4th Edition – Peter Norton        NaN
+                 NaN                                        4.Fundamentals of Computers: V. Rajaraman        NaN
+                 NaN                      5.Computer Architecture and Organization- A Journey Through        NaN
+                 NaN                                                        Evolution: P. Chakraborty        NaN
+                 NaN                         6.Computer Architecture and Organization: Subrata Ghosal        NaN
+Teaching Methodology                           Discussion, Independent Study, Seminars and Assignment        NaN
+                 NaN 50% Internal assessment is based on class attendance, participation, class test,        NaN
+   Evaluation Method                             quiz, assignment, seminar, internal examination etc.        NaN
+                 NaN                      50% assessment is based on end semester written examination        NaN"
+11,table,"   Course Code                                                                           Unnamed: 0
+  Course Title                                                              SEC- 1: Web Designing-I
+        Credit                                                           1 (Theory) + 1 (Practical)
+  Teaching per                                                   1 hrs (Theory) + 2 hrs (Practical)
+          Week                                                                                  NaN
+ Minimum weeks                   15 (Including Class work, examination, preparation, holidays etc.)
+  per Semester                                                                                  NaN
+ Last Review /                                                                                    -
+      Revision                                                                                  NaN
+    Purpose of        The course gives students an idea about client server architecture and how to
+        Course              design basic web page design and to make students capable of developing
+           NaN                      effective and interactive web client parts of web applications.
+        Course                  To provide fundamental knowledge of Web page design withHTML5, CSS,
+     Objective                                                                          Javascript.
+  Pr-requisite                                                                                    -
+        Course                            After completion of this subject, student will be able to
+       Outcome ● The student will be capable of designing effective and interactive web pages using
+           NaN                                                              HTML5, CSS, Javascript.
+           NaN                                                        ● Design front web designing.
+        Course It is a Web application development platform for designing effective and interactive
+  Description:                                                                    web applications.
+Course Content                                            Unit 1 Web designing Fundamentals [8 hrs]
+           NaN                                         1.1 Overview of Client & Server architecture
+           NaN                                    1.2 Website Basics - WebPages(static and dynamic)
+           NaN                   1.3 Web browser, Web Servers; Web hosting, Web Portal, Domain name
+           NaN                                                                               server
+           NaN                                  Unit 2 Basic Web page designing with HTML 5 [8 hrs]
+           NaN                                                                   2.1 HTML Structure
+           NaN                                    2.2 Basic HTML Tags – Formatting, Table, Headings
+           NaN                               2.3 Other Tags – Ordered Lists, Unordered Lists, Links
+           NaN                                                      2.4 Tables and Frame, Form Tags
+           NaN                                   2.5 HTML 5- standard and custom attributes, events
+           NaN                                               2.6 Web Form 2.0, Web storage, Web SQL
+           NaN                                 2.7 SVG, Canvas, Embedding and Playing Audio & Video
+           NaN                                                  Unit 3 Cascade Style Sheets [8 hrs]
+           NaN                                                3.1 Introduction to CSS and Its types
+           NaN              3.2 Common Tasks with CSS-styling fonts, margins, links With Background
+           NaN                                              related tags, Border related tags, Font
+           NaN                           related tags, Margin related tags, Text related tags, Page
+           NaN            related tags, List related tags, Colour tag, Layer tag, Size and location"
+12,table," Unnamed: 0                                                                    related properties.
+        NaN                                                                  3.3 Assigning classes
+        NaN                                                                                    NaN
+        NaN                                                              Unit 4 JavaScript [8 hrs]
+        NaN                                                            4.1 Structure of JavaScript
+        NaN                                             4.2 Data Types and Variables in JavaScript
+        NaN                   4.3 Operators : Arithmetic Operator, Assignment Operator, Comparison
+        NaN                         Operator, Logical Operator, Conditional Operator in JavaScript
+        NaN             4.4 Control Structure : If...Else, While, Do...While, For and Functions in
+        NaN                                                                             JavaScript
+        NaN                          4.5 Handling events in JavaScript-Windows event, Event object
+   Text and                1. HTML5 Black Book: Covers CSS3, Javascript, XML, XHTML, Ajax, PHP and
+  Reference                                                                Jquery, Dreamtech Press
+ Literature                        2. WEB TECHNOLOGIES: HTML, JAVASCRIPT, PHP, JAVA, JSP, ASP.NET,
+        NaN                        XML AND AJAX, BLACK BOOK: HTML, Javascript, PHP, Java, Jsp, XML
+        NaN                                                  and Ajax, Black Book, Dreamtech Press
+        NaN                                        3. HTML5 and CSS3 made Simple, Ivan Byross, BPB
+        NaN                    4. Pro HTML5 and CSS3 Design Patterns, Dionysios Synodinos, Michael
+        NaN                                                      Bowers and Victor Sumner, Pearson
+        NaN                                       5. HTML5 In easy steps, Mike McGrath, McGrawHill
+        NaN            6. Programming in HTML5 with JavaScript and CSS3 Training Guide, Johnson G,
+        NaN                                                                                    PHI
+        NaN                                 7. JavaScript in easy Steps, Mike McGrath, McGrawHill.
+        NaN                                                                                    NaN
+  Practical                   List of practical will be prepared at the beginning of each semester
+   Teaching   Discussion, Independent Study, Seminars and Assignment, Internal Project Development
+Methodology                                       Practical Assignments 80% (Approximately weekly)
+ Evaluation 50% Internal assessment is based on class attendance, participation, class test, quiz,
+     Method                                         assignment, seminar, internal examination etc.
+        NaN                            50% assessment is based on end semester written examination"

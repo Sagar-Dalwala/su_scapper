@@ -1,0 +1,751 @@
+---- PDF METADATA ----
+Author: Admin
+Creator: Microsoft® Word 2016
+CreationDate: D:20220429112215+05'30'
+ModDate: D:20220429112215+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 16
+
+==== PAGE 1 ====
+ 
+ 
+ 
+ 
+ 
+ 
+SEMESTER -III 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 2 ====
+Program: B.Sc.  (Sem -III) Type:  Theory  
+Subject:  DSC -5-Inorganic Chemistry -II 
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This course provides an overview of some important topics in inorganic chemistry.  
+This course includes knowledge in the areas of some basic topics like oxidation, reduction, 
+metallurgy etc.  
+Course comprises of information about various theories of bonding, coordination compounds and 
+organometallic compounds as well as basics of oxidation -reduction and acids and bases.   
+Student learning outcome:  
+Upon completion of this course, students will:  
+• Have systematic understanding of modern concepts of chemical bonding  
+• Have a deep knowledge regarding p -block elements  
+• Have information regarding principles of metallurgy  
+• Be able to understand various theories related to coordination compounds  
+• Be able to carry out nomenclature of coordination compounds  
+• Get exposure to conce pt of oxidation and reduction and various acid -base concepts  
+ 
+Unit -1 Chemical Bonding -II                                                                                              (10 Hrs)  
+1.1   VSEPR theory  
+1.2   Atomic orbital theory of covalent bond  
+1.3   Hybridisation with suitable examples of linear, trigonal planar, square planar,  
+  tetrahedral, trigonal bipyramidal and octahedral arrangements, equivalent and  
+  non-equivalent hybrid orbitals  
+1.4   Molecular orbital theory  
+1.5   Molecular orbital diagrams of diatomic and simple polyatomic molecules N 2, O2,    
+  F2, CO, NO, and their ions (CO+ , NO+ , NO- ) 
+ 
+Unit -2 Chemistry of p -block Elements                                                                             (07 Hrs)  
+      2.1   Chemical reactivity and group trend of elements   
+      2.2   Catenation and allotropy   
+      2.3    Hydrides and halides (synthesis, properties and structure)  
+      2.4   Application of redox potential di agrams with reference to N, P, S, Cl, Br  and I  
+      2.5    Interhalogens, Psuedohalogens and polyhalides  
+      2.6   Complex formation tendency of p block elements  
+              
+Unit -3 General Principle Of Metallurgy                                                                           (06 Hrs)  
+3.1   Chief modes of occurrence of metals based on standard electrode potentials  
+3.2    Ellingham diagrams: Salient features. Selection of reducing agents us ing    
+   Ellingham’s  Diagrams  
+3.3    Electrolytic reduction, Hydrometallurgy  
+3.4    Methods of purification of metals: Electrolytic Kroll process, Parting process, van   
+
+==== PAGE 3 ====
+   Arkel -de Boer process and Mond’s process, Zone refining  
+       3.5   Extraction of the following metals:  
+Nickel from sulphide ore  
+Thorium from Monazite sand  
+Uranium from Pitch blende  
+Plutonium from Nuclear waste  
+ 
+Unit -4 Co -ordination Chemistry -I                                                                                     (11Hrs)  
+       4.1   Coordinate bonding: double and complex salts     
+       4.2   Ligands and their classification, Ambidentate ligands, Chelate  
+       4.3   EAN rule, Valence bond theory postulates, limitations  
+       4.4   Werner’s theory  
+       4.5   IUPAC nom enclature of coordina tion complexes (up to two metal  centres ) 
+       4.6   Isomerism in coordination compounds  
+ 
+Unit -5 Organometallic Compounds -I                                                                               (12 Hrs)  
+      5.1   Definition and classification of organometallic compounds on the basis of bond type  
+      5.2   Concept of hapticity of organic ligands  
+      5.3   Metal car bonyls: 18 electron rule, electron count of mononuclear, polynuclear and   
+              substituted metal carbonyls of 3d series  
+5.4   General methods of preparation (direct combination, reductive carbonylation,  
+        thermal and photochemical decompos ition) of mono and binuclear carbonyls of 3rd  
+        series  
+     5.5   Structures of mononuclear and binuclear carbonyls of Cr, Mn, Fe, Co , Ni using VBT  
+     5.6   Zeise’s salt: Preparation and structure, evidences of synergic effect and comparison   
+             of synergic effect with that in carbonyls  
+ 
+Unit -6 Acid -base Chemistry                                      (05 Hrs)  
+       6.1   Brönsted -Lowry concept of acid -base reactions  
+       6.2   Levelling solvents  
+       6.3   Lewis acid -base concept  
+       6.4   Lux-Flood concept and solvent system concept  
+       6.5   Concept of Hard and Soft Acids and Bases (HSAB) and its application   
+ 
+Unit -7 Oxidati on Reduction Reactions                                                                             (05 Hrs)  
+     7.1   Use of redox potential data  
+     7.2   Analysis of redox cycle  
+     7.3   Redox potentials  in water  
+     7.4   Frost, Latimer, Pourbaix diagram  
+Unit -8 Silicates                                                                                                                    (04 Hrs)  
+      8.1   Structure of SiO 4 
+      8.2   Classification of silicates based on the structure  
+      8.3   Zeolites: their structure and applications  
+      
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 4 ====
+Reference Books:  
+ 
+1. Advanced Inorganic Chemistry, Satya Prakash Tuli, Basu & Madan 6th Edn  , 2009, S. 
+Chand Publishing  
+2. Calcul ation of Analytical Chemistry,  Hamilton, Simpson &Ellis 7th Edn. ,1969, 
+Pearson  
+3. Theoretical Inorganic Chem istry, Day, M.C. and Selbin, J . , 2009, East -West Press  
+4. Concise Inorganic Chemistry, Lee J. D., Wiley India, 5th Edn. , 2017, Wiley  
+5. Inorganic Chemistry – Principle s of structure and reactivity,  Huheey J. E., Keiter E. 
+A. and Keiter R. L. , 1997, Pearson  
+6. Princ iples of Inorganic Chemistry, Puri, Sharma, Kalia 33rd Edn. , 2020, Vishal 
+Publishing Co.   
+7. Basic Inorganic Chemistry, Cotton and Wilkinson , 1995, Wiley  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 5 ====
+ 
+Program: B.Sc.  (Sem -III) Type:  Theory  
+Subject:  DSC -6-Organic Chemistry -II 
+Credit: 04 (T) + 02 (P)  Total learning hours: 60 
+Course description:  
+This course provides a systematic study of Chemistry of functional groups. It includes study about 
+the different organic compounds having different functional groups. Topics involved 
+nomenclature, preparation, properties and uses of organic compounds.  
+Student learning outcome:  
+Students will be able:  
+• To Identify functional groups . 
+• To Explain organic reactions and their mechanisms.  
+• To Use nomenclature of different organic compounds . 
+• To know about physical and chemical properties of different compounds  
+• To know about applications of different organic compounds.  
+ 
+ 
+Organic Chemistry -2: Chemistry of Functional Groups  
+ 
+UNIT - 1 Heterocyclic Compounds                        (07Hrs ) 
+       1.1   Introduction  
+       1.2   Classification  
+       1.3   Five membered: Furan, Furfural, Pyrrole, Thiophene  
+       1.4   Six Membered:  Pyridine and its derivatives  
+       1.5   Condensed: Indole, Quinoline, Isoquinoline  
+ 
+UNIT - 2 Alcohols and Ethers                                   (07Hrs ) 
+ Alcohols  
+       2.1   Introduction & Nomenclature  
+       2.2   Physical Properties  
+       2.3   Preparation  
+       2.4   Reactions  
+       2.5   Alcohols as acids and bases  
+ Ethers  
+       2.6   Introduction & Nomenclature  
+       2.7   Preparation  
+       2.8   Physical Properties  
+       2.9   Reactions  
+       2.10   Cyclic ethers    
+ 
+UNIT - 3 Phenols and Aromatic Ethers                       (07Hrs ) 
+        3.1   Introduction & Nomenclature  
+        3.2   Method of Preparation  
+        3.3   Physical Properties   
+
+==== PAGE 6 ====
+        3.4   Chemical Reactions (Rearrangement & Substitution ) 
+        3.5   Acidity of phenols  
+ 
+UNIT - 4 Aldehydes and Ketones                        (07Hrs ) 
+      4.1    Introduction  
+      4.2    Nomenclature  
+      4.3    Method of Preparation  
+      4.4    Physical Properties  
+      4.5    Chemical Reactions  
+      4.6    Formaldehyde, Acetaldehyde  
+      4.7    Acetone, Methyl Ethyl Ketone  
+      4.8    Aromatic Aldehydes: Benzaldehyde, Cinnamaldehyde  
+      4.9    Aromatic Ketones: Acetophenone, Benzophenone   
+ 
+UNIT - 5 Carboxylic acids and its derivatives                      (08Hrs) 
+       5.1   Introduction & Nomenclature  
+       5.2    Physical Properties  
+       5.3    Preparation  
+       5.4    Chemical Reactions  
+       5.5    Acidity of carboxylic acids  
+       5.6    Effect of substituents on acidity  
+       5.7    Dicarboxylic acids  
+       5.8    Acid chlorides, Acid anhydrides, Amides, Imides, Esters  
+ 
+UNIT - 6 Amines and Aryldiazonium Salts                       (08Hrs) 
+ Amines  
+       6.1   Introduction  
+       6.2   Nomenclature  
+       6.3   Method of preparation, Physical and Chemical Pr operties of - 1) Primary amine  
+               2) Secondary amine  
+               3) Tertiary amine  
+       6.4   Basicity of amines  
+       6.5   Methylamine, Dimethylamine, Trimethylamine, Quaternary ammonium salts  
+ Aryldiazonium Salts  
+       6.6    Introduction  
+       6.7    Nomenclature  
+       6.8    Preparation  
+       6.9    Physical Properties  
+     6.10    Chemical Properties  
+ 
+UNIT - 7 Organic Nitrogen and Nitro Compound                      (08Hrs) 
+ Organic Nitrogen Compounds  
+       7.1   Nitiles -Introduction, Nomenclature, Method of preparation, physical &                
+               chemical Properties  
+        7.2   Acrylonitriles  
+        7.3   Isonitriles - Introduction, Nomenclature, Method of preparation, physical &   
+                chemical properties  
+       7.4   Alkyl nitrites : Ethyl Nitrite  
+       7.5   Nitroalkanes - Introduction, Nomenclature, Method of preparation, physical &   
+               chemical Properties  
+
+==== PAGE 7 ====
+       7.6   Diazoalkane: Diazomethane   
+       Aromatic Nitro Compounds  
+       7.7   Introduction, Nomenclature, Method of preparation, physical & chemical Properties  
+       7.8   Nitrobenzene, TNT  
+ 
+UNIT - 8 Thiols, Thioethers and Aromatic Sulphonic Acids                    (08Hrs) 
+ Thiols  
+         8.1   Introduction  
+         8.2    Nomenclature  
+         8.3    General Method of preparation  
+         8.4    Physical & Chemical Properties  
+ Thioethers  
+         8.5    Introduction  
+         8.6    Nomenclature  
+         8.7    General Method of preparation  
+         8.8    Physical & Chemical Properties  
+ Aromatic Sulphonic Acids  
+        8.9    Introduction  
+        8.10   Nomenclature  
+        8.11   General Method of preparation  
+        8.12   Physical Properties  
+        8.13   Chemical Reactions: 1) Reactions of –OH of SO 3H group  
+         2) Reactions in which –SO 3H is replaced  
+         3) Reactions of Benzene ring  
+         8.14   Benzenesulphonic acid, Benzenesulphonyl Chloride, Toluenesulphonic acid,    
+                  Saccharin, Chloramine –T, Sulphanilic acid, Sulphanilamide  
+ 
+Reference Books:  
+  
+1. A Textbook of Organic  Chemistry, 22nd Edition, Arun Bahl/B S Bahl, By S.Chand  
+2. Textbook of OrganicChemistry, P.L.Soni and H.M.Chawala,By Sultan Chand & Sons  
+3. Organi c Chemistry, Seventh Edition,  R.T.Morrison, R.N.Boyd, S.K.BhattacharjeeBy 
+Pearson  
+4. Textbook of Organic Chemistry, By V.K.Ahluwalia, Ane Books Pvt. Ltd.  
+5. Organic Chemistry, Volume -1, Sixth Edition,  By I.L.Finar, By Pearson  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 8 ====
+ 
+Program: B.Sc.  (Sem -III) Type:  Theory  
+Subject: SEC -1- Basics of Analytical Chemistry  
+Credit: 04 (T) + 02(P)  Total learning hours: 60 
+Course description: This Course Paper proposes to teach about: Sample collection from different 
+sources, preservation techniques, Preparation of standard solutions, principle , reaction mechanism, 
+analysis procedure and applications of volumetric titrations, solvent extractions, gravimetric 
+methods and statistical analysis of the result data.  
+Student learning outcome:  After completing this course, the students will be able to learn: Types 
+and objectives of sampling techniques, preservation and pre concentration of collected samples, 
+preparation of primary and secondary standards and their standardization methods, buffer solution 
+and buffer capacity, indicators, principle, react ion mechanism, procedure of analysis methods and 
+applications of acid -base titrations, precipitation titrations, complexometric titrations, redox 
+titrations, solvent extractions, gravimetric methods and statistical analysis of the result data.  
+ 
+Unit 1: Sampling Techniques             (08Hrs)  
+1.1 Objectives of Sampling  
+1.2 Types of Sampling  
+1.3 Sample Collection: Air, Water, Solids, Soil  
+1.4 Preservation Techniques of Samples  
+1.5 Preconcentration Techniques  
+ 
+Unit 2: Standard Solutions              (08Hrs)  
+       2.1   Primary Standards  
+       2.2   Secondary Standards  
+       2.3   Standardization of H 2SO 4 
+       2.4   Standardization of NaOH  
+       2.5   Standardization of KMnO 4 
+       2.6   Standardization of I 2 
+       2.7   Standardization of Na 2S2O3 
+       2.8   Standardization of FAS  
+   
+Unit 3: Volumetric Titrations -I            (08Hrs)  
+       3.1   Acid -Base: Neutralization Titrations  
+3.1.1  Types and actions of buffer solution and buffer capacity  
+3.1.2  Principle  
+3.1.3  Reaction Mechanism  
+3.1.4 Procedure of Analysis Method  
+3.1.5  Indicators  
+3.1.6  Applications   
+ 
+Unit 4:  Volumetric Titrations -II            (08Hrs)  
+      4.1 Precipitation Titrations  
+4.1.1  Principle  
+4.1.2  Reaction Mechanism  
+4.1.3  Procedure of Analysis Method  
+
+==== PAGE 9 ====
+4.1.4  Indicators  
+4.1.5  Applications  
+ 
+Unit 5:   Volumetric Titrations -III            (08Hrs)  
+       5.1   Complexometric Titrations  
+5.1.1  EDTA and the complexones  
+5.1.2  Principle  
+5.1.3  Reaction Mechanism  
+5.1.4  Procedure of Analysis Method  
+5.1.5  Applications  
+5.1.6  Advantages  
+ 
+Unit 6:  Volumetric Titrations -IV            (08Hrs)  
+       6.1   Redox Titrations  
+6.1.1  Principle  
+6.1.2  Factors influencing solubility of the precipitate  
+6.1.3 Reaction Mechanism  
+6.1.4  Procedure of Analysis Method  
+6.1.5  Indicators  
+6.1.6  Applications  
+ 
+Unit 7: Solvent Extraction & Gravimetric Methods          (08Hrs)  
+     7.1.  Principle and Rules  
+     7.2   Reaction Mechanism  
+     7.3   Classification of extraction methods  
+               7.3.1   Chelation  
+               7.3.2   Solvation  
+               7.3.3    Ion pair formation  
+               7.3.4    Solid phase extraction  
+      7.4   Organic reagents in gravimetric analysis  
+      7.5    Electrogravimetry  
+      7.6    Applications  
+ 
+Unit 8: Statistical Analysis              (04Hrs)  
+      8.1     Errors in chemical analysis  
+      8.2     Classification of errors  
+      8.3     Determining and improving the accuracy of methods  
+      8.4     Statistical analysis  
+      8.5     Presentation of data  
+      8.6     Confidence limit  
+      8.7     Criteria for rejection of results: Q Test  
+      8.8     Standard t Test  
+      8.9     Standard deviation  
+      8.10   Coefficient of variation  
+      8.11   Linear regression  
+      8.12   Least square fitting  
+ 
+ 
+ 
+ 
+
+==== PAGE 10 ====
+Reference Books:  
+ 
+1. Chemistry for Environmental Engineering and Science, C. N. Sawyer and P. L. Mc Carty,  
+G.F. Parkin, 5th Edition, 21st Reprint, 2015, McGraw Hill Education (India) Private         
+Limited.  
+2. Quantitative Analysis, R.A Day, A.L Underwood, 6th Edition, 1991, Prentice -Hall.  
+3. Fundamentals of Analytical Chemistry, D.A. Skoog, D.M. West, F.J. Holler and S.R.   
+     Crouch, 9th Edition, Reprint 2014, Cengage Learning.  
+4. Quantitative Analysis, R.A Day, A.L Underwood, 6th Edition, 1991, Prentice -Hall.  
+5. Basic Concepts of Analytical Chemistry, S.M. Khopkar, 3rd Edition, 2008, New Age   
+    International  Publishers.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 11 ====
+Program: B.Sc.  (Sem -III) Type:  Theory  
+Subject: DSE -3-Medicinal Chemistry  
+Credit: 02 Total learning hours: 30 
+Course description: This course is about Pharmaceutical chemistry which includes different types 
+of drugs ex. General & local anesthetic, sedatives & hypnotic, analgesics & antipyretics, diuretics 
+& antihypertensives and anticonvulsants & anti histaminics.  
+Student learning o utcome:  Student will learn following :  
+• Drug Receptors & Absorption  
+• Drug Discovery, Design & Development  
+• General  & Local anesthetic  
+• Sedatives & Hypnotics    
+• Analgesics & Antipyretics   
+• Diuretics & Anti -hypertensives  
+• Anticonvulsants and Anti -histaminics  
+ 
+Unit – 1: Introduction to Pharmaceutical Chemistry                               (02 Hrs)  
+1.1 Important Aspects of Pharmaceutical Chemistry  
+1.2 Importance of Chemistry in Pharmacy  
+1.3 Sources & Uses of Natural Drug Products  
+1.4 Biological, Geographical  
+ 
+Unit  – 2: Drug Receptors & Absorption                                 (05 Hrs)  
+2.1 Theories of Drug Action  
+2.2 Surface Active Agents  
+2.3 Metabolic Antagonism  
+2.4 Mechanism of Drug Action  
+2.5 Absorption of Drugs  
+2.6 Factors affecting Absorption  
+ 
+Unit – 3: Drug Discovery, Design & Development                    (05 Hrs)  
+3.1 Introduction  
+3.2 Molecular Modelling  
+3.3 Structure Activity Relationship  
+3.4 QSAR  
+3.5 Molecular Docking  
+3.6 Molecular Dynamics  
+ 
+Unit – 4: General & Local Anaesthetic                       (03 Hrs)  
+4.1 Classification Synthesis of Nitrus Oxide, Halothen, Thiopental Sodium & 
+Chloroform  
+4.2 Classification of Local Anesthetic  
+4.3 Synthesis of procaine Hydrochloride, Benzocaine, Lignocaine Hydrochloride  
+ 
+Unit – 5: Sedatives & Hypnotics                       (05 Hrs ) 
+5.1 Classification  
+5.2 SAR of Barbituric Acid Derivatives  
+
+==== PAGE 12 ====
+5.3 Synthesis of Barbital, Allobarbital, HexoBarbital  
+5.4 SAR of Benzodiazepines  
+5.5 Synthesis of Diazepam, Alprazolam &Zolpidem  
+5.6 Synthesis of Phenobarbital & Phenytoin Sodium  
+ 
+Unit – 6: Analgesics & Antipyretics                       (02 Hrs)  
+6.1 Classification of Antipyretics & Analgesics  
+6.2 SAR of Morphine Analogue Salicylic Acid, Aryl Alkanoic Acid Derivatives  
+6.3 Synthesis of Aspirin & Paracetamol  
+ 
+Unit – 7: Diuretics & Anti -hypertensi ves                                (03 Hrs)  
+7.1 Classification of Diuretics  
+7.2 SAR, Synthesis & Uses of Hydrochlorthiazide, Hydroflumethiazide, Ethacrynic 
+Acid, Furosemide, acetazolimide  
+7.3 Classification of Anti -hypertensives  
+7.4 SAR & Synthesis of Captopril, Propranol ol Hydrochloride  
+ 
+Unit – 8:  Anticonvulsants and Anti -histaminic                                (05 Hrs)  
+8.1 Introduction  
+8.2 Classification of Anticonvulsant  
+8.3 Synthesis of Phenobarbital & Phenytoin Sodium  
+8.4 Classification of Anti -histaminics  
+8.5 SAR of Ethanolamine Derivatives  
+8.6 Synthesis of Diphenhydramine Hydrochloride, Promethazine Hydrochloride  
+ 
+Reference Book s: 
+ 
+1. Organic Chemistry, Seventh Edition, R.T.Morrison, R.N.Boyd, S.K.Bhattacharjee  By 
+Pearson  
+2. Textbook of Organic Chemistry, By V.K.Ahluwalia, Ane Books Pvt. Ltd.  
+3. Organic Chemistry, Volume -1, Sixth Edition,  By I.L.Finar, By Pearson  
+4. Introduction to Medicinal Chemistry, G.L. Patrick, 2013, Oxford University Press, 
+UK.  
+5. Medicinal and Pharmaceutical C hemistry,  Hakishan, V.K. Kapoor, 2017  Vallabh  
+Prakashan   
+6. Principles of Medicinal Chemistry,  William O. Foye, Thomas L., Lemke , David A. 
+William, 2019, Walters Kluver   
+7. Medicinal Chemistry, A. Kar , 2018, New Age International Publishers  
+8. Pharmaceutical Chemi stry, Chatwal , 2018, Himalaya Publishing  
+9. Essentials of Medical Pharmacology, Tripathi , 2018, Jaypee Brothers Medical 
+Publishers  
+10. Medicinal Chemistry, Sriram  & Yogeswari , 2010, Pearson  
+11. Wilson &  Gisvold’s Text Book of Organic & Medicinal Chemistry , 2010, Wolters      
+    Kluwer India Pvt. Ltd.  
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 13 ====
+Program: B.Sc.  (Sem -III) Type:  Theory  
+Subject: DSE -3: Textile & Dye Chemistry  
+Credit: 02 Total learning hours: 30 
+Course description: This course is about textile and dye chemistry which includes different types 
+of dyes, dyeing process and its basic operations.  
+Student learning outcome  
+At the end of the course students will be able to:  
+1. Apply basics and illustrate the modifications in pre -treatment operation  
+2. Describe the developments in va rious dyes and dyeing process  
+3. Distinguish the various dye class and their application to different fibres types.  
+4. Learn Basic operation in Dyeing process & Methods of dyeing  
+  Recent developments in dyeing techniques  
+ 
+Unit -1 Introduction to Dye Chemistry                                                                         (05Hrs)  
+1.1   Dye-Definition  
+1.2   Requirement of an ideal dyes ( colour, solubi lity, linearity, co -planarity, fastness,   
+  substantively, economic viabilit y) 
+1.3   Explanation of nomenclature or abbreviation of commercial dyes with at least one  
+  example  
+1.4   Classification of fibers and chemical structure of cellulose like Cotton, Jute etc.  
+1.5   Chemical structure of manmade fibers -Rayon, polyamide, polyester &     
+  polyacrilonitrile.  
+1.6   Classification of Dyes  
+1.7   Intermolecular forces related to dyeing, dye -fiber  bonds, adsorption at surfaces  
+1.8   Mechanism of Direct, reactive, acid, disperse an d other dyes on specific fibers  
+ 
+Unit -2 Dyeing Process                                                                                                   (04Hrs)  
+     2.1   Influence of fibre structure on dyeing  
+     2.2   Effect of processes on fibre properties before dyeing and during dyeing  
+     2.3   Solubility parameter and cohesive energy density interaction between dyes and  
+             polymers  
+     2.4   Dye sorption, diffusion and rate of dyeing  
+ 
+Unit -3 Thermod ynamics of D yeing                                                                               (04Hrs)  
+      3.1 Thermodynamics of dyeing  
+      3.2 Concept of free energy  
+      3.3 Surface chemistry  
+      3.4 Kinetics of dyeing  
+ 
+Unit -4 Operation in Dyeing process                                                                            (04Hrs)  
+     4.1 Basic operation in Dyeing process    
+4.1.1  Preparation  of the fibres  
+4.1.2  Preparation  of the dyebath  
+
+==== PAGE 14 ====
+4.1.3  Application of the dye  
+4.1.4  Finishing   
+      4.2 Methods of dyeing  
+4.2.1  Direct Dyeing  
+4.2.2  Vat Dyeing  
+4.2.3  Mordant Dyeing  
+4.2.4  Disperse Dyeing  
+4.2.5  Formation of dye on fibres  
+4.2.6  Dyeing of the wool with acid dyes  
+4.2.7  Dyeing with reactive dyes  
+ 
+Unit -5 Colour and Constitution of Dyes                                                                      (04Hrs)  
+      5.1 Study of Bathochromic, Hypsochromic, Hypochromic and hyperchromic effect with   
+            examples  
+     5.2 Colour and chemical constitution  
+5.2.1  Definition of colour, colour and wavelength of radiation  
+5.2.2  Colour absorbed and colour visualized with respect to wavelength region.  
+5.2.3  Relation between colour and chemical constitution  
+5.2.4  Armstrong theory and US limitation  
+5.2.5  Witt’s theory  
+5.2.6  Action of Light on dyes and dyed fibers  
+ 
+Unit -6 Recent Developments in Dyeing Techniques                                                  (03Hrs)                                                  
+     6.1 Introduction  
+     6.2 Ultrasonic assisted dyeing  
+     6.3 Microwave dyeing  
+  
+Unit -7 Natural Dyes                                                                                                      (03Hrs)  
+     7.1 Medicinal  properties of Natural Dyes  
+     7.2 Basics of Natura l Dyeing  
+     7.3 Methods of Extraction of Natural dyes  
+     7.4 Standardization of Natural dyes  
+     7.5 Continuous dyeing and its adaptation for Natural dyeing  
+ 
+Unit -8 Health and Environmen tal Hazard of Synthetic Dyes & Remediation        (03Hrs)  
+      8.1 Processes  
+      8.2 Impact of the textile and leather dye industry on the Environment with special   
+            emphasis on water pollution  
+      8.3 Health Hazards: Toxicity of dyes with respect to food colours  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 15 ====
+Reference Books:  
+ 
+1. Chemistry of Synthetic Dyes and Pigments, Lubs H. A., Robert E , 1977,  Krieger 
+Publishing Company  
+2. Chemistry of Synthetic Dyes – Vol I, Venkataraman, K., 1952, Academic Press  
+3. Chemistry of Synthetic Dyes – Vol III, Venkataraman, K., 1952, Academic Press  
+4. Colo ur and Chemical Constitution of Organic Dyes , Griffiths J., 1976, Academic Press,  
+5. Color Chemistry –Synthesis, Properties and Applications of Dyes and Pigments, 
+Zollinger H., 2nd ed., 1991, Weinheim – VCH,  
+6. Textiles, 10th edition, Kadolph, Sara J., edn., 200 7, Pearson/Prentice -Hall, 2007, ISBN 0 -
+13- 118769 -4. 
+7. Synthetic organic chemistry, O.P. Agrawal , 2014, Krishan Prakashan   
+8. The chemistry of  synthetic dyes and pigments, H. A. Lubes , 1955, New York:Reinhold 
+Publishing  
+9. An introduction to synthetic dyes,  D. W. Ranghekar & P. P. Singh, 1980, Himalaya Pub.  
+10. Chemistry of dyes &  Principles of dyeing Vol II, V. A. Shehai , 1983, Sevak Publications   
+11. Chemistry of synthetic dyes, I. G. Vashi,  
+12. Chemistry of dyes and pigments,  K. M. Shah , 2013, Edu. Tech Publishing   
+13. Synthetic dyes, G. R. Chatwal , 2009, Himalaya Publishing House  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 16 ====
+Chemistry Lab -Semester -III 
+ 
+1. Preparation and Standardization of Standard Solutions:  
+Sodium hydroxide, Potassium Permanganate, Iodine, Sodium thiosulphate.  
+2. Determination of Chloride by precipitation titration in water sample.  
+3. Determination of Free Residual Chlorine by iodometric titration in water sample.  
+4. Determination of COD of water sample by redox titration.  
+5. Determination of Zn+2, Cu+2, Ni+2, Hardness (Ca+2, Mg+2) by complexometric titration.  
+6. Qualitative inorganic analysis: (Minimum seven)  
+      Analysis of simple salt containing one anion and cation from the following  
+Anions : Carbonate, Sulphate, Chloride, Bromide, Nitrate, Borate, Phosphate .  
+Cations : Lead, Copper, Iron, Aluminium, Zinc, Manganese, Nickel, Calcium,                 
+Strontium, Barium, Potassium and Ammonium.  
+ 
+Reference Books:  
+ 
+1. Standard Methods for Examination of Water & Wastewater – Andrew D. Eaton, 
+Lenore S. Clesceri, Eugene W. Rice, Arnold Greenberg, 23rd Edition, 2017, 
+published by APHA, AWWA, WEF.  
+2. Official Methods of Analysis – Dr. William Harwitz, Dr. George W Latimer,  
+18th Edition, 2005, published by Association of Officiating Analytical Chemists 
+(AOAC).  
+3. Vogel's Qualitative Inorganic Analysis  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

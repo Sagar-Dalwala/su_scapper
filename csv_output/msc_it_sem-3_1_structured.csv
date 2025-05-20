@@ -1,0 +1,14 @@
+section,subsection,content
+Course Title,,Thepurposeofthecourseistomakestudentscapableof
+Objectives,,Theobjectiveofthesecourseistoenablestudentstolearnpractical
+Unit,Unit 1,FlutterIntroduction
+Unit,Unit 2,FoundationtoDartProgramming–part1
+Unit,Unit 3,FoundationtoDartProgramming–part2
+Unit,Unit 4,GettingstartedwithFlutter
+Unit,Unit 5,FlutterWidgets
+Unit,Unit 6,SharedPreferencesinFlutter
+Unit,Unit 7,LoadingandfilteringexternaldatainD3.js
+Unit,Unit 8,AdvancedProgramming
+References,,"Unit7PersistdatawithSQLite
+7.1Addthedependency
+7.2AccessandmanipulatedatafromSQLite"

@@ -1,0 +1,231 @@
+---- PDF METADATA ----
+Author: admin
+CreationDate: D:20220426142954+08'59'
+Creator: WPS Writer
+ModDate: D:20220426142954+08'59'
+SourceModified: D:20220426142954+08'59'
+Trapped: /False
+---- END METADATA ----
+
+Total Pages: 7
+
+==== PAGE 1 ====
+FacultyofScience
+SHREERAMKRISHNAINSTITUTEOFCOMPUTER
+EDUCATIONANDAPPLIEDSCIENCES,SURAT
+M.Sc.Microbiology
+Syllabus
+(Effectivefrom2021)
+M.T.BCollegeCampus,B/hP.T.ScienceCollege,Opp.Chowpati,
+Athwalines,Surat-395001Gujarat,India
+Contact:7228018498,728018499.Email:info@srki.ac.in
+
+==== PAGE 2 ====
+A.AboutM.Sc.MicrobiologyProgramme
+TheM.Sc.MicrobiologyprogrammeofferedbySarvajanikUniversityisoftwoyears’
+durationandisdividedintofoursemesters.Thevariouscoursesoftheprogrammeare
+designedtoincludeclassroomteachingandlectures,laboratorywork,projectwork,viva,
+seminars,assignmentsandfieldtrips.Threecategoriesofcoursesarebeingofferedinthis
+programme:Corecourses,SkillenhancementcoursesandElectivecourse.Aseparate
+research-basedcoursethatleadstoadissertationisalsooneoftheCoreCoursesofferinthe
+finalsemester.Thestudentpresentshis/herresearchorallyattheendofthesemester,and
+thisiscoupledtoaviva-voce.Thisnotonlyequipsthestudentforacareerinresearch/
+industry,butalsofostersself-confidenceandself-relianceinthestudentashe/shelearnsto
+workandthinkindependently.Thirtypercentofthetotalmarksforeachcoursewillbe
+awardedthroughInternalAssessment.Particularemphasisislaidonthepracticalaspectsof
+thefield.Studentsaretaughthowtoplanexperiments,performthemcarefully,analyzethe
+dataaccurately,andpresenttheresultsboth,qualitativelyandquantitatively.
+B.ProgrammeObjective
+Throughthestimulusofscholarlyprogressionandintellectualdevelopmentthe
+programmeaimstoequipstudentswithexcellenceineducationandskills,thus
+enablingthestudenttopursueacareerofhis/herchoice.
+Bycultivatingtalentsandpromotingallroundpersonalitydevelopmentthrough
+multi-dimensionaleducationaspiritofself-confidenceandself-reliancewillbe
+infusedinthestudent.
+Thestudentwillbeinstilledwithvaluesofprofessionalethicsandbemadereadyto
+contributetosocietyasresponsibleindividuals.
+C.Eligibility
+AcandidatemusthavepassedBachelor’sdegreeinMicrobiology/Medical
+Technology/Biotechnology/EnvironmentalScience/IndustrialMicrobiology
+/Bioscience/GeneralScience/Life-Science/Botany/PlantScience/Zoology/Animal
+Science/Biology/Agriculture/Fisheries/Forestry/others.
+Thecandidatewhohaspassedequivalentexamfromothersubjectsorboardsneedto
+availeligibilitycertificateforthisprogrammefromtheBoardofEquivalence(BoE)
+oftheSarvajanikUniversity.M.Sc.Microbiology
+No. Contents
+AAboutM.Sc.MicrobiologyProgramme
+BProgrammeObjective
+CEligibility
+DCourseStructure
+EEvaluationScheme
+FSyllabus
+
+==== PAGE 3 ====
+D.M.Sc.MicrobiologyCourseStructure
+Semester DSE(Anyonetobeopt)
+1 1.FoodChemistry
+2.EnergyandEnvironment
+3.Laboratorysafetyandmanagement
+4.Bioethics&Biosafety
+2 1.ForensicChemistry&Toxicology
+2.Bioinformatics&Other“OMICS”
+3.IPR
+4.Biostatistics.
+3 1.ForensicbiologyandDNAtyping
+2.ResearchMethodology
+3.Bioentrepreneurship
+4.ApplicationofGreenChemistrySemCourse
+TypeCourse
+CodePaperTitle Hours/WeekCredi
+tThPr
+1Core
+courseDSC-1PrinciplesofMicrobiology&Microbial
+Diversity4 4 4+2
+DSC-2Agriculture&EnvironmentalMicrobiology 4 4 4+2
+SEC SEC-1Molecularbiology&GeneticEngineering 4 4 4+2
+ElectiveDSE-1 4 4 4+2
+2Core
+courseDSC-3MicrobialPhysiology&Metabolism 4 4 4+2
+DSC-4Immunologyandmolecularpathogenesis 4 4 4+2
+SEC SEC-2Instrumentationandanalyticaltechniques 4 4 4+2
+ElectiveDSE-2 4 4 4+2
+3Core
+courseDSC-5EconomicMicrobiology 4 4 4+2
+DSC-6EnzymeTechnology&ProteinEngineering 4 4 4+2
+SEC SEC-3PharmaceuticalMicrobiology&Drug
+Development4 4 4+2
+ElectiveDSE-3 4 4 4+2
+4Core
+courseDSC-7Dissertation
+3216
+DSC-8SeminarPresentation 4
+DSC-9Reviewofpublishedresearchpaper/Article 4
+TotalCredit96
+Note:DSC–DisciplineSpecificCore,DSE-–DisciplineSpecificElective,SEC-SkillEnhancementCourse
+
+==== PAGE 4 ====
+E.EvaluationScheme
+M.Sc.Microbiology
+Evaluation Criteria TheoryPracticalDissertationSeminar/
+Reviewof
+published
+research
+paper
+InternalContinuous&
+Comprehensive
+Evaluation(CCE)40 60 140 60
+Attendance 10 10 10 10
+Assignment 20 ---- ---- ----
+InternalPracticalTest
+andViva–Voce/---- 70 ---- ----
+Internalassessment ---- ---- 50 30
+ExternalExternalEvaluation 30 60 100 50
+Total100 200 300 150
+
+==== PAGE 5 ====
+F.Syllabus
+Semester4
+Dissertation
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-IV Type:DSC-7
+Subject:Dissertation
+Credit:16 Totallearninghours:
+Coursedescription:
+Theaimofthedissertationistodevelopinclinationtowardsresearch.Thedissertationpresents
+amajorpieceofguidedindependentresearchonatopicagreedbetweenthestudentandtheir
+supervisor.Ittypicallyinvolvesaliteraturereviewandanappropriateformofcriticalanalysis
+ofsourcesofprimaryand/orsecondarydata;itmayinvolvefieldand/orlaboratorywork.The
+dissertationmustshowevidenceofwidereadingandunderstanding,ofcriticalanalysisand/or
+appropriateuseofadvancedresearchtechniques.
+Studentlearningoutcome:
+Uponsuccessfulcompletion,studentswillhavetheknowledgeandskillsto:
+Planandengageinanindependentandsustainedcriticalinvestigation
+Systematicallyidentifyrelevanttheoryandconcepts,relatethesetoappropriate
+methodologiesandevidence,applyappropriatetechniquesanddrawappropriate
+conclusions
+Appropriatelyapplyqualitativeand/orquantitativeevaluationprocessestooriginal
+data
+Understandandapplyethicalstandardsofconductinthecollectionandevaluationof
+dataandotherresources
+Communicateresearchconceptsandcontextsclearlyandeffectivelybothinwriting
+andorally.
+GuidelinesforDissertation
+Dissertationworkcanbedoneindividuallyorinagrouponarelevancetopic.
+Dissertationmaybecarriedin-houseoroutsidethecampusafterduepermission
+grantedbythesupervisingteacherandinstituteheadatthefollowingrecognized
+institutionsorindustrieslike:
+AnyUGCrecognizedUniversityPGdepartments.
+AnyAgricultureUniversity.
+AllNationalandStatelevelresearchinstitute.
+ISOorFDA/USFDAindustryorresearchcenterhavingR&DandQ.C.
+facilities.
+Theevaluationofdissertationincludesthesisevaluationanditspresentation.
+Thepresentationofdissertationshallbedoneinaudio-visualmodebythecandidate(s)
+within15minutes.
+Thecandidate(s)hastosubmithard&soft(PDF)copyoftheirdissertationfor
+evaluation.
+************
+
+==== PAGE 6 ====
+SeminarPresentation
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-IV Type:DSC-8
+Subject:SeminarPresentation
+Credit:4 Totallearninghours:
+Coursedescription:
+Thestudyaimstorevealhowthestudentsimprovedtheiracademicpresentationskillsandto
+improvementwithinfluencesofstudents’scientificandlanguagebackgrounds.Thiscourse
+engagesstudentsincriticalinquirythroughreading,discussion,oralpresentations,and
+writing,emphasizinganin-depthexplorationofthewritingprocessfromgeneratingideasto
+polishingthefinaldraft.
+AsacademicpresentationskillsarecrucialtoresearchandareagenericskillthatPGstudents
+insciencemustacquire,weproposethatexistingstudentseminarprogrammescanbeused
+effectivelyasanactivetrainingprogrammetoimprovesuchskills.
+Studentlearningoutcome:
+Uponsuccessfulcompletion,studentswillhavetheknowledgeandskillsto:
+Studentswilldemonstratetheabilitytoperformcloseandcriticalreadings.
+Studentswilldevelopabilitytocomprehendstherelevanttopicandeffectivelyexplain
+it.
+Studentswilldemonstratetheabilitytofollowdiscussions,oralarguments,and
+presentations,notingmainpointsorevidenceandtrackingthreadsthroughdifferent
+comments.
+Studentswillbeabletochallengeandoffersubstantiverepliestoothers'arguments,
+comments,andquestionslogically.
+GuidelinesforSeminarPresentation
+Facultywillmentortheallottedstudentsforselectedtopicsofseminar.
+Studentshavetoindividuallydeliveraseminarontheadvanceornoveltopicof
+relevancesubjectotherthanthatmentionedinthecurriculum.
+Topicshouldnotberelatedtohis/herdissertation.
+Theseminarpresentationshallbedoneinaudio-visualmodebythecandidatewithin
+15minutes.
+Studentshavetosubmitcopyofcolorprintedhandouts(4slides/page)ofhis/her
+presentationtotheexaminer.
+************
+
+==== PAGE 7 ====
+Reviewofpublishedresearchpaper/article
+Nameoffaculty:Science Department:Microbiology
+Program:M.Sc.MicrobiologySem-IV Type:DSC-9
+Subject:Reviewofpublishedresearchpaper/article
+Credit:4 Totallearninghours:
+Coursedescription:
+Theobjectiveofaliteraturereviewistoprovideacriticalevaluationofthedataavailable
+fromexistingstudies.Thestudyofpublishedresearcharticleisasurveyofpreviously
+publishedresearchworkonatopic.Studyofresearcharticlescanidentifypotentialresearch
+areastobeexploredandgivesnewdimensionstothestateoftheknowledgealongwithopen
+developmentofmindsetforcriticalthinking.
+Studentlearningoutcome:
+Studentswilldemonstratetheabilitytoidentifythedisciplinarycontextfordifferent
+kindsofwriting,includingbothinformalwritingandformalwriting.
+Studentswilldemonstratetheabilitytoperformcriticalreadingsoftheirownwriting
+andthewritingofothers.
+Studentswilldemonstratetheabilitytoproofread.
+Guidelinesforreviewofpublishedresearchpaper/article
+Studentwillindividuallyselectfulllengthresearchpaperrelatedtothesubject.
+TheselectedpapershouldbefromareputedpeerreviewedjournalhavingISSN.
+Selectedresearchpapershouldhavebeenpublishedduringthelastfiveyears.
+Evaluationofreviewofpublishedresearchpaper/articleincludesaudio-visual
+presentationbystudentwithin15minutes.
+Studentshavetosubmitcopyofcolorprintedhandouts(4slides/page)ofhis/her
+presentationtotheexaminer.
+************

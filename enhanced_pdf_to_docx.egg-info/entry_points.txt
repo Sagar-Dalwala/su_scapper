@@ -1,0 +1,3 @@
+[console_scripts]
+batch-pdf-to-docx = enhanced_pdf_to_docx.batch:main
+pdf-to-docx = enhanced_pdf_to_docx:main

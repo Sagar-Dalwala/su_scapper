@@ -1,0 +1,366 @@
+page,content_type,content
+1,text,SRKI
+2,text,SRKI
+3,text,SRKI
+4,text,SRKI
+5,text,SRKI
+6,text,SRKI
+7,text,SRKI
+8,text,SRKI
+9,text,SRKI
+10,text,SRKI
+11,text,SRKI
+12,text,SRKI
+13,text,SRKI
+1,table,"Unnamed: 0        Unnamed: 1 Continuous comprehensive    Semester Unnamed: 2
+       NaN               NaN               Evaluation         End      Grand
+  Semester     Subject group                      NaN         NaN        NaN
+       NaN               NaN                    Total Examination      Total
+       NaN               NaN       CE Attend. Assign.         NaN        NaN
+       NaN               NaN                      CEE       (SEE)        NaN
+       NaN             Major              30 10 10 50          50        100
+       NaN             Major              30 10 10 50          50        100
+       NaN             Major              30 10 10 50          50        100
+       NaN               SEC              15 05 05 25          25         50
+         3 Multidisciplinary              10 10 30 50          50        100
+       NaN           Ability                      NaN         NaN        NaN
+       NaN       Enhancement              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN       Value Added                      NaN         NaN        NaN
+       NaN               NaN              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN               NaN                      NaN         NaN        NaN
+       NaN               NaN                Total 275         275        550
+       NaN             Major              30 10 10 50          50        100
+       NaN             Major              30 10 10 50          50        100
+       NaN             Major              30 10 10 50          50        100
+       NaN             Minor              30 10 10 50          50        100
+         4               SEC              15 05 05 25          25         50
+       NaN           Ability                      NaN         NaN        NaN
+       NaN       Enhancement              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN       Value Added                      NaN         NaN        NaN
+       NaN               NaN              15 05 05 25          25         50
+       NaN            Course                      NaN         NaN        NaN
+       NaN             Total                      275         275        550"
+2,table,"      Course Code                                                                                    Unnamed: 0
+     Course Title                                                    Major: Web Application Development-I (PHP)
+           Credit                                                                    3 (Theory) + 1 (Practical)
+     Teaching per                                                              3hrs (Theory) + 2hrs (Practical)
+             Week                                                                                           NaN
+    Minimum weeks                            15 (Including Class work, examination, preparation, holidays etc.)
+     per Semester                                                                                           NaN
+    Last Review /                                                                                       2021-22
+         Revision                                                                                           NaN
+Purpose of Course The purpose of the course is to make students capable of developing professional applications
+              NaN                                               using the latest tools and technologies in PHP.
+ Course Objective                                                                                 For Students:
+              NaN            To Provide the necessary knowledge to design and develop dynamic, database-driven
+              NaN                                                                    web applications using PHP
+              NaN                                                         Will learn how to use MYSQL database
+    Pre-requisite                                                 HTML/XHTML, CSS, JS or equivalent knowledge·
+              NaN                                   Other web programming languages knowledge will be helpful.
+              NaN                                            Knowledge of Database & basic SQL is recommended.
+   Course Outcome                                                                      Students will be able to
+              NaN                                                  Carry out Server-side programming using PHP
+              NaN                                                     Develop database-driven web applications
+              NaN                                          Integrating PHP programs with Client-side scripting
+   Course Content                                                      Unit 1: Basic Introduction to PHP[8 Hrs]
+              NaN      1.1 Important tools and software requirements (like Web Server, Database, Editor s etc.)
+              NaN                           1.2 Basic Syntax, PHP variables and constants Types of data in PHP,
+              NaN                                             Expressions, scopes of a variable (local, global)
+              NaN            1.3 PHP Operators: Arithmetic, Assignment, Relational, Logical operators, Bitwise,
+              NaN                          ternary and MOD operators. PHP operator Precedence and associativity
+              NaN                                   1.4 PHP IF Else conditional statements (Nested IF and Else)
+              NaN                                  1.5 Switch Case, While, For and Do ... While Loop statements
+              NaN                                              1.6 Goto, Break, Continue and exit PHP Functions
+              NaN                                                                                           NaN
+              NaN                                                                  Unit 2: Arrays in PHP[7 Hrs]
+              NaN                         2.1 Introduction to Array, creating index based and Associative array
+              NaN                          2.2 Accessing array Looping with Index based array, with associative
+              NaN                                                             Array using each() and forEach().
+              NaN                   2.3 Some Useful array functions: implode, explode, count, different sorting
+              NaN                    functions, array_reverse, array_search, array_push, array_pop, array_keys,
+              NaN                                                                                  Key, sizeof.
+              NaN                                                                                           NaN
+              NaN                              Unit 3: String Manipulation and Regular Expression in PHP[6 Hrs]
+              NaN                                                             3.1 Creating and accessing String
+              NaN                     3.2 Searching & Replacing String formatting, joining and splitting String
+              NaN                                                                     Related Library functions
+              NaN                    3.3 Use of preg_match(), preg_replace(), preg_split() functions in Regular
+              NaN                                                                   Expression for validations."
+3,table," Unnamed: 0                                                                             Unnamed: 1 Unnamed: 2
+        NaN                                     Unit 4: Handling HTML forms with PHP and Database:    [8 Hrs]
+        NaN                                4.1 Capturing Form Data using GET and POST form methods        NaN
+        NaN                4.1.1 Dealing with multiple values including arrays to redirect data on        NaN
+        NaN                                                                          another page.        NaN
+        NaN                                     4.1.2 Image / file upload implementation with PHP.        NaN
+        NaN               4.2 Dealing with Sessions & Cookies while handling forms (with Database)        NaN
+        NaN                                         4.3 Introduction to MySQLi and its data types.        NaN
+        NaN                            4.3.1 Creating database, tables, relationships in database.        NaN
+        NaN                                            4.3.2 Storing images/files in the database.        NaN
+        NaN                                         4.4 MySQLi various supported database engines.        NaN
+        NaN                                                                                    NaN        NaN
+        NaN                                              Unit 5: Crud operation using OOP with PHP    [8 Hrs]
+        NaN                                     5.1 Introduction to database connection functions.        NaN
+        NaN             5.2 Various database queries functions: mysqli_query, mysqli_fetch_arary /        NaN
+        NaN                         row / object, mysqli_num_rows, mysqli_close, mysqli_select_db,        NaN
+        NaN                                                                           mysqli_debug        NaN
+        NaN                                     5.3 Implementing CRUD operations with OOP concept.        NaN
+        NaN                                             5.4 Error Handling using ‘try’ and ‘catch’        NaN
+        NaN                                                                                    NaN        NaN
+        NaN                       Unit 6: Introduction to Ajax with PHP, Payment Gateway & Website        NaN
+        NaN                                                                 Performance Evaluation    [8 Hrs]
+        NaN                                                    6.1 Use of Ajax, it’s pros and cons        NaN
+        NaN                                                  6.1.1 Basic function of AJAX with PHP        NaN
+        NaN                                  6.1.2 Implementation of AJAX with PHP (with database)        NaN
+        NaN                                                           6.2 Payment Gateway Standard        NaN
+        NaN                                         6.3 Page Speed and performance related factors        NaN
+        NaN                                                                                    NaN        NaN
+  Practical                   List of practical will be prepared at the beginning of each semester        NaN
+   Text and                            1.  Core PHP Programming; Leon Atkinson; Pearson publishers        NaN
+  Reference                            2.  The Complete Reference PHY; Stever Holzner; McGraw Hill        NaN
+ Literature               3.  Beginning PHP 5.0 Database; Christopher Scollo, Harish Rawat, Deepak        NaN
+        NaN                                                                     Thomas; Wrox Press        NaN
+        NaN                                                4.  PHP – A beginner; Ashok Appu; Wiley        NaN
+        NaN              5.  PHP 5.0 and MySql Bible; Tim Converse, Joyce Park, Clark Morgan John;        NaN
+        NaN                                                                           Wiley & Sons        NaN
+        NaN                                      6.  MySQL Bible; Steve Suehring John; Wiley &Sons        NaN
+        NaN                                                     7.  PHP Black Book; Peter Moulding        NaN
+        NaN                  8.  PHP 5 and Mysql; Tim converse, Joyce Park and Clark Morgan; Bible        NaN
+        NaN                                                                                  Wiley        NaN
+        NaN                                    9.  Beginning PHP 5.3; Matt Doyle; Wrox Publication        NaN
+        NaN                                                                                    NaN        NaN
+   Teaching                                 Discussion, Independent Study, Seminars and Assignment        NaN
+Methodology                                       Practical Assignments 80% (Approximately weekly)        NaN
+ Evaluation 50% Internal assessment is based on class attendance, participation, class test, quiz,        NaN
+     Method                                         assignment, seminar, internal examination etc.        NaN
+        NaN                            50% assessment is based on end semester written examination        NaN"
+4,table,"     Course Code                                                                     Unnamed: 0 Unnamed: 1
+    Course Title                                     Major: Advanced Database Management System        NaN
+          Credit                                                       3(Theory) + 1(Practical)        NaN
+    Teaching per                                             3 Hrs (Theory) +2 Hrs. (Practical)        NaN
+            Week                                                                            NaN        NaN
+   Minimum weeks             15 (Including Class work, examination, preparation, holidays etc.)        NaN
+    per Semester                                                                            NaN        NaN
+   Last Review /                                                                            ---        NaN
+        Revision                                                                            NaN        NaN
+      Purpose of This course imparts the knowledge of Procedural SQL, No SQL and Data Analytics        NaN
+          Course                                                                            NaN        NaN
+Course Objective                                                            To give exposure of        NaN
+             NaN                                                      PL/SQL for handling data        NaN
+             NaN                                               Transaction Management concepts        NaN
+             NaN                                    Overview of advanced database technologies        NaN
+   Pre-requisite                         Understanding of basic Database concepts, DDL, and DML        NaN
+ Course Out come                                                       Students will be able to        NaN
+             NaN                                      Efficiently use PL/SQL for handling data        NaN
+             NaN             Create and invoke user defined procedures, functions and triggers        NaN
+             NaN                         Gain knowledge about various types of NOSQL databases        NaN
+             NaN                                          Get the overview of Bigdata and OLAP        NaN
+  Course Content                                  Unit 1: Procedural SQL and Exception Handling  [10  hrs]
+             NaN                                                    1.1. PL/SQL Block Structure        NaN
+             NaN                                1.1.1. Using Variables, Constants and Data Type        NaN
+             NaN                          1.1.2. Control Statements: IF...THEN statement, Loop,        NaN
+             NaN                                                         FOR...Loop, While Loop        NaN
+             NaN                                 1.2. User-Defined RECORD and TABLE data types.        NaN
+             NaN                                                               1.3.  Exceptions        NaN
+             NaN                     1.3.1.  User defined Exceptions and Pre-defined Exceptions        NaN
+             NaN                                                    1.3.2.  Handling Exceptions        NaN
+             NaN                                                     1.3.3.  Raising Exceptions        NaN
+             NaN                                                        1.4. Working with Views        NaN
+             NaN                                                                            NaN        NaN
+             NaN                                                  Unit 2: Cursors and functions    [8 Hrs]
+             NaN                                      2.1. Concept of cursors, types of cursors        NaN
+             NaN                                                                 2.2. Functions        NaN
+             NaN                                                      2.2.1. Built-in functions        NaN
+             NaN                                                  2.2.2. User defined functions        NaN
+             NaN                                                                            NaN        NaN
+             NaN                                         Unit 3: Stored Procedures and Triggers    [8 Hrs]
+             NaN                                                3.1 Cursors: Implicit, Explicit        NaN
+             NaN                                      3.2 User Defined Function with parameters        NaN
+             NaN                                           3.3 Stored Procedure with parameters        NaN
+             NaN                                                                   3.4 Triggers        NaN
+             NaN                                                3.4.1 Triggers and its benefits        NaN
+             NaN                             3.4.2 Types of Triggers: Before and After Triggers        NaN"
+5,table," Unnamed: 0                                                                                         Unnamed: 1
+        NaN                                                  Unit 4 Transaction Management and Packages[8 Hrs]
+        NaN                                                                4.1 Transaction and System Concepts
+        NaN                                                          4.2. Desirable Properties of Transactions
+        NaN                                                                    4.3 Commit, Savepoint, Rollback
+        NaN                                                                                      4.4. Packages
+        NaN                                                                  4.4.1 Creating and using packages
+        NaN                                                               4.4.2 Package specification and body
+        NaN                                                      4.4.3. Advantages and Limitations of packages
+        NaN                                                                                                NaN
+        NaN                                                               Unit 5: Introduction to NoSQL[5 Hrs]
+        NaN                                                5.1. Basic concept of NoSQL and Advantages of NoSQL
+        NaN                                                                        5.2 Types of NoSQL database
+        NaN                                                                                 5.2.1 Column based
+        NaN                                                                                  5.2.2 Graph based
+        NaN                                                                               5.2.3 Document based
+        NaN                                                                                    5.2.4.key-value
+        NaN                                                                                                NaN
+        NaN                                              Unit 6: Overview of Bigdata and Data Analytics[6 Hrs]
+        NaN                                                                        6.1 Introduction to Bigdata
+        NaN                                                                      6.2. Big data Storage Systems
+        NaN                                                                    6.2.1 Distributed file systems,
+        NaN                                                            6.2.2 Sharing across multiple databases
+        NaN                                                                   6.2.3 Key-value storage systems,
+        NaN                                                           6.2.4 Parallel and distributed databases
+        NaN               6.3. Introduction to OLAP and its operations (pivoting, slicing, rollup, drill down)
+  Practical                               List of practical will be prepared at the beginning of each semester
+   Text and                 1. Silberschatz, Korth, Sudarshan, Database System Concepts,  McGraw-Hill computer
+  Reference                                                                                     science series
+ Literature                                  2. C J Date, An introduction to Database Systems, Addition-Wesley
+        NaN                                                 3. Nilesh Shah, Database System using Oracle, PHI.
+        NaN                 4. Ramez Elmasri & Shamkant B. Navathe, Fundamentals of Database Systems, Addison-
+        NaN                                                                                             Wesley
+        NaN                    5. Hector Gracia-Molina, Jeffrey D. Ullman, and Jennifer Widom, Database System
+        NaN                                                                           Implementation, Pearson.
+        NaN                                                     6. Ivan Bayross, SQL, PL/SQL, BPB Publications
+        NaN                                           7. Scott Urman, Oracle9i PL/SQL programming, McGraw-Hill
+        NaN                                                        8. Big-Data Fundamentals, Authar Thomas Erl
+   Teaching          The course is composed of readings, discussion, videos and presentation, code competition
+Methodology                                         activity and assignments of computational problem solving.
+        NaN                                                        Practical Assignment (Approximately weekly)
+ Evaluation 50% Internal assessment is based on class attendance, participation, class test, quiz, assignment,
+     Method                                                                 seminar, internal examination etc.
+        NaN                                   50% assessment is based on the end semester written examination."
+6,table,"           Course Code                                                                                  Unnamed: 0
+          Course Title                                    Major: System Analysis, Modelling, Design and Management
+                Credit                                                                                           4
+     Teaching per Week                                                                                       4 Hrs
+     Minimum weeks per                          15 (Including Class work, examination, preparation, holidays etc.)
+              Semester                                                                                         NaN
+Last Review / Revision                                                                                     2021-22
+     Purpose of Course       The purpose of the course is to make students understand software engineering process
+                   NaN                                                                                         and
+                   NaN   capable of applying the principles and techniques of computer science and engineering, to
+                   NaN the analysis, design, development, testing, and evaluation of the software and the systems.
+      Course Objective                                       To make students understand how to develop software.
+                   NaN         To make students understand various components of software process model and their
+                   NaN                                                                                    working.
+                   NaN                        To make students understand the importance of requirement analysis.
+                   NaN                           To make students understand various approaches of system design.
+         Pre-requisite                         Basic knowledge of Computer Programming and Application Development
+       Course Out come      After completion of this course, the student will be capable of understanding software
+                   NaN                   development principles, processes to develop and design software systems.
+        Course Content                                         Unit 1: Introduction to Software Engineering[6 Hrs]
+                   NaN                                1.1 Software, Software characteristics, Software Engineering
+                   NaN                                                           1.2 Software engineering approach
+                   NaN                                           1.2.1 Introduction to phased development approach
+                   NaN                                                   1.2.2 Introduction to effort distribution
+                   NaN                1.3 Software process models - Linear sequential / waterfall model, Prototype
+                   NaN                                          model, RAD model, Incremental model, Spiral model.
+                   NaN                                              1.4 Various roles and responsibilities in SDLC
+                   NaN                                                              1.5 Software quality Assurance
+                   NaN                                                            Unit 2: Agile Development[4 Hrs]
+                   NaN                                                                2.1Agility and Agile Process
+                   NaN                                                                      2.2 Agility principles
+                   NaN                                                        2.3 A Tool set for the Agile Process
+                   NaN                                             2.4 Agile Development Models - Scrum and sprint
+                   NaN                                    Unit 3: Software Requirement Analysis & Modelling[8 Hrs]
+                   NaN                                    3.1 Requirement gathering - formal & informal techniques
+                   NaN                                                                   3.2 Requirement modelling
+                   NaN                                                                    3.2.1 Use case modelling
+                   NaN                3.2.2 Classification- Classes, Object relationships, attributes and Methods.
+                   NaN                                                                     3.2.3 Data Flow Diagram
+                   NaN                                                                     3.3 Class Based Methods
+                   NaN                                                       3.3.1 Class Notation-Static Structure
+                   NaN                                                                        3.3.2 Object Diagram"
+8,table,"        Unnamed: 0                                                                  8.2 Payroll System
+               NaN                                                 8.2.1 Objectives of payroll systems
+               NaN                         8.2.2 Classification of employees based on payment of wages
+               NaN    8.2.3 Leave entitlements, Overtime wages, bonus, provident fund contribution and
+               NaN                                    other deductions, Computerizing a Payroll system
+         Practical                List of practical will be prepared at the beginning of each semester
+Text and Reference    1. Integrated Approach to Software Engineering Pankaj Jalote Narosa Publication.
+        Literature        2. Software Engineering: A Practitioner’s Approach 4e/5e, Roger S. Pressmann
+               NaN                                                             McGrawHill Publication.
+               NaN              3. Workbook on System Analysis and Design 1e/2e, Garg, Srinivasan PHI.
+               NaN          4. Software Engineering K. K. Aggrawal, Yogesh Singh New Age International
+               NaN                                                                         Publishers.
+               NaN          5. Fundamentals of Software Engineering Carlo Ghezzi, Mehdi Jazayeri, Dino
+               NaN                                                                       Mendrilo PHI.
+               NaN         6. Software Engineering Ian Summwerville Addison Wesley- Pearson Education.
+               NaN                                            7. Software Engineering K. L. James PHI.
+               NaN                   8. System Analysis and Design Elias M. Awad Galgotia Publication.
+               NaN         9. System Analysis and Design in a changing world John W. Stazinger, Robert
+               NaN                                       B.Jacobson, Stephen D Burd, Thomson Learning.
+               NaN 10. Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at
+               NaN                                Scale, Jennifer Davis, Katherine Daniels and O’relly
+          Teaching                              Discussion, Independent Study, Seminars and Assignment
+       Methodology                                                                                 NaN
+        Evaluation                               50% Internal assessment is based on class attendance,
+            Method                                                    participation, class test, quiz,
+               NaN                                      assignment, seminar, internal examination etc.
+               NaN                         50% assessment is based on end semester written examination"
+9,table,"      Course Code                                                                      Unnamed: 0 Unnamed: 1
+     Course Title                                                          SEC: Digital Marketing        NaN
+           Credit                                                      1 (Theory) + 1 (Practical)        NaN
+Teaching per Week                                              1 Hrs (Theory) + 2 Hrs (Practical)        NaN
+Minimum weeks per              15 (Including Class work, examination, preparation, holidays etc.)        NaN
+         Semester                                                                             NaN        NaN
+    Last Review /                                                                               –        NaN
+         Revision                                                                             NaN        NaN
+Purpose of Course    The purpose of the course is to make students aware of current strategies in        NaN
+              NaN                                                              Digital Marketing.        NaN
+ Course Objective   To provide an in-depth knowledge of most recent digital marketing strategies.        NaN
+              NaN                                                                             NaN        NaN
+    Pre-requisite                                       Basic understanding of Web, social media.        NaN
+  Course Out come After completion of this course, the students will be able to implement various        NaN
+              NaN                                     techniques and tools for digital marketing.        NaN
+   Course Content                                       Unit 1: Fundamentals Of Digital Marketing    [4 Hrs]
+              NaN                                                  1.1 Types of Digital Marketing        NaN
+              NaN                                                         1.2 Marketing v/s Sales        NaN
+              NaN                                              1.3 Inbound v/s Outbound marketing        NaN
+              NaN                                                           1.4 Content marketing        NaN
+              NaN                                                         1.5 Understanding Leads        NaN
+              NaN                                                 1.6 Tools for Digital Marketing        NaN
+              NaN                                                                 1.7 WWW, Domain        NaN
+              NaN                                                                             NaN        NaN
+              NaN                               Unit 2: Designing Fundamentals With Web Designing    [4 Hrs]
+              NaN                                                      2.1 Designing Fundamentals        NaN
+              NaN                                                       2.1.1 Tools for Designing        NaN
+              NaN                                                              2.1.2 Color Theory        NaN
+              NaN                                         2.1.3 Design Logo and Flyer using Canva        NaN
+              NaN                                                   2.2 Introduction to WordPress        NaN
+              NaN                                                 2.2.1 Installation and Overview        NaN
+              NaN                        (Dashboard, pages, themes, plugin, category, post, tags)        NaN
+              NaN                                              2.2.2 Designing WordPress website.        NaN
+              NaN                                                                             NaN        NaN
+              NaN                             Unit 3: SEO & SMM Social Media Marketing (Facebook)    [8 Hrs]
+              NaN                                                         3.1 Introduction to SEO        NaN
+              NaN                                                              3.1.1 Types Of SEO        NaN
+              NaN                               3.1.2 Google Analytics to Improve SEO Performance        NaN
+              NaN                                    3.2 SMM (Fundamentals of Facebook Marketing)        NaN
+              NaN                          3.2.1 Creating Facebook Pages, Page Info and Settings,        NaN
+              NaN                                   Facebook Page, Custom URL, Invite Page Likes,        NaN
+              NaN                              Featured Video, Scheduling Posts, Facebook Events,        NaN
+              NaN                                    Reply and Message, FacebookInsights Reports,        NaN
+              NaN                           Competitor's Facebook Page ,Ban User on Facebook Page        NaN"
+10,table,"        Unnamed: 0                           3.2.2 Facebook Ad Campaigns: Setting Up Facebook Ad Account,
+               NaN                                         Create Ad - Targeting, Create  Ad - Budgeting,
+               NaN                                        Create Ad - Creative, Managing and Editing Ads,
+               NaN                                        Ad Reports and Ad Insights ,Billing and Account
+               NaN                                                               3.3 Overview of LINKEDIN
+               NaN                                                                                    NaN
+               NaN                                  Unit 4:  Email Marketing & Affiliate Marketing[4 Hrs]
+               NaN                                                           4.1 Email Marketing Strategy
+               NaN                                                                4.2 Affiliate Marketing
+               NaN                                                      4.2.1 What is affiliate marketing
+               NaN                                               4.2.2 How Does Affiliate Marketing Work?
+               NaN                                                     4.2.3 Types of Affiliate Marketing
+               NaN                                                                                    NaN
+         Practical                   List of practical will be prepared at the beginning of each semester
+Text and Reference                       1. Digital Marketing For Dummies, Russ Henneberry and Ryan Deiss
+        Literature                                                             (ISBN-13 : 978-1119235590)
+               NaN                            2. Digital Marketing All-In-One for Dummies (ISBN-13 : 978-
+               NaN                                                                            8126534623)
+               NaN                 3. Digital Marketing All-In-One Bundle, 2 in 1 Bundle ,Savanna Payne ·
+               NaN                                                                         Wendell Yanick
+          Teaching                               Discussion, Independent Study, Seminars and Mini Project
+       Methodology                                                                                    NaN
+ Evaluation Method 50% Internal assessment is based on class attendance, participation, class test, quiz,
+               NaN                                        assignment, seminar, internal examination, etc.
+               NaN                            50% assessment is based on end semester written examination"

@@ -1,0 +1,589 @@
+---- PDF METADATA ----
+Author: HP
+Creator: Microsoft® Word 2016
+CreationDate: D:20220427052111+05'30'
+ModDate: D:20220427052111+05'30'
+Producer: Microsoft® Word 2016
+---- END METADATA ----
+
+Total Pages: 12
+
+==== PAGE 1 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+1 
+ Program: M.Sc. Type:  Theory  
+Subject:   DSC - VII: Physical Organic Chemistry  
+Credit: 04(T) + 02 (P)  Total learning hours: 60 
+Course description: This course paper covers  thermodynamic and kinetic 
+requirements of organic reaction – reactivity, reaction mechanism, study of acidity and 
+basicity of organic compounds, mechanisms of surface reactions, application of 
+chemical kinetics in pharmaceuticals, molecular dynamics in biological 
+macromolecules.   
+Student learning outcome:  At the end students will be able to learn  about….  
+• Thermodynamic and Kinetic requirements of organic r eaction  
+• Reactivity and selectivity principles  
+• Determination of Reaction Mechanism  
+• Linear free energy relationships (LFER)  
+• Factors affecting acidity and basicity, Acid and base catalysis  
+• Kinetic effects of surface heterogeneity & interactions  
+• Calculation of elimination rate constant & metabolism constant  
+• Supramolecular reactivity and catalysis  
+• Molecular c hannels, devices and transport processes  
+ 
+Unit 1  Thermodynamic and Kinetic Necessities  of a Reaction    (06 Hours)  
+1.1 Chemical equilibrium: rate and equilibrium constants  
+1.2 Mechanistic significance of entropy, enthalpy and Gibb’s free energy  
+1.3 Arrhenius equation, transition state theory, uses of activation parameters  
+1.4 Transition state model - potential energy surface for substitution and elimination 
+reactions  
+ 
+Unit 2  Principle of Reactivity        (06 Hours)  
+2.1       Hammond’s postulate, Marcus theory of electr on transfer  
+2.2       Reactivity and selectivity principles,  
+2.3       Curtin -Hammett Principle, Microscopic reversibility  
+2.4       Kinetic vs thermodynamic control of organic reactions  
+ 
+Unit 3  Determination of Reaction Mechanism      (08 Hours)  
+3.1 Product analysis, Kinetic studies  
+3.2 Theory of isotope effect: primary and secondary kinetic isotope effects  
+3.3 Heavy atom isotope effects, Tunnelling effect, Solvent effect  
+3.4 Detection and trapping of intermediates  
+3.5 Crossover experiments and stere ochemical evidence  
+ 
+ 
+Unit 4  Structural Effects on Reactivity       (10 Hours)  
+4.1 Linear free energy relationships (LFER)  
+4.2 The Hammett equation, substituent, constants  
+4.3 Theories of substituent effects, interpretation of  σ values, reaction constant ρ  
+
+==== PAGE 2 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+2 
+ 4.4 Deviations from Hammett equation, dual -parameter corrections,  
+inductive substituent constant  
+4.5 The Taft model σ I - and σ R – scales, Swain -Scott & Edward equations,  
+Winstein  Grunwald relationship  
+4.6 Isokinetic relationship  
+ 
+Unit 5  Acids and Bases         (06 Hours)  
+5.1 Factors affecting acidity and basicity: Electronegativity and inductive effect, 
+resonance, bond strength, electrostatic effects, hybridization, aromaticity an d 
+solvation.  
+5.2 Comparative study of acidity and basicity of organic compounds on the basis of pKa 
+values  
+5.3 Levelling effect and non -aqueous solvents  
+5.4 Acid and base catalysis - general and specific catalysis with examples  
+  
+Unit 6  Reactions at Surfa ces       (06 Hours)  
+6.1 Mechanisms of surface reactions - kinetic effects of surface heterogeneity & 
+interactions  
+6.2 Surface inhibition and activation energies - Surface exchange reactions – TST of 
+surface reactions  
+6.3 Unimolecular & bimolecular reaction s 
+6.4 Micelles:  Surface active agents -micelli zation, CMC, micellar  catalysis  
+ 
+Unit 7  Application of Chemical Kinetics in Pharmaceuticals    (06 Hours)  
+7.1 Pharma concentration time curve  
+7.2 Protein binding and drugs, drug dissolution rate  
+7.3 Pharmacokinetics applied to one -component open model  
+7.4 Calculation of elimination rate constant & metabolism constant  
+ 
+Unit 8  Molecular Dynamics        (12 Hours)  
+8.1 Principle of molecular association and organization in biological macromolecules:  
+8.1.1  Enzymes, nucleic acids, membranes  
+8.1.2  Model systems like micelles and vesicles  
+8.2 Molecular receptors and design principle  
+8.2.1  Cryptands, cyclophanes, calixeranes, cyclodextrines  
+8.3 Supramolecular reactivity and catalysis  
+8.4 Molecular channels and transport processes  
+8.5 Molecular devices and nanotechnology  
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 3 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+3 
+ References:  
+1. Molecular Mechanics, U. Burkert and N.L. Allinger, ACS Monograph 177, 1982  
+2. Physical Organic Chemistry, N.S. Isaacs, ELBS/Longman,1990.  
+3. Supramolecular Chemistry; Concepts and Perspectives, J.M. Lehn, 1995 , VCH , 
+Weinheim.  
+4. Physical Chemistry, Peter Atkins and Julio de Paula,  5th Edition, 2006, W. H.  
+Freeman and Company New York.   
+5.  Chemical Kinetics , Keith J. Laidler , 3rd Edition, 1987 , Pearson Education.  
+6. The Physical Basis of Organic Chemistry, H.  Maskill, 1985, Oxford University Press.  
+7.  Catalysis , J.C. Kuriacose , 1991, Macmillan India Ltd.  
+8.  Micelles, Theoretical and applied aspects, V.  Moroi, 1992, Plenum.  
+9.         Mechanism and Theory in Organic Chemistry , T.H. Lorry and K.S. Richardson,  
+             2nd Edition, 1981, Harper & Row, New York.  
+10.       A Guidebook to Mechanism in Organic Chemistry, P. Sykes, 5th Edition, 1981 ,     
+            Longman,  London,.  
+11.       L.P. Hammett, Physical Organic Chemistry, 2nd Edition, 1970, McGraw Hill,  
+            NewYork . 
+12.       P. Deslongchamps, Stereoelectronic Effects in Organic Chemistry, 1983, Pergamon,  
+            London.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 4 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+4 
+  
+Program: M.Sc. Type:  Theory  
+Subject:   DSC -VIII: Industrial Chemistry  
+Credit:  04(T)  Total learning hours: 60 
+Course description: This course paper includes the concept of material and energy  
+balance, design of equipment, various instruments useful in industry, flow 
+chemistry, industrial polymers, developments of process in chemical industries, 
+strategies for orga nic reaction and processes and phase transfer catalysis.  
+Student learning outcome:  At the end the students will be able to learn about..  
+• Material and energy balance and calculations  
+• Material and design of chemical reactor, pressure vessel  
+• Instruments for measuring temperature, pressure and water flow of process 
+stream  
+• Principles and types of flow chemistry  
+• Principle, working and applications of polymer processing techniques  
+• Objectives and approaches of process development in chemical indust ries 
+• Choice of reagents and solvents for organic reaction and processes  
+• Nature and factors of phase transfer catalysis reactions  
+Unit  1 Material and Energy Balance       (06 Hours)  
+1.1 Material balance: Process classification  
+1.2 Choice of system and basis of molecular processes with chemical reactions  
+1.3 Material balance calculations  
+1.4 Multiple unit processes, Recycle and bypass  
+1.5 Energy balance: Forms of energy, Energy balance  
+1.6 Energy changes  in physical processes  
+1.7 Energy changes in reactions  
+1.8 Energy balance Calculations  
+ 
+Unit 2 Equipment Design         (06 Hours)  
+2.1 Material of constructions: Mechanical properties, Corrosion resistance  
+2.2 Plastics , Ceramics , Metals and alloys, Stainless steel  
+2.3 Special material for food and pharmaceutical equipment  
+2.4 Protective coatings, Surface treatment to metals for corrosion resistance  
+2.5 Classification of chemical reactors , Design of chemical reactors  
+2.6 Pressur e vessels for internal or external pressure  
+ 
+Unit 3 Industrial Instrumentation        (06 Hours)  
+3.1  Measurement of temperature, Thermo couples and pyrometers, High temperature 
+thermometers  
+3.2 Optical pyrometers, Measurement of pressure and vacuum, Manom etric and Bourdon 
+gauges, Vacuum gauges, Ionization and pirani gauges  
+3.3 Flow measurement, Pitot tube, Rotameters, Liquid level indicators , Hook Type, Sight 
+glass, Float type, Capacitance level indicator, Radiation level indicator  
+ 
+
+==== PAGE 5 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+5 
+ Unit 4  Flow Chemistry         (06 Hours)  
+4.1 Introduction  
+4.2 Flow chemistry versus batch chemistry  
+4.3 Key principles of flow chemistry: residence time, mixing, pressure and temperature  
+4.4 Types of flow chemistry  
+ 
+Unit 5 Industrial Polymers         (08 Hours)  
+5.1 Introduction  
+5.2 Principle , Working and applications of following polymer processing techniques:  
+Injection moulding,  extrusion, blow moulding, compression moulding, film casting,  
+thermoforming and vacuum forming  
+ 
+Unit 6  Process Development in Chemical In dustries     (12 Hours)  
+6.1 Introduction to process research & development  
+6.2 Goals & Objectives of Process development  
+6.3 Stages in process development  
+6.4 Scope and Limitations of Pro cess development  
+6.5 Exploratory (Investigative) approach in Process development  
+6.6 Survey of Some organic reactions in relation to process development  
+ 
+Unit 7  Strategies for simplification of organic reaction and processes   (06 Hours)  
+ 
+7.1 Choosing a reagent, Modifying reagents  
+7.2 Solvents: choosing a solvent, i mpurities in solvent, effect of solvents in organic 
+reactions, mixed solvents,  
+7.3 Aqueous mediums for organic reactions, liquid products as solvents, new solvents  
+ 
+Unit 8 Phase transfer catalysis        (10 Hours)  
+8.1 Nature of phase transfer catalysis re actions  
+8.2 Factors effecting  phase transfer catalysis reactions  
+8.3 Choosing a phase transfer catalyst  
+8.4 Important phase transfer catalysts  
+ 
+References:  
+ 
+1. Industrial chemistry, H.K. L.  Vaid, 1st Edition, 2007, Anmol publication.  
+2. Fundamentals of Industrial Chemistry: Pharmaceuticals, Polymers, and Business, 
+John A. Tyrell , 2014.  
+3. Outlines of industrial chemistry, Frank Hall Thorp and Warren Kendall Lewis, 2018, 
+Palala Press.  
+4. Industrial Chemistry, Dr. Darshan V. Chaudhary, 1st Edition, 2015 , Create space 
+publisher.  
+5. Industrial Inorganic Chemistry, Mark Anthony Benvenuto , de Gruyter , 2013.  
+6. Organic Chemistry Principles and Industrial Practice ,  Mark M. Green  , Harold A. 
+Wittcoff ,  1st Edition , Willey -VCH Gmbh & Co, KGaA.  
+7. Toma Glasnov, Continuous -Flow Chemistry in Research Laboratory, Springer 
+International Publisher.  
+
+==== PAGE 6 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+6 
+ 8. Polymer Technology, D.C. Miles & J. H. Briston, Enlarged edition, 1996, Chemical 
+Publishing company, Inc, New York  
+9. Plastics Materials and Processes, Seymour S. Schwartz S.H . Goodman,1982, Van 
+Nostrand Reinhold, New York  
+10. Plastics Technology, R. V. Milbey, 1st Edition, 1973, McGraw Hill, Book Company 
+New York  
+11. The chemistry of process development in fine chemicals and pharmaceutical industry, 
+C. Someshwara Rao,  2nd Edition, 2004, Asian books Pvt. Ltd. New Delhi  
+12. Developing an Industrial chemical process, Joseph Mizrahi, 2003, CRC press  
+13. Practical process research and development, N. G. Anderson, 2000, American Press  
+14. Designing and operating safe chemical reaction process , Health and Safety Executive 
+(HSE) , 2000,  HSE publishers  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 7 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+7 
+  
+ Unit -1 Introduction to Drug Discovery                                                                     (10 Hrs)  
+1.1 Introduction  
+1.2 Stereochemistry and drug design  
+1.2.1 Structurally rigid groups  
+1.2.2 Conformation  
+1.2.3 Configuration  
+1.3 Solubility and drug design  
+1.4 Solubility and drug structure  
+1.5 Salt formation  
+1.6 The incorporation of water solubilizing groups in a structure  
+1.6.1 The type of group  
+1.6.2 Reversibly and irreversibly attached groups  
+1.6.3 The position of the water solubilizing group  
+1.6.4 Methods of  introduction  
+ 
+Unit -2 Quantitative Structure –Activity Relationship                                                (08 Hrs)  
+2.1      Introduction to quantitative structure activity relationship studies  
+2.2      Lipophilicity  
+  2.2.1    Partition coefficients (P)  
+2.2.2    Lipophilic substitution constants  
+2.3      Electronic effects: The Hammett constant (s)  
+2.4      Steric effects  
+2.4.1    Taft steric parameter (Es)  
+2.4.2    Molar refractivity (MR)  
+2.4.3    Other parameters  
+2.5      Hansc h analysis  
+2.6      Craig plots  
+2.7      Topliss decision tree  
+ Program: M.Sc.  Organic Chemistry  Department: Chemistry  
+Semester : IV Type:  Theory  
+Subject:   DSE -V-Principles of Medicinal Chemistry  
+Credit: 04(T)        Total learning hours: 60 
+Course description:   This course explores the role of organic chemistry in the discovery and 
+synthesis of important compounds widely used as medicines. It includes drug discovery process, 
+QSAR concept, and role of computer in drug design. This syllabus also covers pharmacokinetics 
+and pharmacodynamics which is very important for the students of medicinal chemistry. Apart from 
+these some important drugs are also discussed in this paper.  
+Student learning outcome:  
+ At the end of the course……  
+• Students will gain a comprehensive understanding of the fundamental concepts related to 
+the actions and clinical uses of major classes of drugs from their chemical structures  
+• They will be familiar with history of drugs,  new invention in Medicinal chemistry  
+• Students will get an overview of the applications of these concepts in applied field  
+• Students will be aware about the basic ideas of medicines & their working mechanism  
+• Students will have knowledge of synthesis of some  drugs  
+
+==== PAGE 8 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+8 
+  
+Unit -3 Computer Aided Drug Design                                                                         (07 Hrs)  
+3.1      Introduction  
+3.1.1    Molecular modelling methods  
+3.1.2    Computer graphics  
+3.2      Molecular mechanics  
+3.2.1    Creating a molecular mod el using molecular mechanics  
+3.3      Molecular dynamics  
+3.3.1    Conformational analysis  
+3.4      Quantum mechanics  
+3.5      Docking  
+Unit -4 Pharmacokinetic                                                                                                (07 Hrs)  
+4.1      Basic principles of pharmacokinetics  
+4.1.1    Absorption  
+4.1.2    Distribution  
+4.1.3    Metabolism  
+4.1.4    Excretion  
+4.2      Pharmacokinetic models  
+4.3      Pharmacokinetic parameters in defining drug deposition and in therapeutics  
+4.4      Uses of pharmacokinetics in drug development process  
+4.5      Concept of pro drug and soft drug  
+ 
+Unit -5 Pharmacodynamics                                                                                           (08 Hrs)  
+5.1      Introduction  
+5.2      Principles of drug action  
+5.3      Mechanisms of drug action  
+5.4      Introduction to the concept of receptors and drug receptor interactions  
+5.5      Biotransformation  
+5.6      Dose -response relationships  
+5.7      Drug potency and efficacy  
+5.8      Combined effect of drugs  
+ 
+Unit -6 Antibiotics                                                                                                         (07 Hrs)  
+6.1      Introduction and classification  
+6.2      Antibiotics that interfere with the biosynthesis of bacterial cell wall  
+6.2.1   The β -lactum antibiotics: Penicillin and Cephalosporin (Synthesis and  uses)  
+6.2.2    Non lactum antibiotics  
+6.2.3    Bacitracin, Vancomycin and Cycloserine (Synthesis and therapeutic uses)  
+6.3      Antibiotics that interfere with the protein biosynthesis in microorganisms  
+6.3.1    Non lactum antibiotics: Tetracycline, Chloroamphenicol  
+6.4      Non classifiable antibiotics  
+Unit -7 Drugs Acting a t Synaptic and Neuro -Effector Junction Sites                       (07 Hrs)  
+7.1      Cholinergics and A nticholinesterases  
+7.2      Adrenergic .drugs  
+
+==== PAGE 9 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+9 
+ 7.3      Antispasmodic and antiulcer drugs  
+7.4      Neuromuscular blocking agents  
+ 
+Unit -8 Miscellaneous                                                                                                   (06 Hrs)  
+8.1      Antifungal – polyenes  
+8.2      Antiviral – Acyclovic  
+8.3      Antimalarials : : Modern chemotherapy of malaria, 4 -amino and 8 -amino quinolins,  
+ 9-  amino   acridine  
+8.4      Mode of action of antimalarial agents  
+8.5      SAR of antimalarial agents  
+8.6      Synthesis of mefloquines, chloroquine, primaquine and daraprim  
+ 
+ 
+Reference:  
+1. Burger’s medicinal chemistry and drug design, 1997, vol 1 to 5 edited by Manfred 
+E.Woltt John wiley and sons Mc. New York  
+2. Foye’s Principles of medicinal chemistry, Thomas Lemke, 2012, Lippincott Williams 
+and Wilkins  
+3. Principles of medicinal chemistry vol I & II (5/e), F.S.kadam, K.R. Mahadic ad 
+K.G.Bohra, 2019, Nirali publication  
+4. Medicinal chemistry, Ashutosh kar, 2018, New Age International Publishers  
+5. The organic chemistry of drug synthesis vol I, II and III Daniel Lednicer 
+(Editor) , Lester A. Mitscher (Ed itor), 1980, Wiley  
+6. An introduction to Medicinal chemistry, G. L. Patrick, 2018, Oxford University Press  
+7. The Organic Chemistry of Drug Design and Drug Action, Richard B. Silvermann, 
+2014, Academic Press  
+8. Essentials of Medical Pharmacology, K. D. Tripathi, 2019, Jaypee Brothers Medical 
+Publishers (P) Ltd.  
+9. A textbook of medicinal chemistry, P. Primoo, 2019, CBS Publishers & Distributors  
+10. Text book of pharmaceutical organic chemistry, Md. Ali, 2020, CBS Publishers  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+==== PAGE 10 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+10 
+ Program: M.Sc.  Type:  Theory  
+Semester -4  
+Subject:  DSE – IV Dyes  
+Credit: 04(T)  Total learning hours: 60 
+Course description:  
+This course will give an introduction to dyes and pigments. The primary goal of this course is to 
+make students aware of how dyes can be classified and the basic chemistry applied in dyeing 
+process. This subject provides fundamental knowledge of various types of dyes and how to carry 
+out dyeing process in textile industries. This course also include s applications of dyes in the field 
+other than textile fi bres.  
+Student learning outcome:  
+Upon completion of this course, students will be able to learn about:  
+• To explain the and define the classes of dyes, substrates  
+• To understand the variety and chemistry of dyes and their application  
+• To distinguish the vari ous dye class and their application to different fibres types  
+• To understand the uses of dyes in non -textile field.  
+Unit 1  Colour and constitutions        (06 Hours)  
+1.1       Colour, chromophore and Auxochromes.  
+1.2 Classification of dyes based on chemical nature.  
+1.3 Relation between colour and constitution  
+1.3.1 Witt’s theory  
+1.3.2 Armstrong theory  
+1.3.3 Modern theory  
+(a)Valence bond theory  
+(b)Molecular orbital theory     
+Unit2  Dyes           (08 Hours)  
+2.1 Definition, Classification Based on Application  
+2.2 Fastness properties & applicability on substrates   
+2.3 Examples with structures (a) Acid Dyes - Orange II, (b) Basic Dyes -methyl violet, 
+Victoria Blue B (c) Direct cotton Dyes - Benzofast Yellow 5GL (d) Azoic Dyes -Diazo 
+components; Fast yellow G, Fast Orange R. Coupling   components. Naphthol AS, 
+Naphthol ASG (e) Mordant Dyes -Erichrome Black A, Alizarin. (f) Vat Dyes - 
+Indanthrene brown RRD, Indanthrene Red 5GK. (g)  Sulphur Dyes - Sulphur Black T 
+(no structure) (h) Disp erse Dyes -Celliton Fast brown 3R, perlon fastblue FFR  
+(i) Reactive  Dye scibacron Brillant Red B,  procion briilant Blue HB.  
+ 
+Unit 3  Considerations in Dye Design       (06 Hours)  
+3.1 Dye -substrate affinity  
+3.2 Dyes for polyesters  
+3.3 Dyes for polyamides a nd proteins  
+3.4 Dyes for cationic polymers  
+3.5 Dyes for cellulosic polymers  
+3.6 Toxicological consideration  
+3.7 Structure -Property Relationship.  
+ 
+
+==== PAGE 11 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+11 
+ Unit 4  General Theory of Dyeing        (06 Hours)  
+4.1 Introduction of Dyeing  
+4.2 Role of water  
+4.3 Role of electrolytes  
+4.4 High temperature the Dye Liquor  
+4.5  High temperature Dyeing  
+4.6 Dye auxiliaries compounds  
+4.6.1  Swelling agents  
+4.6.2  Levelling agents  
+4.7 Scouring after dyeing  
+ 
+Unit 5  Basic Operations in Dyeing Process      (08 Hours)  
+5.1 Preparation o f the fibres  
+5.2 Preparation of the dyebath , Application of the dyebath and  finishing  
+5.3 Various methods of dyeing: Direct dyeing, Vat dyeing, Mordant dyeing,  
+Disperse dyeing and Formation of dye on the fibre  
+5.4 Dyeing of wool with the acid dyes  
+5.5 Dyeing with the reactive dyes  
+ 
+Unit 6  Non Textile Uses of Dyes        (06 Hours)  
+6.1 Biological staining agents Methylene blue, Crystal violet  
+6.2  Dyes as therapeutics: Mercurochrome, Acriflavine, Crystal violet, Prontosil  
+6.3 Dyes used in food and cosmetics  
+6.4  Paper and Leather Dyes  
+6.7  Miscellaneous Dyes: Hair dyes , Laser dyes , Indicators , Security inks  
+        
+Unit 7  Pigments          (10 Hours)  
+7.1  Introduction  
+7.2  Difference between Dyes and Pigments  
+7.3  Classification of pigments  
+7.4  Application of pigments  
+7.5  Raw materials for organic pigments  
+7.6 General methods of processing and synthesis of inorganic pigments: Crushing and 
+grinding, v aporization, co precipitation, filtration, drying, flushing, 
+calcinations/roasting, vapour phase oxidation etc.  
+Unit 8   Smart Dyes          (10 Hours)  
+8.1  Introduction and types of  Chromism  
+8.2      Application of smart and functional Dyes in Textiles  
+8.2.1   Electrochromic dyes  
+8.2.2   Thermochromic dyes  
+8.2.3 Photochromic dyes  
+8.2.4 Chemochromic dyes  
+8.2.5 Solvatochromic dyes  
+8.2.6 Mechano chromic  dyes 
+
+==== PAGE 12 ====
+SARVAJANIK UNIVERSITY  
+M.Sc. Organic Chemistry Syllabus (CBCS)  
+FOURTH  SEMESTER  
+ 
+12 
+  
+Reference Books   
+1.Color Chemistry, 3rd Edition, Heinrich Zollinger, Wiley – VCH , 2003 .  
+2. Organic Chemistry and Application Properties, John Shore, Society of Dyers &Colourists;  
+2nd Edition , 2002 . 
+              3. The Chemistry of Synthetic dyes, K. Venkataraman, 1971, Academic Press .  
+              4. Industrial Inorganic Pigments, Gunter Buxb aum, 1st Edition , 2005 , Wiley -VCH .  
+              5. Industrial Organic Pigments: Production, Properties, Applications, 3rd Edition , 2006 .  
+              6. Application Properties of Pigments , A. Karnik, 1st Edition , 1999 . 
+7.   Chemistry of Synthetic Dyes and Pigments, Lubs H. A., Robert E . Krieger Publishing  
+Company, New York, 1977 . 
+ 8. Chemistry of Synthetic Dyes – Vol I, Venkataraman, K., 1952, Academic Press .  
+9.  Chemistry of Synthetic Dyes – Vol III, Venkataraman, K., 1972, Academic Pr ess. 
+10. Colour and Chemical Constitution of Organic Dyes, Griffiths J., 1976, Academic Press .  
+11. Quantum Chemistry, Chandra A. K., 1979, Tata McGraw Hill . 
+ 12. Color Chemistry –Synthesis, Properties and Applications of Dyes and Pigments, 
+Zollinger H., 2nd Edition , 1991, Weinheim – VCH . 
+ 
+ 
+ 
+ 
+ 
+ 

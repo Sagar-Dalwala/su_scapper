@@ -1,0 +1,211 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220509091909Z
+---- END METADATA ----
+
+Total Pages: 6
+
+==== PAGE 1 ====
+SRKI
+MasterofScienceInformationTechnology
+1
+FacultyofScience
+ShreeRamkrishnaInstituteofComputerEducation&
+AppliedSciences,Surat
+M.Sc.InformationTechnology
+
+==== PAGE 2 ====
+SRKI
+MasterofScienceInformationTechnology
+2
+MasterofScienceInformationTechnology2021-22
+Introduction:
+Thisprogrammeaimstodevelopcriticallyinformed,agileandresourcefulgraduates,whoarepreparedtoadapttofuture
+changesininformationtechnologyinthebusinesscontextviaacomprehensiveunderstandingoffundamentaltheories
+andcurrentpractices.
+TheMScITexaminesissues,trends,currentpracticesandtechnologicalalternativesinthefieldofbusinessInformation
+Technologyandprovidesyouwithup-to-datetechnologicalandbusinessskills,andspecialistknowledgetohelpyou
+designand/orimplementappropriate,IT-drivensolutionsinwaysthataddresstheneedsofmodernbusiness
+organisations.
+TheMScITprovidesacommonfoundationinITforallstudents.Thisisthenfollowedbyaselectionofmoduleswhich
+fallintotwogroupsanddependsuponyourcareergoalsandambitions:atechnicalgroup(egIOT,ARandVRetc.);or
+InfoSecuritygroup(CyberSecurity&Forensics,Blockchain,etc.).
+ObjectiveofProgramme:
+TheObjectiveoftheprogramistoimpartknowledgeoffundamentalsand/orlatesttheories,concepts,methods,
+techniquesandtoolsrelatedtovariousareasofComputerScience,ApplicationsandInformationTechnologyand
+specificallyintheareaofMobilebased,cloudbased,WebbasedApplicationDevelopment,SoftwareEngineering,Data
+ManagementandIntelligentSystems.
+ProgrammeOutcome:
+Atthesuccessfulcompletionoftheprogram,studentswillbeabletostarttheircareerintheITandSoftware
+industry.
+EligibilityCriteria:
+Anycandidatewhohaspassed-
+Bachelor’sdegreeinComputerScience/ComputerApplications/InformationTechnology/CyberSecurity/Data
+Science/IoT/Bigdata/AI/ComputerEngineering/ElectronicsEngineering/ElectronicsandCommunication
+engineeringoranequivalentexaminationOR
+Thecandidatewhohaspassedequivalentexamfromothersubjectsorboardsneedtoavaileligibilitycertificateforthis
+programmefromtheBoardofEquivalence(BoE)ofthe
+SarvajanikUniversity.
+
+==== PAGE 3 ====
+SRKI
+MasterofScienceInformationTechnology
+3
+SemesterwisecoursegroupwisecreditallocationforPostGraduateProgramme(AnnexureI)
+Semester DSC SEC DSE PracticalTotal
+No.of
+CoursesCreditNo.of
+CoursesCredit No.of
+CourseCreditNo.of
+CourseCredit
+Th. Th. Th.
+1 2 8 1 4 1 4 1 824
+2 2 8 1 4 1 4 1 824
+3 2 8 1 4 1 4 1 824
+4 2 16 1 4 1 4 1 -24
+Total084004 16 04 16 042496
+EvaluationScheme:
+SemesterSubjectgroupInternal ExternalGrand
+Total CCEAttend.Assign.Internal
+Exam/
+Viva-
+VoceTotal
+Int.
+1DSC-1 4010 20 7030 100
+DSC-2 4010 20 7030 100
+SEC-1 4010 20 70 30 100
+DSE-1 4010 20 7030 100
+Practical 6020 - 60 14060 200
+Total420180600
+2DSC-3 4010 20 7030 100
+DSC-4 4010 20 7030 100
+SEC-2 4010 20 70 30 100
+DSE-2 4010 20 7030 100
+Practical 6020 - 60 14060 200
+Total420180600
+3DSC-5 4010 20 7030 100
+DSC-6 4010 20 7030 100
+SEC-3 4010 20 70 30 100
+DSE-3 4010 20 7030 100
+Practical 6020 - 60 14060 200
+Total420180600
+4DSC-7 15050 - 150 350150 500
+DSE-4 3010 - 30 70 30 100
+Total420180600
+
+==== PAGE 4 ====
+SRKI
+MasterofScienceInformationTechnology
+4
+M.Sc.(IT)Programmesubjectlist:(Annexure-2)
+SemPapertypePaperNo. PaperTitle
+1CorecourseDSC-1FundamentalsofDataScience
+DSC-2WebProgramming-1
+SkillEnhancement
+CourseSCE-1AdvancedDatabaseTechnologies
+Professional
+ElectiveDSE-11.CyberSecurityandForensics-1
+2.WebEngineering
+3.DistributedandParallelComputing
+4.FoundationofAdvancedComputing
+5.FundamentalsofAI
+2CorecourseDSC-1MobileApplicationDevelopment-1
+DSC-2WebProgramming-2
+SkillEnhancement
+CourseSCE-1AdvancedCloudProgramming
+Professional
+ElectiveDSE-11.CyberSecurityandForensics-2
+2.UI/UXdevelopment
+3.Researchincomputing
+4.MachineLearning
+5.AdvancedPythonProgramming
+3CorecourseDSC-1InternetofThings
+DSC-2GameDevelopment
+SkillEnhancement
+CourseSEC-11.AdvancedJavaScriptFramework
+2.DataVisualization
+3.BlockchainTechnology
+4.ComputationalLinguistic
+5.SocialMediaMiningandAnalytics
+Professional
+ElectiveDSE-11.MobileApplicationDevelopment-2
+2.Bigdata&Analytics
+3.ArtificialNeuralNetworkandDeepLearning
+4.CyberLawandPractices
+4Corecourse DSC-1Project/Dissertation
+SkillEnhancement
+CourseSEC-2SeminarPresentation/Reviewofpublishedresearch
+paper
+
+==== PAGE 5 ====
+SRKI
+MasterofScienceInformationTechnology
+5
+NameofProgram MasterofScience[InformationTechnology]
+Abbreviation M.Sc.IT
+Duration 2Years
+ObjectiveofProgram TheObjectiveoftheprogramistoimpartknowledgeof
+fundamentalsand/orlatesttheories,concepts,methods,
+techniquesandtoolsrelatedtovariousareasofComputer
+Science,ApplicationsandInformationTechnologyand
+specificallyintheareaofMobilebased,cloudbased,
+WebbasedApplicationDevelopment,Software
+Engineering,DataManagementandIntelligentSystems.
+ProgramOutcome Atthesuccessfulcompletionoftheprogram,studentswill
+beabletostarttheircareerintheITandSoftware
+industry.
+ProgramStructure
+Semester1
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPracticalMarksDurationMarks
+DCS-1FundamentalsofData
+science4 4 30 70100
+DSC-2WebProgramming-14 4 30 70100
+SEC-1AdvancedDatabase
+Technologies4 4 30 70100
+DSE-1Elective 4 4 30 70100
+Practical 16 8 14060200
+16 24 600
+NOTE:Followingsubjectsarelistedaselectivesubjectsofsemester.
+ELECTIVESUBJECTS
+1CyberSecurityandForensics-1
+2WebEngineering
+3DistributedandParallelComputing
+4FoundationofAdvancedComputing
+5FundamentalsofAI
+
+==== PAGE 6 ====
+SRKI
+MasterofScienceInformationTechnology
+6
+Semester2
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPracticalMarksDurationMarks
+DSC-3MobileApplication
+Development-14 4 30 70100
+DSC-4WebProgramming-
+2NodeJS4 4 30 70 100
+SEC-2AdvancedCloud
+Programming4 4 30 70 100
+DSE-2Elective 4 4 30 70100
+Practical-1 16 8 14060200
+16 24 600
+NOTE:Followingsubjectsarelistedaselectivesubjectsofsemester.
+ELECTIVESUBJECTS
+1CyberSecurityandForensics-2
+2UI/UXdevelopment
+3Researchincomputing
+4MachineLearning
+5AdvancedPythonProgramming

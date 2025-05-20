@@ -1,0 +1,14 @@
+---- PDF METADATA ----
+Title: IndirectObject(26, 0, 2503451154896)
+Producer: IndirectObject(27, 0, 2503451154896)
+Creator: IndirectObject(28, 0, 2503451154896)
+CreationDate: IndirectObject(29, 0, 2503451154896)
+ModDate: IndirectObject(29, 0, 2503451154896)
+Keywords: IndirectObject(30, 0, 2503451154896)
+AAPL:Keywords: IndirectObject(31, 0, 2503451154896)
+---- END METADATA ----
+
+Total Pages: 1
+
+==== PAGE 1 ====
+SARVAJANIK UNIVERSITY FACULTY OF SCIENCE Shree Ramkrishna Institute of Computer Education & Applied Sciences, Surat  Titles of Papers in Syllabus of M.Sc. Genetics  Semester-3 Sr. No. Paper Type Paper Code Title of Paper 1. Discipline Specific Core Course DSC-5 Proteomics DSC-6 Genetic Disorders and Counselling 2. Discipline Specific Elective DSE-3 Select from “#” 3. Skill Enhancement Course SEC 3 Molecular Diagnostics # Elective (Open Course Pool) For DSE-3: Select any one from following: Forensic biology and DNA typing / Research Methodology / Bio-entrepreneurship /  Application of Green Chemistry  

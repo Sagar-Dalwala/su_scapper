@@ -1,0 +1,141 @@
+---- PDF METADATA ----
+Producer: iLovePDF
+ModDate: D:20220426102814Z
+---- END METADATA ----
+
+Total Pages: 5
+
+==== PAGE 1 ====
+SRKI
+MasterofScienceAdvancedComputing
+84
+FacultyofScience
+ShreeRamkrishnaInstituteofComputerEducation&
+AppliedSciences,Surat
+M.Sc.AdvancedComputing
+SEMESTER-4
+
+==== PAGE 2 ====
+SRKI
+MasterofScienceAdvancedComputing
+85
+Semester-4
+Course
+CodeTitle TeachingHrs.
+perweekCourse
+CreditsUniversity
+ExaminationInternal
+MarksTotal
+Marks
+TheoryPractical DurationMarks
+401DSC-7Project/Dissertation 20-150350500
+402DSE-4Seminar
+Presentation/Reviewof
+publishedresearchpaper4- 3070100
+Total= 24 600
+
+==== PAGE 3 ====
+SRKI
+MasterofScienceAdvancedComputing
+86
+Course:Project
+CourseCode
+CourseTitle Project
+Credit 20
+TeachingperWeek 20hours(i.e.2Students/hour/Week)
+MinimumweeksperSemester15(Projectwork,Self-Study,examination,preparation,holidaysetc.)
+LastReview/Revision ---
+PurposeofCourse StudentswillgettrainedinindustrialpracticesandactivitiesofSoftware
+Engineering
+CourseObjective Toexposestudentstoindustrialpracticesandactivitiesofsoftware
+engineeringandtrainthemaboutthesame.
+Pre-requisite KnowledgeofAdvancedProgramming,LatestTechnologiesandToolsand
+SoftwareEngineering.
+CourseOutcome Aftercompletionofthiscourse,thestudentwillbecapabletostart
+professionalcareerand/orresearchworkinthefieldofInformation
+Technology.
+CourseContent Entiresemesterisallocatedforafull-timeprojectwork.Allthe
+studentshavetoundergoaprojectpreferablyinanindustryoranyreputed
+institute.Thestudentsmustpreparedocumentationoftheprojectworkdone
+asperthesoftwareEngineeringGuidelines.Attheendofthesemester,the
+studentshavetosubmittheirprojectreportinboundedformtothe
+respectiveinstitution.Theprojectpresentationandviva–voicewillbe
+conductedonthebasisofit.
+Thestudentshavetosubmitthefollowingreportstotheirrespective
+institution:
+1.ProjectJoiningReport
+2.Appropriatenameoftheproject
+3.MonthlyProgressReportdulysignbytheconcernexternal
+guide
+4.ProjectCompletionCertificate
+5.Institution/CollegeCertificate
+6.SoftwareCodingdeclaration…(ifindustry/organizationdoesn‟tpermit
+studentstosubmitthesourcecode)(Tobesubmittedatthetimeofjoining
+projecttraining)
+7.AttendanceReport
+Withoutsuchreportsstudentwillnotbeallowedtoappearinhis/herfinal
+ProjectPresentationandViva-Voice.
+TeachingMethodology Projectguidance,review
+EvaluationMethod 70%Internalassessmentisbasedonprojectpresentationand/or
+demonstrationandviva-voiceexamination.
+30%assessmentisbasedProjectPresentationand/ordemonstrationand
+viva-voiceexaminationattheendofsemester.
+
+==== PAGE 4 ====
+SRKI
+MasterofScienceAdvancedComputing
+87
+Course:SeminarPresentation/Reviewofpublishedresearchpaper
+CourseCode
+CourseTitle SeminarPresentation/Reviewofpublishedresearchpaper
+Credit 4
+TeachingperWeek 10hours
+Minimumweeksper
+Semester15(Projectwork,Self-Study,examination,preparation,holidaysetc.)
+LastReview/Revision---
+PurposeofCourse Seminar/Presentation:
+Thepurposeofthecourseistomakestudentcapableofgaining
+additionalknowledge(besidesthecurricula)inthefieldofinformation
+technologybyselflearningpracticesandpresentingand/or
+demonstratingit.
+Researchreview:
+Thepurposeofareviewpaperistosuccinctlyreviewrecentprogressina
+particulartopic.Overall,thepapersummarizesthecurrentstateof
+knowledgeofthetopic.Itcreatesanunderstandingofthetopicforthe
+readerbydiscussingthefindingspresentedinrecentresearchpapers
+CourseObjective AdditionalknowledgebuildinginthefieldofInformationTechnology
+usingself-learningpracticeandresearchpaperreviews.
+Pre-requisite BasicKnowledgeofInformationTechnologytheories,
+activities,methods,techniques&tools
+CourseOutcome Aftercompletionofthiscourse,thestudentwillhavegainedfurther
+knowledge(besidesthecurricula)inthefieldofinformationtechnology
+byselflearningpracticesandwillbecapableofpresentingand/or
+demonstratingit.OR
+Thestudentwillbenefitwithresearchpaperreviews
+Tohelpimprovewritingandresearchskills
+Toprofessionalizethegraduateexperience.
+Toinformafuturecareerpath
+CourseContent Inthispaperstudentswillhavetoselectanytopicrelatedto
+informationtechnologyfield–preferablybasedonthecurrenttrendsand
+technologiesfortheseminar.Individualstudentisrequiredtopreparea
+seminarreport.Attheendofthesemesterstudenthastosubmitseminar
+reportwithsatisfactorydetailstudyintheboundedformtotherespective
+institution.Theseminarpresentationandvivavoicewillbeconductedon
+thebasisofselectedtopicattheendofthesemester.
+Thestudentshavetosubmitthefollowingdocumentstotheir
+respectiveinstitution:
+1.NameandabstractoftheTopicselected.
+2.MonthlyProgressReportdulysignedbytheconcerninternalguide
+3.WorkCompletionCertificatebyinternalguide
+4.Institution/CollegeCertificate
+TeachingMethodologySeminarguidance,review
+EvaluationMethod 70%Internalassessmentisbasedonseminarpresentationand/or
+demonstrationandviva-voiceexamination.
+30%assessmentisbasedseminarPresentationand/ordemonstrationand
+viva-voiceexaminationattheendofsemester.
+
+==== PAGE 5 ====
+SRKI
+MasterofScienceAdvancedComputing
+88
+

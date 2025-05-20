@@ -1,0 +1,14 @@
+---- PDF METADATA ----
+Title: IndirectObject(26, 0, 2503451664912)
+Producer: IndirectObject(27, 0, 2503451664912)
+Creator: IndirectObject(28, 0, 2503451664912)
+CreationDate: IndirectObject(29, 0, 2503451664912)
+ModDate: IndirectObject(29, 0, 2503451664912)
+Keywords: IndirectObject(30, 0, 2503451664912)
+AAPL:Keywords: IndirectObject(31, 0, 2503451664912)
+---- END METADATA ----
+
+Total Pages: 1
+
+==== PAGE 1 ====
+SARVAJANIK UNIVERSITY FACULTY OF SCIENCE Shree Ramkrishna Institute of Computer Education & Appled Sciences, Surat  Titles of Papers in Syllabus of M.Sc. Biotechnology PG First Year Semester-1 Sr. No. Paper Type Paper Code Title of Paper 1. Discipline Specific Core Course DSC-1                                Bioprocess Technology DSC-2                               Animal and Plant Cell Culture 2. Discipline Specific Elective DSE-1                         Selection from “***” 3. Skill Enhancement Course SEC 1 Molecular Biology Techniques ***Elective (Open Course Pool) For DSE-1: Select any one from following: Chemistry of Daily Consumables /Energy and Environment/ Laboratory safety and management / Bioethics"  

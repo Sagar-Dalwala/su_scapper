@@ -1,0 +1,14 @@
+section,subsection,content
+Course Title,,CreditsUniversity
+Objectives,,Theobjectiveofthesecourseistoenablestudentstolearnpractical
+Unit,Unit 1,FastArrayOperationswithNumpy
+Unit,Unit 2,PandasandAdvancedDatabaseOperations
+Unit,Unit 3,MatplotLibforDataVisualization
+Unit,Unit 4,SeabornforDataVisualization
+Unit,Unit 7,FlaskandWebApplicationBasics
+Unit,Unit 8,DeployingapplicationusingFlaskandHeroku
+Unit,Unit 5,SciKitLearnandPredictionModels
+Unit,Unit 6,TensorflowandDeepLearning
+References,,"Bookss1.ComputerforensicbyJohnR.Vacca,Firewallmedia,
+2.Computerforensic,Ninagodbole,sunitbelapure,wiley
+3.Wirelesscrimeandforensicinvestigation,Gregorykipper,Auerbach"
